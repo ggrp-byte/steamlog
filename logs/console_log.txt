@@ -1,0 +1,372 @@
+
+
+[2026-05-26 19:05:41] Game process removed: AppID 3071240 ""F:\SteamLibrary\steamapps\common\Voodoo Voyage\Voodoo Fishin'.exe"", ProcID 5288 
+[2026-05-26 19:06:08] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to UpdatingAppInfo with ""
+[2026-05-26 19:06:08] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to ShowLaunchOption with ""
+[2026-05-26 19:06:08] GameAction [AppID 730, ActionID 4] : LaunchApp waiting for user response to ShowLaunchOption ""
+[2026-05-26 19:06:09] GameAction [AppID 730, ActionID 4] : LaunchApp continues with user response "0"
+[2026-05-26 19:06:09] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2026-05-26 19:06:10] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to RunningInstallScript with ""
+[2026-05-26 19:06:10] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to SynchronizingCloud with ""
+[2026-05-26 19:06:10] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to SynchronizingStats with ""
+[2026-05-26 19:06:10] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to ShowInterstitials with ""
+[2026-05-26 19:06:10] GameAction [AppID 730, ActionID 4] : LaunchApp waiting for user response to ShowInterstitials ""
+[2026-05-26 19:06:10] GameAction [AppID 730, ActionID 4] : LaunchApp continues with user response "ShowInterstitials"
+[2026-05-26 19:06:10] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to VerifyingFiles with ""
+[2026-05-26 19:06:10] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2026-05-26 19:06:10] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to DelayLaunch with ""
+[2026-05-26 19:06:10] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to CreatingProcess with ""
+[2026-05-26 19:06:10] GameAction [AppID 730, ActionID 4] : LaunchApp waiting for user response to CreatingProcess ""
+[2026-05-26 19:06:10] GameAction [AppID 730, ActionID 4] : LaunchApp continues with user response "CreatingProcess"
+[2026-05-26 19:06:10] Game process added : AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 19832, IP 0.0.0.0:0
+[2026-05-26 19:06:11] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to WaitingGameWindow with ""
+[2026-05-26 19:06:11] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to Completed with ""
+[2026-05-26 19:06:13] Game process removed: AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 19832 
+[2026-05-26 19:06:19] GameAction [AppID 730, ActionID 5] : LaunchApp changed task to UpdatingAppInfo with ""
+[2026-05-26 19:06:19] GameAction [AppID 730, ActionID 5] : LaunchApp changed task to ShowLaunchOption with ""
+[2026-05-26 19:06:19] GameAction [AppID 730, ActionID 5] : LaunchApp waiting for user response to ShowLaunchOption ""
+[2026-05-26 19:06:20] GameAction [AppID 730, ActionID 5] : LaunchApp continues with user response "0"
+[2026-05-26 19:06:20] GameAction [AppID 730, ActionID 5] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2026-05-26 19:06:20] GameAction [AppID 730, ActionID 5] : LaunchApp changed task to RunningInstallScript with ""
+[2026-05-26 19:06:20] GameAction [AppID 730, ActionID 5] : LaunchApp changed task to SynchronizingCloud with ""
+[2026-05-26 19:06:21] GameAction [AppID 730, ActionID 5] : LaunchApp changed task to SynchronizingStats with ""
+[2026-05-26 19:06:21] GameAction [AppID 730, ActionID 5] : LaunchApp changed task to ShowInterstitials with ""
+[2026-05-26 19:06:21] GameAction [AppID 730, ActionID 5] : LaunchApp waiting for user response to ShowInterstitials ""
+[2026-05-26 19:06:21] GameAction [AppID 730, ActionID 5] : LaunchApp continues with user response "ShowInterstitials"
+[2026-05-26 19:06:21] GameAction [AppID 730, ActionID 5] : LaunchApp changed task to VerifyingFiles with ""
+[2026-05-26 19:06:21] GameAction [AppID 730, ActionID 5] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2026-05-26 19:06:21] GameAction [AppID 730, ActionID 5] : LaunchApp changed task to DelayLaunch with ""
+[2026-05-26 19:06:21] GameAction [AppID 730, ActionID 5] : LaunchApp changed task to CreatingProcess with ""
+[2026-05-26 19:06:21] GameAction [AppID 730, ActionID 5] : LaunchApp waiting for user response to CreatingProcess ""
+[2026-05-26 19:06:21] GameAction [AppID 730, ActionID 5] : LaunchApp continues with user response "CreatingProcess"
+[2026-05-26 19:06:21] Game process added : AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 2132, IP 0.0.0.0:0
+[2026-05-26 19:06:21] GameAction [AppID 730, ActionID 5] : LaunchApp changed task to WaitingGameWindow with ""
+[2026-05-26 19:06:21] GameAction [AppID 730, ActionID 5] : LaunchApp changed task to Completed with ""
+[2026-05-26 19:06:23] Game process removed: AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 2132 
+[2026-05-26 19:07:07] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe" -foreground"
+[2026-05-26 19:07:08] GameAction [AppID 730, ActionID 6] : LaunchApp changed task to UpdatingAppInfo with ""
+[2026-05-26 19:07:09] GameAction [AppID 730, ActionID 6] : LaunchApp changed task to ShowLaunchOption with ""
+[2026-05-26 19:07:09] GameAction [AppID 730, ActionID 6] : LaunchApp waiting for user response to ShowLaunchOption ""
+[2026-05-26 19:07:10] GameAction [AppID 730, ActionID 6] : LaunchApp continues with user response "0"
+[2026-05-26 19:07:10] GameAction [AppID 730, ActionID 6] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2026-05-26 19:07:10] GameAction [AppID 730, ActionID 6] : LaunchApp changed task to RunningInstallScript with ""
+[2026-05-26 19:07:10] GameAction [AppID 730, ActionID 6] : LaunchApp changed task to SynchronizingCloud with ""
+[2026-05-26 19:07:10] GameAction [AppID 730, ActionID 6] : LaunchApp changed task to SynchronizingStats with ""
+[2026-05-26 19:07:11] GameAction [AppID 730, ActionID 6] : LaunchApp changed task to ShowInterstitials with ""
+[2026-05-26 19:07:11] GameAction [AppID 730, ActionID 6] : LaunchApp waiting for user response to ShowInterstitials ""
+[2026-05-26 19:07:11] GameAction [AppID 730, ActionID 6] : LaunchApp continues with user response "ShowInterstitials"
+[2026-05-26 19:07:11] GameAction [AppID 730, ActionID 6] : LaunchApp changed task to VerifyingFiles with ""
+[2026-05-26 19:07:11] GameAction [AppID 730, ActionID 6] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2026-05-26 19:07:11] GameAction [AppID 730, ActionID 6] : LaunchApp changed task to DelayLaunch with ""
+[2026-05-26 19:07:11] GameAction [AppID 730, ActionID 6] : LaunchApp changed task to CreatingProcess with ""
+[2026-05-26 19:07:11] GameAction [AppID 730, ActionID 6] : LaunchApp waiting for user response to CreatingProcess ""
+[2026-05-26 19:07:11] GameAction [AppID 730, ActionID 6] : LaunchApp continues with user response "CreatingProcess"
+[2026-05-26 19:07:11] Game process added : AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 20412, IP 0.0.0.0:0
+[2026-05-26 19:07:11] GameAction [AppID 730, ActionID 6] : LaunchApp changed task to WaitingGameWindow with ""
+[2026-05-26 19:07:11] GameAction [AppID 730, ActionID 6] : LaunchApp changed task to Completed with ""
+[2026-05-26 19:07:14] Game process removed: AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 20412 
+
+
+[2026-05-26 19:14:18] Client version: 1779479049
+[2026-05-26 19:14:18] Loaded SDL version 3.4.0-718-g0e5e772ba
+[2026-05-26 19:14:20] Console Log Start
+[2026-05-26 19:14:20] Failed to init SteamVR because it isn't installed
+[2026-05-26 19:14:23] local (potentially out of sync) copy of roaming config loaded - 304 bytes.
+[2026-05-26 19:14:25] roaming config store loaded successfully - 304 bytes.
+[2026-05-26 19:14:25] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2026-05-26 19:14:25] System startup time: 7.13 seconds
+[2026-05-26 19:14:27] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2026-05-26 19:14:56] CAPIJobRequestUserStats - Server response failed 2
+[2026-05-26 19:14:57] CAPIJobRequestUserStats - Server response failed 2
+[2026-05-26 19:14:57] CAPIJobRequestUserStats - Server response failed 2
+
+
+[2026-05-26 19:16:31] Client version: 1779486452
+[2026-05-26 19:16:31] Loaded SDL version 3.4.0-461-g299ed5198
+[2026-05-26 19:16:32] Console Log Start
+[2026-05-26 19:16:33] Failed to init SteamVR because it isn't installed
+[2026-05-26 19:16:35] local (potentially out of sync) copy of roaming config loaded - 304 bytes.
+[2026-05-26 19:16:37] roaming config store loaded successfully - 304 bytes.
+[2026-05-26 19:16:37] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2026-05-26 19:16:38] System startup time: 6.69 seconds
+[2026-05-26 19:16:39] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2026-05-26 19:16:42] CAPIJobRequestUserStats - Server response failed 2
+
+
+[2026-05-26 19:17:18] Client version: 1779479049
+[2026-05-26 19:17:18] Loaded SDL version 3.4.0-718-g0e5e772ba
+[2026-05-26 19:17:20] Console Log Start
+[2026-05-26 19:17:20] Failed to init SteamVR because it isn't installed
+[2026-05-26 19:17:23] local (potentially out of sync) copy of roaming config loaded - 304 bytes.
+[2026-05-26 19:17:25] roaming config store loaded successfully - 304 bytes.
+[2026-05-26 19:17:25] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2026-05-26 19:17:25] System startup time: 7.18 seconds
+[2026-05-26 19:17:26] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2026-05-26 19:17:50] CAPIJobRequestUserStats - Server response failed 2
+[2026-05-26 19:17:53] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to UpdatingAppInfo with ""
+[2026-05-26 19:17:54] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to ShowLaunchOption with ""
+[2026-05-26 19:17:54] GameAction [AppID 730, ActionID 1] : LaunchApp waiting for user response to ShowLaunchOption ""
+[2026-05-26 19:17:55] GameAction [AppID 730, ActionID 1] : LaunchApp continues with user response "0"
+[2026-05-26 19:17:55] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2026-05-26 19:17:55] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to RunningInstallScript with ""
+[2026-05-26 19:17:55] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to SynchronizingCloud with ""
+[2026-05-26 19:17:56] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to SynchronizingStats with ""
+[2026-05-26 19:17:56] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to ShowInterstitials with ""
+[2026-05-26 19:17:56] GameAction [AppID 730, ActionID 1] : LaunchApp waiting for user response to ShowInterstitials ""
+[2026-05-26 19:17:56] GameAction [AppID 730, ActionID 1] : LaunchApp continues with user response "ShowInterstitials"
+[2026-05-26 19:17:56] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to VerifyingFiles with ""
+[2026-05-26 19:17:56] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2026-05-26 19:17:56] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to DelayLaunch with ""
+[2026-05-26 19:17:56] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to CreatingProcess with ""
+[2026-05-26 19:17:56] GameAction [AppID 730, ActionID 1] : LaunchApp waiting for user response to CreatingProcess ""
+[2026-05-26 19:17:56] GameAction [AppID 730, ActionID 1] : LaunchApp continues with user response "CreatingProcess"
+[2026-05-26 19:17:56] Forced create of Win32Event but it already existed
+[2026-05-26 19:17:56] Forced create of Win32Event but it already existed
+[2026-05-26 19:17:56] Game process added : AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 10232, IP 0.0.0.0:0
+[2026-05-26 19:17:56] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to WaitingGameWindow with ""
+[2026-05-26 19:17:56] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to Completed with ""
+[2026-05-26 19:17:58] Game process removed: AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 10232 
+[2026-05-26 20:32:35] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe" -foreground"
+[2026-05-26 21:14:56] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe" -foreground"
+[2026-05-26 21:14:58] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to UpdatingAppInfo with ""
+[2026-05-26 21:14:59] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to ShowLaunchOption with ""
+[2026-05-26 21:14:59] GameAction [AppID 730, ActionID 2] : LaunchApp waiting for user response to ShowLaunchOption ""
+[2026-05-26 21:15:00] GameAction [AppID 730, ActionID 2] : LaunchApp continues with user response "0"
+[2026-05-26 21:15:00] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2026-05-26 21:15:00] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to RunningInstallScript with ""
+[2026-05-26 21:15:00] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to SynchronizingCloud with ""
+[2026-05-26 21:15:00] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to SynchronizingStats with ""
+[2026-05-26 21:15:01] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to ShowInterstitials with ""
+[2026-05-26 21:15:01] GameAction [AppID 730, ActionID 2] : LaunchApp waiting for user response to ShowInterstitials ""
+[2026-05-26 21:15:01] GameAction [AppID 730, ActionID 2] : LaunchApp continues with user response "ShowInterstitials"
+[2026-05-26 21:15:01] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to VerifyingFiles with ""
+[2026-05-26 21:15:01] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2026-05-26 21:15:01] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to DelayLaunch with ""
+[2026-05-26 21:15:01] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to CreatingProcess with ""
+[2026-05-26 21:15:01] GameAction [AppID 730, ActionID 2] : LaunchApp waiting for user response to CreatingProcess ""
+[2026-05-26 21:15:01] GameAction [AppID 730, ActionID 2] : LaunchApp continues with user response "CreatingProcess"
+[2026-05-26 21:15:01] Game process added : AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 1940, IP 0.0.0.0:0
+[2026-05-26 21:15:01] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to WaitingGameWindow with ""
+[2026-05-26 21:15:01] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to Completed with ""
+[2026-05-26 21:15:04] Game process removed: AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 1940 
+[2026-05-26 21:15:57] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe" -foreground"
+
+
+[2026-05-26 21:16:37] Client version: 1779479049
+[2026-05-26 21:16:37] Loaded SDL version 3.4.0-718-g0e5e772ba
+[2026-05-26 21:16:39] Console Log Start
+[2026-05-26 21:16:39] Failed to init SteamVR because it isn't installed
+[2026-05-26 21:16:41] local (potentially out of sync) copy of roaming config loaded - 304 bytes.
+[2026-05-26 21:16:43] roaming config store loaded successfully - 304 bytes.
+[2026-05-26 21:16:43] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2026-05-26 21:16:43] System startup time: 5.30 seconds
+[2026-05-26 21:16:44] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2026-05-26 21:17:13] CAPIJobRequestUserStats - Server response failed 2
+[2026-05-26 21:17:13] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to UpdatingAppInfo with ""
+[2026-05-26 21:17:14] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to ShowLaunchOption with ""
+[2026-05-26 21:17:14] GameAction [AppID 730, ActionID 1] : LaunchApp waiting for user response to ShowLaunchOption ""
+[2026-05-26 21:17:14] GameAction [AppID 730, ActionID 1] : LaunchApp continues with user response "0"
+[2026-05-26 21:17:14] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2026-05-26 21:17:15] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to RunningInstallScript with ""
+[2026-05-26 21:17:15] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to SynchronizingCloud with ""
+[2026-05-26 21:17:15] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to SynchronizingStats with ""
+[2026-05-26 21:17:15] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to ShowInterstitials with ""
+[2026-05-26 21:17:15] GameAction [AppID 730, ActionID 1] : LaunchApp waiting for user response to ShowInterstitials ""
+[2026-05-26 21:17:15] GameAction [AppID 730, ActionID 1] : LaunchApp continues with user response "ShowInterstitials"
+[2026-05-26 21:17:15] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to VerifyingFiles with ""
+[2026-05-26 21:17:15] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2026-05-26 21:17:15] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to DelayLaunch with ""
+[2026-05-26 21:17:15] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to CreatingProcess with ""
+[2026-05-26 21:17:15] GameAction [AppID 730, ActionID 1] : LaunchApp waiting for user response to CreatingProcess ""
+[2026-05-26 21:17:16] GameAction [AppID 730, ActionID 1] : LaunchApp continues with user response "CreatingProcess"
+[2026-05-26 21:17:16] Forced create of Win32Event but it already existed
+[2026-05-26 21:17:16] Forced create of Win32Event but it already existed
+[2026-05-26 21:17:16] Game process added : AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 16212, IP 0.0.0.0:0
+[2026-05-26 21:17:16] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to WaitingGameWindow with ""
+[2026-05-26 21:17:16] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to Completed with ""
+[2026-05-26 21:17:19] Game process removed: AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 16212 
+[2026-05-26 21:37:27] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe" -foreground"
+[2026-05-26 21:37:30] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to UpdatingAppInfo with ""
+[2026-05-26 21:37:30] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to ShowLaunchOption with ""
+[2026-05-26 21:37:30] GameAction [AppID 730, ActionID 2] : LaunchApp waiting for user response to ShowLaunchOption ""
+[2026-05-26 21:37:31] GameAction [AppID 730, ActionID 2] : LaunchApp continues with user response "0"
+[2026-05-26 21:37:31] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2026-05-26 21:37:32] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to RunningInstallScript with ""
+[2026-05-26 21:37:32] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to SynchronizingCloud with ""
+[2026-05-26 21:37:32] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to SynchronizingStats with ""
+[2026-05-26 21:37:32] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to ShowInterstitials with ""
+[2026-05-26 21:37:32] GameAction [AppID 730, ActionID 2] : LaunchApp waiting for user response to ShowInterstitials ""
+[2026-05-26 21:37:33] GameAction [AppID 730, ActionID 2] : LaunchApp continues with user response "ShowInterstitials"
+[2026-05-26 21:37:33] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to VerifyingFiles with ""
+[2026-05-26 21:37:33] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2026-05-26 21:37:33] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to DelayLaunch with ""
+[2026-05-26 21:37:33] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to CreatingProcess with ""
+[2026-05-26 21:37:33] GameAction [AppID 730, ActionID 2] : LaunchApp waiting for user response to CreatingProcess ""
+[2026-05-26 21:37:33] GameAction [AppID 730, ActionID 2] : LaunchApp continues with user response "CreatingProcess"
+[2026-05-26 21:37:33] Game process added : AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 28656, IP 0.0.0.0:0
+[2026-05-26 21:37:33] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to WaitingGameWindow with ""
+[2026-05-26 21:37:33] GameAction [AppID 730, ActionID 2] : LaunchApp changed task to Completed with ""
+[2026-05-26 21:37:35] Game process removed: AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 28656 
+[2026-05-26 22:08:33] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe" -foreground"
+[2026-05-26 22:09:28] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe" -foreground"
+[2026-05-26 22:15:58] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe" -foreground"
+[2026-05-26 22:15:59] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to UpdatingAppInfo with ""
+[2026-05-26 22:16:00] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to ShowLaunchOption with ""
+[2026-05-26 22:16:00] GameAction [AppID 730, ActionID 3] : LaunchApp waiting for user response to ShowLaunchOption ""
+[2026-05-26 22:16:01] GameAction [AppID 730, ActionID 3] : LaunchApp continues with user response "0"
+[2026-05-26 22:16:01] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2026-05-26 22:16:01] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to RunningInstallScript with ""
+[2026-05-26 22:16:01] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to SynchronizingCloud with ""
+[2026-05-26 22:16:01] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to SynchronizingStats with ""
+[2026-05-26 22:16:02] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to ShowInterstitials with ""
+[2026-05-26 22:16:02] GameAction [AppID 730, ActionID 3] : LaunchApp waiting for user response to ShowInterstitials ""
+[2026-05-26 22:16:02] GameAction [AppID 730, ActionID 3] : LaunchApp continues with user response "ShowInterstitials"
+[2026-05-26 22:16:02] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to VerifyingFiles with ""
+[2026-05-26 22:16:02] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2026-05-26 22:16:02] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to DelayLaunch with ""
+[2026-05-26 22:16:02] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to CreatingProcess with ""
+[2026-05-26 22:16:02] GameAction [AppID 730, ActionID 3] : LaunchApp waiting for user response to CreatingProcess ""
+[2026-05-26 22:16:02] GameAction [AppID 730, ActionID 3] : LaunchApp continues with user response "CreatingProcess"
+[2026-05-26 22:16:02] Game process added : AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 10148, IP 0.0.0.0:0
+[2026-05-26 22:16:02] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to WaitingGameWindow with ""
+[2026-05-26 22:16:02] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to Completed with ""
+[2026-05-26 22:16:05] Game process removed: AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 10148 
+[2026-05-26 22:27:54] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe" -foreground"
+[2026-05-26 22:46:45] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe" -foreground"
+[2026-05-26 22:55:26] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe" -foreground"
+[2026-05-26 22:56:00] Created mapping SteamChrome_MasterStream_spid5180_mem when set to fail if created
+[2026-05-26 22:56:22] CAPIJobRequestUserStats - Server response failed 2
+[2026-05-26 22:56:22] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to UpdatingAppInfo with ""
+[2026-05-26 22:56:22] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to ShowLaunchOption with ""
+[2026-05-26 22:56:22] GameAction [AppID 730, ActionID 4] : LaunchApp waiting for user response to ShowLaunchOption ""
+[2026-05-26 22:56:23] GameAction [AppID 730, ActionID 4] : LaunchApp continues with user response "0"
+[2026-05-26 22:56:23] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2026-05-26 22:56:23] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to RunningInstallScript with ""
+[2026-05-26 22:56:23] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to SynchronizingCloud with ""
+[2026-05-26 22:56:24] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to SynchronizingStats with ""
+[2026-05-26 22:56:24] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to ShowInterstitials with ""
+[2026-05-26 22:56:24] GameAction [AppID 730, ActionID 4] : LaunchApp waiting for user response to ShowInterstitials ""
+[2026-05-26 22:56:24] GameAction [AppID 730, ActionID 4] : LaunchApp continues with user response "ShowInterstitials"
+[2026-05-26 22:56:24] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to VerifyingFiles with ""
+[2026-05-26 22:56:24] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2026-05-26 22:56:24] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to DelayLaunch with ""
+[2026-05-26 22:56:24] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to CreatingProcess with ""
+[2026-05-26 22:56:24] GameAction [AppID 730, ActionID 4] : LaunchApp waiting for user response to CreatingProcess ""
+[2026-05-26 22:56:24] GameAction [AppID 730, ActionID 4] : LaunchApp continues with user response "CreatingProcess"
+[2026-05-26 22:56:24] Game process added : AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 30616, IP 0.0.0.0:0
+[2026-05-26 22:56:24] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to WaitingGameWindow with ""
+[2026-05-26 22:56:24] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to Completed with ""
+[2026-05-26 22:56:26] Game process removed: AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 30616 
+[2026-05-26 23:14:29] Created mapping SteamChrome_MasterStream_spid5180_mem when set to fail if created
+
+
+[2026-05-27 13:12:58] Client version: 1779479049
+[2026-05-27 13:12:58] Loaded SDL version 3.4.0-718-g0e5e772ba
+[2026-05-27 13:13:01] Console Log Start
+[2026-05-27 13:13:01] Failed to init SteamVR because it isn't installed
+[2026-05-27 13:13:06] local (potentially out of sync) copy of roaming config loaded - 304 bytes.
+[2026-05-27 13:13:08] roaming config store loaded successfully - 304 bytes.
+[2026-05-27 13:13:08] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2026-05-27 13:13:08] System startup time: 9.47 seconds
+[2026-05-27 13:13:09] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2026-05-27 13:13:15] CAPIJobRequestUserStats - Server response failed 2
+[2026-05-27 13:13:34] CAPIJobRequestUserStats - Server response failed 2
+[2026-05-27 13:13:35] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to UpdatingAppInfo with ""
+[2026-05-27 13:13:35] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to ShowLaunchOption with ""
+[2026-05-27 13:13:35] GameAction [AppID 730, ActionID 1] : LaunchApp waiting for user response to ShowLaunchOption ""
+[2026-05-27 13:13:36] GameAction [AppID 730, ActionID 1] : LaunchApp continues with user response "0"
+[2026-05-27 13:13:36] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2026-05-27 13:13:36] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to RunningInstallScript with ""
+[2026-05-27 13:13:36] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to SynchronizingCloud with ""
+[2026-05-27 13:13:37] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to SynchronizingStats with ""
+[2026-05-27 13:13:37] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to ShowInterstitials with ""
+[2026-05-27 13:13:37] GameAction [AppID 730, ActionID 1] : LaunchApp waiting for user response to ShowInterstitials ""
+[2026-05-27 13:13:37] GameAction [AppID 730, ActionID 1] : LaunchApp continues with user response "ShowInterstitials"
+[2026-05-27 13:13:37] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to VerifyingFiles with ""
+[2026-05-27 13:13:37] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2026-05-27 13:13:37] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to DelayLaunch with ""
+[2026-05-27 13:13:37] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to CreatingProcess with ""
+[2026-05-27 13:13:37] GameAction [AppID 730, ActionID 1] : LaunchApp waiting for user response to CreatingProcess ""
+[2026-05-27 13:13:37] GameAction [AppID 730, ActionID 1] : LaunchApp continues with user response "CreatingProcess"
+[2026-05-27 13:13:37] Forced create of Win32Event but it already existed
+[2026-05-27 13:13:37] Forced create of Win32Event but it already existed
+[2026-05-27 13:13:37] Game process added : AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 23136, IP 0.0.0.0:0
+[2026-05-27 13:13:37] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to WaitingGameWindow with ""
+[2026-05-27 13:13:37] GameAction [AppID 730, ActionID 1] : LaunchApp changed task to Completed with ""
+[2026-05-27 13:13:40] Game process removed: AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 23136 
+[2026-05-27 13:13:44] CAPIJobRequestUserStats - Server response failed 2
+[2026-05-27 13:13:48] GameAction [AppID 3071240, ActionID 2] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2026-05-27 13:13:49] GameAction [AppID 3071240, ActionID 2] : LaunchApp changed task to RunningInstallScript with ""
+[2026-05-27 13:13:49] GameAction [AppID 3071240, ActionID 2] : LaunchApp changed task to SynchronizingCloud with ""
+[2026-05-27 13:13:49] GameAction [AppID 3071240, ActionID 2] : LaunchApp changed task to SynchronizingStats with ""
+[2026-05-27 13:13:49] GameAction [AppID 3071240, ActionID 2] : LaunchApp changed task to ShowInterstitials with ""
+[2026-05-27 13:13:49] GameAction [AppID 3071240, ActionID 2] : LaunchApp waiting for user response to ShowInterstitials ""
+[2026-05-27 13:13:49] GameAction [AppID 3071240, ActionID 2] : LaunchApp continues with user response "ShowInterstitials"
+[2026-05-27 13:13:49] GameAction [AppID 3071240, ActionID 2] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2026-05-27 13:13:49] GameAction [AppID 3071240, ActionID 2] : LaunchApp changed task to DelayLaunch with ""
+[2026-05-27 13:13:49] GameAction [AppID 3071240, ActionID 2] : LaunchApp changed task to CreatingProcess with ""
+[2026-05-27 13:13:49] GameAction [AppID 3071240, ActionID 2] : LaunchApp waiting for user response to CreatingProcess ""
+[2026-05-27 13:13:49] GameAction [AppID 3071240, ActionID 2] : LaunchApp continues with user response "CreatingProcess"
+[2026-05-27 13:13:49] Game process added : AppID 3071240 ""F:\SteamLibrary\steamapps\common\Voodoo Voyage\Voodoo Fishin'.exe"", ProcID 24348, IP 0.0.0.0:0
+[2026-05-27 13:13:50] GameAction [AppID 3071240, ActionID 2] : LaunchApp changed task to WaitingGameWindow with ""
+[2026-05-27 13:13:50] GameAction [AppID 3071240, ActionID 2] : LaunchApp changed task to Completed with ""
+[2026-05-27 13:13:51] GameOverlay: started 'C:\Program Files (x86)\Steam\gameoverlayui64.exe' (pid 2244) for game process 24348
+[2026-05-27 13:13:58] Game process updated : AppID 3071240 ""F:\SteamLibrary\steamapps\common\Voodoo Voyage\Voodoo Fishin'.exe"", ProcID 24348, IP 0.0.0.0:0
+[2026-05-27 13:15:25] CAPIJobRequestUserStats - Server response failed 2
+[2026-05-27 13:16:57] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe" -foreground"
+[2026-05-27 13:17:07] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to UpdatingAppInfo with ""
+[2026-05-27 13:17:07] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to ShowLaunchOption with ""
+[2026-05-27 13:17:07] GameAction [AppID 730, ActionID 3] : LaunchApp waiting for user response to ShowLaunchOption ""
+[2026-05-27 13:17:08] GameAction [AppID 730, ActionID 3] : LaunchApp continues with user response "0"
+[2026-05-27 13:17:08] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2026-05-27 13:17:08] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to RunningInstallScript with ""
+[2026-05-27 13:17:08] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to SynchronizingCloud with ""
+[2026-05-27 13:17:09] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to SynchronizingStats with ""
+[2026-05-27 13:17:09] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to ShowInterstitials with ""
+[2026-05-27 13:17:09] GameAction [AppID 730, ActionID 3] : LaunchApp waiting for user response to ShowInterstitials ""
+[2026-05-27 13:17:09] GameAction [AppID 730, ActionID 3] : LaunchApp continues with user response "ShowInterstitials"
+[2026-05-27 13:17:09] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to VerifyingFiles with ""
+[2026-05-27 13:17:09] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2026-05-27 13:17:09] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to DelayLaunch with ""
+[2026-05-27 13:17:09] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to CreatingProcess with ""
+[2026-05-27 13:17:09] GameAction [AppID 730, ActionID 3] : LaunchApp waiting for user response to CreatingProcess ""
+[2026-05-27 13:17:09] GameAction [AppID 730, ActionID 3] : LaunchApp continues with user response "CreatingProcess"
+[2026-05-27 13:17:09] Game process added : AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 19540, IP 0.0.0.0:0
+[2026-05-27 13:17:09] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to WaitingGameWindow with ""
+[2026-05-27 13:17:09] GameAction [AppID 730, ActionID 3] : LaunchApp changed task to Completed with ""
+[2026-05-27 13:17:12] Game process removed: AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 19540 
+[2026-05-27 13:17:19] Game process removed: AppID 3071240 ""F:\SteamLibrary\steamapps\common\Voodoo Voyage\Voodoo Fishin'.exe"", ProcID 24348 
+[2026-05-27 13:18:00] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to UpdatingAppInfo with ""
+[2026-05-27 13:18:00] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to ShowLaunchOption with ""
+[2026-05-27 13:18:00] GameAction [AppID 730, ActionID 4] : LaunchApp waiting for user response to ShowLaunchOption ""
+[2026-05-27 13:18:01] GameAction [AppID 730, ActionID 4] : LaunchApp continues with user response "0"
+[2026-05-27 13:18:01] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2026-05-27 13:18:01] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to RunningInstallScript with ""
+[2026-05-27 13:18:01] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to SynchronizingCloud with ""
+[2026-05-27 13:18:02] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to SynchronizingStats with ""
+[2026-05-27 13:18:02] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to ShowInterstitials with ""
+[2026-05-27 13:18:02] GameAction [AppID 730, ActionID 4] : LaunchApp waiting for user response to ShowInterstitials ""
+[2026-05-27 13:18:02] GameAction [AppID 730, ActionID 4] : LaunchApp continues with user response "ShowInterstitials"
+[2026-05-27 13:18:02] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to VerifyingFiles with ""
+[2026-05-27 13:18:02] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2026-05-27 13:18:02] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to DelayLaunch with ""
+[2026-05-27 13:18:02] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to CreatingProcess with ""
+[2026-05-27 13:18:02] GameAction [AppID 730, ActionID 4] : LaunchApp waiting for user response to CreatingProcess ""
+[2026-05-27 13:18:02] GameAction [AppID 730, ActionID 4] : LaunchApp continues with user response "CreatingProcess"
+[2026-05-27 13:18:02] Game process added : AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 24568, IP 0.0.0.0:0
+[2026-05-27 13:18:02] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to WaitingGameWindow with ""
+[2026-05-27 13:18:02] GameAction [AppID 730, ActionID 4] : LaunchApp changed task to Completed with ""
+[2026-05-27 13:18:05] Game process removed: AppID 730 ""F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe" -steam -allow_third_party_software -threads 16 -high -novid -nojoy +cl_forcepreload 1 -tickrate 128", ProcID 24568 
+[2026-05-27 13:23:46] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe" -foreground"
+
+
+[2026-05-27 13:23:57] Client version: 1779840850
+[2026-05-27 13:23:57] Loaded SDL version 3.4.0-718-g0e5e772ba
+[2026-05-27 13:23:59] Console Log Start
+[2026-05-27 13:23:59] Failed to init SteamVR because it isn't installed
+[2026-05-27 13:24:02] local (potentially out of sync) copy of roaming config loaded - 304 bytes.
+[2026-05-27 13:24:05] roaming config store loaded successfully - 304 bytes.
+[2026-05-27 13:24:05] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2026-05-27 13:24:05] System startup time: 7.44 seconds
+[2026-05-27 13:24:05] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2026-05-27 13:24:26] CAPIJobRequestUserStats - Server response failed 2

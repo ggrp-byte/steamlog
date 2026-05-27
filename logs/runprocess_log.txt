@@ -1,0 +1,14 @@
+02/27/26 00:48:30 [AppID 228980] Exit Code (1638) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2019\Microsoft Visual C++ 2019 x86.cmd"  GLE 0
+02/27/26 00:48:31 [AppID 228980] Exit Code (1638) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2019\Microsoft Visual C++ 2019 x64.cmd"  GLE 0
+02/27/26 00:48:57 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\DirectX\Jun2010\DXSETUP.exe" /silent GLE 0
+04/21/26 00:46:27 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2022\Microsoft Visual C++ 2022 x86.cmd"  GLE 0
+04/21/26 00:46:29 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2022\Microsoft Visual C++ 2022 x64.cmd"  GLE 0
+04/21/26 00:51:05 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2010\vcredist_x86.exe" /quiet /norestart GLE 0
+04/21/26 00:51:12 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2010\vcredist_x64.exe" /quiet /norestart GLE 0
+04/21/26 00:51:22 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\DotNet\4.0\Microsoft .NET Framework 4.0.cmd"  GLE 0
+04/21/26 00:51:31 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\DotNet\4.0 Client Profile\Microsoft .NET Framework 4.0 Client Profile.cmd"  GLE 0
+04/21/26 17:31:20 [AppID 2507950] Exit Code (0) :  "F:\SteamLibrary\steamapps\common\Delta Force\Launcher\uninst.exe" /silent /removeappdata GLE 0
+04/21/26 17:31:20 [AppID 2507950] Exit Code (0) :  "F:\SteamLibrary\steamapps\common\Delta Force\Game\DeltaForce\Binaries\Win64\AntiCheatExpert\ACE-Setup64.exe" /silent -q GLE 0
+04/21/26 21:45:15 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2008\vcredist_x86.exe" /q /norestart GLE 0
+04/21/26 21:45:17 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2008\vcredist_x64.exe" /q /norestart GLE 0
+04/21/26 21:45:17 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\OpenAL\2.0.7.0\oalinst.exe" /s GLE 0

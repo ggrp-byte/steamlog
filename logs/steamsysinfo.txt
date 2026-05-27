@@ -1,0 +1,5968 @@
+
+
+[2026-02-26 20:42:08] Client version: no bootstrapper found
+[2026-02-26 20:42:08] Running query: 1 - GpuTopology
+[2026-02-26 20:42:09] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 56971
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-26 20:42:09] Exit code: 0
+[2026-02-26 20:42:09] Saving response to: C:\Users\X-Code\AppData\Local\Temp\1351.tmp - 58 bytes
+
+
+[2026-02-26 21:10:47] Client version: no bootstrapper found
+[2026-02-26 21:10:47] Running query: 1 - GpuTopology
+[2026-02-26 21:10:47] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 60240
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-26 21:10:47] Exit code: 0
+[2026-02-26 21:10:47] Saving response to: C:\Users\X-Code\AppData\Local\Temp\AB24.tmp - 58 bytes
+
+
+[2026-02-26 23:20:29] Client version: no bootstrapper found
+[2026-02-26 23:20:29] Running query: 1 - GpuTopology
+[2026-02-26 23:20:29] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 60494
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-26 23:20:29] Exit code: 0
+[2026-02-26 23:20:29] Saving response to: C:\Users\X-Code\AppData\Local\Temp\732C.tmp - 58 bytes
+
+
+[2026-02-26 23:31:59] Client version: no bootstrapper found
+[2026-02-26 23:31:59] Running query: 1 - GpuTopology
+[2026-02-26 23:32:00] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 60355
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-26 23:32:00] Exit code: 0
+[2026-02-26 23:32:00] Saving response to: C:\Users\X-Code\AppData\Local\Temp\7C15.tmp - 58 bytes
+
+
+[2026-02-27 00:26:25] Client version: no bootstrapper found
+[2026-02-27 00:26:25] Running query: 1 - GpuTopology
+[2026-02-27 00:26:25] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 60782
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-27 00:26:25] Exit code: 0
+[2026-02-27 00:26:25] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D177.tmp - 58 bytes
+
+
+[2026-02-27 00:28:30] Client version: no bootstrapper found
+[2026-02-27 00:28:30] Running query: 1 - GpuTopology
+[2026-02-27 00:28:30] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 60782
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-27 00:28:30] Exit code: 0
+[2026-02-27 00:28:30] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B867.tmp - 58 bytes
+
+
+[2026-02-27 00:45:01] Client version: no bootstrapper found
+[2026-02-27 00:45:01] Running query: 1 - GpuTopology
+[2026-02-27 00:45:01] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 60782
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-27 00:45:01] Exit code: 0
+[2026-02-27 00:45:01] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D84A.tmp - 58 bytes
+
+
+[2026-02-27 02:21:50] Client version: no bootstrapper found
+[2026-02-27 02:21:50] Running query: 1 - GpuTopology
+[2026-02-27 02:21:50] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 61033
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-27 02:21:50] Exit code: 0
+[2026-02-27 02:21:50] Saving response to: C:\Users\X-Code\AppData\Local\Temp\1CF9.tmp - 58 bytes
+
+
+[2026-02-27 03:14:15] Client version: no bootstrapper found
+[2026-02-27 03:14:15] Running query: 1 - GpuTopology
+[2026-02-27 03:14:15] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 60861
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-27 03:14:15] Exit code: 0
+[2026-02-27 03:14:15] Saving response to: C:\Users\X-Code\AppData\Local\Temp\F702.tmp - 58 bytes
+
+
+[2026-02-27 03:32:30] Client version: no bootstrapper found
+[2026-02-27 03:32:30] Running query: 1 - GpuTopology
+[2026-02-27 03:32:30] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 61092
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-27 03:32:30] Exit code: 0
+[2026-02-27 03:32:30] Saving response to: C:\Users\X-Code\AppData\Local\Temp\BBCE.tmp - 58 bytes
+
+
+[2026-02-27 11:12:29] Client version: no bootstrapper found
+[2026-02-27 11:12:29] Running query: 1 - GpuTopology
+[2026-02-27 11:12:29] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 60292
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-27 11:12:29] Exit code: 0
+[2026-02-27 11:12:29] Saving response to: C:\Users\X-Code\AppData\Local\Temp\12F6.tmp - 58 bytes
+
+
+[2026-02-27 13:58:37] Client version: no bootstrapper found
+[2026-02-27 13:58:37] Running query: 1 - GpuTopology
+[2026-02-27 13:58:38] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 61174
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-27 13:58:38] Exit code: 0
+[2026-02-27 13:58:38] Saving response to: C:\Users\X-Code\AppData\Local\Temp\676A.tmp - 58 bytes
+
+
+[2026-02-27 15:57:51] Client version: no bootstrapper found
+[2026-02-27 15:57:51] Running query: 1 - GpuTopology
+[2026-02-27 15:57:51] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 62271
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-27 15:57:51] Exit code: 0
+[2026-02-27 15:57:52] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C4B7.tmp - 58 bytes
+
+
+[2026-02-27 22:01:26] Client version: no bootstrapper found
+[2026-02-27 22:01:26] Running query: 1 - GpuTopology
+[2026-02-27 22:01:26] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 62565
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-27 22:01:26] Exit code: 0
+[2026-02-27 22:01:26] Saving response to: C:\Users\X-Code\AppData\Local\Temp\ED0A.tmp - 58 bytes
+
+
+[2026-02-28 10:52:41] Client version: no bootstrapper found
+[2026-02-28 10:52:41] Running query: 1 - GpuTopology
+[2026-02-28 10:52:41] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 63755
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-28 10:52:41] Exit code: 0
+[2026-02-28 10:52:41] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9D4E.tmp - 58 bytes
+
+
+[2026-02-28 12:04:40] Client version: no bootstrapper found
+[2026-02-28 12:04:40] Running query: 1 - GpuTopology
+[2026-02-28 12:04:40] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 63833
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-28 12:04:40] Exit code: 0
+[2026-02-28 12:04:40] Saving response to: C:\Users\X-Code\AppData\Local\Temp\FC7B.tmp - 58 bytes
+
+
+[2026-02-28 12:20:27] Client version: no bootstrapper found
+[2026-02-28 12:20:27] Running query: 1 - GpuTopology
+[2026-02-28 12:20:27] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 63793
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-28 12:20:27] Exit code: 0
+[2026-02-28 12:20:27] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C14C.tmp - 58 bytes
+
+
+[2026-02-28 12:56:41] Client version: no bootstrapper found
+[2026-02-28 12:56:41] Running query: 1 - GpuTopology
+[2026-02-28 12:56:41] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 63646
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-28 12:56:41] Exit code: 0
+[2026-02-28 12:56:41] Saving response to: C:\Users\X-Code\AppData\Local\Temp\BB12.tmp - 58 bytes
+
+
+[2026-02-28 13:11:57] Client version: no bootstrapper found
+[2026-02-28 13:11:57] Running query: 1 - GpuTopology
+[2026-02-28 13:11:57] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 63624
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-28 13:11:57] Exit code: 0
+[2026-02-28 13:11:57] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C11D.tmp - 58 bytes
+
+
+[2026-02-28 13:20:42] Client version: no bootstrapper found
+[2026-02-28 13:20:42] Running query: 1 - GpuTopology
+[2026-02-28 13:20:42] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 63606
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-28 13:20:42] Exit code: 0
+[2026-02-28 13:20:42] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E00F.tmp - 58 bytes
+
+
+[2026-02-28 13:45:12] Client version: no bootstrapper found
+[2026-02-28 13:45:12] Running query: 1 - GpuTopology
+[2026-02-28 13:45:12] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 63583
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-28 13:45:12] Exit code: 0
+[2026-02-28 13:45:12] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E1E4.tmp - 58 bytes
+
+
+[2026-02-28 14:02:44] Client version: no bootstrapper found
+[2026-02-28 14:02:44] Running query: 1 - GpuTopology
+[2026-02-28 14:02:44] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 63611
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-28 14:02:44] Exit code: 0
+[2026-02-28 14:02:44] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C812.tmp - 58 bytes
+
+
+[2026-02-28 18:11:32] Client version: no bootstrapper found
+[2026-02-28 18:11:32] Running query: 1 - GpuTopology
+[2026-02-28 18:11:33] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 63592
+  }
+  default_gpu_id: 1
+}
+
+[2026-02-28 18:11:33] Exit code: 0
+[2026-02-28 18:11:33] Saving response to: C:\Users\X-Code\AppData\Local\Temp\F0.tmp - 58 bytes
+
+
+[2026-03-01 00:27:59] Client version: no bootstrapper found
+[2026-03-01 00:27:59] Running query: 1 - GpuTopology
+[2026-03-01 00:27:59] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 817636
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-01 00:27:59] Exit code: 0
+[2026-03-01 00:27:59] Saving response to: C:\Users\X-Code\AppData\Local\Temp\EE76.tmp - 58 bytes
+
+
+[2026-03-01 00:40:19] Client version: no bootstrapper found
+[2026-03-01 00:40:19] Running query: 1 - GpuTopology
+[2026-03-01 00:40:19] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 62722
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-01 00:40:19] Exit code: 0
+[2026-03-01 00:40:19] Saving response to: C:\Users\X-Code\AppData\Local\Temp\BB8F.tmp - 58 bytes
+
+
+[2026-03-01 10:24:13] Client version: no bootstrapper found
+[2026-03-01 10:24:13] Running query: 1 - GpuTopology
+[2026-03-01 10:24:13] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 62674
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-01 10:24:13] Exit code: 0
+[2026-03-01 10:24:13] Saving response to: C:\Users\X-Code\AppData\Local\Temp\89C1.tmp - 58 bytes
+
+
+[2026-03-01 22:19:04] Client version: no bootstrapper found
+[2026-03-01 22:19:04] Running query: 1 - GpuTopology
+[2026-03-01 22:21:23] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 62623
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-01 22:21:23] Exit code: 0
+[2026-03-01 22:21:23] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B025.tmp - 58 bytes
+
+
+[2026-03-01 23:07:15] Client version: no bootstrapper found
+[2026-03-01 23:07:15] Running query: 1 - GpuTopology
+[2026-03-01 23:07:16] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 62622
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-01 23:07:16] Exit code: 0
+[2026-03-01 23:07:16] Saving response to: C:\Users\X-Code\AppData\Local\Temp\CCF4.tmp - 58 bytes
+
+
+[2026-03-01 23:29:43] Client version: no bootstrapper found
+[2026-03-01 23:29:43] Running query: 1 - GpuTopology
+[2026-03-01 23:29:43] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 62564
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-01 23:29:43] Exit code: 0
+[2026-03-01 23:29:43] Saving response to: C:\Users\X-Code\AppData\Local\Temp\634D.tmp - 58 bytes
+
+
+[2026-03-02 15:01:42] Client version: no bootstrapper found
+[2026-03-02 15:01:42] Running query: 1 - GpuTopology
+[2026-03-02 15:01:42] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 62530
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-02 15:01:42] Exit code: 0
+[2026-03-02 15:01:42] Saving response to: C:\Users\X-Code\AppData\Local\Temp\6A14.tmp - 58 bytes
+
+
+[2026-03-02 20:38:49] Client version: no bootstrapper found
+[2026-03-02 20:38:49] Running query: 1 - GpuTopology
+[2026-03-02 20:38:49] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 86
+    driver_version_patch: 0
+    luid: 62586
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-02 20:38:49] Exit code: 0
+[2026-03-02 20:38:49] Saving response to: C:\Users\X-Code\AppData\Local\Temp\7FDE.tmp - 58 bytes
+
+
+[2026-03-03 14:35:15] Client version: no bootstrapper found
+[2026-03-03 14:35:15] Running query: 1 - GpuTopology
+[2026-03-03 14:35:15] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 64621
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-03 14:35:15] Exit code: 0
+[2026-03-03 14:35:15] Saving response to: C:\Users\X-Code\AppData\Local\Temp\DCF3.tmp - 58 bytes
+
+
+[2026-03-04 00:43:52] Client version: no bootstrapper found
+[2026-03-04 00:43:52] Running query: 1 - GpuTopology
+[2026-03-04 00:43:52] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 64318
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-04 00:43:52] Exit code: 0
+[2026-03-04 00:43:52] Saving response to: C:\Users\X-Code\AppData\Local\Temp\5E8B.tmp - 58 bytes
+
+
+[2026-03-04 06:37:25] Client version: no bootstrapper found
+[2026-03-04 06:37:25] Running query: 1 - GpuTopology
+[2026-03-04 06:37:25] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63955
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-04 06:37:25] Exit code: 0
+[2026-03-04 06:37:25] Saving response to: C:\Users\X-Code\AppData\Local\Temp\2AD4.tmp - 58 bytes
+
+
+[2026-03-04 14:02:50] Client version: no bootstrapper found
+[2026-03-04 14:02:50] Running query: 1 - GpuTopology
+[2026-03-04 14:02:50] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63949
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-04 14:02:50] Exit code: 0
+[2026-03-04 14:02:50] Saving response to: C:\Users\X-Code\AppData\Local\Temp\6D31.tmp - 58 bytes
+
+
+[2026-03-04 15:19:56] Client version: no bootstrapper found
+[2026-03-04 15:19:56] Running query: 1 - GpuTopology
+[2026-03-04 15:19:56] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 629949
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-04 15:19:56] Exit code: 0
+[2026-03-04 15:19:56] Saving response to: C:\Users\X-Code\AppData\Local\Temp\62CC.tmp - 58 bytes
+
+
+[2026-03-04 19:35:31] Client version: no bootstrapper found
+[2026-03-04 19:35:31] Running query: 1 - GpuTopology
+[2026-03-04 19:35:31] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 64085
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-04 19:35:31] Exit code: 0
+[2026-03-04 19:35:31] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A3D1.tmp - 58 bytes
+
+
+[2026-03-05 16:09:44] Client version: no bootstrapper found
+[2026-03-05 16:09:44] Running query: 1 - GpuTopology
+[2026-03-05 16:09:44] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 64286
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-05 16:09:44] Exit code: 0
+[2026-03-05 16:09:44] Saving response to: C:\Users\X-Code\AppData\Local\Temp\28EF.tmp - 58 bytes
+
+
+[2026-03-06 14:33:11] Client version: no bootstrapper found
+[2026-03-06 14:33:11] Running query: 1 - GpuTopology
+[2026-03-06 14:33:12] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63718
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-06 14:33:12] Exit code: 0
+[2026-03-06 14:33:12] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C1B9.tmp - 58 bytes
+
+
+[2026-03-07 09:17:58] Client version: no bootstrapper found
+[2026-03-07 09:17:58] Running query: 1 - GpuTopology
+[2026-03-07 09:17:59] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63718
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-07 09:17:59] Exit code: 0
+[2026-03-07 09:17:59] Saving response to: C:\Users\X-Code\AppData\Local\Temp\874E.tmp - 58 bytes
+
+
+[2026-03-07 18:35:57] Client version: no bootstrapper found
+[2026-03-07 18:35:57] Running query: 1 - GpuTopology
+[2026-03-07 18:35:57] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62575
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-07 18:35:57] Exit code: 0
+[2026-03-07 18:35:57] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8992.tmp - 58 bytes
+
+
+[2026-03-08 10:37:38] Client version: no bootstrapper found
+[2026-03-08 10:37:38] Running query: 1 - GpuTopology
+[2026-03-08 10:37:39] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62981
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-08 10:37:39] Exit code: 0
+[2026-03-08 10:37:39] Saving response to: C:\Users\X-Code\AppData\Local\Temp\73F7.tmp - 58 bytes
+
+
+[2026-03-08 10:48:11] Client version: no bootstrapper found
+[2026-03-08 10:48:11] Running query: 1 - GpuTopology
+[2026-03-08 10:48:11] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63107
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-08 10:48:11] Exit code: 0
+[2026-03-08 10:48:11] Saving response to: C:\Users\X-Code\AppData\Local\Temp\45F0.tmp - 58 bytes
+
+
+[2026-03-08 18:41:38] Client version: no bootstrapper found
+[2026-03-08 18:41:38] Running query: 1 - GpuTopology
+[2026-03-08 18:41:38] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63014
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-08 18:41:38] Exit code: 0
+[2026-03-08 18:41:38] Saving response to: C:\Users\X-Code\AppData\Local\Temp\78C9.tmp - 58 bytes
+
+
+[2026-03-09 14:54:25] Client version: no bootstrapper found
+[2026-03-09 14:54:25] Running query: 1 - GpuTopology
+[2026-03-09 14:54:25] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63547
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-09 14:54:25] Exit code: 0
+[2026-03-09 14:54:25] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B97C.tmp - 58 bytes
+
+
+[2026-03-09 14:58:16] Client version: no bootstrapper found
+[2026-03-09 14:58:16] Running query: 1 - GpuTopology
+[2026-03-09 14:58:16] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63406
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-09 14:58:16] Exit code: 0
+[2026-03-09 14:58:16] Saving response to: C:\Users\X-Code\AppData\Local\Temp\7743.tmp - 58 bytes
+
+
+[2026-03-10 19:04:49] Client version: no bootstrapper found
+[2026-03-10 19:04:49] Running query: 1 - GpuTopology
+[2026-03-10 19:04:49] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63451
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-10 19:04:49] Exit code: 0
+[2026-03-10 19:04:49] Saving response to: C:\Users\X-Code\AppData\Local\Temp\2064.tmp - 58 bytes
+
+
+[2026-03-11 13:26:42] Client version: no bootstrapper found
+[2026-03-11 13:26:42] Running query: 1 - GpuTopology
+[2026-03-11 13:26:42] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63000
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-11 13:26:42] Exit code: 0
+[2026-03-11 13:26:42] Saving response to: C:\Users\X-Code\AppData\Local\Temp\DD3.tmp - 58 bytes
+
+
+[2026-03-12 16:23:11] Client version: no bootstrapper found
+[2026-03-12 16:23:11] Running query: 1 - GpuTopology
+[2026-03-12 16:23:11] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 2060 SUPER"
+    vram_size_bytes: 8619294720
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63229
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-12 16:23:11] Exit code: 0
+[2026-03-12 16:23:11] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9097.tmp - 58 bytes
+
+
+[2026-03-12 18:10:14] Client version: no bootstrapper found
+[2026-03-12 18:10:14] Running query: 1 - GpuTopology
+[2026-03-12 18:10:14] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 2042997
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-12 18:10:14] Exit code: 0
+[2026-03-12 18:10:14] Saving response to: C:\Users\X-Code\AppData\Local\Temp\385C.tmp - 52 bytes
+
+
+[2026-03-12 18:45:49] Client version: no bootstrapper found
+[2026-03-12 18:45:49] Running query: 1 - GpuTopology
+[2026-03-12 18:45:49] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 64621
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-12 18:45:49] Exit code: 0
+[2026-03-12 18:45:49] Saving response to: C:\Users\X-Code\AppData\Local\Temp\4B81.tmp - 52 bytes
+
+
+[2026-03-13 16:26:00] Client version: no bootstrapper found
+[2026-03-13 16:26:00] Running query: 1 - GpuTopology
+[2026-03-13 16:26:00] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63822
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-13 16:26:00] Exit code: 0
+[2026-03-13 16:26:00] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B864.tmp - 52 bytes
+
+
+[2026-03-13 20:57:06] Client version: no bootstrapper found
+[2026-03-13 20:57:06] Running query: 1 - GpuTopology
+[2026-03-13 20:57:06] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62529
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-13 20:57:06] Exit code: 0
+[2026-03-13 20:57:06] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B025.tmp - 52 bytes
+
+
+[2026-03-14 09:18:35] Client version: no bootstrapper found
+[2026-03-14 09:18:35] Running query: 1 - GpuTopology
+[2026-03-14 09:18:36] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62613
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-14 09:18:36] Exit code: 0
+[2026-03-14 09:18:36] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8F6E.tmp - 52 bytes
+
+
+[2026-03-14 14:21:37] Client version: no bootstrapper found
+[2026-03-14 14:21:37] Running query: 1 - GpuTopology
+[2026-03-14 14:21:37] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62457
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-14 14:21:37] Exit code: 0
+[2026-03-14 14:21:37] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9B05.tmp - 52 bytes
+
+
+[2026-03-14 19:36:22] Client version: no bootstrapper found
+[2026-03-14 19:36:22] Running query: 1 - GpuTopology
+[2026-03-14 19:36:22] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62633
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-14 19:36:22] Exit code: 0
+[2026-03-14 19:36:22] Saving response to: C:\Users\X-Code\AppData\Local\Temp\2C5A.tmp - 52 bytes
+
+
+[2026-03-14 20:05:41] Client version: no bootstrapper found
+[2026-03-14 20:05:41] Running query: 1 - GpuTopology
+[2026-03-14 20:05:42] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62712
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-14 20:05:42] Exit code: 0
+[2026-03-14 20:05:42] Saving response to: C:\Users\X-Code\AppData\Local\Temp\AAC6.tmp - 52 bytes
+
+
+[2026-03-15 09:19:03] Client version: no bootstrapper found
+[2026-03-15 09:19:03] Running query: 1 - GpuTopology
+[2026-03-15 09:19:04] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62926
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-15 09:19:04] Exit code: 0
+[2026-03-15 09:19:04] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E138.tmp - 52 bytes
+
+
+[2026-03-15 19:50:46] Client version: no bootstrapper found
+[2026-03-15 19:50:46] Running query: 1 - GpuTopology
+[2026-03-15 19:50:46] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63692
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-15 19:50:46] Exit code: 0
+[2026-03-15 19:50:46] Saving response to: C:\Users\X-Code\AppData\Local\Temp\6334.tmp - 52 bytes
+
+
+[2026-03-16 14:36:38] Client version: no bootstrapper found
+[2026-03-16 14:36:38] Running query: 1 - GpuTopology
+[2026-03-16 14:36:38] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 64718
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-16 14:36:38] Exit code: 0
+[2026-03-16 14:36:38] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8760.tmp - 52 bytes
+
+
+[2026-03-16 16:03:34] Client version: no bootstrapper found
+[2026-03-16 16:03:34] Running query: 1 - GpuTopology
+[2026-03-16 16:03:34] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 64720
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-16 16:03:34] Exit code: 0
+[2026-03-16 16:03:34] Saving response to: C:\Users\X-Code\AppData\Local\Temp\AECE.tmp - 52 bytes
+
+
+[2026-03-17 16:10:56] Client version: no bootstrapper found
+[2026-03-17 16:10:56] Running query: 1 - GpuTopology
+[2026-03-17 16:10:56] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 64436
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-17 16:10:56] Exit code: 0
+[2026-03-17 16:10:56] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A41F.tmp - 52 bytes
+
+
+[2026-03-18 13:22:12] Client version: no bootstrapper found
+[2026-03-18 13:22:12] Running query: 1 - GpuTopology
+[2026-03-18 13:22:12] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 64308
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-18 13:22:12] Exit code: 0
+[2026-03-18 13:22:12] Saving response to: C:\Users\X-Code\AppData\Local\Temp\43BC.tmp - 52 bytes
+
+
+[2026-03-18 13:45:20] Client version: no bootstrapper found
+[2026-03-18 13:45:20] Running query: 1 - GpuTopology
+[2026-03-18 13:45:20] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 64301
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-18 13:45:20] Exit code: 0
+[2026-03-18 13:45:20] Saving response to: C:\Users\X-Code\AppData\Local\Temp\460E.tmp - 52 bytes
+
+
+[2026-03-18 13:53:41] Client version: no bootstrapper found
+[2026-03-18 13:53:41] Running query: 1 - GpuTopology
+[2026-03-18 13:53:42] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 64743
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-18 13:53:42] Exit code: 0
+[2026-03-18 13:53:42] Saving response to: C:\Users\X-Code\AppData\Local\Temp\402.tmp - 52 bytes
+
+
+[2026-03-18 14:03:33] Client version: no bootstrapper found
+[2026-03-18 14:03:33] Running query: 1 - GpuTopology
+[2026-03-18 14:03:33] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 686776
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-18 14:03:33] Exit code: 0
+[2026-03-18 14:03:33] Saving response to: C:\Users\X-Code\AppData\Local\Temp\FE26.tmp - 52 bytes
+
+
+[2026-03-18 20:06:05] Client version: no bootstrapper found
+[2026-03-18 20:06:05] Running query: 1 - GpuTopology
+[2026-03-18 20:06:05] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 65384
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-18 20:06:05] Exit code: 0
+[2026-03-18 20:06:05] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D215.tmp - 52 bytes
+
+
+[2026-03-19 16:13:56] Client version: no bootstrapper found
+[2026-03-19 16:13:56] Running query: 1 - GpuTopology
+[2026-03-19 16:13:56] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63029
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-19 16:13:56] Exit code: 0
+[2026-03-19 16:13:56] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A085.tmp - 52 bytes
+
+
+[2026-03-20 16:01:03] Client version: no bootstrapper found
+[2026-03-20 16:01:03] Running query: 1 - GpuTopology
+[2026-03-20 16:01:03] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63086
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-20 16:01:03] Exit code: 0
+[2026-03-20 16:01:03] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E809.tmp - 52 bytes
+
+
+[2026-03-21 00:21:58] Client version: no bootstrapper found
+[2026-03-21 00:21:58] Running query: 1 - GpuTopology
+[2026-03-21 00:21:58] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63545
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-21 00:21:58] Exit code: 0
+[2026-03-21 00:21:58] Saving response to: C:\Users\X-Code\AppData\Local\Temp\DFD0.tmp - 52 bytes
+
+
+[2026-03-21 09:41:14] Client version: no bootstrapper found
+[2026-03-21 09:41:14] Running query: 1 - GpuTopology
+[2026-03-21 09:41:14] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63450
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-21 09:41:14] Exit code: 0
+[2026-03-21 09:41:14] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B555.tmp - 52 bytes
+
+
+[2026-03-21 10:16:10] Client version: no bootstrapper found
+[2026-03-21 10:16:10] Running query: 1 - GpuTopology
+[2026-03-21 10:16:10] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63519
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-21 10:16:10] Exit code: 0
+[2026-03-21 10:16:10] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E138.tmp - 52 bytes
+
+
+[2026-03-21 10:49:08] Client version: no bootstrapper found
+[2026-03-21 10:49:08] Running query: 1 - GpuTopology
+[2026-03-21 10:49:08] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63455
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-21 10:49:08] Exit code: 0
+[2026-03-21 10:49:08] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B43.tmp - 52 bytes
+
+
+[2026-03-21 15:10:52] Client version: no bootstrapper found
+[2026-03-21 15:10:52] Running query: 1 - GpuTopology
+[2026-03-21 15:10:52] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63177
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-21 15:10:52] Exit code: 0
+[2026-03-21 15:10:52] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9DD6.tmp - 52 bytes
+
+
+[2026-03-21 19:48:18] Client version: no bootstrapper found
+[2026-03-21 19:48:18] Running query: 1 - GpuTopology
+[2026-03-21 19:48:18] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62658
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-21 19:48:18] Exit code: 0
+[2026-03-21 19:48:18] Saving response to: C:\Users\X-Code\AppData\Local\Temp\EAAE.tmp - 52 bytes
+
+
+[2026-03-22 09:42:13] Client version: no bootstrapper found
+[2026-03-22 09:42:13] Running query: 1 - GpuTopology
+[2026-03-22 09:42:14] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 65667
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 09:42:14] Exit code: 0
+[2026-03-22 09:42:14] Saving response to: C:\Users\X-Code\AppData\Local\Temp\6FB1.tmp - 52 bytes
+
+
+[2026-03-22 10:07:55] Client version: no bootstrapper found
+[2026-03-22 10:07:55] Running query: 1 - GpuTopology
+[2026-03-22 10:07:56] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62788
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 10:07:56] Exit code: 0
+[2026-03-22 10:07:56] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A23B.tmp - 52 bytes
+
+
+[2026-03-22 10:55:55] Client version: no bootstrapper found
+[2026-03-22 10:55:55] Running query: 1 - GpuTopology
+[2026-03-22 10:55:56] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62596
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 10:55:56] Exit code: 0
+[2026-03-22 10:55:56] Saving response to: C:\Users\X-Code\AppData\Local\Temp\92BA.tmp - 52 bytes
+
+
+[2026-03-22 12:39:54] Client version: no bootstrapper found
+[2026-03-22 12:39:54] Running query: 1 - GpuTopology
+[2026-03-22 12:39:54] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 5633389
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 12:39:54] Exit code: 0
+[2026-03-22 12:39:54] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C5B3.tmp - 53 bytes
+
+
+[2026-03-22 12:46:06] Client version: no bootstrapper found
+[2026-03-22 12:46:06] Running query: 1 - GpuTopology
+[2026-03-22 12:46:06] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62478
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 12:46:06] Exit code: 0
+[2026-03-22 12:46:06] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8524.tmp - 52 bytes
+
+
+[2026-03-22 12:57:11] Client version: no bootstrapper found
+[2026-03-22 12:57:11] Running query: 1 - GpuTopology
+[2026-03-22 12:57:11] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62617
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 12:57:11] Exit code: 0
+[2026-03-22 12:57:11] Saving response to: C:\Users\X-Code\AppData\Local\Temp\AB14.tmp - 52 bytes
+
+
+[2026-03-22 13:03:22] Client version: no bootstrapper found
+[2026-03-22 13:03:22] Running query: 1 - GpuTopology
+[2026-03-22 13:03:22] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62588
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 13:03:22] Exit code: 0
+[2026-03-22 13:03:22] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8B96.tmp - 52 bytes
+
+
+[2026-03-22 13:10:33] Client version: no bootstrapper found
+[2026-03-22 13:10:33] Running query: 1 - GpuTopology
+[2026-03-22 13:10:34] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62562
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 13:10:34] Exit code: 0
+[2026-03-22 13:10:34] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8656.tmp - 52 bytes
+
+
+[2026-03-22 18:09:55] Client version: no bootstrapper found
+[2026-03-22 18:09:55] Running query: 1 - GpuTopology
+[2026-03-22 18:09:56] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62664
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 18:09:56] Exit code: 0
+[2026-03-22 18:09:56] Saving response to: C:\Users\X-Code\AppData\Local\Temp\4244.tmp - 52 bytes
+
+
+[2026-03-22 18:36:48] Client version: no bootstrapper found
+[2026-03-22 18:36:48] Running query: 1 - GpuTopology
+[2026-03-22 18:36:48] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12522094592
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 634233
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 18:36:48] Exit code: 0
+[2026-03-22 18:36:48] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C8CE.tmp - 52 bytes
+
+
+[2026-03-22 19:19:47] Client version: no bootstrapper found
+[2026-03-22 19:19:47] Running query: 1 - GpuTopology
+[2026-03-22 19:19:47] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62816
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 19:19:47] Exit code: 0
+[2026-03-22 19:19:47] Saving response to: C:\Users\X-Code\AppData\Local\Temp\AC4D.tmp - 52 bytes
+
+
+[2026-03-22 23:06:08] Client version: no bootstrapper found
+[2026-03-22 23:06:08] Running query: 1 - GpuTopology
+[2026-03-22 23:06:09] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 743281
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 23:06:09] Exit code: 0
+[2026-03-22 23:06:09] Saving response to: C:\Users\X-Code\AppData\Local\Temp\DCD3.tmp - 52 bytes
+
+
+[2026-03-22 23:36:06] Client version: no bootstrapper found
+[2026-03-22 23:36:06] Running query: 1 - GpuTopology
+[2026-03-22 23:36:06] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 1619006
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 23:36:06] Exit code: 0
+[2026-03-22 23:36:06] Saving response to: C:\Users\X-Code\AppData\Local\Temp\6027.tmp - 52 bytes
+
+
+[2026-03-22 23:55:47] Client version: no bootstrapper found
+[2026-03-22 23:55:47] Running query: 1 - GpuTopology
+[2026-03-22 23:55:47] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63069
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-22 23:55:47] Exit code: 0
+[2026-03-22 23:55:47] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C284.tmp - 52 bytes
+
+
+[2026-03-23 00:18:12] Client version: no bootstrapper found
+[2026-03-23 00:18:12] Running query: 1 - GpuTopology
+[2026-03-23 00:18:12] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63024
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-23 00:18:12] Exit code: 0
+[2026-03-23 00:18:12] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B371.tmp - 52 bytes
+
+
+[2026-03-23 14:53:20] Client version: no bootstrapper found
+[2026-03-23 14:53:20] Running query: 1 - GpuTopology
+[2026-03-23 14:53:20] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63249
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-23 14:53:20] Exit code: 0
+[2026-03-23 14:53:20] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E006.tmp - 52 bytes
+
+
+[2026-03-23 14:57:07] Client version: no bootstrapper found
+[2026-03-23 14:57:07] Running query: 1 - GpuTopology
+[2026-03-23 14:57:07] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63157
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-23 14:57:07] Exit code: 0
+[2026-03-23 14:57:07] Saving response to: C:\Users\X-Code\AppData\Local\Temp\89C1.tmp - 52 bytes
+
+
+[2026-03-23 15:06:03] Client version: no bootstrapper found
+[2026-03-23 15:06:03] Running query: 1 - GpuTopology
+[2026-03-23 15:06:03] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63157
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-23 15:06:03] Exit code: 0
+[2026-03-23 15:06:03] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B5DB.tmp - 52 bytes
+
+
+[2026-03-23 16:32:36] Client version: no bootstrapper found
+[2026-03-23 16:32:36] Running query: 1 - GpuTopology
+[2026-03-23 16:32:36] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 72242
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-23 16:32:36] Exit code: 0
+[2026-03-23 16:32:36] Saving response to: C:\Users\X-Code\AppData\Local\Temp\BC8F.tmp - 52 bytes
+
+
+[2026-03-23 16:35:44] Client version: no bootstrapper found
+[2026-03-23 16:35:44] Running query: 1 - GpuTopology
+[2026-03-23 16:35:44] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 63200
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-23 16:35:44] Exit code: 0
+[2026-03-23 16:35:44] Saving response to: C:\Users\X-Code\AppData\Local\Temp\AD08.tmp - 52 bytes
+
+
+[2026-03-23 16:45:18] Client version: no bootstrapper found
+[2026-03-23 16:45:18] Running query: 1 - GpuTopology
+[2026-03-23 16:45:18] CVulkanTopology: failed to load vulkan entrypoints
+[2026-03-23 16:45:18] Failed to query vulkan gpu topology
+[2026-03-23 16:45:18] Response: 
+[2026-03-23 16:45:18] Exit code: -2
+
+
+[2026-03-23 17:00:14] Client version: no bootstrapper found
+[2026-03-23 17:00:14] Running query: 1 - GpuTopology
+[2026-03-23 17:00:14] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 79
+    driver_version_patch: 0
+    luid: 62944
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-23 17:00:14] Exit code: 0
+[2026-03-23 17:00:14] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A2F6.tmp - 52 bytes
+
+
+[2026-03-23 20:26:25] Client version: no bootstrapper found
+[2026-03-23 20:26:25] Running query: 1 - GpuTopology
+[2026-03-23 20:26:25] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 21374758
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-23 20:26:25] Exit code: 0
+[2026-03-23 20:26:25] Saving response to: C:\Users\X-Code\AppData\Local\Temp\6951.tmp - 53 bytes
+
+
+[2026-03-23 20:50:31] Client version: no bootstrapper found
+[2026-03-23 20:50:31] Running query: 1 - GpuTopology
+[2026-03-23 20:50:31] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 21374758
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-23 20:50:31] Exit code: 0
+[2026-03-23 20:50:31] Saving response to: C:\Users\X-Code\AppData\Local\Temp\780C.tmp - 53 bytes
+
+
+[2026-03-23 21:24:49] Client version: no bootstrapper found
+[2026-03-23 21:24:49] Running query: 1 - GpuTopology
+[2026-03-23 21:24:50] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 64559
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-23 21:24:50] Exit code: 0
+[2026-03-23 21:24:50] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A6EE.tmp - 52 bytes
+
+
+[2026-03-23 22:04:59] Client version: no bootstrapper found
+[2026-03-23 22:04:59] Running query: 1 - GpuTopology
+[2026-03-23 22:04:59] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 64192
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-23 22:04:59] Exit code: 0
+[2026-03-23 22:04:59] Saving response to: C:\Users\X-Code\AppData\Local\Temp\DFB7.tmp - 52 bytes
+
+
+[2026-03-23 22:47:09] Client version: no bootstrapper found
+[2026-03-23 22:47:09] Running query: 1 - GpuTopology
+[2026-03-23 22:47:09] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63549
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-23 22:47:09] Exit code: 0
+[2026-03-23 22:47:09] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C1B.tmp - 52 bytes
+
+
+[2026-03-24 14:55:19] Client version: no bootstrapper found
+[2026-03-24 14:55:19] Running query: 1 - GpuTopology
+[2026-03-24 14:55:19] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63529
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-24 14:55:19] Exit code: 0
+[2026-03-24 14:55:19] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E8C.tmp - 52 bytes
+
+
+[2026-03-24 15:25:25] Client version: no bootstrapper found
+[2026-03-24 15:25:25] Running query: 1 - GpuTopology
+[2026-03-24 15:25:25] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63595
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-24 15:25:25] Exit code: 0
+[2026-03-24 15:25:25] Saving response to: C:\Users\X-Code\AppData\Local\Temp\982F.tmp - 52 bytes
+
+
+[2026-03-24 15:52:14] Client version: no bootstrapper found
+[2026-03-24 15:52:14] Running query: 1 - GpuTopology
+[2026-03-24 15:52:14] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 67909
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-24 15:52:14] Exit code: 0
+[2026-03-24 15:52:14] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8FC2.tmp - 52 bytes
+
+
+[2026-03-24 20:10:50] Client version: no bootstrapper found
+[2026-03-24 20:10:50] Running query: 1 - GpuTopology
+[2026-03-24 20:10:51] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63678
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-24 20:10:51] Exit code: 0
+[2026-03-24 20:10:51] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9EC0.tmp - 52 bytes
+
+
+[2026-03-25 13:27:16] Client version: no bootstrapper found
+[2026-03-25 13:27:16] Running query: 1 - GpuTopology
+[2026-03-25 13:27:16] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63679
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-25 13:27:16] Exit code: 0
+[2026-03-25 13:27:16] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8584.tmp - 52 bytes
+
+
+[2026-03-26 15:54:27] Client version: no bootstrapper found
+[2026-03-26 15:54:27] Running query: 1 - GpuTopology
+[2026-03-26 15:54:27] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63684
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-26 15:54:27] Exit code: 0
+[2026-03-26 15:54:27] Saving response to: C:\Users\X-Code\AppData\Local\Temp\DE79.tmp - 52 bytes
+
+
+[2026-03-27 15:55:06] Client version: no bootstrapper found
+[2026-03-27 15:55:06] Running query: 1 - GpuTopology
+[2026-03-27 15:55:07] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63738
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-27 15:55:07] Exit code: 0
+[2026-03-27 15:55:07] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D1C7.tmp - 52 bytes
+
+
+[2026-03-27 19:16:38] Client version: no bootstrapper found
+[2026-03-27 19:16:38] Running query: 1 - GpuTopology
+[2026-03-27 19:16:38] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63800
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-27 19:16:38] Exit code: 0
+[2026-03-27 19:16:38] Saving response to: C:\Users\X-Code\AppData\Local\Temp\23F9.tmp - 52 bytes
+
+
+[2026-03-28 08:14:56] Client version: no bootstrapper found
+[2026-03-28 08:14:56] Running query: 1 - GpuTopology
+[2026-03-28 08:14:56] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63780
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-28 08:14:56] Exit code: 0
+[2026-03-28 08:14:56] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B3FE.tmp - 52 bytes
+
+
+[2026-03-28 19:10:46] Client version: no bootstrapper found
+[2026-03-28 19:10:46] Running query: 1 - GpuTopology
+[2026-03-28 19:10:46] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63779
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-28 19:10:46] Exit code: 0
+[2026-03-28 19:10:46] Saving response to: C:\Users\X-Code\AppData\Local\Temp\13CC.tmp - 52 bytes
+
+
+[2026-03-29 11:44:11] Client version: no bootstrapper found
+[2026-03-29 11:44:11] Running query: 1 - GpuTopology
+[2026-03-29 11:44:12] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62903
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-29 11:44:12] Exit code: 0
+[2026-03-29 11:44:12] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8523.tmp - 52 bytes
+
+
+[2026-03-30 14:39:36] Client version: no bootstrapper found
+[2026-03-30 14:39:36] Running query: 1 - GpuTopology
+[2026-03-30 14:39:37] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63502
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-30 14:39:37] Exit code: 0
+[2026-03-30 14:39:37] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9EDF.tmp - 52 bytes
+
+
+[2026-03-31 14:58:28] Client version: no bootstrapper found
+[2026-03-31 14:58:28] Running query: 1 - GpuTopology
+[2026-03-31 14:58:29] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62873
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-31 14:58:29] Exit code: 0
+[2026-03-31 14:58:29] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8F20.tmp - 52 bytes
+
+
+[2026-03-31 20:25:44] Client version: no bootstrapper found
+[2026-03-31 20:25:44] Running query: 1 - GpuTopology
+[2026-03-31 20:25:45] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62800
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-31 20:25:45] Exit code: 0
+[2026-03-31 20:25:45] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9E91.tmp - 52 bytes
+
+
+[2026-03-31 22:43:50] Client version: no bootstrapper found
+[2026-03-31 22:43:50] Running query: 1 - GpuTopology
+[2026-03-31 22:43:50] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62800
+  }
+  default_gpu_id: 1
+}
+
+[2026-03-31 22:43:50] Exit code: 0
+[2026-03-31 22:43:50] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B50.tmp - 52 bytes
+
+
+[2026-04-01 13:09:16] Client version: no bootstrapper found
+[2026-04-01 13:09:16] Running query: 1 - GpuTopology
+[2026-04-01 13:09:17] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62773
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-01 13:09:17] Exit code: 0
+[2026-04-01 13:09:17] Saving response to: C:\Users\X-Code\AppData\Local\Temp\971F.tmp - 52 bytes
+
+
+[2026-04-01 21:15:00] Client version: no bootstrapper found
+[2026-04-01 21:15:00] Running query: 1 - GpuTopology
+[2026-04-01 21:15:00] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62802
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-01 21:15:00] Exit code: 0
+[2026-04-01 21:15:00] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9980.tmp - 52 bytes
+
+
+[2026-04-02 09:12:05] Client version: no bootstrapper found
+[2026-04-02 09:12:05] Running query: 1 - GpuTopology
+[2026-04-02 09:12:05] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62711
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-02 09:12:05] Exit code: 0
+[2026-04-02 09:12:05] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A320.tmp - 52 bytes
+
+
+[2026-04-02 09:14:42] Client version: no bootstrapper found
+[2026-04-02 09:14:42] Running query: 1 - GpuTopology
+[2026-04-02 09:14:42] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62711
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-02 09:14:42] Exit code: 0
+[2026-04-02 09:14:42] Saving response to: C:\Users\X-Code\AppData\Local\Temp\934.tmp - 52 bytes
+
+
+[2026-04-02 19:44:49] Client version: no bootstrapper found
+[2026-04-02 19:44:49] Running query: 1 - GpuTopology
+[2026-04-02 19:44:49] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62810
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-02 19:44:49] Exit code: 0
+[2026-04-02 19:44:49] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A613.tmp - 52 bytes
+
+
+[2026-04-03 09:29:48] Client version: no bootstrapper found
+[2026-04-03 09:29:48] Running query: 1 - GpuTopology
+[2026-04-03 09:29:49] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63425
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-03 09:29:49] Exit code: 0
+[2026-04-03 09:29:49] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B1DB.tmp - 52 bytes
+
+
+[2026-04-03 20:14:15] Client version: no bootstrapper found
+[2026-04-03 20:14:15] Running query: 1 - GpuTopology
+[2026-04-03 20:14:15] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 61829
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-03 20:14:15] Exit code: 0
+[2026-04-03 20:14:15] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B05E.tmp - 52 bytes
+
+
+[2026-04-04 11:10:27] Client version: no bootstrapper found
+[2026-04-04 11:10:27] Running query: 1 - GpuTopology
+[2026-04-04 11:10:27] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62259
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-04 11:10:27] Exit code: 0
+[2026-04-04 11:10:27] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D7C2.tmp - 52 bytes
+
+
+[2026-04-04 20:20:16] Client version: no bootstrapper found
+[2026-04-04 20:20:16] Running query: 1 - GpuTopology
+[2026-04-04 20:20:16] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62271
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-04 20:20:16] Exit code: 0
+[2026-04-04 20:20:16] Saving response to: C:\Users\X-Code\AppData\Local\Temp\F5.tmp - 52 bytes
+
+
+[2026-04-05 13:26:14] Client version: no bootstrapper found
+[2026-04-05 13:26:14] Running query: 1 - GpuTopology
+[2026-04-05 13:26:14] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62412
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-05 13:26:14] Exit code: 0
+[2026-04-05 13:26:14] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C7B5.tmp - 52 bytes
+
+
+[2026-04-05 18:15:52] Client version: no bootstrapper found
+[2026-04-05 18:15:52] Running query: 1 - GpuTopology
+[2026-04-05 18:15:52] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62111
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-05 18:15:52] Exit code: 0
+[2026-04-05 18:15:52] Saving response to: C:\Users\X-Code\AppData\Local\Temp\261D.tmp - 52 bytes
+
+
+[2026-04-06 10:25:57] Client version: no bootstrapper found
+[2026-04-06 10:25:57] Running query: 1 - GpuTopology
+[2026-04-06 10:25:57] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62101
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-06 10:25:57] Exit code: 0
+[2026-04-06 10:25:57] Saving response to: C:\Users\X-Code\AppData\Local\Temp\1DF.tmp - 52 bytes
+
+
+[2026-04-07 09:32:17] Client version: no bootstrapper found
+[2026-04-07 09:32:17] Running query: 1 - GpuTopology
+[2026-04-07 09:32:17] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62141
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-07 09:32:17] Exit code: 0
+[2026-04-07 09:32:17] Saving response to: C:\Users\X-Code\AppData\Local\Temp\95C7.tmp - 52 bytes
+
+
+[2026-04-07 20:56:12] Client version: no bootstrapper found
+[2026-04-07 20:56:12] Running query: 1 - GpuTopology
+[2026-04-07 20:56:12] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 61689
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-07 20:56:12] Exit code: 0
+[2026-04-07 20:56:12] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8AB6.tmp - 52 bytes
+
+
+[2026-04-08 14:04:54] Client version: no bootstrapper found
+[2026-04-08 14:04:54] Running query: 1 - GpuTopology
+[2026-04-08 14:04:54] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62428
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-08 14:04:54] Exit code: 0
+[2026-04-08 14:04:54] Saving response to: C:\Users\X-Code\AppData\Local\Temp\7431.tmp - 52 bytes
+
+
+[2026-04-09 16:36:40] Client version: no bootstrapper found
+[2026-04-09 16:36:40] Running query: 1 - GpuTopology
+[2026-04-09 16:36:40] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62348
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-09 16:36:40] Exit code: 0
+[2026-04-09 16:36:40] Saving response to: C:\Users\X-Code\AppData\Local\Temp\CB9D.tmp - 52 bytes
+
+
+[2026-04-09 19:54:15] Client version: no bootstrapper found
+[2026-04-09 19:54:15] Running query: 1 - GpuTopology
+[2026-04-09 19:54:16] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 61963
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-09 19:54:16] Exit code: 0
+[2026-04-09 19:54:16] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D84F.tmp - 52 bytes
+
+
+[2026-04-10 13:53:45] Client version: no bootstrapper found
+[2026-04-10 13:53:45] Running query: 1 - GpuTopology
+[2026-04-10 13:53:45] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 61973
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-10 13:53:45] Exit code: 0
+[2026-04-10 13:53:45] Saving response to: C:\Users\X-Code\AppData\Local\Temp\94FC.tmp - 52 bytes
+
+
+[2026-04-10 17:26:29] Client version: no bootstrapper found
+[2026-04-10 17:26:29] Running query: 1 - GpuTopology
+[2026-04-10 17:26:30] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62133
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-10 17:26:30] Exit code: 0
+[2026-04-10 17:26:30] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9AA0.tmp - 52 bytes
+
+
+[2026-04-11 09:13:40] Client version: no bootstrapper found
+[2026-04-11 09:13:40] Running query: 1 - GpuTopology
+[2026-04-11 09:13:40] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 61926
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-11 09:13:40] Exit code: 0
+[2026-04-11 09:13:40] Saving response to: C:\Users\X-Code\AppData\Local\Temp\949E.tmp - 52 bytes
+
+
+[2026-04-11 17:41:31] Client version: no bootstrapper found
+[2026-04-11 17:41:31] Running query: 1 - GpuTopology
+[2026-04-11 17:41:31] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 61989
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-11 17:41:31] Exit code: 0
+[2026-04-11 17:41:31] Saving response to: C:\Users\X-Code\AppData\Local\Temp\5F51.tmp - 52 bytes
+
+
+[2026-04-12 10:47:49] Client version: no bootstrapper found
+[2026-04-12 10:47:49] Running query: 1 - GpuTopology
+[2026-04-12 10:47:49] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 61776
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-12 10:47:49] Exit code: 0
+[2026-04-12 10:47:49] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8325.tmp - 52 bytes
+
+
+[2026-04-13 14:01:44] Client version: no bootstrapper found
+[2026-04-13 14:01:44] Running query: 1 - GpuTopology
+[2026-04-13 14:01:45] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62032
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-13 14:01:45] Exit code: 0
+[2026-04-13 14:01:45] Saving response to: C:\Users\X-Code\AppData\Local\Temp\4C61.tmp - 52 bytes
+
+
+[2026-04-13 17:51:46] Client version: no bootstrapper found
+[2026-04-13 17:51:46] Running query: 1 - GpuTopology
+[2026-04-13 17:51:46] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62450
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-13 17:51:46] Exit code: 0
+[2026-04-13 17:51:46] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9059.tmp - 52 bytes
+
+
+[2026-04-14 15:35:07] Client version: no bootstrapper found
+[2026-04-14 15:35:07] Running query: 1 - GpuTopology
+[2026-04-14 15:35:07] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 61988
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-14 15:35:07] Exit code: 0
+[2026-04-14 15:35:07] Saving response to: C:\Users\X-Code\AppData\Local\Temp\CF3B.tmp - 52 bytes
+
+
+[2026-04-15 14:04:24] Client version: no bootstrapper found
+[2026-04-15 14:04:24] Running query: 1 - GpuTopology
+[2026-04-15 14:04:24] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62721
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-15 14:04:24] Exit code: 0
+[2026-04-15 14:04:24] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E975.tmp - 52 bytes
+
+
+[2026-04-15 19:06:01] Client version: no bootstrapper found
+[2026-04-15 19:06:01] Running query: 1 - GpuTopology
+[2026-04-15 19:06:01] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63520
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-15 19:06:01] Exit code: 0
+[2026-04-15 19:06:01] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B11F.tmp - 52 bytes
+
+
+[2026-04-16 15:46:49] Client version: no bootstrapper found
+[2026-04-16 15:46:49] Running query: 1 - GpuTopology
+[2026-04-16 15:46:50] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63893
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-16 15:46:50] Exit code: 0
+[2026-04-16 15:46:50] Saving response to: C:\Users\X-Code\AppData\Local\Temp\926C.tmp - 52 bytes
+
+
+[2026-04-16 17:29:44] Client version: no bootstrapper found
+[2026-04-16 17:29:44] Running query: 1 - GpuTopology
+[2026-04-16 17:29:45] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63913
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-16 17:29:45] Exit code: 0
+[2026-04-16 17:29:45] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E53F.tmp - 52 bytes
+
+
+[2026-04-16 20:20:12] Client version: no bootstrapper found
+[2026-04-16 20:20:12] Running query: 1 - GpuTopology
+[2026-04-16 20:20:12] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 63862
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-16 20:20:12] Exit code: 0
+[2026-04-16 20:20:12] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B045.tmp - 52 bytes
+
+
+[2026-04-16 22:53:50] Client version: no bootstrapper found
+[2026-04-16 22:53:50] Running query: 1 - GpuTopology
+[2026-04-16 22:53:51] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 64348
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-16 22:53:51] Exit code: 0
+[2026-04-16 22:53:51] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8D47.tmp - 52 bytes
+
+
+[2026-04-16 22:54:41] Client version: no bootstrapper found
+[2026-04-16 22:54:41] Running query: 1 - GpuTopology
+[2026-04-16 22:54:41] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 64348
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-16 22:54:41] Exit code: 0
+[2026-04-16 22:54:41] Saving response to: C:\Users\X-Code\AppData\Local\Temp\523D.tmp - 52 bytes
+
+
+[2026-04-17 15:43:34] Client version: no bootstrapper found
+[2026-04-17 15:43:34] Running query: 1 - GpuTopology
+[2026-04-17 15:43:34] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 62304
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-17 15:43:34] Exit code: 0
+[2026-04-17 15:43:34] Saving response to: C:\Users\X-Code\AppData\Local\Temp\2E9C.tmp - 52 bytes
+
+
+[2026-04-17 20:01:27] Client version: no bootstrapper found
+[2026-04-17 20:01:27] Running query: 1 - GpuTopology
+[2026-04-17 20:01:28] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 65216
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-17 20:01:28] Exit code: 0
+[2026-04-17 20:01:28] Saving response to: C:\Users\X-Code\AppData\Local\Temp\CCA6.tmp - 52 bytes
+
+
+[2026-04-18 10:07:09] Client version: no bootstrapper found
+[2026-04-18 10:07:09] Running query: 1 - GpuTopology
+[2026-04-18 10:07:09] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 595
+    driver_version_minor: 71
+    driver_version_patch: 0
+    luid: 65220
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-18 10:07:09] Exit code: 0
+[2026-04-18 10:07:09] Saving response to: C:\Users\X-Code\AppData\Local\Temp\11CD.tmp - 52 bytes
+
+
+[2026-04-18 16:41:42] Client version: no bootstrapper found
+[2026-04-18 16:41:42] Running query: 1 - GpuTopology
+[2026-04-18 16:41:42] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 65159
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-18 16:41:42] Exit code: 0
+[2026-04-18 16:41:42] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D30F.tmp - 52 bytes
+
+
+[2026-04-18 17:13:08] Client version: no bootstrapper found
+[2026-04-18 17:13:08] Running query: 1 - GpuTopology
+[2026-04-18 17:13:08] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64793
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-18 17:13:08] Exit code: 0
+[2026-04-18 17:13:08] Saving response to: C:\Users\X-Code\AppData\Local\Temp\FB6D.tmp - 52 bytes
+
+
+[2026-04-18 18:45:22] Client version: no bootstrapper found
+[2026-04-18 18:45:22] Running query: 1 - GpuTopology
+[2026-04-18 18:45:23] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64141
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-18 18:45:23] Exit code: 0
+[2026-04-18 18:45:23] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D09.tmp - 52 bytes
+
+
+[2026-04-19 10:24:05] Client version: no bootstrapper found
+[2026-04-19 10:24:05] Running query: 1 - GpuTopology
+[2026-04-19 10:24:05] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 63252
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-19 10:24:05] Exit code: 0
+[2026-04-19 10:24:05] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E38C.tmp - 52 bytes
+
+
+[2026-04-19 19:05:55] Client version: no bootstrapper found
+[2026-04-19 19:05:55] Running query: 1 - GpuTopology
+[2026-04-19 19:05:55] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64993
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-19 19:05:55] Exit code: 0
+[2026-04-19 19:05:55] Saving response to: C:\Users\X-Code\AppData\Local\Temp\AC6C.tmp - 52 bytes
+
+
+[2026-04-20 14:56:20] Client version: no bootstrapper found
+[2026-04-20 14:56:20] Running query: 1 - GpuTopology
+[2026-04-20 14:56:20] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 65003
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-20 14:56:20] Exit code: 0
+[2026-04-20 14:56:20] Saving response to: C:\Users\X-Code\AppData\Local\Temp\947F.tmp - 52 bytes
+
+
+[2026-04-21 14:32:55] Client version: no bootstrapper found
+[2026-04-21 14:32:55] Running query: 1 - GpuTopology
+[2026-04-21 14:32:55] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 65112
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-21 14:32:55] Exit code: 0
+[2026-04-21 14:32:55] Saving response to: C:\Users\X-Code\AppData\Local\Temp\6B57.tmp - 52 bytes
+
+
+[2026-04-21 17:30:00] Client version: no bootstrapper found
+[2026-04-21 17:30:00] Running query: 1 - GpuTopology
+[2026-04-21 17:30:00] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64708
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-21 17:30:00] Exit code: 0
+[2026-04-21 17:30:00] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A98E.tmp - 52 bytes
+
+
+[2026-04-22 13:59:31] Client version: no bootstrapper found
+[2026-04-22 13:59:31] Running query: 1 - GpuTopology
+[2026-04-22 13:59:31] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64092
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-22 13:59:31] Exit code: 0
+[2026-04-22 13:59:31] Saving response to: C:\Users\X-Code\AppData\Local\Temp\FDC8.tmp - 52 bytes
+
+
+[2026-04-22 15:54:25] Client version: no bootstrapper found
+[2026-04-22 15:54:25] Running query: 1 - GpuTopology
+[2026-04-22 15:54:25] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62929
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-22 15:54:25] Exit code: 0
+[2026-04-22 15:54:25] Saving response to: C:\Users\X-Code\AppData\Local\Temp\CF56.tmp - 52 bytes
+
+
+[2026-04-22 19:15:06] Client version: no bootstrapper found
+[2026-04-22 19:15:06] Running query: 1 - GpuTopology
+[2026-04-22 19:15:06] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64709
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-22 19:15:06] Exit code: 0
+[2026-04-22 19:15:06] Saving response to: C:\Users\X-Code\AppData\Local\Temp\56D5.tmp - 52 bytes
+
+
+[2026-04-23 14:09:49] Client version: no bootstrapper found
+[2026-04-23 14:09:49] Running query: 1 - GpuTopology
+[2026-04-23 14:09:49] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64664
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-23 14:09:49] Exit code: 0
+[2026-04-23 14:09:49] Saving response to: C:\Users\X-Code\AppData\Local\Temp\EE6C.tmp - 52 bytes
+
+
+[2026-04-23 19:50:42] Client version: no bootstrapper found
+[2026-04-23 19:50:42] Running query: 1 - GpuTopology
+[2026-04-23 19:50:42] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64628
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-23 19:50:42] Exit code: 0
+[2026-04-23 19:50:42] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8C24.tmp - 52 bytes
+
+
+[2026-04-24 12:54:37] Client version: no bootstrapper found
+[2026-04-24 12:54:37] Running query: 1 - GpuTopology
+[2026-04-24 12:54:37] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64678
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-24 12:54:37] Exit code: 0
+[2026-04-24 12:54:37] Saving response to: C:\Users\X-Code\AppData\Local\Temp\6675.tmp - 52 bytes
+
+
+[2026-04-25 11:08:14] Client version: no bootstrapper found
+[2026-04-25 11:08:14] Running query: 1 - GpuTopology
+[2026-04-25 11:08:14] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 66301
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-25 11:08:14] Exit code: 0
+[2026-04-25 11:08:14] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E125.tmp - 52 bytes
+
+
+[2026-04-25 19:25:58] Client version: no bootstrapper found
+[2026-04-25 19:25:58] Running query: 1 - GpuTopology
+[2026-04-25 19:25:59] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64549
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-25 19:25:59] Exit code: 0
+[2026-04-25 19:25:59] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E956.tmp - 52 bytes
+
+
+[2026-04-25 19:46:09] Client version: no bootstrapper found
+[2026-04-25 19:46:09] Running query: 1 - GpuTopology
+[2026-04-25 19:46:09] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62771
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-25 19:46:09] Exit code: 0
+[2026-04-25 19:46:09] Saving response to: C:\Users\X-Code\AppData\Local\Temp\2BCF.tmp - 52 bytes
+
+
+[2026-04-26 09:46:26] Client version: no bootstrapper found
+[2026-04-26 09:46:26] Running query: 1 - GpuTopology
+[2026-04-26 09:46:26] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64531
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-26 09:46:26] Exit code: 0
+[2026-04-26 09:46:26] Saving response to: C:\Users\X-Code\AppData\Local\Temp\16AF.tmp - 52 bytes
+
+
+[2026-04-26 20:07:41] Client version: no bootstrapper found
+[2026-04-26 20:07:41] Running query: 1 - GpuTopology
+[2026-04-26 20:07:41] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64525
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-26 20:07:41] Exit code: 0
+[2026-04-26 20:07:41] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B536.tmp - 52 bytes
+
+
+[2026-04-27 14:45:20] Client version: no bootstrapper found
+[2026-04-27 14:45:20] Running query: 1 - GpuTopology
+[2026-04-27 14:45:21] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62745
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-27 14:45:21] Exit code: 0
+[2026-04-27 14:45:21] Saving response to: C:\Users\X-Code\AppData\Local\Temp\EEFE.tmp - 52 bytes
+
+
+[2026-04-28 15:35:03] Client version: no bootstrapper found
+[2026-04-28 15:35:03] Running query: 1 - GpuTopology
+[2026-04-28 15:35:03] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64414
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-28 15:35:03] Exit code: 0
+[2026-04-28 15:35:03] Saving response to: C:\Users\X-Code\AppData\Local\Temp\7D7D.tmp - 52 bytes
+
+
+[2026-04-28 19:47:33] Client version: no bootstrapper found
+[2026-04-28 19:47:33] Running query: 1 - GpuTopology
+[2026-04-28 19:47:33] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62975
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-28 19:47:33] Exit code: 0
+[2026-04-28 19:47:33] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E649.tmp - 52 bytes
+
+
+[2026-04-28 22:34:38] Client version: no bootstrapper found
+[2026-04-28 22:34:38] Running query: 1 - GpuTopology
+[2026-04-28 22:34:38] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62975
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-28 22:34:38] Exit code: 0
+[2026-04-28 22:34:38] Saving response to: C:\Users\X-Code\AppData\Local\Temp\DFE8.tmp - 52 bytes
+
+
+[2026-04-28 22:37:44] Client version: no bootstrapper found
+[2026-04-28 22:37:44] Running query: 1 - GpuTopology
+[2026-04-28 22:37:45] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62975
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-28 22:37:45] Exit code: 0
+[2026-04-28 22:37:45] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B80E.tmp - 52 bytes
+
+
+[2026-04-29 00:24:42] Client version: no bootstrapper found
+[2026-04-29 00:24:42] Running query: 1 - GpuTopology
+[2026-04-29 00:24:42] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64759
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-29 00:24:42] Exit code: 0
+[2026-04-29 00:24:42] Saving response to: C:\Users\X-Code\AppData\Local\Temp\68B1.tmp - 52 bytes
+
+
+[2026-04-29 12:56:45] Client version: no bootstrapper found
+[2026-04-29 12:56:45] Running query: 1 - GpuTopology
+[2026-04-29 12:56:45] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62997
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-29 12:56:45] Exit code: 0
+[2026-04-29 12:56:45] Saving response to: C:\Users\X-Code\AppData\Local\Temp\83E7.tmp - 52 bytes
+
+
+[2026-04-29 20:46:16] Client version: no bootstrapper found
+[2026-04-29 20:46:16] Running query: 1 - GpuTopology
+[2026-04-29 20:46:16] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64767
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-29 20:46:16] Exit code: 0
+[2026-04-29 20:46:16] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9FAB.tmp - 52 bytes
+
+
+[2026-04-30 15:41:04] Client version: no bootstrapper found
+[2026-04-30 15:41:04] Running query: 1 - GpuTopology
+[2026-04-30 15:41:04] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64756
+  }
+  default_gpu_id: 1
+}
+
+[2026-04-30 15:41:04] Exit code: 0
+[2026-04-30 15:41:04] Saving response to: C:\Users\X-Code\AppData\Local\Temp\92C6.tmp - 52 bytes
+
+
+[2026-05-03 20:28:08] Client version: no bootstrapper found
+[2026-05-03 20:28:08] Running query: 1 - GpuTopology
+[2026-05-03 20:28:08] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64788
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-03 20:28:08] Exit code: 0
+[2026-05-03 20:28:08] Saving response to: C:\Users\X-Code\AppData\Local\Temp\CA83.tmp - 52 bytes
+
+
+[2026-05-03 21:55:34] Client version: no bootstrapper found
+[2026-05-03 21:55:34] Running query: 1 - GpuTopology
+[2026-05-03 21:55:35] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62714
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-03 21:55:35] Exit code: 0
+[2026-05-03 21:55:35] Saving response to: C:\Users\X-Code\AppData\Local\Temp\CABA.tmp - 52 bytes
+
+
+[2026-05-04 11:36:23] Client version: no bootstrapper found
+[2026-05-04 11:36:23] Running query: 1 - GpuTopology
+[2026-05-04 11:36:24] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 60900
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-04 11:36:24] Exit code: 0
+[2026-05-04 11:36:24] Saving response to: C:\Users\X-Code\AppData\Local\Temp\F821.tmp - 52 bytes
+
+
+[2026-05-04 13:19:26] Client version: no bootstrapper found
+[2026-05-04 13:19:26] Running query: 1 - GpuTopology
+[2026-05-04 13:19:26] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62739
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-04 13:19:26] Exit code: 0
+[2026-05-04 13:19:26] Saving response to: C:\Users\X-Code\AppData\Local\Temp\1A44.tmp - 52 bytes
+
+
+[2026-05-05 00:09:27] Client version: no bootstrapper found
+[2026-05-05 00:09:27] Running query: 1 - GpuTopology
+[2026-05-05 00:09:28] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 60819
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-05 00:09:28] Exit code: 0
+[2026-05-05 00:09:28] Saving response to: C:\Users\X-Code\AppData\Local\Temp\CD42.tmp - 52 bytes
+
+
+[2026-05-05 00:17:54] Client version: no bootstrapper found
+[2026-05-05 00:17:54] Running query: 1 - GpuTopology
+[2026-05-05 00:17:54] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 60906
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-05 00:17:54] Exit code: 0
+[2026-05-05 00:17:54] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9A0.tmp - 52 bytes
+
+
+[2026-05-05 10:37:52] Client version: no bootstrapper found
+[2026-05-05 10:37:52] Running query: 1 - GpuTopology
+[2026-05-05 10:37:52] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 60899
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-05 10:37:52] Exit code: 0
+[2026-05-05 10:37:52] Saving response to: C:\Users\X-Code\AppData\Local\Temp\40D3.tmp - 52 bytes
+
+
+[2026-05-05 12:38:28] Client version: no bootstrapper found
+[2026-05-05 12:38:28] Running query: 1 - GpuTopology
+[2026-05-05 12:38:28] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62697
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-05 12:38:28] Exit code: 0
+[2026-05-05 12:38:28] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B759.tmp - 52 bytes
+
+
+[2026-05-05 17:15:19] Client version: no bootstrapper found
+[2026-05-05 17:15:19] Running query: 1 - GpuTopology
+[2026-05-05 17:15:19] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 60903
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-05 17:15:19] Exit code: 0
+[2026-05-05 17:15:19] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C5EB.tmp - 52 bytes
+
+
+[2026-05-05 19:57:44] Client version: no bootstrapper found
+[2026-05-05 19:57:44] Running query: 1 - GpuTopology
+[2026-05-05 19:57:44] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 63023
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-05 19:57:44] Exit code: 0
+[2026-05-05 19:57:44] Saving response to: C:\Users\X-Code\AppData\Local\Temp\4DEB.tmp - 52 bytes
+
+
+[2026-05-06 10:08:07] Client version: no bootstrapper found
+[2026-05-06 10:08:07] Running query: 1 - GpuTopology
+[2026-05-06 10:08:07] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62992
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-06 10:08:07] Exit code: 0
+[2026-05-06 10:08:07] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D770.tmp - 52 bytes
+
+
+[2026-05-06 19:48:39] Client version: no bootstrapper found
+[2026-05-06 19:48:39] Running query: 1 - GpuTopology
+[2026-05-06 19:48:40] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62716
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-06 19:48:40] Exit code: 0
+[2026-05-06 19:48:40] Saving response to: C:\Users\X-Code\AppData\Local\Temp\911F.tmp - 52 bytes
+
+
+[2026-05-07 13:12:57] Client version: no bootstrapper found
+[2026-05-07 13:12:57] Running query: 1 - GpuTopology
+[2026-05-07 13:12:58] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62635
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-07 13:12:58] Exit code: 0
+[2026-05-07 13:12:58] Saving response to: C:\Users\X-Code\AppData\Local\Temp\CA35.tmp - 52 bytes
+
+
+[2026-05-08 16:16:52] Client version: no bootstrapper found
+[2026-05-08 16:16:52] Running query: 1 - GpuTopology
+[2026-05-08 16:16:52] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62973
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-08 16:16:52] Exit code: 0
+[2026-05-08 16:16:52] Saving response to: C:\Users\X-Code\AppData\Local\Temp\FCFD.tmp - 52 bytes
+
+
+[2026-05-09 10:11:23] Client version: no bootstrapper found
+[2026-05-09 10:11:23] Running query: 1 - GpuTopology
+[2026-05-09 10:11:23] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 59146
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-09 10:11:23] Exit code: 0
+[2026-05-09 10:11:23] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8B37.tmp - 52 bytes
+
+
+[2026-05-09 19:43:43] Client version: no bootstrapper found
+[2026-05-09 19:43:43] Running query: 1 - GpuTopology
+[2026-05-09 19:43:43] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 61279
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-09 19:43:43] Exit code: 0
+[2026-05-09 19:43:43] Saving response to: C:\Users\X-Code\AppData\Local\Temp\CB5E.tmp - 52 bytes
+
+
+[2026-05-10 10:01:06] Client version: no bootstrapper found
+[2026-05-10 10:01:06] Running query: 1 - GpuTopology
+[2026-05-10 10:01:06] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 59139
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-10 10:01:06] Exit code: 0
+[2026-05-10 10:01:06] Saving response to: C:\Users\X-Code\AppData\Local\Temp\F4E0.tmp - 52 bytes
+
+
+[2026-05-10 16:41:23] Client version: no bootstrapper found
+[2026-05-10 16:41:23] Running query: 1 - GpuTopology
+[2026-05-10 16:41:24] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 61474
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-10 16:41:24] Exit code: 0
+[2026-05-10 16:41:24] Saving response to: C:\Users\X-Code\AppData\Local\Temp\952B.tmp - 52 bytes
+
+
+[2026-05-10 19:16:56] Client version: no bootstrapper found
+[2026-05-10 19:16:56] Running query: 1 - GpuTopology
+[2026-05-10 19:16:57] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 59137
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-10 19:16:57] Exit code: 0
+[2026-05-10 19:16:57] Saving response to: C:\Users\X-Code\AppData\Local\Temp\7B79.tmp - 52 bytes
+
+
+[2026-05-10 21:49:13] Client version: no bootstrapper found
+[2026-05-10 21:49:13] Running query: 1 - GpuTopology
+[2026-05-10 21:49:13] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 59997
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-10 21:49:13] Exit code: 0
+[2026-05-10 21:49:13] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B41D.tmp - 52 bytes
+
+
+[2026-05-10 22:10:43] Client version: no bootstrapper found
+[2026-05-10 22:10:43] Running query: 1 - GpuTopology
+[2026-05-10 22:10:44] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64326
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-10 22:10:44] Exit code: 0
+[2026-05-10 22:10:44] Saving response to: C:\Users\X-Code\AppData\Local\Temp\952B.tmp - 52 bytes
+
+
+[2026-05-10 22:42:15] Client version: no bootstrapper found
+[2026-05-10 22:42:15] Running query: 1 - GpuTopology
+[2026-05-10 22:42:15] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 60475
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-10 22:42:15] Exit code: 0
+[2026-05-10 22:42:15] Saving response to: C:\Users\X-Code\AppData\Local\Temp\FB86.tmp - 52 bytes
+
+
+[2026-05-11 15:35:26] Client version: no bootstrapper found
+[2026-05-11 15:35:26] Running query: 1 - GpuTopology
+[2026-05-11 15:35:26] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62186
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-11 15:35:26] Exit code: 0
+[2026-05-11 15:35:26] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D9D.tmp - 52 bytes
+
+
+[2026-05-11 20:21:06] Client version: no bootstrapper found
+[2026-05-11 20:21:06] Running query: 1 - GpuTopology
+[2026-05-11 20:21:06] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62186
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-11 20:21:06] Exit code: 0
+[2026-05-11 20:21:06] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9769.tmp - 52 bytes
+
+
+[2026-05-12 14:51:38] Client version: no bootstrapper found
+[2026-05-12 14:51:38] Running query: 1 - GpuTopology
+[2026-05-12 14:51:39] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62101
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-12 14:51:39] Exit code: 0
+[2026-05-12 14:51:39] Saving response to: C:\Users\X-Code\AppData\Local\Temp\5BF1.tmp - 52 bytes
+
+
+[2026-05-13 13:20:32] Client version: no bootstrapper found
+[2026-05-13 13:20:32] Running query: 1 - GpuTopology
+[2026-05-13 13:20:32] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 62105
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-13 13:20:32] Exit code: 0
+[2026-05-13 13:20:32] Saving response to: C:\Users\X-Code\AppData\Local\Temp\5A30.tmp - 52 bytes
+
+
+[2026-05-13 17:55:45] Client version: no bootstrapper found
+[2026-05-13 17:55:45] Running query: 1 - GpuTopology
+[2026-05-13 17:55:46] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 21
+    driver_version_patch: 0
+    luid: 64062
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-13 17:55:46] Exit code: 0
+[2026-05-13 17:55:46] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E24F.tmp - 52 bytes
+
+
+[2026-05-14 14:56:10] Client version: no bootstrapper found
+[2026-05-14 14:56:10] Running query: 1 - GpuTopology
+[2026-05-14 14:56:10] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 63054
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-14 14:56:10] Exit code: 0
+[2026-05-14 14:56:10] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A534.tmp - 52 bytes
+
+
+[2026-05-14 19:03:03] Client version: no bootstrapper found
+[2026-05-14 19:03:03] Running query: 1 - GpuTopology
+[2026-05-14 19:03:03] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 62657
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-14 19:03:03] Exit code: 0
+[2026-05-14 19:03:03] Saving response to: C:\Users\X-Code\AppData\Local\Temp\3C0A.tmp - 52 bytes
+
+
+[2026-05-15 13:56:58] Client version: no bootstrapper found
+[2026-05-15 13:56:58] Running query: 1 - GpuTopology
+[2026-05-15 13:56:58] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 63090
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-15 13:56:58] Exit code: 0
+[2026-05-15 13:56:58] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B7CD.tmp - 52 bytes
+
+
+[2026-05-15 19:33:50] Client version: no bootstrapper found
+[2026-05-15 19:33:50] Running query: 1 - GpuTopology
+[2026-05-15 19:33:50] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 63066
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-15 19:33:50] Exit code: 0
+[2026-05-15 19:33:50] Saving response to: C:\Users\X-Code\AppData\Local\Temp\AAB7.tmp - 52 bytes
+
+
+[2026-05-16 09:21:50] Client version: no bootstrapper found
+[2026-05-16 09:21:50] Running query: 1 - GpuTopology
+[2026-05-16 09:21:50] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 63405
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-16 09:21:50] Exit code: 0
+[2026-05-16 09:21:50] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9BDD.tmp - 52 bytes
+
+
+[2026-05-16 20:00:20] Client version: no bootstrapper found
+[2026-05-16 20:00:20] Running query: 1 - GpuTopology
+[2026-05-16 20:00:20] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 63070
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-16 20:00:20] Exit code: 0
+[2026-05-16 20:00:20] Saving response to: C:\Users\X-Code\AppData\Local\Temp\DDFC.tmp - 52 bytes
+
+
+[2026-05-17 13:49:49] Client version: no bootstrapper found
+[2026-05-17 13:49:49] Running query: 1 - GpuTopology
+[2026-05-17 13:49:49] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 66393
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-17 13:49:49] Exit code: 0
+[2026-05-17 13:49:49] Saving response to: C:\Users\X-Code\AppData\Local\Temp\EE79.tmp - 52 bytes
+
+
+[2026-05-17 19:05:46] Client version: no bootstrapper found
+[2026-05-17 19:05:46] Running query: 1 - GpuTopology
+[2026-05-17 19:05:46] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 60384
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-17 19:05:46] Exit code: 0
+[2026-05-17 19:05:46] Saving response to: C:\Users\X-Code\AppData\Local\Temp\1170.tmp - 52 bytes
+
+
+[2026-05-18 15:44:55] Client version: no bootstrapper found
+[2026-05-18 15:44:55] Running query: 1 - GpuTopology
+[2026-05-18 15:44:56] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 62808
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-18 15:44:56] Exit code: 0
+[2026-05-18 15:44:56] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9F7C.tmp - 52 bytes
+
+
+[2026-05-18 19:48:43] Client version: no bootstrapper found
+[2026-05-18 19:48:43] Running query: 1 - GpuTopology
+[2026-05-18 19:48:43] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 63136
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-18 19:48:43] Exit code: 0
+[2026-05-18 19:48:43] Saving response to: C:\Users\X-Code\AppData\Local\Temp\2E36.tmp - 52 bytes
+
+
+[2026-05-19 14:49:57] Client version: no bootstrapper found
+[2026-05-19 14:49:57] Running query: 1 - GpuTopology
+[2026-05-19 14:49:57] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 62994
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-19 14:49:57] Exit code: 0
+[2026-05-19 14:49:57] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C923.tmp - 52 bytes
+
+
+[2026-05-19 19:38:15] Client version: no bootstrapper found
+[2026-05-19 19:38:15] Running query: 1 - GpuTopology
+[2026-05-19 19:38:15] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 63189
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-19 19:38:15] Exit code: 0
+[2026-05-19 19:38:15] Saving response to: C:\Users\X-Code\AppData\Local\Temp\DD6.tmp - 52 bytes
+
+
+[2026-05-20 13:10:07] Client version: no bootstrapper found
+[2026-05-20 13:10:07] Running query: 1 - GpuTopology
+[2026-05-20 13:10:07] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 60599
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-20 13:10:07] Exit code: 0
+[2026-05-20 13:10:07] Saving response to: C:\Users\X-Code\AppData\Local\Temp\1306.tmp - 52 bytes
+
+
+[2026-05-21 16:12:18] Client version: no bootstrapper found
+[2026-05-21 16:12:18] Running query: 1 - GpuTopology
+[2026-05-21 16:12:18] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 67275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-21 16:12:18] Exit code: 0
+[2026-05-21 16:12:18] Saving response to: C:\Users\X-Code\AppData\Local\Temp\EE18.tmp - 52 bytes
+
+
+[2026-05-21 17:27:57] Client version: no bootstrapper found
+[2026-05-21 17:27:57] Running query: 1 - GpuTopology
+[2026-05-21 17:27:57] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 61779
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-21 17:27:57] Exit code: 0
+[2026-05-21 17:27:57] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B49A.tmp - 52 bytes
+
+
+[2026-05-21 23:28:46] Client version: no bootstrapper found
+[2026-05-21 23:28:46] Running query: 1 - GpuTopology
+[2026-05-21 23:28:46] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 65281
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-21 23:28:46] Exit code: 0
+[2026-05-21 23:28:46] Saving response to: C:\Users\X-Code\AppData\Local\Temp\87DD.tmp - 52 bytes
+
+
+[2026-05-22 15:51:40] Client version: no bootstrapper found
+[2026-05-22 15:51:40] Running query: 1 - GpuTopology
+[2026-05-22 15:51:40] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 61830
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-22 15:51:40] Exit code: 0
+[2026-05-22 15:51:40] Saving response to: C:\Users\X-Code\AppData\Local\Temp\EAAE.tmp - 52 bytes
+
+
+[2026-05-22 19:33:30] Client version: no bootstrapper found
+[2026-05-22 19:33:30] Running query: 1 - GpuTopology
+[2026-05-22 19:33:30] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 62079
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-22 19:33:30] Exit code: 0
+[2026-05-22 19:33:30] Saving response to: C:\Users\X-Code\AppData\Local\Temp\3E1D.tmp - 52 bytes
+
+
+[2026-05-23 10:19:58] Client version: no bootstrapper found
+[2026-05-23 10:19:58] Running query: 1 - GpuTopology
+[2026-05-23 10:19:59] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 62627
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-23 10:19:59] Exit code: 0
+[2026-05-23 10:19:59] Saving response to: C:\Users\X-Code\AppData\Local\Temp\BBEE.tmp - 52 bytes
+
+
+[2026-05-23 17:45:30] Client version: no bootstrapper found
+[2026-05-23 17:45:30] Running query: 1 - GpuTopology
+[2026-05-23 17:45:30] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 61756
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-23 17:45:30] Exit code: 0
+[2026-05-23 17:45:30] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D3E8.tmp - 52 bytes
+
+
+[2026-05-24 09:34:48] Client version: no bootstrapper found
+[2026-05-24 09:34:48] Running query: 1 - GpuTopology
+[2026-05-24 09:34:48] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 60973
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-24 09:34:48] Exit code: 0
+[2026-05-24 09:34:48] Saving response to: C:\Users\X-Code\AppData\Local\Temp\47BD.tmp - 52 bytes
+
+
+[2026-05-24 15:22:58] Client version: no bootstrapper found
+[2026-05-24 15:22:58] Running query: 1 - GpuTopology
+[2026-05-24 15:22:58] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 62469
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-24 15:22:58] Exit code: 0
+[2026-05-24 15:22:58] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B889.tmp - 52 bytes
+
+
+[2026-05-24 18:13:15] Client version: no bootstrapper found
+[2026-05-24 18:13:15] Running query: 1 - GpuTopology
+[2026-05-24 18:13:15] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 62469
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-24 18:13:15] Exit code: 0
+[2026-05-24 18:13:15] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A0E4.tmp - 52 bytes
+
+
+[2026-05-24 18:29:01] Client version: no bootstrapper found
+[2026-05-24 18:29:01] Running query: 1 - GpuTopology
+[2026-05-24 18:29:01] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 67168
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-24 18:29:01] Exit code: 0
+[2026-05-24 18:29:01] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E1B5.tmp - 52 bytes
+
+
+[2026-05-24 18:35:21] Client version: no bootstrapper found
+[2026-05-24 18:35:21] Running query: 1 - GpuTopology
+[2026-05-24 18:35:21] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 60844
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-24 18:35:21] Exit code: 0
+[2026-05-24 18:35:21] Saving response to: C:\Users\X-Code\AppData\Local\Temp\84CB.tmp - 52 bytes
+
+
+[2026-05-25 15:43:52] Client version: no bootstrapper found
+[2026-05-25 15:43:52] Running query: 1 - GpuTopology
+[2026-05-25 15:43:52] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 60996
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-25 15:43:52] Exit code: 0
+[2026-05-25 15:43:52] Saving response to: C:\Users\X-Code\AppData\Local\Temp\61C1.tmp - 52 bytes
+
+
+[2026-05-25 19:12:23] Client version: no bootstrapper found
+[2026-05-25 19:12:23] Running query: 1 - GpuTopology
+[2026-05-25 19:12:23] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 596
+    driver_version_minor: 49
+    driver_version_patch: 0
+    luid: 60996
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-25 19:12:23] Exit code: 0
+[2026-05-25 19:12:23] Saving response to: C:\Users\X-Code\AppData\Local\Temp\4946.tmp - 52 bytes
+
+
+[2026-05-25 23:09:33] Client version: no bootstrapper found
+[2026-05-25 23:09:33] Running query: 1 - GpuTopology
+[2026-05-25 23:09:33] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-25 23:09:33] Exit code: 0
+[2026-05-25 23:09:33] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D4A5.tmp - 52 bytes
+
+
+[2026-05-25 23:42:15] Client version: no bootstrapper found
+[2026-05-25 23:42:15] Running query: 1 - GpuTopology
+[2026-05-25 23:42:15] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-25 23:42:15] Exit code: 0
+[2026-05-25 23:42:15] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C3BB.tmp - 52 bytes
+
+
+[2026-05-25 23:45:44] Client version: no bootstrapper found
+[2026-05-25 23:45:44] Running query: 1 - GpuTopology
+[2026-05-25 23:45:44] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-25 23:45:44] Exit code: 0
+[2026-05-25 23:45:44] Saving response to: C:\Users\X-Code\AppData\Local\Temp\F4FE.tmp - 52 bytes
+
+
+[2026-05-25 23:55:47] Client version: no bootstrapper found
+[2026-05-25 23:55:47] Running query: 1 - GpuTopology
+[2026-05-25 23:55:47] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-25 23:55:47] Exit code: 0
+[2026-05-25 23:55:47] Saving response to: C:\Users\X-Code\AppData\Local\Temp\26A1.tmp - 52 bytes
+
+
+[2026-05-25 23:57:28] Client version: no bootstrapper found
+[2026-05-25 23:57:28] Running query: 1 - GpuTopology
+[2026-05-25 23:57:28] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-25 23:57:28] Exit code: 0
+[2026-05-25 23:57:28] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B242.tmp - 52 bytes
+
+
+[2026-05-26 00:00:09] Client version: no bootstrapper found
+[2026-05-26 00:00:09] Running query: 1 - GpuTopology
+[2026-05-26 00:00:09] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:00:09] Exit code: 0
+[2026-05-26 00:00:09] Saving response to: C:\Users\X-Code\AppData\Local\Temp\2853.tmp - 52 bytes
+
+
+[2026-05-26 00:02:30] Client version: no bootstrapper found
+[2026-05-26 00:02:30] Running query: 1 - GpuTopology
+[2026-05-26 00:02:30] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:02:30] Exit code: 0
+[2026-05-26 00:02:30] Saving response to: C:\Users\X-Code\AppData\Local\Temp\4D95.tmp - 52 bytes
+
+
+[2026-05-26 00:02:41] Client version: no bootstrapper found
+[2026-05-26 00:02:41] Running query: 1 - GpuTopology
+[2026-05-26 00:02:41] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:02:41] Exit code: 0
+[2026-05-26 00:02:41] Saving response to: C:\Users\X-Code\AppData\Local\Temp\77C1.tmp - 52 bytes
+
+
+[2026-05-26 00:03:07] Client version: no bootstrapper found
+[2026-05-26 00:03:07] Running query: 1 - GpuTopology
+[2026-05-26 00:03:07] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:03:07] Exit code: 0
+[2026-05-26 00:03:07] Saving response to: C:\Users\X-Code\AppData\Local\Temp\DF45.tmp - 52 bytes
+
+
+[2026-05-26 00:03:33] Client version: no bootstrapper found
+[2026-05-26 00:03:33] Running query: 1 - GpuTopology
+[2026-05-26 00:03:34] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:03:34] Exit code: 0
+[2026-05-26 00:03:34] Saving response to: C:\Users\X-Code\AppData\Local\Temp\45CF.tmp - 52 bytes
+
+
+[2026-05-26 00:03:51] Client version: no bootstrapper found
+[2026-05-26 00:03:51] Running query: 1 - GpuTopology
+[2026-05-26 00:03:51] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:03:51] Exit code: 0
+[2026-05-26 00:03:51] Saving response to: C:\Users\X-Code\AppData\Local\Temp\8BC2.tmp - 52 bytes
+
+
+[2026-05-26 00:04:05] Client version: no bootstrapper found
+[2026-05-26 00:04:05] Running query: 1 - GpuTopology
+[2026-05-26 00:04:05] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:04:05] Exit code: 0
+[2026-05-26 00:04:05] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C262.tmp - 52 bytes
+
+
+[2026-05-26 00:04:25] Client version: no bootstrapper found
+[2026-05-26 00:04:25] Running query: 1 - GpuTopology
+[2026-05-26 00:04:26] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:04:26] Exit code: 0
+[2026-05-26 00:04:26] Saving response to: C:\Users\X-Code\AppData\Local\Temp\112E.tmp - 52 bytes
+
+
+[2026-05-26 00:05:01] Client version: no bootstrapper found
+[2026-05-26 00:05:01] Running query: 1 - GpuTopology
+[2026-05-26 00:05:01] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:05:01] Exit code: 0
+[2026-05-26 00:05:01] Saving response to: C:\Users\X-Code\AppData\Local\Temp\9C76.tmp - 52 bytes
+
+
+[2026-05-26 00:05:37] Client version: no bootstrapper found
+[2026-05-26 00:05:37] Running query: 1 - GpuTopology
+[2026-05-26 00:05:38] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:05:38] Exit code: 0
+[2026-05-26 00:05:38] Saving response to: C:\Users\X-Code\AppData\Local\Temp\2A5E.tmp - 52 bytes
+
+
+[2026-05-26 00:06:16] Client version: no bootstrapper found
+[2026-05-26 00:06:16] Running query: 1 - GpuTopology
+[2026-05-26 00:06:16] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:06:16] Exit code: 0
+[2026-05-26 00:06:16] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C0C2.tmp - 52 bytes
+
+
+[2026-05-26 00:07:05] Client version: no bootstrapper found
+[2026-05-26 00:07:05] Running query: 1 - GpuTopology
+[2026-05-26 00:07:05] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:07:05] Exit code: 0
+[2026-05-26 00:07:05] Saving response to: C:\Users\X-Code\AppData\Local\Temp\7FEC.tmp - 52 bytes
+
+
+[2026-05-26 00:07:59] Client version: no bootstrapper found
+[2026-05-26 00:07:59] Running query: 1 - GpuTopology
+[2026-05-26 00:07:59] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 62275
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:07:59] Exit code: 0
+[2026-05-26 00:07:59] Saving response to: C:\Users\X-Code\AppData\Local\Temp\5472.tmp - 52 bytes
+
+
+[2026-05-26 00:12:08] Client version: no bootstrapper found
+[2026-05-26 00:12:08] Running query: 1 - GpuTopology
+[2026-05-26 00:12:08] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:12:08] Exit code: 0
+[2026-05-26 00:12:08] Saving response to: C:\Users\X-Code\AppData\Local\Temp\99AF.tmp - 52 bytes
+
+
+[2026-05-26 00:12:34] Client version: no bootstrapper found
+[2026-05-26 00:12:34] Running query: 1 - GpuTopology
+[2026-05-26 00:12:34] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:12:34] Exit code: 0
+[2026-05-26 00:12:34] Saving response to: C:\Users\X-Code\AppData\Local\Temp\FF3F.tmp - 52 bytes
+
+
+[2026-05-26 00:15:27] Client version: no bootstrapper found
+[2026-05-26 00:15:27] Running query: 1 - GpuTopology
+[2026-05-26 00:15:27] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:15:27] Exit code: 0
+[2026-05-26 00:15:27] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A29A.tmp - 52 bytes
+
+
+[2026-05-26 00:16:00] Client version: no bootstrapper found
+[2026-05-26 00:16:00] Running query: 1 - GpuTopology
+[2026-05-26 00:16:00] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:16:00] Exit code: 0
+[2026-05-26 00:16:00] Saving response to: C:\Users\X-Code\AppData\Local\Temp\23D0.tmp - 52 bytes
+
+
+[2026-05-26 00:21:16] Client version: no bootstrapper found
+[2026-05-26 00:21:16] Running query: 1 - GpuTopology
+[2026-05-26 00:21:16] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:21:16] Exit code: 0
+[2026-05-26 00:21:16] Saving response to: C:\Users\X-Code\AppData\Local\Temp\F6BD.tmp - 52 bytes
+
+
+[2026-05-26 00:22:16] Client version: no bootstrapper found
+[2026-05-26 00:22:16] Running query: 1 - GpuTopology
+[2026-05-26 00:22:16] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:22:16] Exit code: 0
+[2026-05-26 00:22:16] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E0EE.tmp - 52 bytes
+
+
+[2026-05-26 00:22:24] Client version: no bootstrapper found
+[2026-05-26 00:22:24] Running query: 1 - GpuTopology
+[2026-05-26 00:22:24] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:22:24] Exit code: 0
+[2026-05-26 00:22:24] Saving response to: C:\Users\X-Code\AppData\Local\Temp\FE98.tmp - 52 bytes
+
+
+[2026-05-26 00:22:46] Client version: no bootstrapper found
+[2026-05-26 00:22:46] Running query: 1 - GpuTopology
+[2026-05-26 00:22:46] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:22:46] Exit code: 0
+[2026-05-26 00:22:46] Saving response to: C:\Users\X-Code\AppData\Local\Temp\55B0.tmp - 52 bytes
+
+
+[2026-05-26 00:24:17] Client version: no bootstrapper found
+[2026-05-26 00:24:17] Running query: 1 - GpuTopology
+[2026-05-26 00:24:17] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:24:17] Exit code: 0
+[2026-05-26 00:24:17] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B9A5.tmp - 52 bytes
+
+
+[2026-05-26 00:27:32] Client version: no bootstrapper found
+[2026-05-26 00:27:32] Running query: 1 - GpuTopology
+[2026-05-26 00:27:32] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:27:32] Exit code: 0
+[2026-05-26 00:27:32] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B235.tmp - 52 bytes
+
+
+[2026-05-26 00:31:52] Client version: no bootstrapper found
+[2026-05-26 00:31:52] Running query: 1 - GpuTopology
+[2026-05-26 00:31:52] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:31:52] Exit code: 0
+[2026-05-26 00:31:52] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A909.tmp - 52 bytes
+
+
+[2026-05-26 00:32:07] Client version: no bootstrapper found
+[2026-05-26 00:32:07] Running query: 1 - GpuTopology
+[2026-05-26 00:32:07] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:32:07] Exit code: 0
+[2026-05-26 00:32:07] Saving response to: C:\Users\X-Code\AppData\Local\Temp\E518.tmp - 52 bytes
+
+
+[2026-05-26 00:33:50] Client version: no bootstrapper found
+[2026-05-26 00:33:50] Running query: 1 - GpuTopology
+[2026-05-26 00:33:51] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:33:51] Exit code: 0
+[2026-05-26 00:33:51] Saving response to: C:\Users\X-Code\AppData\Local\Temp\78C8.tmp - 52 bytes
+
+
+[2026-05-26 00:35:32] Client version: no bootstrapper found
+[2026-05-26 00:35:32] Running query: 1 - GpuTopology
+[2026-05-26 00:35:32] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:35:32] Exit code: 0
+[2026-05-26 00:35:32] Saving response to: C:\Users\X-Code\AppData\Local\Temp\3EC.tmp - 52 bytes
+
+
+[2026-05-26 00:50:34] Client version: no bootstrapper found
+[2026-05-26 00:50:34] Running query: 1 - GpuTopology
+[2026-05-26 00:50:34] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:50:34] Exit code: 0
+[2026-05-26 00:50:34] Saving response to: C:\Users\X-Code\AppData\Local\Temp\CA6A.tmp - 52 bytes
+
+
+[2026-05-26 00:59:55] Client version: no bootstrapper found
+[2026-05-26 00:59:55] Running query: 1 - GpuTopology
+[2026-05-26 00:59:55] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 00:59:55] Exit code: 0
+[2026-05-26 00:59:55] Saving response to: C:\Users\X-Code\AppData\Local\Temp\57CE.tmp - 52 bytes
+
+
+[2026-05-26 01:00:03] Client version: no bootstrapper found
+[2026-05-26 01:00:03] Running query: 1 - GpuTopology
+[2026-05-26 01:00:03] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 01:00:03] Exit code: 0
+[2026-05-26 01:00:03] Saving response to: C:\Users\X-Code\AppData\Local\Temp\77D9.tmp - 52 bytes
+
+
+[2026-05-26 01:00:17] Client version: no bootstrapper found
+[2026-05-26 01:00:17] Running query: 1 - GpuTopology
+[2026-05-26 01:00:17] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 01:00:17] Exit code: 0
+[2026-05-26 01:00:17] Saving response to: C:\Users\X-Code\AppData\Local\Temp\ACF3.tmp - 52 bytes
+
+
+[2026-05-26 01:10:37] Client version: no bootstrapper found
+[2026-05-26 01:10:37] Running query: 1 - GpuTopology
+[2026-05-26 01:10:37] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60452
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 01:10:37] Exit code: 0
+[2026-05-26 01:10:37] Saving response to: C:\Users\X-Code\AppData\Local\Temp\22A4.tmp - 52 bytes
+
+
+[2026-05-26 06:41:48] Client version: no bootstrapper found
+[2026-05-26 06:41:48] Running query: 1 - GpuTopology
+[2026-05-26 06:41:48] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60693
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 06:41:48] Exit code: 0
+[2026-05-26 06:41:48] Saving response to: C:\Users\X-Code\AppData\Local\Temp\FABB.tmp - 52 bytes
+
+
+[2026-05-26 06:41:58] Client version: no bootstrapper found
+[2026-05-26 06:41:58] Running query: 1 - GpuTopology
+[2026-05-26 06:41:58] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60693
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 06:41:58] Exit code: 0
+[2026-05-26 06:41:58] Saving response to: C:\Users\X-Code\AppData\Local\Temp\2229.tmp - 52 bytes
+
+
+[2026-05-26 15:08:06] Client version: no bootstrapper found
+[2026-05-26 15:08:06] Running query: 1 - GpuTopology
+[2026-05-26 15:08:06] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60461
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 15:08:06] Exit code: 0
+[2026-05-26 15:08:06] Saving response to: C:\Users\X-Code\AppData\Local\Temp\5D01.tmp - 52 bytes
+
+
+[2026-05-26 18:50:06] Client version: no bootstrapper found
+[2026-05-26 18:50:06] Running query: 1 - GpuTopology
+[2026-05-26 18:50:07] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 18:50:07] Exit code: 0
+[2026-05-26 18:50:07] Saving response to: C:\Users\X-Code\AppData\Local\Temp\ED3E.tmp - 52 bytes
+
+
+[2026-05-26 18:50:20] Client version: no bootstrapper found
+[2026-05-26 18:50:20] Running query: 1 - GpuTopology
+[2026-05-26 18:50:21] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 18:50:21] Exit code: 0
+[2026-05-26 18:50:21] Saving response to: C:\Users\X-Code\AppData\Local\Temp\2371.tmp - 52 bytes
+
+
+[2026-05-26 18:53:31] Client version: no bootstrapper found
+[2026-05-26 18:53:31] Running query: 1 - GpuTopology
+[2026-05-26 18:53:31] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 18:53:31] Exit code: 0
+[2026-05-26 18:53:31] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A6C.tmp - 52 bytes
+
+
+[2026-05-26 18:53:45] Client version: no bootstrapper found
+[2026-05-26 18:53:45] Running query: 1 - GpuTopology
+[2026-05-26 18:53:45] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 18:53:45] Exit code: 0
+[2026-05-26 18:53:45] Saving response to: C:\Users\X-Code\AppData\Local\Temp\43BC.tmp - 52 bytes
+
+
+[2026-05-26 19:07:25] Client version: no bootstrapper found
+[2026-05-26 19:07:25] Running query: 1 - GpuTopology
+[2026-05-26 19:07:25] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 19:07:25] Exit code: 0
+[2026-05-26 19:07:25] Saving response to: C:\Users\X-Code\AppData\Local\Temp\C41D.tmp - 52 bytes
+
+
+[2026-05-26 19:07:40] Client version: no bootstrapper found
+[2026-05-26 19:07:40] Running query: 1 - GpuTopology
+[2026-05-26 19:07:40] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 19:07:40] Exit code: 0
+[2026-05-26 19:07:40] Saving response to: C:\Users\X-Code\AppData\Local\Temp\FEB5.tmp - 52 bytes
+
+
+[2026-05-26 19:07:47] Client version: no bootstrapper found
+[2026-05-26 19:07:47] Running query: 1 - GpuTopology
+[2026-05-26 19:07:47] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 19:07:47] Exit code: 0
+[2026-05-26 19:07:47] Saving response to: C:\Users\X-Code\AppData\Local\Temp\1BF1.tmp - 52 bytes
+
+
+[2026-05-26 19:08:34] Client version: no bootstrapper found
+[2026-05-26 19:08:34] Running query: 1 - GpuTopology
+[2026-05-26 19:08:34] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 19:08:34] Exit code: 0
+[2026-05-26 19:08:34] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D454.tmp - 52 bytes
+
+
+[2026-05-26 19:13:57] Client version: no bootstrapper found
+[2026-05-26 19:13:57] Running query: 1 - GpuTopology
+[2026-05-26 19:13:57] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 19:13:57] Exit code: 0
+[2026-05-26 19:13:57] Saving response to: C:\Users\X-Code\AppData\Local\Temp\BF9B.tmp - 52 bytes
+
+
+[2026-05-26 19:14:18] Client version: no bootstrapper found
+[2026-05-26 19:14:18] Running query: 1 - GpuTopology
+[2026-05-26 19:14:19] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 19:14:19] Exit code: 0
+[2026-05-26 19:14:19] Saving response to: C:\Users\X-Code\AppData\Local\Temp\14C0.tmp - 52 bytes
+
+
+[2026-05-26 19:16:01] Client version: no bootstrapper found
+[2026-05-26 19:16:01] Running query: 1 - GpuTopology
+[2026-05-26 19:16:01] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 19:16:01] Exit code: 0
+[2026-05-26 19:16:01] Saving response to: C:\Users\X-Code\AppData\Local\Temp\A5EF.tmp - 52 bytes
+
+
+[2026-05-26 19:16:13] Client version: no bootstrapper found
+[2026-05-26 19:16:13] Running query: 1 - GpuTopology
+[2026-05-26 19:16:13] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 19:16:13] Exit code: 0
+[2026-05-26 19:16:13] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D329.tmp - 52 bytes
+
+
+[2026-05-26 19:16:20] Client version: no bootstrapper found
+[2026-05-26 19:16:20] Running query: 1 - GpuTopology
+[2026-05-26 19:16:20] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 19:16:20] Exit code: 0
+[2026-05-26 19:16:20] Saving response to: C:\Users\X-Code\AppData\Local\Temp\F0F2.tmp - 52 bytes
+
+
+[2026-05-26 19:16:31] Client version: no bootstrapper found
+[2026-05-26 19:16:31] Running query: 1 - GpuTopology
+[2026-05-26 19:16:31] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 19:16:31] Exit code: 0
+[2026-05-26 19:16:31] Saving response to: C:\Users\X-Code\AppData\Local\Temp\1A93.tmp - 52 bytes
+
+
+[2026-05-26 19:17:18] Client version: no bootstrapper found
+[2026-05-26 19:17:18] Running query: 1 - GpuTopology
+[2026-05-26 19:17:18] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 19:17:18] Exit code: 0
+[2026-05-26 19:17:18] Saving response to: C:\Users\X-Code\AppData\Local\Temp\D16F.tmp - 52 bytes
+
+
+[2026-05-26 21:16:37] Client version: no bootstrapper found
+[2026-05-26 21:16:37] Running query: 1 - GpuTopology
+[2026-05-26 21:16:38] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 65040
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-26 21:16:38] Exit code: 0
+[2026-05-26 21:16:38] Saving response to: C:\Users\X-Code\AppData\Local\Temp\10E7.tmp - 52 bytes
+
+
+[2026-05-27 13:12:59] Client version: no bootstrapper found
+[2026-05-27 13:12:59] Running query: 1 - GpuTopology
+[2026-05-27 13:12:59] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60682
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-27 13:12:59] Exit code: 0
+[2026-05-27 13:12:59] Saving response to: C:\Users\X-Code\AppData\Local\Temp\2F8D.tmp - 52 bytes
+
+
+[2026-05-27 13:23:57] Client version: no bootstrapper found
+[2026-05-27 13:23:57] Running query: 1 - GpuTopology
+[2026-05-27 13:23:57] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60682
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-27 13:23:57] Exit code: 0
+[2026-05-27 13:23:57] Saving response to: C:\Users\X-Code\AppData\Local\Temp\3CBB.tmp - 52 bytes
+
+
+[2026-05-27 13:24:54] Client version: no bootstrapper found
+[2026-05-27 13:24:54] Running query: 1 - GpuTopology
+[2026-05-27 13:24:54] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60682
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-27 13:24:54] Exit code: 0
+[2026-05-27 13:24:54] Saving response to: C:\Users\X-Code\AppData\Local\Temp\1BFF.tmp - 52 bytes
+
+
+[2026-05-27 13:25:03] Client version: no bootstrapper found
+[2026-05-27 13:25:03] Running query: 1 - GpuTopology
+[2026-05-27 13:25:03] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60682
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-27 13:25:03] Exit code: 0
+[2026-05-27 13:25:03] Saving response to: C:\Users\X-Code\AppData\Local\Temp\3D33.tmp - 52 bytes
+
+
+[2026-05-27 13:25:10] Client version: no bootstrapper found
+[2026-05-27 13:25:10] Running query: 1 - GpuTopology
+[2026-05-27 13:25:10] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60682
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-27 13:25:10] Exit code: 0
+[2026-05-27 13:25:10] Saving response to: C:\Users\X-Code\AppData\Local\Temp\5985.tmp - 52 bytes
+
+
+[2026-05-27 13:25:17] Client version: no bootstrapper found
+[2026-05-27 13:25:17] Running query: 1 - GpuTopology
+[2026-05-27 13:25:17] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60682
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-27 13:25:17] Exit code: 0
+[2026-05-27 13:25:17] Saving response to: C:\Users\X-Code\AppData\Local\Temp\7451.tmp - 52 bytes
+
+
+[2026-05-27 13:26:16] Client version: no bootstrapper found
+[2026-05-27 13:26:16] Running query: 1 - GpuTopology
+[2026-05-27 13:26:16] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60682
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-27 13:26:16] Exit code: 0
+[2026-05-27 13:26:16] Saving response to: C:\Users\X-Code\AppData\Local\Temp\5961.tmp - 52 bytes
+
+
+[2026-05-27 13:27:17] Client version: no bootstrapper found
+[2026-05-27 13:27:17] Running query: 1 - GpuTopology
+[2026-05-27 13:27:17] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60682
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-27 13:27:17] Exit code: 0
+[2026-05-27 13:27:17] Saving response to: C:\Users\X-Code\AppData\Local\Temp\494F.tmp - 52 bytes
+
+
+[2026-05-27 13:27:45] Client version: no bootstrapper found
+[2026-05-27 13:27:45] Running query: 1 - GpuTopology
+[2026-05-27 13:27:45] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "NVIDIA GeForce RTX 5070"
+    vram_size_bytes: 12523143168
+    driver_id: k_EGpuDriverId_NvidiaProprietary
+    driver_version_major: 591
+    driver_version_minor: 44
+    driver_version_patch: 0
+    luid: 60682
+  }
+  default_gpu_id: 1
+}
+
+[2026-05-27 13:27:45] Exit code: 0
+[2026-05-27 13:27:45] Saving response to: C:\Users\X-Code\AppData\Local\Temp\B567.tmp - 52 bytes

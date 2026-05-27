@@ -1,0 +1,3279 @@
+
+
+[2026-02-26 20:42:08] Client version: 1769025840
+[2026-02-26 20:42:08] Initialized CSystemDockManagerController: 0
+[2026-02-26 20:42:08] Initialized CSystemAudioDeviceController: 0
+[2026-02-26 20:42:08] Initialized CSystemDisplayController: 0
+[2026-02-26 20:42:08] Initializing bluetooth manager: stub
+[2026-02-26 20:42:08] Initialized CSystemPerfController: 0
+[2026-02-26 20:42:08] Initialized CSteamUINetworkController: 1
+[2026-02-26 20:42:08] Initialized CSystemReportController
+[2026-02-26 20:42:08] CGamescopeController: initalized stub implementation
+
+
+[2026-02-26 21:10:46] Client version: 1769025840
+[2026-02-26 21:10:46] Initialized CSystemDockManagerController: 0
+[2026-02-26 21:10:46] Initialized CSystemAudioDeviceController: 0
+[2026-02-26 21:10:46] Initialized CSystemDisplayController: 0
+[2026-02-26 21:10:46] Initializing bluetooth manager: stub
+[2026-02-26 21:10:46] Initialized CSystemPerfController: 0
+[2026-02-26 21:10:46] Initialized CSteamUINetworkController: 1
+[2026-02-26 21:10:46] Initialized CSystemReportController
+[2026-02-26 21:10:46] CGamescopeController: initalized stub implementation
+
+
+[2026-02-26 23:20:29] Client version: 1769025840
+[2026-02-26 23:20:29] Initialized CSystemDockManagerController: 0
+[2026-02-26 23:20:29] Initialized CSystemAudioDeviceController: 0
+[2026-02-26 23:20:29] Initialized CSystemDisplayController: 0
+[2026-02-26 23:20:29] Initializing bluetooth manager: stub
+[2026-02-26 23:20:29] Initialized CSystemPerfController: 0
+[2026-02-26 23:20:29] Initialized CSteamUINetworkController: 1
+[2026-02-26 23:20:29] Initialized CSystemReportController
+[2026-02-26 23:20:29] CGamescopeController: initalized stub implementation
+
+
+[2026-02-26 23:31:59] Client version: 1769025840
+[2026-02-26 23:31:59] Initialized CSystemDockManagerController: 0
+[2026-02-26 23:31:59] Initialized CSystemAudioDeviceController: 0
+[2026-02-26 23:31:59] Initialized CSystemDisplayController: 0
+[2026-02-26 23:31:59] Initializing bluetooth manager: stub
+[2026-02-26 23:31:59] Initialized CSystemPerfController: 0
+[2026-02-26 23:31:59] Initialized CSteamUINetworkController: 1
+[2026-02-26 23:31:59] Initialized CSystemReportController
+[2026-02-26 23:31:59] CGamescopeController: initalized stub implementation
+
+
+[2026-02-27 00:26:25] Client version: 1769025840
+[2026-02-27 00:26:25] Initialized CSystemDockManagerController: 0
+[2026-02-27 00:26:25] Initialized CSystemAudioDeviceController: 0
+[2026-02-27 00:26:25] Initialized CSystemDisplayController: 0
+[2026-02-27 00:26:25] Initializing bluetooth manager: stub
+[2026-02-27 00:26:25] Initialized CSystemPerfController: 0
+[2026-02-27 00:26:25] Initialized CSteamUINetworkController: 1
+[2026-02-27 00:26:25] Initialized CSystemReportController
+[2026-02-27 00:26:25] CGamescopeController: initalized stub implementation
+
+
+[2026-02-27 00:28:30] Client version: 1771977793
+[2026-02-27 00:28:30] Initialized CSystemDockManagerController: 0
+[2026-02-27 00:28:30] Initialized CSystemAudioDeviceController: 0
+[2026-02-27 00:28:30] Initialized CSystemDisplayController: 0
+[2026-02-27 00:28:30] Initializing bluetooth manager: stub
+[2026-02-27 00:28:30] Initialized CSystemPerfController: 0
+[2026-02-27 00:28:30] Initialized CSteamUINetworkController: 1
+[2026-02-27 00:28:30] Initialized CSystemReportController
+[2026-02-27 00:28:30] CGamescopeController: initalized stub implementation
+
+
+[2026-02-27 00:45:01] Client version: 1771977793
+[2026-02-27 00:45:01] Initialized CSystemDockManagerController: 0
+[2026-02-27 00:45:01] Initialized CSystemAudioDeviceController: 0
+[2026-02-27 00:45:01] Initialized CSystemDisplayController: 0
+[2026-02-27 00:45:01] Initializing bluetooth manager: stub
+[2026-02-27 00:45:01] Initialized CSystemPerfController: 0
+[2026-02-27 00:45:01] Initialized CSteamUINetworkController: 1
+[2026-02-27 00:45:01] Initialized CSystemReportController
+[2026-02-27 00:45:01] CGamescopeController: initalized stub implementation
+
+
+[2026-02-27 02:21:50] Client version: 1771977793
+[2026-02-27 02:21:50] Initialized CSystemDockManagerController: 0
+[2026-02-27 02:21:50] Initialized CSystemAudioDeviceController: 0
+[2026-02-27 02:21:50] Initialized CSystemDisplayController: 0
+[2026-02-27 02:21:50] Initializing bluetooth manager: stub
+[2026-02-27 02:21:50] Initialized CSystemPerfController: 0
+[2026-02-27 02:21:50] Initialized CSteamUINetworkController: 1
+[2026-02-27 02:21:50] Initialized CSystemReportController
+[2026-02-27 02:21:50] CGamescopeController: initalized stub implementation
+
+
+[2026-02-27 03:14:15] Client version: 1771977793
+[2026-02-27 03:14:15] Initialized CSystemDockManagerController: 0
+[2026-02-27 03:14:15] Initialized CSystemAudioDeviceController: 0
+[2026-02-27 03:14:15] Initialized CSystemDisplayController: 0
+[2026-02-27 03:14:15] Initializing bluetooth manager: stub
+[2026-02-27 03:14:15] Initialized CSystemPerfController: 0
+[2026-02-27 03:14:15] Initialized CSteamUINetworkController: 1
+[2026-02-27 03:14:15] Initialized CSystemReportController
+[2026-02-27 03:14:15] CGamescopeController: initalized stub implementation
+
+
+[2026-02-27 03:32:30] Client version: 1771977793
+[2026-02-27 03:32:30] Initialized CSystemDockManagerController: 0
+[2026-02-27 03:32:30] Initialized CSystemAudioDeviceController: 0
+[2026-02-27 03:32:30] Initialized CSystemDisplayController: 0
+[2026-02-27 03:32:30] Initializing bluetooth manager: stub
+[2026-02-27 03:32:30] Initialized CSystemPerfController: 0
+[2026-02-27 03:32:30] Initialized CSteamUINetworkController: 1
+[2026-02-27 03:32:30] Initialized CSystemReportController
+[2026-02-27 03:32:30] CGamescopeController: initalized stub implementation
+
+
+[2026-02-27 11:12:29] Client version: 1772162887
+[2026-02-27 11:12:29] Initialized CSystemDockManagerController: 0
+[2026-02-27 11:12:29] Initialized CSystemAudioDeviceController: 0
+[2026-02-27 11:12:29] Initialized CSystemDisplayController: 0
+[2026-02-27 11:12:29] Initializing bluetooth manager: stub
+[2026-02-27 11:12:29] Initialized CSystemPerfController: 0
+[2026-02-27 11:12:29] Initialized CSteamUINetworkController: 1
+[2026-02-27 11:12:29] Initialized CSystemReportController
+[2026-02-27 11:12:29] CGamescopeController: initalized stub implementation
+
+
+[2026-02-27 13:58:37] Client version: 1772162887
+[2026-02-27 13:58:37] Initialized CSystemDockManagerController: 0
+[2026-02-27 13:58:37] Initialized CSystemAudioDeviceController: 0
+[2026-02-27 13:58:37] Initialized CSystemDisplayController: 0
+[2026-02-27 13:58:37] Initializing bluetooth manager: stub
+[2026-02-27 13:58:37] Initialized CSystemPerfController: 0
+[2026-02-27 13:58:37] Initialized CSteamUINetworkController: 1
+[2026-02-27 13:58:37] Initialized CSystemReportController
+[2026-02-27 13:58:37] CGamescopeController: initalized stub implementation
+
+
+[2026-02-27 15:57:51] Client version: 1772162887
+[2026-02-27 15:57:51] Initialized CSystemDockManagerController: 0
+[2026-02-27 15:57:51] Initialized CSystemAudioDeviceController: 0
+[2026-02-27 15:57:51] Initialized CSystemDisplayController: 0
+[2026-02-27 15:57:51] Initializing bluetooth manager: stub
+[2026-02-27 15:57:51] Initialized CSystemPerfController: 0
+[2026-02-27 15:57:51] Initialized CSteamUINetworkController: 1
+[2026-02-27 15:57:51] Initialized CSystemReportController
+[2026-02-27 15:57:51] CGamescopeController: initalized stub implementation
+
+
+[2026-02-27 22:01:26] Client version: 1772162887
+[2026-02-27 22:01:26] Initialized CSystemDockManagerController: 0
+[2026-02-27 22:01:26] Initialized CSystemAudioDeviceController: 0
+[2026-02-27 22:01:26] Initialized CSystemDisplayController: 0
+[2026-02-27 22:01:26] Initializing bluetooth manager: stub
+[2026-02-27 22:01:26] Initialized CSystemPerfController: 0
+[2026-02-27 22:01:26] Initialized CSteamUINetworkController: 1
+[2026-02-27 22:01:26] Initialized CSystemReportController
+[2026-02-27 22:01:26] CGamescopeController: initalized stub implementation
+
+
+[2026-02-28 10:52:41] Client version: 1772162887
+[2026-02-28 10:52:41] Initialized CSystemDockManagerController: 0
+[2026-02-28 10:52:41] Initialized CSystemAudioDeviceController: 0
+[2026-02-28 10:52:41] Initialized CSystemDisplayController: 0
+[2026-02-28 10:52:41] Initializing bluetooth manager: stub
+[2026-02-28 10:52:41] Initialized CSystemPerfController: 0
+[2026-02-28 10:52:41] Initialized CSteamUINetworkController: 1
+[2026-02-28 10:52:41] Initialized CSystemReportController
+[2026-02-28 10:52:41] CGamescopeController: initalized stub implementation
+
+
+[2026-02-28 12:04:40] Client version: 1772162887
+[2026-02-28 12:04:40] Initialized CSystemDockManagerController: 0
+[2026-02-28 12:04:40] Initialized CSystemAudioDeviceController: 0
+[2026-02-28 12:04:40] Initialized CSystemDisplayController: 0
+[2026-02-28 12:04:40] Initializing bluetooth manager: stub
+[2026-02-28 12:04:40] Initialized CSystemPerfController: 0
+[2026-02-28 12:04:40] Initialized CSteamUINetworkController: 1
+[2026-02-28 12:04:40] Initialized CSystemReportController
+[2026-02-28 12:04:40] CGamescopeController: initalized stub implementation
+
+
+[2026-02-28 12:20:27] Client version: 1772162887
+[2026-02-28 12:20:27] Initialized CSystemDockManagerController: 0
+[2026-02-28 12:20:27] Initialized CSystemAudioDeviceController: 0
+[2026-02-28 12:20:27] Initialized CSystemDisplayController: 0
+[2026-02-28 12:20:27] Initializing bluetooth manager: stub
+[2026-02-28 12:20:27] Initialized CSystemPerfController: 0
+[2026-02-28 12:20:27] Initialized CSteamUINetworkController: 1
+[2026-02-28 12:20:27] Initialized CSystemReportController
+[2026-02-28 12:20:27] CGamescopeController: initalized stub implementation
+
+
+[2026-02-28 12:56:41] Client version: 1772162887
+[2026-02-28 12:56:41] Initialized CSystemDockManagerController: 0
+[2026-02-28 12:56:41] Initialized CSystemAudioDeviceController: 0
+[2026-02-28 12:56:41] Initialized CSystemDisplayController: 0
+[2026-02-28 12:56:41] Initializing bluetooth manager: stub
+[2026-02-28 12:56:41] Initialized CSystemPerfController: 0
+[2026-02-28 12:56:41] Initialized CSteamUINetworkController: 1
+[2026-02-28 12:56:41] Initialized CSystemReportController
+[2026-02-28 12:56:41] CGamescopeController: initalized stub implementation
+
+
+[2026-02-28 13:11:57] Client version: 1772162887
+[2026-02-28 13:11:57] Initialized CSystemDockManagerController: 0
+[2026-02-28 13:11:57] Initialized CSystemAudioDeviceController: 0
+[2026-02-28 13:11:57] Initialized CSystemDisplayController: 0
+[2026-02-28 13:11:57] Initializing bluetooth manager: stub
+[2026-02-28 13:11:57] Initialized CSystemPerfController: 0
+[2026-02-28 13:11:57] Initialized CSteamUINetworkController: 1
+[2026-02-28 13:11:57] Initialized CSystemReportController
+[2026-02-28 13:11:57] CGamescopeController: initalized stub implementation
+
+
+[2026-02-28 13:20:42] Client version: 1772162887
+[2026-02-28 13:20:42] Initialized CSystemDockManagerController: 0
+[2026-02-28 13:20:42] Initialized CSystemAudioDeviceController: 0
+[2026-02-28 13:20:42] Initialized CSystemDisplayController: 0
+[2026-02-28 13:20:42] Initializing bluetooth manager: stub
+[2026-02-28 13:20:42] Initialized CSystemPerfController: 0
+[2026-02-28 13:20:42] Initialized CSteamUINetworkController: 1
+[2026-02-28 13:20:42] Initialized CSystemReportController
+[2026-02-28 13:20:42] CGamescopeController: initalized stub implementation
+
+
+[2026-02-28 13:45:11] Client version: 1772162887
+[2026-02-28 13:45:11] Initialized CSystemDockManagerController: 0
+[2026-02-28 13:45:11] Initialized CSystemAudioDeviceController: 0
+[2026-02-28 13:45:11] Initialized CSystemDisplayController: 0
+[2026-02-28 13:45:11] Initializing bluetooth manager: stub
+[2026-02-28 13:45:11] Initialized CSystemPerfController: 0
+[2026-02-28 13:45:11] Initialized CSteamUINetworkController: 1
+[2026-02-28 13:45:11] Initialized CSystemReportController
+[2026-02-28 13:45:11] CGamescopeController: initalized stub implementation
+
+
+[2026-02-28 14:02:44] Client version: 1772162887
+[2026-02-28 14:02:44] Initialized CSystemDockManagerController: 0
+[2026-02-28 14:02:44] Initialized CSystemAudioDeviceController: 0
+[2026-02-28 14:02:44] Initialized CSystemDisplayController: 0
+[2026-02-28 14:02:44] Initializing bluetooth manager: stub
+[2026-02-28 14:02:44] Initialized CSystemPerfController: 0
+[2026-02-28 14:02:44] Initialized CSteamUINetworkController: 1
+[2026-02-28 14:02:44] Initialized CSystemReportController
+[2026-02-28 14:02:44] CGamescopeController: initalized stub implementation
+
+
+[2026-02-28 18:11:32] Client version: 1772162887
+[2026-02-28 18:11:32] Initialized CSystemDockManagerController: 0
+[2026-02-28 18:11:32] Initialized CSystemAudioDeviceController: 0
+[2026-02-28 18:11:32] Initialized CSystemDisplayController: 0
+[2026-02-28 18:11:32] Initializing bluetooth manager: stub
+[2026-02-28 18:11:32] Initialized CSystemPerfController: 0
+[2026-02-28 18:11:32] Initialized CSteamUINetworkController: 1
+[2026-02-28 18:11:32] Initialized CSystemReportController
+[2026-02-28 18:11:32] CGamescopeController: initalized stub implementation
+
+
+[2026-03-01 00:27:59] Client version: 1772162887
+[2026-03-01 00:27:59] Initialized CSystemDockManagerController: 0
+[2026-03-01 00:27:59] Initialized CSystemAudioDeviceController: 0
+[2026-03-01 00:27:59] Initialized CSystemDisplayController: 0
+[2026-03-01 00:27:59] Initializing bluetooth manager: stub
+[2026-03-01 00:27:59] Initialized CSystemPerfController: 0
+[2026-03-01 00:27:59] Initialized CSteamUINetworkController: 1
+[2026-03-01 00:27:59] Initialized CSystemReportController
+[2026-03-01 00:27:59] CGamescopeController: initalized stub implementation
+
+
+[2026-03-01 00:40:19] Client version: 1772162887
+[2026-03-01 00:40:19] Initialized CSystemDockManagerController: 0
+[2026-03-01 00:40:19] Initialized CSystemAudioDeviceController: 0
+[2026-03-01 00:40:19] Initialized CSystemDisplayController: 0
+[2026-03-01 00:40:19] Initializing bluetooth manager: stub
+[2026-03-01 00:40:19] Initialized CSystemPerfController: 0
+[2026-03-01 00:40:19] Initialized CSteamUINetworkController: 1
+[2026-03-01 00:40:19] Initialized CSystemReportController
+[2026-03-01 00:40:19] CGamescopeController: initalized stub implementation
+
+
+[2026-03-01 10:24:13] Client version: 1772162887
+[2026-03-01 10:24:13] Initialized CSystemDockManagerController: 0
+[2026-03-01 10:24:13] Initialized CSystemAudioDeviceController: 0
+[2026-03-01 10:24:13] Initialized CSystemDisplayController: 0
+[2026-03-01 10:24:13] Initializing bluetooth manager: stub
+[2026-03-01 10:24:13] Initialized CSystemPerfController: 0
+[2026-03-01 10:24:13] Initialized CSteamUINetworkController: 1
+[2026-03-01 10:24:13] Initialized CSystemReportController
+[2026-03-01 10:24:13] CGamescopeController: initalized stub implementation
+
+
+[2026-03-01 22:18:56] Client version: 1772162887
+[2026-03-01 22:18:56] Initialized CSystemDockManagerController: 0
+[2026-03-01 22:18:56] Initialized CSystemAudioDeviceController: 0
+[2026-03-01 22:18:56] Initialized CSystemDisplayController: 0
+[2026-03-01 22:18:56] Initializing bluetooth manager: stub
+[2026-03-01 22:18:56] Initialized CSystemPerfController: 0
+[2026-03-01 22:18:56] Initialized CSteamUINetworkController: 1
+[2026-03-01 22:18:56] Initialized CSystemReportController
+[2026-03-01 22:18:56] CGamescopeController: initalized stub implementation
+
+
+[2026-03-01 23:07:15] Client version: 1772162887
+[2026-03-01 23:07:15] Initialized CSystemDockManagerController: 0
+[2026-03-01 23:07:15] Initialized CSystemAudioDeviceController: 0
+[2026-03-01 23:07:15] Initialized CSystemDisplayController: 0
+[2026-03-01 23:07:15] Initializing bluetooth manager: stub
+[2026-03-01 23:07:15] Initialized CSystemPerfController: 0
+[2026-03-01 23:07:15] Initialized CSteamUINetworkController: 1
+[2026-03-01 23:07:15] Initialized CSystemReportController
+[2026-03-01 23:07:15] CGamescopeController: initalized stub implementation
+
+
+[2026-03-01 23:29:43] Client version: 1772162887
+[2026-03-01 23:29:43] Initialized CSystemDockManagerController: 0
+[2026-03-01 23:29:43] Initialized CSystemAudioDeviceController: 0
+[2026-03-01 23:29:43] Initialized CSystemDisplayController: 0
+[2026-03-01 23:29:43] Initializing bluetooth manager: stub
+[2026-03-01 23:29:43] Initialized CSystemPerfController: 0
+[2026-03-01 23:29:43] Initialized CSteamUINetworkController: 1
+[2026-03-01 23:29:43] Initialized CSystemReportController
+[2026-03-01 23:29:43] CGamescopeController: initalized stub implementation
+
+
+[2026-03-02 15:01:42] Client version: 1772162887
+[2026-03-02 15:01:42] Initialized CSystemDockManagerController: 0
+[2026-03-02 15:01:42] Initialized CSystemAudioDeviceController: 0
+[2026-03-02 15:01:42] Initialized CSystemDisplayController: 0
+[2026-03-02 15:01:42] Initializing bluetooth manager: stub
+[2026-03-02 15:01:42] Initialized CSystemPerfController: 0
+[2026-03-02 15:01:42] Initialized CSteamUINetworkController: 1
+[2026-03-02 15:01:42] Initialized CSystemReportController
+[2026-03-02 15:01:42] CGamescopeController: initalized stub implementation
+
+
+[2026-03-02 20:38:48] Client version: 1772162887
+[2026-03-02 20:38:48] Initialized CSystemDockManagerController: 0
+[2026-03-02 20:38:48] Initialized CSystemAudioDeviceController: 0
+[2026-03-02 20:38:48] Initialized CSystemDisplayController: 0
+[2026-03-02 20:38:48] Initializing bluetooth manager: stub
+[2026-03-02 20:38:48] Initialized CSystemPerfController: 0
+[2026-03-02 20:38:48] Initialized CSteamUINetworkController: 1
+[2026-03-02 20:38:48] Initialized CSystemReportController
+[2026-03-02 20:38:48] CGamescopeController: initalized stub implementation
+
+
+[2026-03-03 14:35:15] Client version: 1772502488
+[2026-03-03 14:35:15] Initialized CSystemDockManagerController: 0
+[2026-03-03 14:35:15] Initialized CSystemAudioDeviceController: 0
+[2026-03-03 14:35:15] Initialized CSystemDisplayController: 0
+[2026-03-03 14:35:15] Initializing bluetooth manager: stub
+[2026-03-03 14:35:15] Initialized CSystemPerfController: 0
+[2026-03-03 14:35:15] Initialized CSteamUINetworkController: 1
+[2026-03-03 14:35:15] Initialized CSystemReportController
+[2026-03-03 14:35:15] CGamescopeController: initalized stub implementation
+
+
+[2026-03-04 00:43:52] Client version: 1772502488
+[2026-03-04 00:43:52] Initialized CSystemDockManagerController: 0
+[2026-03-04 00:43:52] Initialized CSystemAudioDeviceController: 0
+[2026-03-04 00:43:52] Initialized CSystemDisplayController: 0
+[2026-03-04 00:43:52] Initializing bluetooth manager: stub
+[2026-03-04 00:43:52] Initialized CSystemPerfController: 0
+[2026-03-04 00:43:52] Initialized CSteamUINetworkController: 1
+[2026-03-04 00:43:52] Initialized CSystemReportController
+[2026-03-04 00:43:52] CGamescopeController: initalized stub implementation
+
+
+[2026-03-04 06:37:25] Client version: 1772502488
+[2026-03-04 06:37:25] Initialized CSystemDockManagerController: 0
+[2026-03-04 06:37:25] Initialized CSystemAudioDeviceController: 0
+[2026-03-04 06:37:25] Initialized CSystemDisplayController: 0
+[2026-03-04 06:37:25] Initializing bluetooth manager: stub
+[2026-03-04 06:37:25] Initialized CSystemPerfController: 0
+[2026-03-04 06:37:25] Initialized CSteamUINetworkController: 1
+[2026-03-04 06:37:25] Initialized CSystemReportController
+[2026-03-04 06:37:25] CGamescopeController: initalized stub implementation
+
+
+[2026-03-04 14:02:50] Client version: 1772502488
+[2026-03-04 14:02:50] Initialized CSystemDockManagerController: 0
+[2026-03-04 14:02:50] Initialized CSystemAudioDeviceController: 0
+[2026-03-04 14:02:50] Initialized CSystemDisplayController: 0
+[2026-03-04 14:02:50] Initializing bluetooth manager: stub
+[2026-03-04 14:02:50] Initialized CSystemPerfController: 0
+[2026-03-04 14:02:50] Initialized CSteamUINetworkController: 1
+[2026-03-04 14:02:50] Initialized CSystemReportController
+[2026-03-04 14:02:50] CGamescopeController: initalized stub implementation
+
+
+[2026-03-04 15:19:55] Client version: 1772502488
+[2026-03-04 15:19:55] Initialized CSystemDockManagerController: 0
+[2026-03-04 15:19:55] Initialized CSystemAudioDeviceController: 0
+[2026-03-04 15:19:55] Initialized CSystemDisplayController: 0
+[2026-03-04 15:19:55] Initializing bluetooth manager: stub
+[2026-03-04 15:19:55] Initialized CSystemPerfController: 0
+[2026-03-04 15:19:55] Initialized CSteamUINetworkController: 1
+[2026-03-04 15:19:55] Initialized CSystemReportController
+[2026-03-04 15:19:55] CGamescopeController: initalized stub implementation
+
+
+[2026-03-04 19:35:31] Client version: 1772502488
+[2026-03-04 19:35:31] Initialized CSystemDockManagerController: 0
+[2026-03-04 19:35:31] Initialized CSystemAudioDeviceController: 0
+[2026-03-04 19:35:31] Initialized CSystemDisplayController: 0
+[2026-03-04 19:35:31] Initializing bluetooth manager: stub
+[2026-03-04 19:35:31] Initialized CSystemPerfController: 0
+[2026-03-04 19:35:31] Initialized CSteamUINetworkController: 1
+[2026-03-04 19:35:31] Initialized CSystemReportController
+[2026-03-04 19:35:31] CGamescopeController: initalized stub implementation
+
+
+[2026-03-05 16:09:44] Client version: 1772686978
+[2026-03-05 16:09:44] Initialized CSystemDockManagerController: 0
+[2026-03-05 16:09:44] Initialized CSystemAudioDeviceController: 0
+[2026-03-05 16:09:44] Initialized CSystemDisplayController: 0
+[2026-03-05 16:09:44] Initializing bluetooth manager: stub
+[2026-03-05 16:09:44] Initialized CSystemPerfController: 0
+[2026-03-05 16:09:44] Initialized CSteamUINetworkController: 1
+[2026-03-05 16:09:44] Initialized CSystemReportController
+[2026-03-05 16:09:44] CGamescopeController: initalized stub implementation
+
+
+[2026-03-06 14:33:11] Client version: 1772686978
+[2026-03-06 14:33:11] Initialized CSystemDockManagerController: 0
+[2026-03-06 14:33:11] Initialized CSystemAudioDeviceController: 0
+[2026-03-06 14:33:11] Initialized CSystemDisplayController: 0
+[2026-03-06 14:33:11] Initializing bluetooth manager: stub
+[2026-03-06 14:33:11] Initialized CSystemPerfController: 0
+[2026-03-06 14:33:11] Initialized CSteamUINetworkController: 1
+[2026-03-06 14:33:11] Initialized CSystemReportController
+[2026-03-06 14:33:11] CGamescopeController: initalized stub implementation
+
+
+[2026-03-07 09:17:58] Client version: 1772686978
+[2026-03-07 09:17:58] Initialized CSystemDockManagerController: 0
+[2026-03-07 09:17:58] Initialized CSystemAudioDeviceController: 0
+[2026-03-07 09:17:58] Initialized CSystemDisplayController: 0
+[2026-03-07 09:17:58] Initializing bluetooth manager: stub
+[2026-03-07 09:17:58] Initialized CSystemPerfController: 0
+[2026-03-07 09:17:58] Initialized CSteamUINetworkController: 1
+[2026-03-07 09:17:58] Initialized CSystemReportController
+[2026-03-07 09:17:58] CGamescopeController: initalized stub implementation
+
+
+[2026-03-07 18:35:57] Client version: 1772859008
+[2026-03-07 18:35:57] Initialized CSystemDockManagerController: 0
+[2026-03-07 18:35:57] Initialized CSystemAudioDeviceController: 0
+[2026-03-07 18:35:57] Initialized CSystemDisplayController: 0
+[2026-03-07 18:35:57] Initializing bluetooth manager: stub
+[2026-03-07 18:35:57] Initialized CSystemPerfController: 0
+[2026-03-07 18:35:57] Initialized CSteamUINetworkController: 1
+[2026-03-07 18:35:57] Initialized CSystemReportController
+[2026-03-07 18:35:57] CGamescopeController: initalized stub implementation
+
+
+[2026-03-08 10:37:38] Client version: 1772859008
+[2026-03-08 10:37:38] Initialized CSystemDockManagerController: 0
+[2026-03-08 10:37:38] Initialized CSystemAudioDeviceController: 0
+[2026-03-08 10:37:38] Initialized CSystemDisplayController: 0
+[2026-03-08 10:37:38] Initializing bluetooth manager: stub
+[2026-03-08 10:37:38] Initialized CSystemPerfController: 0
+[2026-03-08 10:37:38] Initialized CSteamUINetworkController: 1
+[2026-03-08 10:37:38] Initialized CSystemReportController
+[2026-03-08 10:37:38] CGamescopeController: initalized stub implementation
+
+
+[2026-03-08 10:48:11] Client version: 1772859008
+[2026-03-08 10:48:11] Initialized CSystemDockManagerController: 0
+[2026-03-08 10:48:11] Initialized CSystemAudioDeviceController: 0
+[2026-03-08 10:48:11] Initialized CSystemDisplayController: 0
+[2026-03-08 10:48:11] Initializing bluetooth manager: stub
+[2026-03-08 10:48:11] Initialized CSystemPerfController: 0
+[2026-03-08 10:48:11] Initialized CSteamUINetworkController: 1
+[2026-03-08 10:48:11] Initialized CSystemReportController
+[2026-03-08 10:48:11] CGamescopeController: initalized stub implementation
+
+
+[2026-03-08 18:41:38] Client version: 1772859008
+[2026-03-08 18:41:38] Initialized CSystemDockManagerController: 0
+[2026-03-08 18:41:38] Initialized CSystemAudioDeviceController: 0
+[2026-03-08 18:41:38] Initialized CSystemDisplayController: 0
+[2026-03-08 18:41:38] Initializing bluetooth manager: stub
+[2026-03-08 18:41:38] Initialized CSystemPerfController: 0
+[2026-03-08 18:41:38] Initialized CSteamUINetworkController: 1
+[2026-03-08 18:41:38] Initialized CSystemReportController
+[2026-03-08 18:41:38] CGamescopeController: initalized stub implementation
+
+
+[2026-03-09 14:54:25] Client version: 1772859008
+[2026-03-09 14:54:25] Initialized CSystemDockManagerController: 0
+[2026-03-09 14:54:25] Initialized CSystemAudioDeviceController: 0
+[2026-03-09 14:54:25] Initialized CSystemDisplayController: 0
+[2026-03-09 14:54:25] Initializing bluetooth manager: stub
+[2026-03-09 14:54:25] Initialized CSystemPerfController: 0
+[2026-03-09 14:54:25] Initialized CSteamUINetworkController: 1
+[2026-03-09 14:54:25] Initialized CSystemReportController
+[2026-03-09 14:54:25] CGamescopeController: initalized stub implementation
+
+
+[2026-03-09 14:58:16] Client version: 1772859008
+[2026-03-09 14:58:16] Initialized CSystemDockManagerController: 0
+[2026-03-09 14:58:16] Initialized CSystemAudioDeviceController: 0
+[2026-03-09 14:58:16] Initialized CSystemDisplayController: 0
+[2026-03-09 14:58:16] Initializing bluetooth manager: stub
+[2026-03-09 14:58:16] Initialized CSystemPerfController: 0
+[2026-03-09 14:58:16] Initialized CSteamUINetworkController: 1
+[2026-03-09 14:58:16] Initialized CSystemReportController
+[2026-03-09 14:58:16] CGamescopeController: initalized stub implementation
+
+
+[2026-03-10 19:04:48] Client version: 1773099986
+[2026-03-10 19:04:48] Initialized CSystemDockManagerController: 0
+[2026-03-10 19:04:48] Initialized CSystemAudioDeviceController: 0
+[2026-03-10 19:04:48] Initialized CSystemDisplayController: 0
+[2026-03-10 19:04:48] Initializing bluetooth manager: stub
+[2026-03-10 19:04:48] Initialized CSystemPerfController: 0
+[2026-03-10 19:04:48] Initialized CSteamUINetworkController: 1
+[2026-03-10 19:04:48] Initialized CSystemReportController
+[2026-03-10 19:04:48] CGamescopeController: initalized stub implementation
+
+
+[2026-03-11 13:26:42] Client version: 1773168360
+[2026-03-11 13:26:42] Initialized CSystemDockManagerController: 0
+[2026-03-11 13:26:42] Initialized CSystemAudioDeviceController: 0
+[2026-03-11 13:26:42] Initialized CSystemDisplayController: 0
+[2026-03-11 13:26:42] Initializing bluetooth manager: stub
+[2026-03-11 13:26:42] Initialized CSystemPerfController: 0
+[2026-03-11 13:26:42] Initialized CSteamUINetworkController: 1
+[2026-03-11 13:26:42] Initialized CSystemReportController
+[2026-03-11 13:26:42] CGamescopeController: initalized stub implementation
+
+
+[2026-03-12 16:23:11] Client version: 1773268655
+[2026-03-12 16:23:11] Initialized CSystemDockManagerController: 0
+[2026-03-12 16:23:11] Initialized CSystemAudioDeviceController: 0
+[2026-03-12 16:23:11] Initialized CSystemDisplayController: 0
+[2026-03-12 16:23:11] Initializing bluetooth manager: stub
+[2026-03-12 16:23:11] Initialized CSystemPerfController: 0
+[2026-03-12 16:23:11] Initialized CSteamUINetworkController: 1
+[2026-03-12 16:23:11] Initialized CSystemReportController
+[2026-03-12 16:23:11] CGamescopeController: initalized stub implementation
+
+
+[2026-03-12 18:10:14] Client version: 1773268655
+[2026-03-12 18:10:14] Initialized CSystemDockManagerController: 0
+[2026-03-12 18:10:14] Initialized CSystemAudioDeviceController: 0
+[2026-03-12 18:10:14] Initialized CSystemDisplayController: 0
+[2026-03-12 18:10:14] Initializing bluetooth manager: stub
+[2026-03-12 18:10:14] Initialized CSystemPerfController: 0
+[2026-03-12 18:10:14] Initialized CSteamUINetworkController: 1
+[2026-03-12 18:10:14] Initialized CSystemReportController
+[2026-03-12 18:10:14] CGamescopeController: initalized stub implementation
+
+
+[2026-03-12 18:45:49] Client version: 1773268655
+[2026-03-12 18:45:49] Initialized CSystemDockManagerController: 0
+[2026-03-12 18:45:49] Initialized CSystemAudioDeviceController: 0
+[2026-03-12 18:45:49] Initialized CSystemDisplayController: 0
+[2026-03-12 18:45:49] Initializing bluetooth manager: stub
+[2026-03-12 18:45:49] Initialized CSystemPerfController: 0
+[2026-03-12 18:45:49] Initialized CSteamUINetworkController: 1
+[2026-03-12 18:45:49] Initialized CSystemReportController
+[2026-03-12 18:45:49] CGamescopeController: initalized stub implementation
+
+
+[2026-03-13 16:25:59] Client version: 1773268655
+[2026-03-13 16:25:59] Initialized CSystemDockManagerController: 0
+[2026-03-13 16:25:59] Initialized CSystemAudioDeviceController: 0
+[2026-03-13 16:25:59] Initialized CSystemDisplayController: 0
+[2026-03-13 16:25:59] Initializing bluetooth manager: stub
+[2026-03-13 16:25:59] Initialized CSystemPerfController: 0
+[2026-03-13 16:25:59] Initialized CSteamUINetworkController: 1
+[2026-03-13 16:25:59] Initialized CSystemReportController
+[2026-03-13 16:25:59] CGamescopeController: initalized stub implementation
+
+
+[2026-03-13 20:57:06] Client version: 1773367340
+[2026-03-13 20:57:06] Initialized CSystemDockManagerController: 0
+[2026-03-13 20:57:06] Initialized CSystemAudioDeviceController: 0
+[2026-03-13 20:57:06] Initialized CSystemDisplayController: 0
+[2026-03-13 20:57:06] Initializing bluetooth manager: stub
+[2026-03-13 20:57:06] Initialized CSystemPerfController: 0
+[2026-03-13 20:57:06] Initialized CSteamUINetworkController: 1
+[2026-03-13 20:57:06] Initialized CSystemReportController
+[2026-03-13 20:57:06] CGamescopeController: initalized stub implementation
+
+
+[2026-03-14 09:18:35] Client version: 1773367340
+[2026-03-14 09:18:35] Initialized CSystemDockManagerController: 0
+[2026-03-14 09:18:35] Initialized CSystemAudioDeviceController: 0
+[2026-03-14 09:18:35] Initialized CSystemDisplayController: 0
+[2026-03-14 09:18:35] Initializing bluetooth manager: stub
+[2026-03-14 09:18:35] Initialized CSystemPerfController: 0
+[2026-03-14 09:18:35] Initialized CSteamUINetworkController: 1
+[2026-03-14 09:18:35] Initialized CSystemReportController
+[2026-03-14 09:18:35] CGamescopeController: initalized stub implementation
+
+
+[2026-03-14 14:21:37] Client version: 1773367340
+[2026-03-14 14:21:37] Initialized CSystemDockManagerController: 0
+[2026-03-14 14:21:37] Initialized CSystemAudioDeviceController: 0
+[2026-03-14 14:21:37] Initialized CSystemDisplayController: 0
+[2026-03-14 14:21:37] Initializing bluetooth manager: stub
+[2026-03-14 14:21:37] Initialized CSystemPerfController: 0
+[2026-03-14 14:21:37] Initialized CSteamUINetworkController: 1
+[2026-03-14 14:21:37] Initialized CSystemReportController
+[2026-03-14 14:21:37] CGamescopeController: initalized stub implementation
+
+
+[2026-03-14 19:36:22] Client version: 1773367340
+[2026-03-14 19:36:22] Initialized CSystemDockManagerController: 0
+[2026-03-14 19:36:22] Initialized CSystemAudioDeviceController: 0
+[2026-03-14 19:36:22] Initialized CSystemDisplayController: 0
+[2026-03-14 19:36:22] Initializing bluetooth manager: stub
+[2026-03-14 19:36:22] Initialized CSystemPerfController: 0
+[2026-03-14 19:36:22] Initialized CSteamUINetworkController: 1
+[2026-03-14 19:36:22] Initialized CSystemReportController
+[2026-03-14 19:36:22] CGamescopeController: initalized stub implementation
+
+
+[2026-03-14 20:05:41] Client version: 1773367340
+[2026-03-14 20:05:41] Initialized CSystemDockManagerController: 0
+[2026-03-14 20:05:41] Initialized CSystemAudioDeviceController: 0
+[2026-03-14 20:05:41] Initialized CSystemDisplayController: 0
+[2026-03-14 20:05:41] Initializing bluetooth manager: stub
+[2026-03-14 20:05:41] Initialized CSystemPerfController: 0
+[2026-03-14 20:05:41] Initialized CSteamUINetworkController: 1
+[2026-03-14 20:05:41] Initialized CSystemReportController
+[2026-03-14 20:05:41] CGamescopeController: initalized stub implementation
+[2026-03-15 04:24:08] Suspend notification: entering
+[2026-03-15 09:12:57] Suspend notification: resuming
+
+
+[2026-03-15 09:19:03] Client version: 1773367340
+[2026-03-15 09:19:03] Initialized CSystemDockManagerController: 0
+[2026-03-15 09:19:03] Initialized CSystemAudioDeviceController: 0
+[2026-03-15 09:19:03] Initialized CSystemDisplayController: 0
+[2026-03-15 09:19:03] Initializing bluetooth manager: stub
+[2026-03-15 09:19:03] Initialized CSystemPerfController: 0
+[2026-03-15 09:19:03] Initialized CSteamUINetworkController: 1
+[2026-03-15 09:19:03] Initialized CSystemReportController
+[2026-03-15 09:19:03] CGamescopeController: initalized stub implementation
+
+
+[2026-03-15 19:50:45] Client version: 1773367340
+[2026-03-15 19:50:45] Initialized CSystemDockManagerController: 0
+[2026-03-15 19:50:45] Initialized CSystemAudioDeviceController: 0
+[2026-03-15 19:50:45] Initialized CSystemDisplayController: 0
+[2026-03-15 19:50:45] Initializing bluetooth manager: stub
+[2026-03-15 19:50:45] Initialized CSystemPerfController: 0
+[2026-03-15 19:50:45] Initialized CSteamUINetworkController: 1
+[2026-03-15 19:50:45] Initialized CSystemReportController
+[2026-03-15 19:50:45] CGamescopeController: initalized stub implementation
+
+
+[2026-03-16 14:36:37] Client version: 1773367340
+[2026-03-16 14:36:37] Initialized CSystemDockManagerController: 0
+[2026-03-16 14:36:37] Initialized CSystemAudioDeviceController: 0
+[2026-03-16 14:36:37] Initialized CSystemDisplayController: 0
+[2026-03-16 14:36:37] Initializing bluetooth manager: stub
+[2026-03-16 14:36:37] Initialized CSystemPerfController: 0
+[2026-03-16 14:36:37] Initialized CSteamUINetworkController: 1
+[2026-03-16 14:36:37] Initialized CSystemReportController
+[2026-03-16 14:36:37] CGamescopeController: initalized stub implementation
+
+
+[2026-03-16 16:03:34] Client version: 1773367340
+[2026-03-16 16:03:34] Initialized CSystemDockManagerController: 0
+[2026-03-16 16:03:34] Initialized CSystemAudioDeviceController: 0
+[2026-03-16 16:03:34] Initialized CSystemDisplayController: 0
+[2026-03-16 16:03:34] Initializing bluetooth manager: stub
+[2026-03-16 16:03:34] Initialized CSystemPerfController: 0
+[2026-03-16 16:03:34] Initialized CSteamUINetworkController: 1
+[2026-03-16 16:03:34] Initialized CSystemReportController
+[2026-03-16 16:03:34] CGamescopeController: initalized stub implementation
+
+
+[2026-03-17 16:10:56] Client version: 1773367340
+[2026-03-17 16:10:56] Initialized CSystemDockManagerController: 0
+[2026-03-17 16:10:56] Initialized CSystemAudioDeviceController: 0
+[2026-03-17 16:10:56] Initialized CSystemDisplayController: 0
+[2026-03-17 16:10:56] Initializing bluetooth manager: stub
+[2026-03-17 16:10:56] Initialized CSystemPerfController: 0
+[2026-03-17 16:10:56] Initialized CSteamUINetworkController: 1
+[2026-03-17 16:10:56] Initialized CSystemReportController
+[2026-03-17 16:10:56] CGamescopeController: initalized stub implementation
+
+
+[2026-03-18 13:22:12] Client version: 1773367340
+[2026-03-18 13:22:12] Initialized CSystemDockManagerController: 0
+[2026-03-18 13:22:12] Initialized CSystemAudioDeviceController: 0
+[2026-03-18 13:22:12] Initialized CSystemDisplayController: 0
+[2026-03-18 13:22:12] Initializing bluetooth manager: stub
+[2026-03-18 13:22:12] Initialized CSystemPerfController: 0
+[2026-03-18 13:22:12] Initialized CSteamUINetworkController: 1
+[2026-03-18 13:22:12] Initialized CSystemReportController
+[2026-03-18 13:22:12] CGamescopeController: initalized stub implementation
+
+
+[2026-03-18 13:45:20] Client version: 1773367340
+[2026-03-18 13:45:20] Initialized CSystemDockManagerController: 0
+[2026-03-18 13:45:20] Initialized CSystemAudioDeviceController: 0
+[2026-03-18 13:45:20] Initialized CSystemDisplayController: 0
+[2026-03-18 13:45:20] Initializing bluetooth manager: stub
+[2026-03-18 13:45:20] Initialized CSystemPerfController: 0
+[2026-03-18 13:45:20] Initialized CSteamUINetworkController: 1
+[2026-03-18 13:45:20] Initialized CSystemReportController
+[2026-03-18 13:45:20] CGamescopeController: initalized stub implementation
+
+
+[2026-03-18 13:53:41] Client version: 1773367340
+[2026-03-18 13:53:41] Initialized CSystemDockManagerController: 0
+[2026-03-18 13:53:41] Initialized CSystemAudioDeviceController: 0
+[2026-03-18 13:53:41] Initialized CSystemDisplayController: 0
+[2026-03-18 13:53:41] Initializing bluetooth manager: stub
+[2026-03-18 13:53:41] Initialized CSystemPerfController: 0
+[2026-03-18 13:53:41] Initialized CSteamUINetworkController: 1
+[2026-03-18 13:53:41] Initialized CSystemReportController
+[2026-03-18 13:53:41] CGamescopeController: initalized stub implementation
+
+
+[2026-03-18 14:03:33] Client version: 1773367340
+[2026-03-18 14:03:33] Initialized CSystemDockManagerController: 0
+[2026-03-18 14:03:33] Initialized CSystemAudioDeviceController: 0
+[2026-03-18 14:03:33] Initialized CSystemDisplayController: 0
+[2026-03-18 14:03:33] Initializing bluetooth manager: stub
+[2026-03-18 14:03:33] Initialized CSystemPerfController: 0
+[2026-03-18 14:03:33] Initialized CSteamUINetworkController: 1
+[2026-03-18 14:03:33] Initialized CSystemReportController
+[2026-03-18 14:03:33] CGamescopeController: initalized stub implementation
+
+
+[2026-03-18 20:06:05] Client version: 1773367340
+[2026-03-18 20:06:05] Initialized CSystemDockManagerController: 0
+[2026-03-18 20:06:05] Initialized CSystemAudioDeviceController: 0
+[2026-03-18 20:06:05] Initialized CSystemDisplayController: 0
+[2026-03-18 20:06:05] Initializing bluetooth manager: stub
+[2026-03-18 20:06:05] Initialized CSystemPerfController: 0
+[2026-03-18 20:06:05] Initialized CSteamUINetworkController: 1
+[2026-03-18 20:06:05] Initialized CSystemReportController
+[2026-03-18 20:06:05] CGamescopeController: initalized stub implementation
+
+
+[2026-03-19 16:13:56] Client version: 1773367340
+[2026-03-19 16:13:56] Initialized CSystemDockManagerController: 0
+[2026-03-19 16:13:56] Initialized CSystemAudioDeviceController: 0
+[2026-03-19 16:13:56] Initialized CSystemDisplayController: 0
+[2026-03-19 16:13:56] Initializing bluetooth manager: stub
+[2026-03-19 16:13:56] Initialized CSystemPerfController: 0
+[2026-03-19 16:13:56] Initialized CSteamUINetworkController: 1
+[2026-03-19 16:13:56] Initialized CSystemReportController
+[2026-03-19 16:13:56] CGamescopeController: initalized stub implementation
+
+
+[2026-03-20 16:01:03] Client version: 1773983034
+[2026-03-20 16:01:03] Initialized CSystemDockManagerController: 0
+[2026-03-20 16:01:03] Initialized CSystemAudioDeviceController: 0
+[2026-03-20 16:01:03] Initialized CSystemDisplayController: 0
+[2026-03-20 16:01:03] Initializing bluetooth manager: stub
+[2026-03-20 16:01:03] Initialized CSystemPerfController: 0
+[2026-03-20 16:01:03] Initialized CSteamUINetworkController: 1
+[2026-03-20 16:01:03] Initialized CSystemReportController
+[2026-03-20 16:01:03] CGamescopeController: initalized stub implementation
+
+
+[2026-03-21 00:21:58] Client version: 1773983034
+[2026-03-21 00:21:58] Initialized CSystemDockManagerController: 0
+[2026-03-21 00:21:58] Initialized CSystemAudioDeviceController: 0
+[2026-03-21 00:21:58] Initialized CSystemDisplayController: 0
+[2026-03-21 00:21:58] Initializing bluetooth manager: stub
+[2026-03-21 00:21:58] Initialized CSystemPerfController: 0
+[2026-03-21 00:21:58] Initialized CSteamUINetworkController: 1
+[2026-03-21 00:21:58] Initialized CSystemReportController
+[2026-03-21 00:21:58] CGamescopeController: initalized stub implementation
+
+
+[2026-03-21 09:41:14] Client version: 1773983034
+[2026-03-21 09:41:14] Initialized CSystemDockManagerController: 0
+[2026-03-21 09:41:14] Initialized CSystemAudioDeviceController: 0
+[2026-03-21 09:41:14] Initialized CSystemDisplayController: 0
+[2026-03-21 09:41:14] Initializing bluetooth manager: stub
+[2026-03-21 09:41:14] Initialized CSystemPerfController: 0
+[2026-03-21 09:41:14] Initialized CSteamUINetworkController: 1
+[2026-03-21 09:41:14] Initialized CSystemReportController
+[2026-03-21 09:41:14] CGamescopeController: initalized stub implementation
+
+
+[2026-03-21 10:16:09] Client version: 1773983034
+[2026-03-21 10:16:09] Initialized CSystemDockManagerController: 0
+[2026-03-21 10:16:09] Initialized CSystemAudioDeviceController: 0
+[2026-03-21 10:16:09] Initialized CSystemDisplayController: 0
+[2026-03-21 10:16:09] Initializing bluetooth manager: stub
+[2026-03-21 10:16:09] Initialized CSystemPerfController: 0
+[2026-03-21 10:16:09] Initialized CSteamUINetworkController: 1
+[2026-03-21 10:16:09] Initialized CSystemReportController
+[2026-03-21 10:16:09] CGamescopeController: initalized stub implementation
+
+
+[2026-03-21 10:49:08] Client version: 1773983034
+[2026-03-21 10:49:08] Initialized CSystemDockManagerController: 0
+[2026-03-21 10:49:08] Initialized CSystemAudioDeviceController: 0
+[2026-03-21 10:49:08] Initialized CSystemDisplayController: 0
+[2026-03-21 10:49:08] Initializing bluetooth manager: stub
+[2026-03-21 10:49:08] Initialized CSystemPerfController: 0
+[2026-03-21 10:49:08] Initialized CSteamUINetworkController: 1
+[2026-03-21 10:49:08] Initialized CSystemReportController
+[2026-03-21 10:49:08] CGamescopeController: initalized stub implementation
+
+
+[2026-03-21 15:10:52] Client version: 1773983034
+[2026-03-21 15:10:52] Initialized CSystemDockManagerController: 0
+[2026-03-21 15:10:52] Initialized CSystemAudioDeviceController: 0
+[2026-03-21 15:10:52] Initialized CSystemDisplayController: 0
+[2026-03-21 15:10:52] Initializing bluetooth manager: stub
+[2026-03-21 15:10:52] Initialized CSystemPerfController: 0
+[2026-03-21 15:10:52] Initialized CSteamUINetworkController: 1
+[2026-03-21 15:10:52] Initialized CSystemReportController
+[2026-03-21 15:10:52] CGamescopeController: initalized stub implementation
+
+
+[2026-03-21 19:48:18] Client version: 1773983034
+[2026-03-21 19:48:18] Initialized CSystemDockManagerController: 0
+[2026-03-21 19:48:18] Initialized CSystemAudioDeviceController: 0
+[2026-03-21 19:48:18] Initialized CSystemDisplayController: 0
+[2026-03-21 19:48:18] Initializing bluetooth manager: stub
+[2026-03-21 19:48:18] Initialized CSystemPerfController: 0
+[2026-03-21 19:48:18] Initialized CSteamUINetworkController: 1
+[2026-03-21 19:48:18] Initialized CSystemReportController
+[2026-03-21 19:48:18] CGamescopeController: initalized stub implementation
+
+
+[2026-03-22 09:42:13] Client version: 1773983034
+[2026-03-22 09:42:13] Initialized CSystemDockManagerController: 0
+[2026-03-22 09:42:13] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 09:42:13] Initialized CSystemDisplayController: 0
+[2026-03-22 09:42:13] Initializing bluetooth manager: stub
+[2026-03-22 09:42:13] Initialized CSystemPerfController: 0
+[2026-03-22 09:42:13] Initialized CSteamUINetworkController: 1
+[2026-03-22 09:42:13] Initialized CSystemReportController
+[2026-03-22 09:42:13] CGamescopeController: initalized stub implementation
+
+
+[2026-03-22 10:07:55] Client version: 1773983034
+[2026-03-22 10:07:55] Initialized CSystemDockManagerController: 0
+[2026-03-22 10:07:55] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 10:07:55] Initialized CSystemDisplayController: 0
+[2026-03-22 10:07:55] Initializing bluetooth manager: stub
+[2026-03-22 10:07:55] Initialized CSystemPerfController: 0
+[2026-03-22 10:07:55] Initialized CSteamUINetworkController: 1
+[2026-03-22 10:07:55] Initialized CSystemReportController
+[2026-03-22 10:07:55] CGamescopeController: initalized stub implementation
+
+
+[2026-03-22 10:55:55] Client version: 1773983034
+[2026-03-22 10:55:55] Initialized CSystemDockManagerController: 0
+[2026-03-22 10:55:55] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 10:55:55] Initialized CSystemDisplayController: 0
+[2026-03-22 10:55:55] Initializing bluetooth manager: stub
+[2026-03-22 10:55:55] Initialized CSystemPerfController: 0
+[2026-03-22 10:55:55] Initialized CSteamUINetworkController: 1
+[2026-03-22 10:55:55] Initialized CSystemReportController
+[2026-03-22 10:55:55] CGamescopeController: initalized stub implementation
+
+
+[2026-03-22 12:39:54] Client version: 1773983034
+[2026-03-22 12:39:54] Initialized CSystemDockManagerController: 0
+[2026-03-22 12:39:54] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 12:39:54] Initialized CSystemDisplayController: 0
+[2026-03-22 12:39:54] Initializing bluetooth manager: stub
+[2026-03-22 12:39:54] Initialized CSystemPerfController: 0
+[2026-03-22 12:39:54] Initialized CSteamUINetworkController: 1
+[2026-03-22 12:39:54] Initialized CSystemReportController
+[2026-03-22 12:39:54] CGamescopeController: initalized stub implementation
+
+
+[2026-03-22 12:46:06] Client version: 1773983034
+[2026-03-22 12:46:06] Initialized CSystemDockManagerController: 0
+[2026-03-22 12:46:06] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 12:46:06] Initialized CSystemDisplayController: 0
+[2026-03-22 12:46:06] Initializing bluetooth manager: stub
+[2026-03-22 12:46:06] Initialized CSystemPerfController: 0
+[2026-03-22 12:46:06] Initialized CSteamUINetworkController: 1
+[2026-03-22 12:46:06] Initialized CSystemReportController
+[2026-03-22 12:46:06] CGamescopeController: initalized stub implementation
+
+
+[2026-03-22 12:57:11] Client version: 1773983034
+[2026-03-22 12:57:11] Initialized CSystemDockManagerController: 0
+[2026-03-22 12:57:11] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 12:57:11] Initialized CSystemDisplayController: 0
+[2026-03-22 12:57:11] Initializing bluetooth manager: stub
+[2026-03-22 12:57:11] Initialized CSystemPerfController: 0
+[2026-03-22 12:57:11] Initialized CSteamUINetworkController: 1
+[2026-03-22 12:57:11] Initialized CSystemReportController
+[2026-03-22 12:57:11] CGamescopeController: initalized stub implementation
+
+
+[2026-03-22 13:03:22] Client version: 1773983034
+[2026-03-22 13:03:22] Initialized CSystemDockManagerController: 0
+[2026-03-22 13:03:22] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 13:03:22] Initialized CSystemDisplayController: 0
+[2026-03-22 13:03:22] Initializing bluetooth manager: stub
+[2026-03-22 13:03:22] Initialized CSystemPerfController: 0
+[2026-03-22 13:03:22] Initialized CSteamUINetworkController: 1
+[2026-03-22 13:03:22] Initialized CSystemReportController
+[2026-03-22 13:03:22] CGamescopeController: initalized stub implementation
+
+
+[2026-03-22 13:10:33] Client version: 1773983034
+[2026-03-22 13:10:33] Initialized CSystemDockManagerController: 0
+[2026-03-22 13:10:33] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 13:10:33] Initialized CSystemDisplayController: 0
+[2026-03-22 13:10:33] Initializing bluetooth manager: stub
+[2026-03-22 13:10:33] Initialized CSystemPerfController: 0
+[2026-03-22 13:10:33] Initialized CSteamUINetworkController: 1
+[2026-03-22 13:10:33] Initialized CSystemReportController
+[2026-03-22 13:10:33] CGamescopeController: initalized stub implementation
+
+
+[2026-03-22 18:09:55] Client version: 1773983034
+[2026-03-22 18:09:55] Initialized CSystemDockManagerController: 0
+[2026-03-22 18:09:55] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 18:09:55] Initialized CSystemDisplayController: 0
+[2026-03-22 18:09:55] Initializing bluetooth manager: stub
+[2026-03-22 18:09:55] Initialized CSystemPerfController: 0
+[2026-03-22 18:09:55] Initialized CSteamUINetworkController: 1
+[2026-03-22 18:09:55] Initialized CSystemReportController
+[2026-03-22 18:09:55] CGamescopeController: initalized stub implementation
+
+
+[2026-03-22 18:36:48] Client version: 1773983034
+[2026-03-22 18:36:48] Initialized CSystemDockManagerController: 0
+[2026-03-22 18:36:48] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 18:36:48] Initialized CSystemDisplayController: 0
+[2026-03-22 18:36:48] Initializing bluetooth manager: stub
+[2026-03-22 18:36:48] Initialized CSystemPerfController: 0
+[2026-03-22 18:36:48] Initialized CSteamUINetworkController: 1
+[2026-03-22 18:36:48] Initialized CSystemReportController
+[2026-03-22 18:36:48] CGamescopeController: initalized stub implementation
+
+
+[2026-03-22 19:19:47] Client version: 1773983034
+[2026-03-22 19:19:47] Initialized CSystemDockManagerController: 0
+[2026-03-22 19:19:47] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 19:19:47] Initialized CSystemDisplayController: 0
+[2026-03-22 19:19:47] Initializing bluetooth manager: stub
+[2026-03-22 19:19:47] Initialized CSystemPerfController: 0
+[2026-03-22 19:19:47] Initialized CSteamUINetworkController: 1
+[2026-03-22 19:19:47] Initialized CSystemReportController
+[2026-03-22 19:19:47] CGamescopeController: initalized stub implementation
+[2026-03-22 20:51:09] Suspend notification: entering
+[2026-03-22 21:00:15] Suspend notification: resuming
+
+
+[2026-03-22 23:06:08] Client version: 1773983034
+[2026-03-22 23:06:08] Initialized CSystemDockManagerController: 0
+[2026-03-22 23:06:08] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 23:06:08] Initialized CSystemDisplayController: 0
+[2026-03-22 23:06:08] Initializing bluetooth manager: stub
+[2026-03-22 23:06:08] Initialized CSystemPerfController: 0
+[2026-03-22 23:06:08] Initialized CSteamUINetworkController: 1
+[2026-03-22 23:06:08] Initialized CSystemReportController
+[2026-03-22 23:06:08] CGamescopeController: initalized stub implementation
+
+
+[2026-03-22 23:36:05] Client version: 1773983034
+[2026-03-22 23:36:05] Initialized CSystemDockManagerController: 0
+[2026-03-22 23:36:05] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 23:36:05] Initialized CSystemDisplayController: 0
+[2026-03-22 23:36:05] Initializing bluetooth manager: stub
+[2026-03-22 23:36:05] Initialized CSystemPerfController: 0
+[2026-03-22 23:36:05] Initialized CSteamUINetworkController: 1
+[2026-03-22 23:36:05] Initialized CSystemReportController
+[2026-03-22 23:36:05] CGamescopeController: initalized stub implementation
+
+
+[2026-03-22 23:55:47] Client version: 1773983034
+[2026-03-22 23:55:47] Initialized CSystemDockManagerController: 0
+[2026-03-22 23:55:47] Initialized CSystemAudioDeviceController: 0
+[2026-03-22 23:55:47] Initialized CSystemDisplayController: 0
+[2026-03-22 23:55:47] Initializing bluetooth manager: stub
+[2026-03-22 23:55:47] Initialized CSystemPerfController: 0
+[2026-03-22 23:55:47] Initialized CSteamUINetworkController: 1
+[2026-03-22 23:55:47] Initialized CSystemReportController
+[2026-03-22 23:55:47] CGamescopeController: initalized stub implementation
+
+
+[2026-03-23 00:18:12] Client version: 1773983034
+[2026-03-23 00:18:12] Initialized CSystemDockManagerController: 0
+[2026-03-23 00:18:12] Initialized CSystemAudioDeviceController: 0
+[2026-03-23 00:18:12] Initialized CSystemDisplayController: 0
+[2026-03-23 00:18:12] Initializing bluetooth manager: stub
+[2026-03-23 00:18:12] Initialized CSystemPerfController: 0
+[2026-03-23 00:18:12] Initialized CSteamUINetworkController: 1
+[2026-03-23 00:18:12] Initialized CSystemReportController
+[2026-03-23 00:18:12] CGamescopeController: initalized stub implementation
+
+
+[2026-03-23 14:53:20] Client version: 1773983034
+[2026-03-23 14:53:20] Initialized CSystemDockManagerController: 0
+[2026-03-23 14:53:20] Initialized CSystemAudioDeviceController: 0
+[2026-03-23 14:53:20] Initialized CSystemDisplayController: 0
+[2026-03-23 14:53:20] Initializing bluetooth manager: stub
+[2026-03-23 14:53:20] Initialized CSystemPerfController: 0
+[2026-03-23 14:53:20] Initialized CSteamUINetworkController: 1
+[2026-03-23 14:53:20] Initialized CSystemReportController
+[2026-03-23 14:53:20] CGamescopeController: initalized stub implementation
+
+
+[2026-03-23 14:57:07] Client version: 1773983034
+[2026-03-23 14:57:07] Initialized CSystemDockManagerController: 0
+[2026-03-23 14:57:07] Initialized CSystemAudioDeviceController: 0
+[2026-03-23 14:57:07] Initialized CSystemDisplayController: 0
+[2026-03-23 14:57:07] Initializing bluetooth manager: stub
+[2026-03-23 14:57:07] Initialized CSystemPerfController: 0
+[2026-03-23 14:57:07] Initialized CSteamUINetworkController: 1
+[2026-03-23 14:57:07] Initialized CSystemReportController
+[2026-03-23 14:57:07] CGamescopeController: initalized stub implementation
+
+
+[2026-03-23 15:06:03] Client version: 1773983034
+[2026-03-23 15:06:03] Initialized CSystemDockManagerController: 0
+[2026-03-23 15:06:03] Initialized CSystemAudioDeviceController: 0
+[2026-03-23 15:06:03] Initialized CSystemDisplayController: 0
+[2026-03-23 15:06:03] Initializing bluetooth manager: stub
+[2026-03-23 15:06:03] Initialized CSystemPerfController: 0
+[2026-03-23 15:06:03] Initialized CSteamUINetworkController: 1
+[2026-03-23 15:06:03] Initialized CSystemReportController
+[2026-03-23 15:06:03] CGamescopeController: initalized stub implementation
+
+
+[2026-03-23 16:32:35] Client version: 1773983034
+[2026-03-23 16:32:35] Initialized CSystemDockManagerController: 0
+[2026-03-23 16:32:35] Initialized CSystemAudioDeviceController: 0
+[2026-03-23 16:32:35] Initialized CSystemDisplayController: 0
+[2026-03-23 16:32:35] Initializing bluetooth manager: stub
+[2026-03-23 16:32:35] Initialized CSystemPerfController: 0
+[2026-03-23 16:32:35] Initialized CSteamUINetworkController: 1
+[2026-03-23 16:32:35] Initialized CSystemReportController
+[2026-03-23 16:32:35] CGamescopeController: initalized stub implementation
+
+
+[2026-03-23 16:35:44] Client version: 1773983034
+[2026-03-23 16:35:44] Initialized CSystemDockManagerController: 0
+[2026-03-23 16:35:44] Initialized CSystemAudioDeviceController: 0
+[2026-03-23 16:35:44] Initialized CSystemDisplayController: 0
+[2026-03-23 16:35:44] Initializing bluetooth manager: stub
+[2026-03-23 16:35:44] Initialized CSystemPerfController: 0
+[2026-03-23 16:35:44] Initialized CSteamUINetworkController: 1
+[2026-03-23 16:35:44] Initialized CSystemReportController
+[2026-03-23 16:35:44] CGamescopeController: initalized stub implementation
+
+
+[2026-03-23 16:45:18] Client version: 1773983034
+[2026-03-23 16:45:18] Initialized CSystemDockManagerController: 0
+[2026-03-23 16:45:18] Initialized CSystemAudioDeviceController: 0
+[2026-03-23 16:45:18] Initialized CSystemDisplayController: 0
+[2026-03-23 16:45:18] Initializing bluetooth manager: stub
+[2026-03-23 16:45:18] Initialized CSystemPerfController: 0
+[2026-03-23 16:45:18] Initialized CSteamUINetworkController: 1
+[2026-03-23 16:45:18] Initialized CSystemReportController
+[2026-03-23 16:45:18] CGamescopeController: initalized stub implementation
+
+
+[2026-03-23 17:00:14] Client version: 1773983034
+[2026-03-23 17:00:14] Initialized CSystemDockManagerController: 0
+[2026-03-23 17:00:14] Initialized CSystemAudioDeviceController: 0
+[2026-03-23 17:00:14] Initialized CSystemDisplayController: 0
+[2026-03-23 17:00:14] Initializing bluetooth manager: stub
+[2026-03-23 17:00:14] Initialized CSystemPerfController: 0
+[2026-03-23 17:00:14] Initialized CSteamUINetworkController: 1
+[2026-03-23 17:00:14] Initialized CSystemReportController
+[2026-03-23 17:00:14] CGamescopeController: initalized stub implementation
+
+
+[2026-03-23 20:26:25] Client version: 1773983034
+[2026-03-23 20:26:25] Initialized CSystemDockManagerController: 0
+[2026-03-23 20:26:25] Initialized CSystemAudioDeviceController: 0
+[2026-03-23 20:26:25] Initialized CSystemDisplayController: 0
+[2026-03-23 20:26:25] Initializing bluetooth manager: stub
+[2026-03-23 20:26:25] Initialized CSystemPerfController: 0
+[2026-03-23 20:26:25] Initialized CSteamUINetworkController: 1
+[2026-03-23 20:26:25] Initialized CSystemReportController
+[2026-03-23 20:26:25] CGamescopeController: initalized stub implementation
+
+
+[2026-03-23 20:50:31] Client version: 1773983034
+[2026-03-23 20:50:31] Initialized CSystemDockManagerController: 0
+[2026-03-23 20:50:31] Initialized CSystemAudioDeviceController: 0
+[2026-03-23 20:50:31] Initialized CSystemDisplayController: 0
+[2026-03-23 20:50:31] Initializing bluetooth manager: stub
+[2026-03-23 20:50:31] Initialized CSystemPerfController: 0
+[2026-03-23 20:50:31] Initialized CSteamUINetworkController: 1
+[2026-03-23 20:50:31] Initialized CSystemReportController
+[2026-03-23 20:50:31] CGamescopeController: initalized stub implementation
+[2026-03-23 21:09:38] Suspend notification: entering
+[2026-03-23 21:13:03] Suspend notification: resuming
+
+
+[2026-03-23 21:24:49] Client version: 1773983034
+[2026-03-23 21:24:49] Initialized CSystemDockManagerController: 0
+[2026-03-23 21:24:49] Initialized CSystemAudioDeviceController: 0
+[2026-03-23 21:24:49] Initialized CSystemDisplayController: 0
+[2026-03-23 21:24:49] Initializing bluetooth manager: stub
+[2026-03-23 21:24:49] Initialized CSystemPerfController: 0
+[2026-03-23 21:24:49] Initialized CSteamUINetworkController: 1
+[2026-03-23 21:24:49] Initialized CSystemReportController
+[2026-03-23 21:24:49] CGamescopeController: initalized stub implementation
+
+
+[2026-03-23 22:04:59] Client version: 1773983034
+[2026-03-23 22:04:59] Initialized CSystemDockManagerController: 0
+[2026-03-23 22:04:59] Initialized CSystemAudioDeviceController: 0
+[2026-03-23 22:04:59] Initialized CSystemDisplayController: 0
+[2026-03-23 22:04:59] Initializing bluetooth manager: stub
+[2026-03-23 22:04:59] Initialized CSystemPerfController: 0
+[2026-03-23 22:04:59] Initialized CSteamUINetworkController: 1
+[2026-03-23 22:04:59] Initialized CSystemReportController
+[2026-03-23 22:04:59] CGamescopeController: initalized stub implementation
+
+
+[2026-03-23 22:47:09] Client version: 1773983034
+[2026-03-23 22:47:09] Initialized CSystemDockManagerController: 0
+[2026-03-23 22:47:09] Initialized CSystemAudioDeviceController: 0
+[2026-03-23 22:47:09] Initialized CSystemDisplayController: 0
+[2026-03-23 22:47:09] Initializing bluetooth manager: stub
+[2026-03-23 22:47:09] Initialized CSystemPerfController: 0
+[2026-03-23 22:47:09] Initialized CSteamUINetworkController: 1
+[2026-03-23 22:47:09] Initialized CSystemReportController
+[2026-03-23 22:47:09] CGamescopeController: initalized stub implementation
+
+
+[2026-03-24 14:55:18] Client version: 1773983034
+[2026-03-24 14:55:18] Initialized CSystemDockManagerController: 0
+[2026-03-24 14:55:18] Initialized CSystemAudioDeviceController: 0
+[2026-03-24 14:55:18] Initialized CSystemDisplayController: 0
+[2026-03-24 14:55:18] Initializing bluetooth manager: stub
+[2026-03-24 14:55:18] Initialized CSystemPerfController: 0
+[2026-03-24 14:55:18] Initialized CSteamUINetworkController: 1
+[2026-03-24 14:55:18] Initialized CSystemReportController
+[2026-03-24 14:55:18] CGamescopeController: initalized stub implementation
+
+
+[2026-03-24 15:25:25] Client version: 1774306123
+[2026-03-24 15:25:25] Initialized CSystemDockManagerController: 0
+[2026-03-24 15:25:25] Initialized CSystemAudioDeviceController: 0
+[2026-03-24 15:25:25] Initialized CSystemDisplayController: 0
+[2026-03-24 15:25:25] Initializing bluetooth manager: stub
+[2026-03-24 15:25:25] Initialized CSystemPerfController: 0
+[2026-03-24 15:25:25] Initialized CSteamUINetworkController: 1
+[2026-03-24 15:25:25] Initialized CSystemReportController
+[2026-03-24 15:25:25] CGamescopeController: initalized stub implementation
+
+
+[2026-03-24 15:52:14] Client version: 1774306123
+[2026-03-24 15:52:14] Initialized CSystemDockManagerController: 0
+[2026-03-24 15:52:14] Initialized CSystemAudioDeviceController: 0
+[2026-03-24 15:52:14] Initialized CSystemDisplayController: 0
+[2026-03-24 15:52:14] Initializing bluetooth manager: stub
+[2026-03-24 15:52:14] Initialized CSystemPerfController: 0
+[2026-03-24 15:52:14] Initialized CSteamUINetworkController: 1
+[2026-03-24 15:52:14] Initialized CSystemReportController
+[2026-03-24 15:52:14] CGamescopeController: initalized stub implementation
+
+
+[2026-03-24 20:10:50] Client version: 1774306123
+[2026-03-24 20:10:50] Initialized CSystemDockManagerController: 0
+[2026-03-24 20:10:50] Initialized CSystemAudioDeviceController: 0
+[2026-03-24 20:10:50] Initialized CSystemDisplayController: 0
+[2026-03-24 20:10:50] Initializing bluetooth manager: stub
+[2026-03-24 20:10:50] Initialized CSystemPerfController: 0
+[2026-03-24 20:10:50] Initialized CSteamUINetworkController: 1
+[2026-03-24 20:10:50] Initialized CSystemReportController
+[2026-03-24 20:10:50] CGamescopeController: initalized stub implementation
+
+
+[2026-03-25 13:27:16] Client version: 1774306123
+[2026-03-25 13:27:16] Initialized CSystemDockManagerController: 0
+[2026-03-25 13:27:16] Initialized CSystemAudioDeviceController: 0
+[2026-03-25 13:27:16] Initialized CSystemDisplayController: 0
+[2026-03-25 13:27:16] Initializing bluetooth manager: stub
+[2026-03-25 13:27:16] Initialized CSystemPerfController: 0
+[2026-03-25 13:27:16] Initialized CSteamUINetworkController: 1
+[2026-03-25 13:27:16] Initialized CSystemReportController
+[2026-03-25 13:27:16] CGamescopeController: initalized stub implementation
+
+
+[2026-03-26 15:54:26] Client version: 1774488570
+[2026-03-26 15:54:26] Initialized CSystemDockManagerController: 0
+[2026-03-26 15:54:26] Initialized CSystemAudioDeviceController: 0
+[2026-03-26 15:54:26] Initialized CSystemDisplayController: 0
+[2026-03-26 15:54:26] Initializing bluetooth manager: stub
+[2026-03-26 15:54:26] Initialized CSystemPerfController: 0
+[2026-03-26 15:54:26] Initialized CSteamUINetworkController: 1
+[2026-03-26 15:54:26] Initialized CSystemReportController
+[2026-03-26 15:54:26] CGamescopeController: initalized stub implementation
+
+
+[2026-03-27 15:55:06] Client version: 1774488570
+[2026-03-27 15:55:06] Initialized CSystemDockManagerController: 0
+[2026-03-27 15:55:06] Initialized CSystemAudioDeviceController: 0
+[2026-03-27 15:55:06] Initialized CSystemDisplayController: 0
+[2026-03-27 15:55:06] Initializing bluetooth manager: stub
+[2026-03-27 15:55:06] Initialized CSystemPerfController: 0
+[2026-03-27 15:55:06] Initialized CSteamUINetworkController: 1
+[2026-03-27 15:55:06] Initialized CSystemReportController
+[2026-03-27 15:55:06] CGamescopeController: initalized stub implementation
+
+
+[2026-03-27 19:16:38] Client version: 1774577504
+[2026-03-27 19:16:38] Initialized CSystemDockManagerController: 0
+[2026-03-27 19:16:38] Initialized CSystemAudioDeviceController: 0
+[2026-03-27 19:16:38] Initialized CSystemDisplayController: 0
+[2026-03-27 19:16:38] Initializing bluetooth manager: stub
+[2026-03-27 19:16:38] Initialized CSystemPerfController: 0
+[2026-03-27 19:16:38] Initialized CSteamUINetworkController: 1
+[2026-03-27 19:16:38] Initialized CSystemReportController
+[2026-03-27 19:16:38] CGamescopeController: initalized stub implementation
+
+
+[2026-03-28 08:14:56] Client version: 1774577504
+[2026-03-28 08:14:56] Initialized CSystemDockManagerController: 0
+[2026-03-28 08:14:56] Initialized CSystemAudioDeviceController: 0
+[2026-03-28 08:14:56] Initialized CSystemDisplayController: 0
+[2026-03-28 08:14:56] Initializing bluetooth manager: stub
+[2026-03-28 08:14:56] Initialized CSystemPerfController: 0
+[2026-03-28 08:14:56] Initialized CSteamUINetworkController: 1
+[2026-03-28 08:14:56] Initialized CSystemReportController
+[2026-03-28 08:14:56] CGamescopeController: initalized stub implementation
+
+
+[2026-03-28 19:10:46] Client version: 1774577504
+[2026-03-28 19:10:46] Initialized CSystemDockManagerController: 0
+[2026-03-28 19:10:46] Initialized CSystemAudioDeviceController: 0
+[2026-03-28 19:10:46] Initialized CSystemDisplayController: 0
+[2026-03-28 19:10:46] Initializing bluetooth manager: stub
+[2026-03-28 19:10:46] Initialized CSystemPerfController: 0
+[2026-03-28 19:10:46] Initialized CSteamUINetworkController: 1
+[2026-03-28 19:10:46] Initialized CSystemReportController
+[2026-03-28 19:10:46] CGamescopeController: initalized stub implementation
+
+
+[2026-03-29 11:44:11] Client version: 1774577504
+[2026-03-29 11:44:11] Initialized CSystemDockManagerController: 0
+[2026-03-29 11:44:11] Initialized CSystemAudioDeviceController: 0
+[2026-03-29 11:44:11] Initialized CSystemDisplayController: 0
+[2026-03-29 11:44:11] Initializing bluetooth manager: stub
+[2026-03-29 11:44:11] Initialized CSystemPerfController: 0
+[2026-03-29 11:44:11] Initialized CSteamUINetworkController: 1
+[2026-03-29 11:44:11] Initialized CSystemReportController
+[2026-03-29 11:44:11] CGamescopeController: initalized stub implementation
+
+
+[2026-03-30 14:39:36] Client version: 1774577504
+[2026-03-30 14:39:36] Initialized CSystemDockManagerController: 0
+[2026-03-30 14:39:36] Initialized CSystemAudioDeviceController: 0
+[2026-03-30 14:39:36] Initialized CSystemDisplayController: 0
+[2026-03-30 14:39:36] Initializing bluetooth manager: stub
+[2026-03-30 14:39:36] Initialized CSystemPerfController: 0
+[2026-03-30 14:39:36] Initialized CSteamUINetworkController: 1
+[2026-03-30 14:39:36] Initialized CSystemReportController
+[2026-03-30 14:39:36] CGamescopeController: initalized stub implementation
+
+
+[2026-03-31 14:58:28] Client version: 1774577504
+[2026-03-31 14:58:28] Initialized CSystemDockManagerController: 0
+[2026-03-31 14:58:28] Initialized CSystemAudioDeviceController: 0
+[2026-03-31 14:58:28] Initialized CSystemDisplayController: 0
+[2026-03-31 14:58:28] Initializing bluetooth manager: stub
+[2026-03-31 14:58:28] Initialized CSystemPerfController: 0
+[2026-03-31 14:58:28] Initialized CSteamUINetworkController: 1
+[2026-03-31 14:58:28] Initialized CSystemReportController
+[2026-03-31 14:58:28] CGamescopeController: initalized stub implementation
+
+
+[2026-03-31 20:25:44] Client version: 1774577504
+[2026-03-31 20:25:44] Initialized CSystemDockManagerController: 0
+[2026-03-31 20:25:44] Initialized CSystemAudioDeviceController: 0
+[2026-03-31 20:25:44] Initialized CSystemDisplayController: 0
+[2026-03-31 20:25:44] Initializing bluetooth manager: stub
+[2026-03-31 20:25:44] Initialized CSystemPerfController: 0
+[2026-03-31 20:25:44] Initialized CSteamUINetworkController: 1
+[2026-03-31 20:25:44] Initialized CSystemReportController
+[2026-03-31 20:25:44] CGamescopeController: initalized stub implementation
+
+
+[2026-03-31 22:43:50] Client version: 1774577504
+[2026-03-31 22:43:50] Initialized CSystemDockManagerController: 0
+[2026-03-31 22:43:50] Initialized CSystemAudioDeviceController: 0
+[2026-03-31 22:43:50] Initialized CSystemDisplayController: 0
+[2026-03-31 22:43:50] Initializing bluetooth manager: stub
+[2026-03-31 22:43:50] Initialized CSystemPerfController: 0
+[2026-03-31 22:43:50] Initialized CSteamUINetworkController: 1
+[2026-03-31 22:43:50] Initialized CSystemReportController
+[2026-03-31 22:43:50] CGamescopeController: initalized stub implementation
+
+
+[2026-04-01 13:09:16] Client version: 1774577504
+[2026-04-01 13:09:16] Initialized CSystemDockManagerController: 0
+[2026-04-01 13:09:16] Initialized CSystemAudioDeviceController: 0
+[2026-04-01 13:09:16] Initialized CSystemDisplayController: 0
+[2026-04-01 13:09:16] Initializing bluetooth manager: stub
+[2026-04-01 13:09:16] Initialized CSystemPerfController: 0
+[2026-04-01 13:09:16] Initialized CSteamUINetworkController: 1
+[2026-04-01 13:09:16] Initialized CSystemReportController
+[2026-04-01 13:09:16] CGamescopeController: initalized stub implementation
+
+
+[2026-04-01 21:15:00] Client version: 1774577504
+[2026-04-01 21:15:00] Initialized CSystemDockManagerController: 0
+[2026-04-01 21:15:00] Initialized CSystemAudioDeviceController: 0
+[2026-04-01 21:15:00] Initialized CSystemDisplayController: 0
+[2026-04-01 21:15:00] Initializing bluetooth manager: stub
+[2026-04-01 21:15:00] Initialized CSystemPerfController: 0
+[2026-04-01 21:15:00] Initialized CSteamUINetworkController: 1
+[2026-04-01 21:15:00] Initialized CSystemReportController
+[2026-04-01 21:15:00] CGamescopeController: initalized stub implementation
+
+
+[2026-04-02 09:12:05] Client version: 1774577504
+[2026-04-02 09:12:05] Initialized CSystemDockManagerController: 0
+[2026-04-02 09:12:05] Initialized CSystemAudioDeviceController: 0
+[2026-04-02 09:12:05] Initialized CSystemDisplayController: 0
+[2026-04-02 09:12:05] Initializing bluetooth manager: stub
+[2026-04-02 09:12:05] Initialized CSystemPerfController: 0
+[2026-04-02 09:12:05] Initialized CSteamUINetworkController: 1
+[2026-04-02 09:12:05] Initialized CSystemReportController
+[2026-04-02 09:12:05] CGamescopeController: initalized stub implementation
+
+
+[2026-04-02 09:14:42] Client version: 1775086565
+[2026-04-02 09:14:42] Initialized CSystemDockManagerController: 0
+[2026-04-02 09:14:42] Initialized CSystemAudioDeviceController: 0
+[2026-04-02 09:14:42] Initialized CSystemDisplayController: 0
+[2026-04-02 09:14:42] Initializing bluetooth manager: stub
+[2026-04-02 09:14:42] Initialized CSystemPerfController: 0
+[2026-04-02 09:14:42] Initialized CSteamUINetworkController: 1
+[2026-04-02 09:14:42] Initialized CSystemReportController
+[2026-04-02 09:14:42] CGamescopeController: initalized stub implementation
+
+
+[2026-04-02 19:44:49] Client version: 1775086565
+[2026-04-02 19:44:49] Initialized CSystemDockManagerController: 0
+[2026-04-02 19:44:49] Initialized CSystemAudioDeviceController: 0
+[2026-04-02 19:44:49] Initialized CSystemDisplayController: 0
+[2026-04-02 19:44:49] Initializing bluetooth manager: stub
+[2026-04-02 19:44:49] Initialized CSystemPerfController: 0
+[2026-04-02 19:44:49] Initialized CSteamUINetworkController: 1
+[2026-04-02 19:44:49] Initialized CSystemReportController
+[2026-04-02 19:44:49] CGamescopeController: initalized stub implementation
+
+
+[2026-04-03 09:29:48] Client version: 1775086565
+[2026-04-03 09:29:48] Initialized CSystemDockManagerController: 0
+[2026-04-03 09:29:48] Initialized CSystemAudioDeviceController: 0
+[2026-04-03 09:29:48] Initialized CSystemDisplayController: 0
+[2026-04-03 09:29:48] Initializing bluetooth manager: stub
+[2026-04-03 09:29:48] Initialized CSystemPerfController: 0
+[2026-04-03 09:29:48] Initialized CSteamUINetworkController: 1
+[2026-04-03 09:29:48] Initialized CSystemReportController
+[2026-04-03 09:29:48] CGamescopeController: initalized stub implementation
+
+
+[2026-04-03 20:14:14] Client version: 1775175108
+[2026-04-03 20:14:14] Initialized CSystemDockManagerController: 0
+[2026-04-03 20:14:14] Initialized CSystemAudioDeviceController: 0
+[2026-04-03 20:14:14] Initialized CSystemDisplayController: 0
+[2026-04-03 20:14:14] Initializing bluetooth manager: stub
+[2026-04-03 20:14:14] Initialized CSystemPerfController: 0
+[2026-04-03 20:14:14] Initialized CSteamUINetworkController: 1
+[2026-04-03 20:14:14] Initialized CSystemReportController
+[2026-04-03 20:14:14] CGamescopeController: initalized stub implementation
+
+
+[2026-04-04 11:10:27] Client version: 1775175108
+[2026-04-04 11:10:27] Initialized CSystemDockManagerController: 0
+[2026-04-04 11:10:27] Initialized CSystemAudioDeviceController: 0
+[2026-04-04 11:10:27] Initialized CSystemDisplayController: 0
+[2026-04-04 11:10:27] Initializing bluetooth manager: stub
+[2026-04-04 11:10:27] Initialized CSystemPerfController: 0
+[2026-04-04 11:10:27] Initialized CSteamUINetworkController: 1
+[2026-04-04 11:10:27] Initialized CSystemReportController
+[2026-04-04 11:10:27] CGamescopeController: initalized stub implementation
+
+
+[2026-04-04 20:20:15] Client version: 1775175108
+[2026-04-04 20:20:15] Initialized CSystemDockManagerController: 0
+[2026-04-04 20:20:15] Initialized CSystemAudioDeviceController: 0
+[2026-04-04 20:20:15] Initialized CSystemDisplayController: 0
+[2026-04-04 20:20:15] Initializing bluetooth manager: stub
+[2026-04-04 20:20:15] Initialized CSystemPerfController: 0
+[2026-04-04 20:20:15] Initialized CSteamUINetworkController: 1
+[2026-04-04 20:20:15] Initialized CSystemReportController
+[2026-04-04 20:20:15] CGamescopeController: initalized stub implementation
+
+
+[2026-04-05 13:26:14] Client version: 1775175108
+[2026-04-05 13:26:14] Initialized CSystemDockManagerController: 0
+[2026-04-05 13:26:14] Initialized CSystemAudioDeviceController: 0
+[2026-04-05 13:26:14] Initialized CSystemDisplayController: 0
+[2026-04-05 13:26:14] Initializing bluetooth manager: stub
+[2026-04-05 13:26:14] Initialized CSystemPerfController: 0
+[2026-04-05 13:26:14] Initialized CSteamUINetworkController: 1
+[2026-04-05 13:26:14] Initialized CSystemReportController
+[2026-04-05 13:26:14] CGamescopeController: initalized stub implementation
+
+
+[2026-04-05 18:15:52] Client version: 1775175108
+[2026-04-05 18:15:52] Initialized CSystemDockManagerController: 0
+[2026-04-05 18:15:52] Initialized CSystemAudioDeviceController: 0
+[2026-04-05 18:15:52] Initialized CSystemDisplayController: 0
+[2026-04-05 18:15:52] Initializing bluetooth manager: stub
+[2026-04-05 18:15:52] Initialized CSystemPerfController: 0
+[2026-04-05 18:15:52] Initialized CSteamUINetworkController: 1
+[2026-04-05 18:15:52] Initialized CSystemReportController
+[2026-04-05 18:15:52] CGamescopeController: initalized stub implementation
+
+
+[2026-04-06 10:25:57] Client version: 1775175108
+[2026-04-06 10:25:57] Initialized CSystemDockManagerController: 0
+[2026-04-06 10:25:57] Initialized CSystemAudioDeviceController: 0
+[2026-04-06 10:25:57] Initialized CSystemDisplayController: 0
+[2026-04-06 10:25:57] Initializing bluetooth manager: stub
+[2026-04-06 10:25:57] Initialized CSystemPerfController: 0
+[2026-04-06 10:25:57] Initialized CSteamUINetworkController: 1
+[2026-04-06 10:25:57] Initialized CSystemReportController
+[2026-04-06 10:25:57] CGamescopeController: initalized stub implementation
+
+
+[2026-04-07 09:32:17] Client version: 1775175108
+[2026-04-07 09:32:17] Initialized CSystemDockManagerController: 0
+[2026-04-07 09:32:17] Initialized CSystemAudioDeviceController: 0
+[2026-04-07 09:32:17] Initialized CSystemDisplayController: 0
+[2026-04-07 09:32:17] Initializing bluetooth manager: stub
+[2026-04-07 09:32:17] Initialized CSystemPerfController: 0
+[2026-04-07 09:32:17] Initialized CSteamUINetworkController: 1
+[2026-04-07 09:32:17] Initialized CSystemReportController
+[2026-04-07 09:32:17] CGamescopeController: initalized stub implementation
+
+
+[2026-04-07 20:56:12] Client version: 1775525170
+[2026-04-07 20:56:12] Initialized CSystemDockManagerController: 0
+[2026-04-07 20:56:12] Initialized CSystemAudioDeviceController: 0
+[2026-04-07 20:56:12] Initialized CSystemDisplayController: 0
+[2026-04-07 20:56:12] Initializing bluetooth manager: stub
+[2026-04-07 20:56:12] Initialized CSystemPerfController: 0
+[2026-04-07 20:56:12] Initialized CSteamUINetworkController: 1
+[2026-04-07 20:56:12] Initialized CSystemReportController
+[2026-04-07 20:56:12] CGamescopeController: initalized stub implementation
+
+
+[2026-04-08 14:04:54] Client version: 1775525170
+[2026-04-08 14:04:54] Initialized CSystemDockManagerController: 0
+[2026-04-08 14:04:54] Initialized CSystemAudioDeviceController: 0
+[2026-04-08 14:04:54] Initialized CSystemDisplayController: 0
+[2026-04-08 14:04:54] Initializing bluetooth manager: stub
+[2026-04-08 14:04:54] Initialized CSystemPerfController: 0
+[2026-04-08 14:04:54] Initialized CSteamUINetworkController: 1
+[2026-04-08 14:04:54] Initialized CSystemReportController
+[2026-04-08 14:04:54] CGamescopeController: initalized stub implementation
+
+
+[2026-04-09 16:36:40] Client version: 1775605734
+[2026-04-09 16:36:40] Initialized CSystemDockManagerController: 0
+[2026-04-09 16:36:40] Initialized CSystemAudioDeviceController: 0
+[2026-04-09 16:36:40] Initialized CSystemDisplayController: 0
+[2026-04-09 16:36:40] Initializing bluetooth manager: stub
+[2026-04-09 16:36:40] Initialized CSystemPerfController: 0
+[2026-04-09 16:36:40] Initialized CSteamUINetworkController: 1
+[2026-04-09 16:36:40] Initialized CSystemReportController
+[2026-04-09 16:36:40] CGamescopeController: initalized stub implementation
+
+
+[2026-04-09 19:54:15] Client version: 1775703228
+[2026-04-09 19:54:15] Initialized CSystemDockManagerController: 0
+[2026-04-09 19:54:15] Initialized CSystemAudioDeviceController: 0
+[2026-04-09 19:54:15] Initialized CSystemDisplayController: 0
+[2026-04-09 19:54:15] Initializing bluetooth manager: stub
+[2026-04-09 19:54:15] Initialized CSystemPerfController: 0
+[2026-04-09 19:54:15] Initialized CSteamUINetworkController: 1
+[2026-04-09 19:54:15] Initialized CSystemReportController
+[2026-04-09 19:54:15] CGamescopeController: initalized stub implementation
+
+
+[2026-04-10 13:53:45] Client version: 1775703228
+[2026-04-10 13:53:45] Initialized CSystemDockManagerController: 0
+[2026-04-10 13:53:45] Initialized CSystemAudioDeviceController: 0
+[2026-04-10 13:53:45] Initialized CSystemDisplayController: 0
+[2026-04-10 13:53:45] Initializing bluetooth manager: stub
+[2026-04-10 13:53:45] Initialized CSystemPerfController: 0
+[2026-04-10 13:53:45] Initialized CSteamUINetworkController: 1
+[2026-04-10 13:53:45] Initialized CSystemReportController
+[2026-04-10 13:53:45] CGamescopeController: initalized stub implementation
+
+
+[2026-04-10 17:26:29] Client version: 1775703228
+[2026-04-10 17:26:29] Initialized CSystemDockManagerController: 0
+[2026-04-10 17:26:29] Initialized CSystemAudioDeviceController: 0
+[2026-04-10 17:26:29] Initialized CSystemDisplayController: 0
+[2026-04-10 17:26:29] Initializing bluetooth manager: stub
+[2026-04-10 17:26:29] Initialized CSystemPerfController: 0
+[2026-04-10 17:26:29] Initialized CSteamUINetworkController: 1
+[2026-04-10 17:26:29] Initialized CSystemReportController
+[2026-04-10 17:26:29] CGamescopeController: initalized stub implementation
+
+
+[2026-04-11 09:13:40] Client version: 1775703228
+[2026-04-11 09:13:40] Initialized CSystemDockManagerController: 0
+[2026-04-11 09:13:40] Initialized CSystemAudioDeviceController: 0
+[2026-04-11 09:13:40] Initialized CSystemDisplayController: 0
+[2026-04-11 09:13:40] Initializing bluetooth manager: stub
+[2026-04-11 09:13:40] Initialized CSystemPerfController: 0
+[2026-04-11 09:13:40] Initialized CSteamUINetworkController: 1
+[2026-04-11 09:13:40] Initialized CSystemReportController
+[2026-04-11 09:13:40] CGamescopeController: initalized stub implementation
+
+
+[2026-04-11 17:41:30] Client version: 1775858166
+[2026-04-11 17:41:30] Initialized CSystemDockManagerController: 0
+[2026-04-11 17:41:30] Initialized CSystemAudioDeviceController: 0
+[2026-04-11 17:41:30] Initialized CSystemDisplayController: 0
+[2026-04-11 17:41:30] Initializing bluetooth manager: stub
+[2026-04-11 17:41:30] Initialized CSystemPerfController: 0
+[2026-04-11 17:41:30] Initialized CSteamUINetworkController: 1
+[2026-04-11 17:41:30] Initialized CSystemReportController
+[2026-04-11 17:41:30] CGamescopeController: initalized stub implementation
+
+
+[2026-04-12 10:47:49] Client version: 1775858166
+[2026-04-12 10:47:49] Initialized CSystemDockManagerController: 0
+[2026-04-12 10:47:49] Initialized CSystemAudioDeviceController: 0
+[2026-04-12 10:47:49] Initialized CSystemDisplayController: 0
+[2026-04-12 10:47:49] Initializing bluetooth manager: stub
+[2026-04-12 10:47:49] Initialized CSystemPerfController: 0
+[2026-04-12 10:47:49] Initialized CSteamUINetworkController: 1
+[2026-04-12 10:47:49] Initialized CSystemReportController
+[2026-04-12 10:47:49] CGamescopeController: initalized stub implementation
+
+
+[2026-04-13 14:01:44] Client version: 1775946595
+[2026-04-13 14:01:44] Initialized CSystemDockManagerController: 0
+[2026-04-13 14:01:44] Initialized CSystemAudioDeviceController: 0
+[2026-04-13 14:01:44] Initialized CSystemDisplayController: 0
+[2026-04-13 14:01:44] Initializing bluetooth manager: stub
+[2026-04-13 14:01:44] Initialized CSystemPerfController: 0
+[2026-04-13 14:01:44] Initialized CSteamUINetworkController: 1
+[2026-04-13 14:01:44] Initialized CSystemReportController
+[2026-04-13 14:01:44] CGamescopeController: initalized stub implementation
+
+
+[2026-04-13 17:51:46] Client version: 1775946595
+[2026-04-13 17:51:46] Initialized CSystemDockManagerController: 0
+[2026-04-13 17:51:46] Initialized CSystemAudioDeviceController: 0
+[2026-04-13 17:51:46] Initialized CSystemDisplayController: 0
+[2026-04-13 17:51:46] Initializing bluetooth manager: stub
+[2026-04-13 17:51:46] Initialized CSystemPerfController: 0
+[2026-04-13 17:51:46] Initialized CSteamUINetworkController: 1
+[2026-04-13 17:51:46] Initialized CSystemReportController
+[2026-04-13 17:51:46] CGamescopeController: initalized stub implementation
+
+
+[2026-04-14 15:35:07] Client version: 1775946595
+[2026-04-14 15:35:07] Initialized CSystemDockManagerController: 0
+[2026-04-14 15:35:07] Initialized CSystemAudioDeviceController: 0
+[2026-04-14 15:35:07] Initialized CSystemDisplayController: 0
+[2026-04-14 15:35:07] Initializing bluetooth manager: stub
+[2026-04-14 15:35:07] Initialized CSystemPerfController: 0
+[2026-04-14 15:35:07] Initialized CSteamUINetworkController: 1
+[2026-04-14 15:35:07] Initialized CSystemReportController
+[2026-04-14 15:35:07] CGamescopeController: initalized stub implementation
+
+
+[2026-04-15 14:04:23] Client version: 1775946595
+[2026-04-15 14:04:23] Initialized CSystemDockManagerController: 0
+[2026-04-15 14:04:23] Initialized CSystemAudioDeviceController: 0
+[2026-04-15 14:04:23] Initialized CSystemDisplayController: 0
+[2026-04-15 14:04:23] Initializing bluetooth manager: stub
+[2026-04-15 14:04:23] Initialized CSystemPerfController: 0
+[2026-04-15 14:04:23] Initialized CSteamUINetworkController: 1
+[2026-04-15 14:04:23] Initialized CSystemReportController
+[2026-04-15 14:04:23] CGamescopeController: initalized stub implementation
+
+
+[2026-04-15 19:06:01] Client version: 1775946595
+[2026-04-15 19:06:01] Initialized CSystemDockManagerController: 0
+[2026-04-15 19:06:01] Initialized CSystemAudioDeviceController: 0
+[2026-04-15 19:06:01] Initialized CSystemDisplayController: 0
+[2026-04-15 19:06:01] Initializing bluetooth manager: stub
+[2026-04-15 19:06:01] Initialized CSystemPerfController: 0
+[2026-04-15 19:06:01] Initialized CSteamUINetworkController: 1
+[2026-04-15 19:06:01] Initialized CSystemReportController
+[2026-04-15 19:06:01] CGamescopeController: initalized stub implementation
+
+
+[2026-04-16 15:46:49] Client version: 1775946595
+[2026-04-16 15:46:49] Initialized CSystemDockManagerController: 0
+[2026-04-16 15:46:49] Initialized CSystemAudioDeviceController: 0
+[2026-04-16 15:46:49] Initialized CSystemDisplayController: 0
+[2026-04-16 15:46:49] Initializing bluetooth manager: stub
+[2026-04-16 15:46:49] Initialized CSystemPerfController: 0
+[2026-04-16 15:46:49] Initialized CSteamUINetworkController: 1
+[2026-04-16 15:46:49] Initialized CSystemReportController
+[2026-04-16 15:46:49] CGamescopeController: initalized stub implementation
+
+
+[2026-04-16 17:29:44] Client version: 1775946595
+[2026-04-16 17:29:44] Initialized CSystemDockManagerController: 0
+[2026-04-16 17:29:44] Initialized CSystemAudioDeviceController: 0
+[2026-04-16 17:29:44] Initialized CSystemDisplayController: 0
+[2026-04-16 17:29:44] Initializing bluetooth manager: stub
+[2026-04-16 17:29:44] Initialized CSystemPerfController: 0
+[2026-04-16 17:29:44] Initialized CSteamUINetworkController: 1
+[2026-04-16 17:29:44] Initialized CSystemReportController
+[2026-04-16 17:29:44] CGamescopeController: initalized stub implementation
+
+
+[2026-04-16 20:20:12] Client version: 1775946595
+[2026-04-16 20:20:12] Initialized CSystemDockManagerController: 0
+[2026-04-16 20:20:12] Initialized CSystemAudioDeviceController: 0
+[2026-04-16 20:20:12] Initialized CSystemDisplayController: 0
+[2026-04-16 20:20:12] Initializing bluetooth manager: stub
+[2026-04-16 20:20:12] Initialized CSystemPerfController: 0
+[2026-04-16 20:20:12] Initialized CSteamUINetworkController: 1
+[2026-04-16 20:20:12] Initialized CSystemReportController
+[2026-04-16 20:20:12] CGamescopeController: initalized stub implementation
+
+
+[2026-04-16 22:54:41] Client version: 1775946595
+[2026-04-16 22:54:41] Initialized CSystemDockManagerController: 0
+[2026-04-16 22:54:41] Initialized CSystemAudioDeviceController: 0
+[2026-04-16 22:54:41] Initialized CSystemDisplayController: 0
+[2026-04-16 22:54:41] Initializing bluetooth manager: stub
+[2026-04-16 22:54:41] Initialized CSystemPerfController: 0
+[2026-04-16 22:54:41] Initialized CSteamUINetworkController: 1
+[2026-04-16 22:54:41] Initialized CSystemReportController
+[2026-04-16 22:54:41] CGamescopeController: initalized stub implementation
+
+
+[2026-04-17 15:43:34] Client version: 1775946595
+[2026-04-17 15:43:34] Initialized CSystemDockManagerController: 0
+[2026-04-17 15:43:34] Initialized CSystemAudioDeviceController: 0
+[2026-04-17 15:43:34] Initialized CSystemDisplayController: 0
+[2026-04-17 15:43:34] Initializing bluetooth manager: stub
+[2026-04-17 15:43:34] Initialized CSystemPerfController: 0
+[2026-04-17 15:43:34] Initialized CSteamUINetworkController: 1
+[2026-04-17 15:43:34] Initialized CSystemReportController
+[2026-04-17 15:43:34] CGamescopeController: initalized stub implementation
+
+
+[2026-04-17 20:01:27] Client version: 1776387948
+[2026-04-17 20:01:27] Initialized CSystemDockManagerController: 0
+[2026-04-17 20:01:27] Initialized CSystemAudioDeviceController: 0
+[2026-04-17 20:01:27] Initialized CSystemDisplayController: 0
+[2026-04-17 20:01:27] Initializing bluetooth manager: stub
+[2026-04-17 20:01:27] Initialized CSystemPerfController: 0
+[2026-04-17 20:01:27] Initialized CSteamUINetworkController: 1
+[2026-04-17 20:01:27] Initialized CSystemReportController
+[2026-04-17 20:01:27] CGamescopeController: initalized stub implementation
+
+
+[2026-04-18 10:07:09] Client version: 1776387948
+[2026-04-18 10:07:09] Initialized CSystemDockManagerController: 0
+[2026-04-18 10:07:09] Initialized CSystemAudioDeviceController: 0
+[2026-04-18 10:07:09] Initialized CSystemDisplayController: 0
+[2026-04-18 10:07:09] Initializing bluetooth manager: stub
+[2026-04-18 10:07:09] Initialized CSystemPerfController: 0
+[2026-04-18 10:07:09] Initialized CSteamUINetworkController: 1
+[2026-04-18 10:07:09] Initialized CSystemReportController
+[2026-04-18 10:07:09] CGamescopeController: initalized stub implementation
+
+
+[2026-04-18 16:41:42] Client version: 1776387948
+[2026-04-18 16:41:42] Initialized CSystemDockManagerController: 0
+[2026-04-18 16:41:42] Initialized CSystemAudioDeviceController: 0
+[2026-04-18 16:41:42] Initialized CSystemDisplayController: 0
+[2026-04-18 16:41:42] Initializing bluetooth manager: stub
+[2026-04-18 16:41:42] Initialized CSystemPerfController: 0
+[2026-04-18 16:41:42] Initialized CSteamUINetworkController: 1
+[2026-04-18 16:41:42] Initialized CSystemReportController
+[2026-04-18 16:41:42] CGamescopeController: initalized stub implementation
+
+
+[2026-04-18 17:13:08] Client version: 1776387948
+[2026-04-18 17:13:08] Initialized CSystemDockManagerController: 0
+[2026-04-18 17:13:08] Initialized CSystemAudioDeviceController: 0
+[2026-04-18 17:13:08] Initialized CSystemDisplayController: 0
+[2026-04-18 17:13:08] Initializing bluetooth manager: stub
+[2026-04-18 17:13:08] Initialized CSystemPerfController: 0
+[2026-04-18 17:13:08] Initialized CSteamUINetworkController: 1
+[2026-04-18 17:13:08] Initialized CSystemReportController
+[2026-04-18 17:13:08] CGamescopeController: initalized stub implementation
+
+
+[2026-04-18 18:45:22] Client version: 1776387948
+[2026-04-18 18:45:22] Initialized CSystemDockManagerController: 0
+[2026-04-18 18:45:22] Initialized CSystemAudioDeviceController: 0
+[2026-04-18 18:45:22] Initialized CSystemDisplayController: 0
+[2026-04-18 18:45:22] Initializing bluetooth manager: stub
+[2026-04-18 18:45:22] Initialized CSystemPerfController: 0
+[2026-04-18 18:45:22] Initialized CSteamUINetworkController: 1
+[2026-04-18 18:45:22] Initialized CSystemReportController
+[2026-04-18 18:45:22] CGamescopeController: initalized stub implementation
+
+
+[2026-04-19 10:24:05] Client version: 1776387948
+[2026-04-19 10:24:05] Initialized CSystemDockManagerController: 0
+[2026-04-19 10:24:05] Initialized CSystemAudioDeviceController: 0
+[2026-04-19 10:24:05] Initialized CSystemDisplayController: 0
+[2026-04-19 10:24:05] Initializing bluetooth manager: stub
+[2026-04-19 10:24:05] Initialized CSystemPerfController: 0
+[2026-04-19 10:24:05] Initialized CSteamUINetworkController: 1
+[2026-04-19 10:24:05] Initialized CSystemReportController
+[2026-04-19 10:24:05] CGamescopeController: initalized stub implementation
+
+
+[2026-04-19 19:05:55] Client version: 1776387948
+[2026-04-19 19:05:55] Initialized CSystemDockManagerController: 0
+[2026-04-19 19:05:55] Initialized CSystemAudioDeviceController: 0
+[2026-04-19 19:05:55] Initialized CSystemDisplayController: 0
+[2026-04-19 19:05:55] Initializing bluetooth manager: stub
+[2026-04-19 19:05:55] Initialized CSystemPerfController: 0
+[2026-04-19 19:05:55] Initialized CSteamUINetworkController: 1
+[2026-04-19 19:05:55] Initialized CSystemReportController
+[2026-04-19 19:05:55] CGamescopeController: initalized stub implementation
+
+
+[2026-04-20 14:56:20] Client version: 1776387948
+[2026-04-20 14:56:20] Initialized CSystemDockManagerController: 0
+[2026-04-20 14:56:20] Initialized CSystemAudioDeviceController: 0
+[2026-04-20 14:56:20] Initialized CSystemDisplayController: 0
+[2026-04-20 14:56:20] Initializing bluetooth manager: stub
+[2026-04-20 14:56:20] Initialized CSystemPerfController: 0
+[2026-04-20 14:56:20] Initialized CSteamUINetworkController: 1
+[2026-04-20 14:56:20] Initialized CSystemReportController
+[2026-04-20 14:56:20] CGamescopeController: initalized stub implementation
+
+
+[2026-04-21 14:32:55] Client version: 1776387948
+[2026-04-21 14:32:55] Initialized CSystemDockManagerController: 0
+[2026-04-21 14:32:55] Initialized CSystemAudioDeviceController: 0
+[2026-04-21 14:32:55] Initialized CSystemDisplayController: 0
+[2026-04-21 14:32:55] Initializing bluetooth manager: stub
+[2026-04-21 14:32:55] Initialized CSystemPerfController: 0
+[2026-04-21 14:32:55] Initialized CSteamUINetworkController: 1
+[2026-04-21 14:32:55] Initialized CSystemReportController
+[2026-04-21 14:32:55] CGamescopeController: initalized stub implementation
+
+
+[2026-04-21 17:30:00] Client version: 1776728408
+[2026-04-21 17:30:00] Initialized CSystemDockManagerController: 0
+[2026-04-21 17:30:00] Initialized CSystemAudioDeviceController: 0
+[2026-04-21 17:30:00] Initialized CSystemDisplayController: 0
+[2026-04-21 17:30:00] Initializing bluetooth manager: stub
+[2026-04-21 17:30:00] Initialized CSystemPerfController: 0
+[2026-04-21 17:30:00] Initialized CSteamUINetworkController: 1
+[2026-04-21 17:30:00] Initialized CSystemReportController
+[2026-04-21 17:30:00] CGamescopeController: initalized stub implementation
+
+
+[2026-04-22 13:59:31] Client version: 1776728408
+[2026-04-22 13:59:31] Initialized CSystemDockManagerController: 0
+[2026-04-22 13:59:31] Initialized CSystemAudioDeviceController: 0
+[2026-04-22 13:59:31] Initialized CSystemDisplayController: 0
+[2026-04-22 13:59:31] Initializing bluetooth manager: stub
+[2026-04-22 13:59:31] Initialized CSystemPerfController: 0
+[2026-04-22 13:59:31] Initialized CSteamUINetworkController: 1
+[2026-04-22 13:59:31] Initialized CSystemReportController
+[2026-04-22 13:59:31] CGamescopeController: initalized stub implementation
+
+
+[2026-04-22 15:54:25] Client version: 1776812172
+[2026-04-22 15:54:25] Initialized CSystemDockManagerController: 0
+[2026-04-22 15:54:25] Initialized CSystemAudioDeviceController: 0
+[2026-04-22 15:54:25] Initialized CSystemDisplayController: 0
+[2026-04-22 15:54:25] Initializing bluetooth manager: stub
+[2026-04-22 15:54:25] Initialized CSystemPerfController: 0
+[2026-04-22 15:54:25] Initialized CSteamUINetworkController: 1
+[2026-04-22 15:54:25] Initialized CSystemReportController
+[2026-04-22 15:54:25] CGamescopeController: initalized stub implementation
+
+
+[2026-04-22 19:15:05] Client version: 1776812172
+[2026-04-22 19:15:05] Initialized CSystemDockManagerController: 0
+[2026-04-22 19:15:05] Initialized CSystemAudioDeviceController: 0
+[2026-04-22 19:15:05] Initialized CSystemDisplayController: 0
+[2026-04-22 19:15:05] Initializing bluetooth manager: stub
+[2026-04-22 19:15:05] Initialized CSystemPerfController: 0
+[2026-04-22 19:15:05] Initialized CSteamUINetworkController: 1
+[2026-04-22 19:15:05] Initialized CSystemReportController
+[2026-04-22 19:15:05] CGamescopeController: initalized stub implementation
+
+
+[2026-04-23 14:09:49] Client version: 1776812172
+[2026-04-23 14:09:49] Initialized CSystemDockManagerController: 0
+[2026-04-23 14:09:49] Initialized CSystemAudioDeviceController: 0
+[2026-04-23 14:09:49] Initialized CSystemDisplayController: 0
+[2026-04-23 14:09:49] Initializing bluetooth manager: stub
+[2026-04-23 14:09:49] Initialized CSystemPerfController: 0
+[2026-04-23 14:09:49] Initialized CSteamUINetworkController: 1
+[2026-04-23 14:09:49] Initialized CSystemReportController
+[2026-04-23 14:09:49] CGamescopeController: initalized stub implementation
+
+
+[2026-04-23 19:50:42] Client version: 1776812172
+[2026-04-23 19:50:42] Initialized CSystemDockManagerController: 0
+[2026-04-23 19:50:42] Initialized CSystemAudioDeviceController: 0
+[2026-04-23 19:50:42] Initialized CSystemDisplayController: 0
+[2026-04-23 19:50:42] Initializing bluetooth manager: stub
+[2026-04-23 19:50:42] Initialized CSystemPerfController: 0
+[2026-04-23 19:50:42] Initialized CSteamUINetworkController: 1
+[2026-04-23 19:50:42] Initialized CSystemReportController
+[2026-04-23 19:50:42] CGamescopeController: initalized stub implementation
+
+
+[2026-04-24 12:54:36] Client version: 1776812172
+[2026-04-24 12:54:36] Initialized CSystemDockManagerController: 0
+[2026-04-24 12:54:36] Initialized CSystemAudioDeviceController: 0
+[2026-04-24 12:54:36] Initialized CSystemDisplayController: 0
+[2026-04-24 12:54:36] Initializing bluetooth manager: stub
+[2026-04-24 12:54:36] Initialized CSystemPerfController: 0
+[2026-04-24 12:54:36] Initialized CSteamUINetworkController: 1
+[2026-04-24 12:54:36] Initialized CSystemReportController
+[2026-04-24 12:54:36] CGamescopeController: initalized stub implementation
+
+
+[2026-04-25 11:08:13] Client version: 1776812172
+[2026-04-25 11:08:13] Initialized CSystemDockManagerController: 0
+[2026-04-25 11:08:13] Initialized CSystemAudioDeviceController: 0
+[2026-04-25 11:08:13] Initialized CSystemDisplayController: 0
+[2026-04-25 11:08:13] Initializing bluetooth manager: stub
+[2026-04-25 11:08:13] Initialized CSystemPerfController: 0
+[2026-04-25 11:08:13] Initialized CSteamUINetworkController: 1
+[2026-04-25 11:08:13] Initialized CSystemReportController
+[2026-04-25 11:08:13] CGamescopeController: initalized stub implementation
+
+
+[2026-04-25 19:25:58] Client version: 1777083821
+[2026-04-25 19:25:58] Initialized CSystemDockManagerController: 0
+[2026-04-25 19:25:58] Initialized CSystemAudioDeviceController: 0
+[2026-04-25 19:25:58] Initialized CSystemDisplayController: 0
+[2026-04-25 19:25:58] Initializing bluetooth manager: stub
+[2026-04-25 19:25:58] Initialized CSystemPerfController: 0
+[2026-04-25 19:25:58] Initialized CSteamUINetworkController: 1
+[2026-04-25 19:25:58] Initialized CSystemReportController
+[2026-04-25 19:25:58] CGamescopeController: initalized stub implementation
+
+
+[2026-04-25 19:46:09] Client version: 1777083821
+[2026-04-25 19:46:09] Initialized CSystemDockManagerController: 0
+[2026-04-25 19:46:09] Initialized CSystemAudioDeviceController: 0
+[2026-04-25 19:46:09] Initialized CSystemDisplayController: 0
+[2026-04-25 19:46:09] Initializing bluetooth manager: stub
+[2026-04-25 19:46:09] Initialized CSystemPerfController: 0
+[2026-04-25 19:46:09] Initialized CSteamUINetworkController: 1
+[2026-04-25 19:46:09] Initialized CSystemReportController
+[2026-04-25 19:46:09] CGamescopeController: initalized stub implementation
+
+
+[2026-04-26 09:46:26] Client version: 1777083821
+[2026-04-26 09:46:26] Initialized CSystemDockManagerController: 0
+[2026-04-26 09:46:26] Initialized CSystemAudioDeviceController: 0
+[2026-04-26 09:46:26] Initialized CSystemDisplayController: 0
+[2026-04-26 09:46:26] Initializing bluetooth manager: stub
+[2026-04-26 09:46:26] Initialized CSystemPerfController: 0
+[2026-04-26 09:46:26] Initialized CSteamUINetworkController: 1
+[2026-04-26 09:46:26] Initialized CSystemReportController
+[2026-04-26 09:46:26] CGamescopeController: initalized stub implementation
+
+
+[2026-04-26 20:07:41] Client version: 1777083821
+[2026-04-26 20:07:41] Initialized CSystemDockManagerController: 0
+[2026-04-26 20:07:41] Initialized CSystemAudioDeviceController: 0
+[2026-04-26 20:07:41] Initialized CSystemDisplayController: 0
+[2026-04-26 20:07:41] Initializing bluetooth manager: stub
+[2026-04-26 20:07:41] Initialized CSystemPerfController: 0
+[2026-04-26 20:07:41] Initialized CSteamUINetworkController: 1
+[2026-04-26 20:07:41] Initialized CSystemReportController
+[2026-04-26 20:07:41] CGamescopeController: initalized stub implementation
+
+
+[2026-04-27 14:45:20] Client version: 1777083821
+[2026-04-27 14:45:20] Initialized CSystemDockManagerController: 0
+[2026-04-27 14:45:20] Initialized CSystemAudioDeviceController: 0
+[2026-04-27 14:45:20] Initialized CSystemDisplayController: 0
+[2026-04-27 14:45:20] Initializing bluetooth manager: stub
+[2026-04-27 14:45:20] Initialized CSystemPerfController: 0
+[2026-04-27 14:45:20] Initialized CSteamUINetworkController: 1
+[2026-04-27 14:45:20] Initialized CSystemReportController
+[2026-04-27 14:45:20] CGamescopeController: initalized stub implementation
+
+
+[2026-04-28 15:35:03] Client version: 1777083821
+[2026-04-28 15:35:03] Initialized CSystemDockManagerController: 0
+[2026-04-28 15:35:03] Initialized CSystemAudioDeviceController: 0
+[2026-04-28 15:35:03] Initialized CSystemDisplayController: 0
+[2026-04-28 15:35:03] Initializing bluetooth manager: stub
+[2026-04-28 15:35:03] Initialized CSystemPerfController: 0
+[2026-04-28 15:35:03] Initialized CSteamUINetworkController: 1
+[2026-04-28 15:35:03] Initialized CSystemReportController
+[2026-04-28 15:35:03] CGamescopeController: initalized stub implementation
+
+
+[2026-04-28 19:47:33] Client version: 1777345799
+[2026-04-28 19:47:33] Initialized CSystemDockManagerController: 0
+[2026-04-28 19:47:33] Initialized CSystemAudioDeviceController: 0
+[2026-04-28 19:47:33] Initialized CSystemDisplayController: 0
+[2026-04-28 19:47:33] Initializing bluetooth manager: stub
+[2026-04-28 19:47:33] Initialized CSystemPerfController: 0
+[2026-04-28 19:47:33] Initialized CSteamUINetworkController: 1
+[2026-04-28 19:47:33] Initialized CSystemReportController
+[2026-04-28 19:47:33] CGamescopeController: initalized stub implementation
+
+
+[2026-04-28 22:34:38] Client version: 1777345799
+[2026-04-28 22:34:38] Initialized CSystemDockManagerController: 0
+[2026-04-28 22:34:38] Initialized CSystemAudioDeviceController: 0
+[2026-04-28 22:34:38] Initialized CSystemDisplayController: 0
+[2026-04-28 22:34:38] Initializing bluetooth manager: stub
+[2026-04-28 22:34:38] Initialized CSystemPerfController: 0
+[2026-04-28 22:34:38] Initialized CSteamUINetworkController: 1
+[2026-04-28 22:34:38] Initialized CSystemReportController
+[2026-04-28 22:34:38] CGamescopeController: initalized stub implementation
+
+
+[2026-04-28 22:37:44] Client version: 1777345799
+[2026-04-28 22:37:44] Initialized CSystemDockManagerController: 0
+[2026-04-28 22:37:44] Initialized CSystemAudioDeviceController: 0
+[2026-04-28 22:37:44] Initialized CSystemDisplayController: 0
+[2026-04-28 22:37:44] Initializing bluetooth manager: stub
+[2026-04-28 22:37:44] Initialized CSystemPerfController: 0
+[2026-04-28 22:37:44] Initialized CSteamUINetworkController: 1
+[2026-04-28 22:37:44] Initialized CSystemReportController
+[2026-04-28 22:37:44] CGamescopeController: initalized stub implementation
+
+
+[2026-04-29 00:24:42] Client version: 1777345799
+[2026-04-29 00:24:42] Initialized CSystemDockManagerController: 0
+[2026-04-29 00:24:42] Initialized CSystemAudioDeviceController: 0
+[2026-04-29 00:24:42] Initialized CSystemDisplayController: 0
+[2026-04-29 00:24:42] Initializing bluetooth manager: stub
+[2026-04-29 00:24:42] Initialized CSystemPerfController: 0
+[2026-04-29 00:24:42] Initialized CSteamUINetworkController: 1
+[2026-04-29 00:24:42] Initialized CSystemReportController
+[2026-04-29 00:24:42] CGamescopeController: initalized stub implementation
+
+
+[2026-04-29 12:56:45] Client version: 1777411435
+[2026-04-29 12:56:45] Initialized CSystemDockManagerController: 0
+[2026-04-29 12:56:45] Initialized CSystemAudioDeviceController: 0
+[2026-04-29 12:56:45] Initialized CSystemDisplayController: 0
+[2026-04-29 12:56:45] Initializing bluetooth manager: stub
+[2026-04-29 12:56:45] Initialized CSystemPerfController: 0
+[2026-04-29 12:56:45] Initialized CSteamUINetworkController: 1
+[2026-04-29 12:56:45] Initialized CSystemReportController
+[2026-04-29 12:56:45] CGamescopeController: initalized stub implementation
+
+
+[2026-04-29 20:46:15] Client version: 1777411435
+[2026-04-29 20:46:15] Initialized CSystemDockManagerController: 0
+[2026-04-29 20:46:15] Initialized CSystemAudioDeviceController: 0
+[2026-04-29 20:46:15] Initialized CSystemDisplayController: 0
+[2026-04-29 20:46:15] Initializing bluetooth manager: stub
+[2026-04-29 20:46:15] Initialized CSystemPerfController: 0
+[2026-04-29 20:46:15] Initialized CSteamUINetworkController: 1
+[2026-04-29 20:46:15] Initialized CSystemReportController
+[2026-04-29 20:46:15] CGamescopeController: initalized stub implementation
+
+
+[2026-04-30 15:41:04] Client version: 1777411435
+[2026-04-30 15:41:04] Initialized CSystemDockManagerController: 0
+[2026-04-30 15:41:04] Initialized CSystemAudioDeviceController: 0
+[2026-04-30 15:41:04] Initialized CSystemDisplayController: 0
+[2026-04-30 15:41:04] Initializing bluetooth manager: stub
+[2026-04-30 15:41:04] Initialized CSystemPerfController: 0
+[2026-04-30 15:41:04] Initialized CSteamUINetworkController: 1
+[2026-04-30 15:41:04] Initialized CSystemReportController
+[2026-04-30 15:41:04] CGamescopeController: initalized stub implementation
+
+
+[2026-05-03 20:28:08] Client version: 1777518510
+[2026-05-03 20:28:08] Initialized CSystemDockManagerController: 0
+[2026-05-03 20:28:08] Initialized CSystemAudioDeviceController: 0
+[2026-05-03 20:28:08] Initialized CSystemDisplayController: 0
+[2026-05-03 20:28:08] Initializing bluetooth manager: stub
+[2026-05-03 20:28:08] Initialized CSystemPerfController: 0
+[2026-05-03 20:28:08] Initialized CSteamUINetworkController: 1
+[2026-05-03 20:28:08] Initialized CSystemReportController
+[2026-05-03 20:28:08] CGamescopeController: initalized stub implementation
+
+
+[2026-05-03 21:55:34] Client version: 1777686219
+[2026-05-03 21:55:34] Initialized CSystemDockManagerController: 0
+[2026-05-03 21:55:34] Initialized CSystemAudioDeviceController: 0
+[2026-05-03 21:55:34] Initialized CSystemDisplayController: 0
+[2026-05-03 21:55:34] Initializing bluetooth manager: stub
+[2026-05-03 21:55:34] Initialized CSystemPerfController: 0
+[2026-05-03 21:55:34] Initialized CSteamUINetworkController: 1
+[2026-05-03 21:55:34] Initialized CSystemReportController
+[2026-05-03 21:55:34] CGamescopeController: initalized stub implementation
+
+
+[2026-05-04 11:36:23] Client version: 1777686219
+[2026-05-04 11:36:23] Initialized CSystemDockManagerController: 0
+[2026-05-04 11:36:23] Initialized CSystemAudioDeviceController: 0
+[2026-05-04 11:36:23] Initialized CSystemDisplayController: 0
+[2026-05-04 11:36:23] Initializing bluetooth manager: stub
+[2026-05-04 11:36:23] Initialized CSystemPerfController: 0
+[2026-05-04 11:36:23] Initialized CSteamUINetworkController: 1
+[2026-05-04 11:36:23] Initialized CSystemReportController
+[2026-05-04 11:36:23] CGamescopeController: initalized stub implementation
+
+
+[2026-05-04 13:19:26] Client version: 1777686219
+[2026-05-04 13:19:26] Initialized CSystemDockManagerController: 0
+[2026-05-04 13:19:26] Initialized CSystemAudioDeviceController: 0
+[2026-05-04 13:19:26] Initialized CSystemDisplayController: 0
+[2026-05-04 13:19:26] Initializing bluetooth manager: stub
+[2026-05-04 13:19:26] Initialized CSystemPerfController: 0
+[2026-05-04 13:19:26] Initialized CSteamUINetworkController: 1
+[2026-05-04 13:19:26] Initialized CSystemReportController
+[2026-05-04 13:19:26] CGamescopeController: initalized stub implementation
+
+
+[2026-05-05 00:09:27] Client version: 1777686219
+[2026-05-05 00:09:27] Initialized CSystemDockManagerController: 0
+[2026-05-05 00:09:27] Initialized CSystemAudioDeviceController: 0
+[2026-05-05 00:09:27] Initialized CSystemDisplayController: 0
+[2026-05-05 00:09:27] Initializing bluetooth manager: stub
+[2026-05-05 00:09:27] Initialized CSystemPerfController: 0
+[2026-05-05 00:09:27] Initialized CSteamUINetworkController: 1
+[2026-05-05 00:09:27] Initialized CSystemReportController
+[2026-05-05 00:09:27] CGamescopeController: initalized stub implementation
+
+
+[2026-05-05 00:17:54] Client version: 1777686219
+[2026-05-05 00:17:54] Initialized CSystemDockManagerController: 0
+[2026-05-05 00:17:54] Initialized CSystemAudioDeviceController: 0
+[2026-05-05 00:17:54] Initialized CSystemDisplayController: 0
+[2026-05-05 00:17:54] Initializing bluetooth manager: stub
+[2026-05-05 00:17:54] Initialized CSystemPerfController: 0
+[2026-05-05 00:17:54] Initialized CSteamUINetworkController: 1
+[2026-05-05 00:17:54] Initialized CSystemReportController
+[2026-05-05 00:17:54] CGamescopeController: initalized stub implementation
+
+
+[2026-05-05 10:37:52] Client version: 1777931468
+[2026-05-05 10:37:52] Initialized CSystemDockManagerController: 0
+[2026-05-05 10:37:52] Initialized CSystemAudioDeviceController: 0
+[2026-05-05 10:37:52] Initialized CSystemDisplayController: 0
+[2026-05-05 10:37:52] Initializing bluetooth manager: stub
+[2026-05-05 10:37:52] Initialized CSystemPerfController: 0
+[2026-05-05 10:37:52] Initialized CSteamUINetworkController: 1
+[2026-05-05 10:37:52] Initialized CSystemReportController
+[2026-05-05 10:37:52] CGamescopeController: initalized stub implementation
+
+
+[2026-05-05 12:38:28] Client version: 1777935142
+[2026-05-05 12:38:28] Initialized CSystemDockManagerController: 0
+[2026-05-05 12:38:28] Initialized CSystemAudioDeviceController: 0
+[2026-05-05 12:38:28] Initialized CSystemDisplayController: 0
+[2026-05-05 12:38:28] Initializing bluetooth manager: stub
+[2026-05-05 12:38:28] Initialized CSystemPerfController: 0
+[2026-05-05 12:38:28] Initialized CSteamUINetworkController: 1
+[2026-05-05 12:38:28] Initialized CSystemReportController
+[2026-05-05 12:38:28] CGamescopeController: initalized stub implementation
+
+
+[2026-05-05 17:15:19] Client version: 1777935142
+[2026-05-05 17:15:19] Initialized CSystemDockManagerController: 0
+[2026-05-05 17:15:19] Initialized CSystemAudioDeviceController: 0
+[2026-05-05 17:15:19] Initialized CSystemDisplayController: 0
+[2026-05-05 17:15:19] Initializing bluetooth manager: stub
+[2026-05-05 17:15:19] Initialized CSystemPerfController: 0
+[2026-05-05 17:15:19] Initialized CSteamUINetworkController: 1
+[2026-05-05 17:15:19] Initialized CSystemReportController
+[2026-05-05 17:15:19] CGamescopeController: initalized stub implementation
+
+
+[2026-05-05 19:57:44] Client version: 1777935142
+[2026-05-05 19:57:44] Initialized CSystemDockManagerController: 0
+[2026-05-05 19:57:44] Initialized CSystemAudioDeviceController: 0
+[2026-05-05 19:57:44] Initialized CSystemDisplayController: 0
+[2026-05-05 19:57:44] Initializing bluetooth manager: stub
+[2026-05-05 19:57:44] Initialized CSystemPerfController: 0
+[2026-05-05 19:57:44] Initialized CSteamUINetworkController: 1
+[2026-05-05 19:57:44] Initialized CSystemReportController
+[2026-05-05 19:57:44] CGamescopeController: initalized stub implementation
+
+
+[2026-05-06 10:08:07] Client version: 1777935142
+[2026-05-06 10:08:07] Initialized CSystemDockManagerController: 0
+[2026-05-06 10:08:07] Initialized CSystemAudioDeviceController: 0
+[2026-05-06 10:08:07] Initialized CSystemDisplayController: 0
+[2026-05-06 10:08:07] Initializing bluetooth manager: stub
+[2026-05-06 10:08:07] Initialized CSystemPerfController: 0
+[2026-05-06 10:08:07] Initialized CSteamUINetworkController: 1
+[2026-05-06 10:08:07] Initialized CSystemReportController
+[2026-05-06 10:08:07] CGamescopeController: initalized stub implementation
+
+
+[2026-05-06 19:48:39] Client version: 1778003620
+[2026-05-06 19:48:39] Initialized CSystemDockManagerController: 0
+[2026-05-06 19:48:39] Initialized CSystemAudioDeviceController: 0
+[2026-05-06 19:48:39] Initialized CSystemDisplayController: 0
+[2026-05-06 19:48:39] Initializing bluetooth manager: stub
+[2026-05-06 19:48:39] Initialized CSystemPerfController: 0
+[2026-05-06 19:48:39] Initialized CSteamUINetworkController: 1
+[2026-05-06 19:48:39] Initialized CSystemReportController
+[2026-05-06 19:48:39] CGamescopeController: initalized stub implementation
+
+
+[2026-05-07 13:12:57] Client version: 1778003620
+[2026-05-07 13:12:57] Initialized CSystemDockManagerController: 0
+[2026-05-07 13:12:57] Initialized CSystemAudioDeviceController: 0
+[2026-05-07 13:12:57] Initialized CSystemDisplayController: 0
+[2026-05-07 13:12:57] Initializing bluetooth manager: stub
+[2026-05-07 13:12:57] Initialized CSystemPerfController: 0
+[2026-05-07 13:12:57] Initialized CSteamUINetworkController: 1
+[2026-05-07 13:12:57] Initialized CSystemReportController
+[2026-05-07 13:12:57] CGamescopeController: initalized stub implementation
+
+
+[2026-05-08 16:16:51] Client version: 1778123305
+[2026-05-08 16:16:51] Initialized CSystemDockManagerController: 0
+[2026-05-08 16:16:51] Initialized CSystemAudioDeviceController: 0
+[2026-05-08 16:16:51] Initialized CSystemDisplayController: 0
+[2026-05-08 16:16:51] Initializing bluetooth manager: stub
+[2026-05-08 16:16:51] Initialized CSystemPerfController: 0
+[2026-05-08 16:16:51] Initialized CSteamUINetworkController: 1
+[2026-05-08 16:16:51] Initialized CSystemReportController
+[2026-05-08 16:16:51] CGamescopeController: initalized stub implementation
+
+
+[2026-05-09 10:11:23] Client version: 1778268346
+[2026-05-09 10:11:23] Initialized CSystemDockManagerController: 0
+[2026-05-09 10:11:23] Initialized CSystemAudioDeviceController: 0
+[2026-05-09 10:11:23] Initialized CSystemDisplayController: 0
+[2026-05-09 10:11:23] Initializing bluetooth manager: stub
+[2026-05-09 10:11:23] Initialized CSystemPerfController: 0
+[2026-05-09 10:11:23] Initialized CSteamUINetworkController: 1
+[2026-05-09 10:11:23] Initialized CSystemReportController
+[2026-05-09 10:11:23] CGamescopeController: initalized stub implementation
+
+
+[2026-05-09 19:43:43] Client version: 1778281814
+[2026-05-09 19:43:43] Initialized CSystemDockManagerController: 0
+[2026-05-09 19:43:43] Initialized CSystemAudioDeviceController: 0
+[2026-05-09 19:43:43] Initialized CSystemDisplayController: 0
+[2026-05-09 19:43:43] Initializing bluetooth manager: stub
+[2026-05-09 19:43:43] Initialized CSystemPerfController: 0
+[2026-05-09 19:43:43] Initialized CSteamUINetworkController: 1
+[2026-05-09 19:43:43] Initialized CSystemReportController
+[2026-05-09 19:43:43] CGamescopeController: initalized stub implementation
+
+
+[2026-05-10 10:01:06] Client version: 1778281814
+[2026-05-10 10:01:06] Initialized CSystemDockManagerController: 0
+[2026-05-10 10:01:06] Initialized CSystemAudioDeviceController: 0
+[2026-05-10 10:01:06] Initialized CSystemDisplayController: 0
+[2026-05-10 10:01:06] Initializing bluetooth manager: stub
+[2026-05-10 10:01:06] Initialized CSystemPerfController: 0
+[2026-05-10 10:01:06] Initialized CSteamUINetworkController: 1
+[2026-05-10 10:01:06] Initialized CSystemReportController
+[2026-05-10 10:01:06] CGamescopeController: initalized stub implementation
+
+
+[2026-05-10 16:41:23] Client version: 1778281814
+[2026-05-10 16:41:23] Initialized CSystemDockManagerController: 0
+[2026-05-10 16:41:23] Initialized CSystemAudioDeviceController: 0
+[2026-05-10 16:41:23] Initialized CSystemDisplayController: 0
+[2026-05-10 16:41:23] Initializing bluetooth manager: stub
+[2026-05-10 16:41:23] Initialized CSystemPerfController: 0
+[2026-05-10 16:41:23] Initialized CSteamUINetworkController: 1
+[2026-05-10 16:41:23] Initialized CSystemReportController
+[2026-05-10 16:41:23] CGamescopeController: initalized stub implementation
+
+
+[2026-05-10 19:16:56] Client version: 1778281814
+[2026-05-10 19:16:56] Initialized CSystemDockManagerController: 0
+[2026-05-10 19:16:56] Initialized CSystemAudioDeviceController: 0
+[2026-05-10 19:16:56] Initialized CSystemDisplayController: 0
+[2026-05-10 19:16:56] Initializing bluetooth manager: stub
+[2026-05-10 19:16:56] Initialized CSystemPerfController: 0
+[2026-05-10 19:16:56] Initialized CSteamUINetworkController: 1
+[2026-05-10 19:16:56] Initialized CSystemReportController
+[2026-05-10 19:16:56] CGamescopeController: initalized stub implementation
+
+
+[2026-05-10 21:49:13] Client version: 1778281814
+[2026-05-10 21:49:13] Initialized CSystemDockManagerController: 0
+[2026-05-10 21:49:13] Initialized CSystemAudioDeviceController: 0
+[2026-05-10 21:49:13] Initialized CSystemDisplayController: 0
+[2026-05-10 21:49:13] Initializing bluetooth manager: stub
+[2026-05-10 21:49:13] Initialized CSystemPerfController: 0
+[2026-05-10 21:49:13] Initialized CSteamUINetworkController: 1
+[2026-05-10 21:49:13] Initialized CSystemReportController
+[2026-05-10 21:49:13] CGamescopeController: initalized stub implementation
+
+
+[2026-05-10 22:10:43] Client version: 1778281814
+[2026-05-10 22:10:43] Initialized CSystemDockManagerController: 0
+[2026-05-10 22:10:43] Initialized CSystemAudioDeviceController: 0
+[2026-05-10 22:10:43] Initialized CSystemDisplayController: 0
+[2026-05-10 22:10:43] Initializing bluetooth manager: stub
+[2026-05-10 22:10:43] Initialized CSystemPerfController: 0
+[2026-05-10 22:10:43] Initialized CSteamUINetworkController: 1
+[2026-05-10 22:10:43] Initialized CSystemReportController
+[2026-05-10 22:10:43] CGamescopeController: initalized stub implementation
+
+
+[2026-05-10 22:42:15] Client version: 1778281814
+[2026-05-10 22:42:15] Initialized CSystemDockManagerController: 0
+[2026-05-10 22:42:15] Initialized CSystemAudioDeviceController: 0
+[2026-05-10 22:42:15] Initialized CSystemDisplayController: 0
+[2026-05-10 22:42:15] Initializing bluetooth manager: stub
+[2026-05-10 22:42:15] Initialized CSystemPerfController: 0
+[2026-05-10 22:42:15] Initialized CSteamUINetworkController: 1
+[2026-05-10 22:42:15] Initialized CSystemReportController
+[2026-05-10 22:42:15] CGamescopeController: initalized stub implementation
+
+
+[2026-05-11 15:35:26] Client version: 1778281814
+[2026-05-11 15:35:26] Initialized CSystemDockManagerController: 0
+[2026-05-11 15:35:26] Initialized CSystemAudioDeviceController: 0
+[2026-05-11 15:35:26] Initialized CSystemDisplayController: 0
+[2026-05-11 15:35:26] Initializing bluetooth manager: stub
+[2026-05-11 15:35:26] Initialized CSystemPerfController: 0
+[2026-05-11 15:35:26] Initialized CSteamUINetworkController: 1
+[2026-05-11 15:35:26] Initialized CSystemReportController
+[2026-05-11 15:35:26] CGamescopeController: initalized stub implementation
+
+
+[2026-05-11 20:21:06] Client version: 1778281814
+[2026-05-11 20:21:06] Initialized CSystemDockManagerController: 0
+[2026-05-11 20:21:06] Initialized CSystemAudioDeviceController: 0
+[2026-05-11 20:21:06] Initialized CSystemDisplayController: 0
+[2026-05-11 20:21:06] Initializing bluetooth manager: stub
+[2026-05-11 20:21:06] Initialized CSystemPerfController: 0
+[2026-05-11 20:21:06] Initialized CSteamUINetworkController: 1
+[2026-05-11 20:21:06] Initialized CSystemReportController
+[2026-05-11 20:21:06] CGamescopeController: initalized stub implementation
+
+
+[2026-05-12 14:51:38] Client version: 1778281814
+[2026-05-12 14:51:38] Initialized CSystemDockManagerController: 0
+[2026-05-12 14:51:38] Initialized CSystemAudioDeviceController: 0
+[2026-05-12 14:51:38] Initialized CSystemDisplayController: 0
+[2026-05-12 14:51:38] Initializing bluetooth manager: stub
+[2026-05-12 14:51:38] Initialized CSystemPerfController: 0
+[2026-05-12 14:51:38] Initialized CSteamUINetworkController: 1
+[2026-05-12 14:51:38] Initialized CSystemReportController
+[2026-05-12 14:51:38] CGamescopeController: initalized stub implementation
+
+
+[2026-05-13 13:20:32] Client version: 1778548034
+[2026-05-13 13:20:32] Initialized CSystemDockManagerController: 0
+[2026-05-13 13:20:32] Initialized CSystemAudioDeviceController: 0
+[2026-05-13 13:20:32] Initialized CSystemDisplayController: 0
+[2026-05-13 13:20:32] Initializing bluetooth manager: stub
+[2026-05-13 13:20:32] Initialized CSystemPerfController: 0
+[2026-05-13 13:20:32] Initialized CSteamUINetworkController: 1
+[2026-05-13 13:20:32] Initialized CSystemReportController
+[2026-05-13 13:20:32] CGamescopeController: initalized stub implementation
+
+
+[2026-05-13 17:55:45] Client version: 1778548034
+[2026-05-13 17:55:45] Initialized CSystemDockManagerController: 0
+[2026-05-13 17:55:45] Initialized CSystemAudioDeviceController: 0
+[2026-05-13 17:55:45] Initialized CSystemDisplayController: 0
+[2026-05-13 17:55:45] Initializing bluetooth manager: stub
+[2026-05-13 17:55:45] Initialized CSystemPerfController: 0
+[2026-05-13 17:55:45] Initialized CSteamUINetworkController: 1
+[2026-05-13 17:55:45] Initialized CSystemReportController
+[2026-05-13 17:55:45] CGamescopeController: initalized stub implementation
+
+
+[2026-05-14 14:56:10] Client version: 1778698013
+[2026-05-14 14:56:10] Initialized CSystemDockManagerController: 0
+[2026-05-14 14:56:10] Initialized CSystemAudioDeviceController: 0
+[2026-05-14 14:56:10] Initialized CSystemDisplayController: 0
+[2026-05-14 14:56:10] Initializing bluetooth manager: stub
+[2026-05-14 14:56:10] Initialized CSystemPerfController: 0
+[2026-05-14 14:56:10] Initialized CSteamUINetworkController: 1
+[2026-05-14 14:56:10] Initialized CSystemReportController
+[2026-05-14 14:56:10] CGamescopeController: initalized stub implementation
+
+
+[2026-05-14 19:03:03] Client version: 1778698013
+[2026-05-14 19:03:03] Initialized CSystemDockManagerController: 0
+[2026-05-14 19:03:03] Initialized CSystemAudioDeviceController: 0
+[2026-05-14 19:03:03] Initialized CSystemDisplayController: 0
+[2026-05-14 19:03:03] Initializing bluetooth manager: stub
+[2026-05-14 19:03:03] Initialized CSystemPerfController: 0
+[2026-05-14 19:03:03] Initialized CSteamUINetworkController: 1
+[2026-05-14 19:03:03] Initialized CSystemReportController
+[2026-05-14 19:03:03] CGamescopeController: initalized stub implementation
+
+
+[2026-05-15 13:56:58] Client version: 1778698013
+[2026-05-15 13:56:58] Initialized CSystemDockManagerController: 0
+[2026-05-15 13:56:58] Initialized CSystemAudioDeviceController: 0
+[2026-05-15 13:56:58] Initialized CSystemDisplayController: 0
+[2026-05-15 13:56:58] Initializing bluetooth manager: stub
+[2026-05-15 13:56:58] Initialized CSystemPerfController: 0
+[2026-05-15 13:56:58] Initialized CSteamUINetworkController: 1
+[2026-05-15 13:56:58] Initialized CSystemReportController
+[2026-05-15 13:56:58] CGamescopeController: initalized stub implementation
+
+
+[2026-05-15 19:33:50] Client version: 1778803745
+[2026-05-15 19:33:50] Initialized CSystemDockManagerController: 0
+[2026-05-15 19:33:50] Initialized CSystemAudioDeviceController: 0
+[2026-05-15 19:33:50] Initialized CSystemDisplayController: 0
+[2026-05-15 19:33:50] Initializing bluetooth manager: stub
+[2026-05-15 19:33:50] Initialized CSystemPerfController: 0
+[2026-05-15 19:33:50] Initialized CSteamUINetworkController: 1
+[2026-05-15 19:33:50] Initialized CSystemReportController
+[2026-05-15 19:33:50] CGamescopeController: initalized stub implementation
+
+
+[2026-05-16 09:21:50] Client version: 1778803745
+[2026-05-16 09:21:50] Initialized CSystemDockManagerController: 0
+[2026-05-16 09:21:50] Initialized CSystemAudioDeviceController: 0
+[2026-05-16 09:21:50] Initialized CSystemDisplayController: 0
+[2026-05-16 09:21:50] Initializing bluetooth manager: stub
+[2026-05-16 09:21:50] Initialized CSystemPerfController: 0
+[2026-05-16 09:21:50] Initialized CSteamUINetworkController: 1
+[2026-05-16 09:21:50] Initialized CSystemReportController
+[2026-05-16 09:21:50] CGamescopeController: initalized stub implementation
+
+
+[2026-05-16 20:00:19] Client version: 1778803745
+[2026-05-16 20:00:19] Initialized CSystemDockManagerController: 0
+[2026-05-16 20:00:19] Initialized CSystemAudioDeviceController: 0
+[2026-05-16 20:00:19] Initialized CSystemDisplayController: 0
+[2026-05-16 20:00:19] Initializing bluetooth manager: stub
+[2026-05-16 20:00:19] Initialized CSystemPerfController: 0
+[2026-05-16 20:00:19] Initialized CSteamUINetworkController: 1
+[2026-05-16 20:00:19] Initialized CSystemReportController
+[2026-05-16 20:00:19] CGamescopeController: initalized stub implementation
+
+
+[2026-05-17 13:49:49] Client version: 1778803745
+[2026-05-17 13:49:49] Initialized CSystemDockManagerController: 0
+[2026-05-17 13:49:49] Initialized CSystemAudioDeviceController: 0
+[2026-05-17 13:49:49] Initialized CSystemDisplayController: 0
+[2026-05-17 13:49:49] Initializing bluetooth manager: stub
+[2026-05-17 13:49:49] Initialized CSystemPerfController: 0
+[2026-05-17 13:49:49] Initialized CSteamUINetworkController: 1
+[2026-05-17 13:49:49] Initialized CSystemReportController
+[2026-05-17 13:49:49] CGamescopeController: initalized stub implementation
+
+
+[2026-05-17 19:05:46] Client version: 1778803745
+[2026-05-17 19:05:46] Initialized CSystemDockManagerController: 0
+[2026-05-17 19:05:46] Initialized CSystemAudioDeviceController: 0
+[2026-05-17 19:05:46] Initialized CSystemDisplayController: 0
+[2026-05-17 19:05:46] Initializing bluetooth manager: stub
+[2026-05-17 19:05:46] Initialized CSystemPerfController: 0
+[2026-05-17 19:05:46] Initialized CSteamUINetworkController: 1
+[2026-05-17 19:05:46] Initialized CSystemReportController
+[2026-05-17 19:05:46] CGamescopeController: initalized stub implementation
+
+
+[2026-05-18 15:44:54] Client version: 1778803745
+[2026-05-18 15:44:54] Initialized CSystemDockManagerController: 0
+[2026-05-18 15:44:54] Initialized CSystemAudioDeviceController: 0
+[2026-05-18 15:44:54] Initialized CSystemDisplayController: 0
+[2026-05-18 15:44:54] Initializing bluetooth manager: stub
+[2026-05-18 15:44:54] Initialized CSystemPerfController: 0
+[2026-05-18 15:44:54] Initialized CSteamUINetworkController: 1
+[2026-05-18 15:44:54] Initialized CSystemReportController
+[2026-05-18 15:44:54] CGamescopeController: initalized stub implementation
+
+
+[2026-05-18 19:48:43] Client version: 1778803745
+[2026-05-18 19:48:43] Initialized CSystemDockManagerController: 0
+[2026-05-18 19:48:43] Initialized CSystemAudioDeviceController: 0
+[2026-05-18 19:48:43] Initialized CSystemDisplayController: 0
+[2026-05-18 19:48:43] Initializing bluetooth manager: stub
+[2026-05-18 19:48:43] Initialized CSystemPerfController: 0
+[2026-05-18 19:48:43] Initialized CSteamUINetworkController: 1
+[2026-05-18 19:48:43] Initialized CSystemReportController
+[2026-05-18 19:48:43] CGamescopeController: initalized stub implementation
+
+
+[2026-05-19 14:49:57] Client version: 1778803745
+[2026-05-19 14:49:57] Initialized CSystemDockManagerController: 0
+[2026-05-19 14:49:57] Initialized CSystemAudioDeviceController: 0
+[2026-05-19 14:49:57] Initialized CSystemDisplayController: 0
+[2026-05-19 14:49:57] Initializing bluetooth manager: stub
+[2026-05-19 14:49:57] Initialized CSystemPerfController: 0
+[2026-05-19 14:49:57] Initialized CSteamUINetworkController: 1
+[2026-05-19 14:49:57] Initialized CSystemReportController
+[2026-05-19 14:49:57] CGamescopeController: initalized stub implementation
+
+
+[2026-05-19 19:38:15] Client version: 1779155395
+[2026-05-19 19:38:15] Initialized CSystemDockManagerController: 0
+[2026-05-19 19:38:15] Initialized CSystemAudioDeviceController: 0
+[2026-05-19 19:38:15] Initialized CSystemDisplayController: 0
+[2026-05-19 19:38:15] Initializing bluetooth manager: stub
+[2026-05-19 19:38:15] Initialized CSystemPerfController: 0
+[2026-05-19 19:38:15] Initialized CSteamUINetworkController: 1
+[2026-05-19 19:38:15] Initialized CSystemReportController
+[2026-05-19 19:38:15] CGamescopeController: initalized stub implementation
+
+
+[2026-05-20 13:10:07] Client version: 1779155395
+[2026-05-20 13:10:07] Initialized CSystemDockManagerController: 0
+[2026-05-20 13:10:07] Initialized CSystemAudioDeviceController: 0
+[2026-05-20 13:10:07] Initialized CSystemDisplayController: 0
+[2026-05-20 13:10:07] Initializing bluetooth manager: stub
+[2026-05-20 13:10:07] Initialized CSystemPerfController: 0
+[2026-05-20 13:10:07] Initialized CSteamUINetworkController: 1
+[2026-05-20 13:10:07] Initialized CSystemReportController
+[2026-05-20 13:10:07] CGamescopeController: initalized stub implementation
+
+
+[2026-05-21 16:12:18] Client version: 1779155395
+[2026-05-21 16:12:18] Initialized CSystemDockManagerController: 0
+[2026-05-21 16:12:18] Initialized CSystemAudioDeviceController: 0
+[2026-05-21 16:12:18] Initialized CSystemDisplayController: 0
+[2026-05-21 16:12:18] Initializing bluetooth manager: stub
+[2026-05-21 16:12:18] Initialized CSystemPerfController: 0
+[2026-05-21 16:12:18] Initialized CSteamUINetworkController: 1
+[2026-05-21 16:12:18] Initialized CSystemReportController
+[2026-05-21 16:12:18] CGamescopeController: initalized stub implementation
+
+
+[2026-05-21 17:27:57] Client version: 1779155395
+[2026-05-21 17:27:57] Initialized CSystemDockManagerController: 0
+[2026-05-21 17:27:57] Initialized CSystemAudioDeviceController: 0
+[2026-05-21 17:27:57] Initialized CSystemDisplayController: 0
+[2026-05-21 17:27:57] Initializing bluetooth manager: stub
+[2026-05-21 17:27:57] Initialized CSystemPerfController: 0
+[2026-05-21 17:27:57] Initialized CSteamUINetworkController: 1
+[2026-05-21 17:27:57] Initialized CSystemReportController
+[2026-05-21 17:27:57] CGamescopeController: initalized stub implementation
+
+
+[2026-05-21 23:28:45] Client version: 1779378409
+[2026-05-21 23:28:45] Initialized CSystemDockManagerController: 0
+[2026-05-21 23:28:45] Initialized CSystemAudioDeviceController: 0
+[2026-05-21 23:28:45] Initialized CSystemDisplayController: 0
+[2026-05-21 23:28:45] Initializing bluetooth manager: stub
+[2026-05-21 23:28:45] Initialized CSystemPerfController: 0
+[2026-05-21 23:28:45] Initialized CSteamUINetworkController: 1
+[2026-05-21 23:28:45] Initialized CSystemReportController
+[2026-05-21 23:28:45] CGamescopeController: initalized stub implementation
+
+
+[2026-05-22 15:51:40] Client version: 1779378409
+[2026-05-22 15:51:40] Initialized CSystemDockManagerController: 0
+[2026-05-22 15:51:40] Initialized CSystemAudioDeviceController: 0
+[2026-05-22 15:51:40] Initialized CSystemDisplayController: 0
+[2026-05-22 15:51:40] Initializing bluetooth manager: stub
+[2026-05-22 15:51:40] Initialized CSystemPerfController: 0
+[2026-05-22 15:51:40] Initialized CSteamUINetworkController: 1
+[2026-05-22 15:51:40] Initialized CSystemReportController
+[2026-05-22 15:51:40] CGamescopeController: initalized stub implementation
+
+
+[2026-05-22 19:33:30] Client version: 1779378409
+[2026-05-22 19:33:30] Initialized CSystemDockManagerController: 0
+[2026-05-22 19:33:30] Initialized CSystemAudioDeviceController: 0
+[2026-05-22 19:33:30] Initialized CSystemDisplayController: 0
+[2026-05-22 19:33:30] Initializing bluetooth manager: stub
+[2026-05-22 19:33:30] Initialized CSystemPerfController: 0
+[2026-05-22 19:33:30] Initialized CSteamUINetworkController: 1
+[2026-05-22 19:33:30] Initialized CSystemReportController
+[2026-05-22 19:33:30] CGamescopeController: initalized stub implementation
+
+
+[2026-05-23 10:19:58] Client version: 1779378409
+[2026-05-23 10:19:58] Initialized CSystemDockManagerController: 0
+[2026-05-23 10:19:58] Initialized CSystemAudioDeviceController: 0
+[2026-05-23 10:19:58] Initialized CSystemDisplayController: 0
+[2026-05-23 10:19:58] Initializing bluetooth manager: stub
+[2026-05-23 10:19:58] Initialized CSystemPerfController: 0
+[2026-05-23 10:19:58] Initialized CSteamUINetworkController: 1
+[2026-05-23 10:19:58] Initialized CSystemReportController
+[2026-05-23 10:19:58] CGamescopeController: initalized stub implementation
+
+
+[2026-05-23 17:45:30] Client version: 1779479049
+[2026-05-23 17:45:30] Initialized CSystemDockManagerController: 0
+[2026-05-23 17:45:30] Initialized CSystemAudioDeviceController: 0
+[2026-05-23 17:45:30] Initialized CSystemDisplayController: 0
+[2026-05-23 17:45:30] Initializing bluetooth manager: stub
+[2026-05-23 17:45:30] Initialized CSystemPerfController: 0
+[2026-05-23 17:45:30] Initialized CSteamUINetworkController: 1
+[2026-05-23 17:45:30] Initialized CSystemReportController
+[2026-05-23 17:45:30] CGamescopeController: initalized stub implementation
+
+
+[2026-05-24 09:34:48] Client version: 1779479049
+[2026-05-24 09:34:48] Initialized CSystemDockManagerController: 0
+[2026-05-24 09:34:48] Initialized CSystemAudioDeviceController: 0
+[2026-05-24 09:34:48] Initialized CSystemDisplayController: 0
+[2026-05-24 09:34:48] Initializing bluetooth manager: stub
+[2026-05-24 09:34:48] Initialized CSystemPerfController: 0
+[2026-05-24 09:34:48] Initialized CSteamUINetworkController: 1
+[2026-05-24 09:34:48] Initialized CSystemReportController
+[2026-05-24 09:34:48] CGamescopeController: initalized stub implementation
+
+
+[2026-05-24 15:22:58] Client version: 1779479049
+[2026-05-24 15:22:58] Initialized CSystemDockManagerController: 0
+[2026-05-24 15:22:58] Initialized CSystemAudioDeviceController: 0
+[2026-05-24 15:22:58] Initialized CSystemDisplayController: 0
+[2026-05-24 15:22:58] Initializing bluetooth manager: stub
+[2026-05-24 15:22:58] Initialized CSystemPerfController: 0
+[2026-05-24 15:22:58] Initialized CSteamUINetworkController: 1
+[2026-05-24 15:22:58] Initialized CSystemReportController
+[2026-05-24 15:22:58] CGamescopeController: initalized stub implementation
+
+
+[2026-05-24 18:13:15] Client version: 1779479049
+[2026-05-24 18:13:15] Initialized CSystemDockManagerController: 0
+[2026-05-24 18:13:15] Initialized CSystemAudioDeviceController: 0
+[2026-05-24 18:13:15] Initialized CSystemDisplayController: 0
+[2026-05-24 18:13:15] Initializing bluetooth manager: stub
+[2026-05-24 18:13:15] Initialized CSystemPerfController: 0
+[2026-05-24 18:13:15] Initialized CSteamUINetworkController: 1
+[2026-05-24 18:13:15] Initialized CSystemReportController
+[2026-05-24 18:13:15] CGamescopeController: initalized stub implementation
+
+
+[2026-05-24 18:29:00] Client version: 1779479049
+[2026-05-24 18:29:00] Initialized CSystemDockManagerController: 0
+[2026-05-24 18:29:00] Initialized CSystemAudioDeviceController: 0
+[2026-05-24 18:29:00] Initialized CSystemDisplayController: 0
+[2026-05-24 18:29:00] Initializing bluetooth manager: stub
+[2026-05-24 18:29:00] Initialized CSystemPerfController: 0
+[2026-05-24 18:29:00] Initialized CSteamUINetworkController: 1
+[2026-05-24 18:29:00] Initialized CSystemReportController
+[2026-05-24 18:29:00] CGamescopeController: initalized stub implementation
+
+
+[2026-05-24 18:35:21] Client version: 1779479049
+[2026-05-24 18:35:21] Initialized CSystemDockManagerController: 0
+[2026-05-24 18:35:21] Initialized CSystemAudioDeviceController: 0
+[2026-05-24 18:35:21] Initialized CSystemDisplayController: 0
+[2026-05-24 18:35:21] Initializing bluetooth manager: stub
+[2026-05-24 18:35:21] Initialized CSystemPerfController: 0
+[2026-05-24 18:35:21] Initialized CSteamUINetworkController: 1
+[2026-05-24 18:35:21] Initialized CSystemReportController
+[2026-05-24 18:35:21] CGamescopeController: initalized stub implementation
+
+
+[2026-05-25 15:43:52] Client version: 1779479049
+[2026-05-25 15:43:52] Initialized CSystemDockManagerController: 0
+[2026-05-25 15:43:52] Initialized CSystemAudioDeviceController: 0
+[2026-05-25 15:43:52] Initialized CSystemDisplayController: 0
+[2026-05-25 15:43:52] Initializing bluetooth manager: stub
+[2026-05-25 15:43:52] Initialized CSystemPerfController: 0
+[2026-05-25 15:43:52] Initialized CSteamUINetworkController: 1
+[2026-05-25 15:43:52] Initialized CSystemReportController
+[2026-05-25 15:43:52] CGamescopeController: initalized stub implementation
+
+
+[2026-05-25 19:12:23] Client version: 1779479049
+[2026-05-25 19:12:23] Initialized CSystemDockManagerController: 0
+[2026-05-25 19:12:23] Initialized CSystemAudioDeviceController: 0
+[2026-05-25 19:12:23] Initialized CSystemDisplayController: 0
+[2026-05-25 19:12:23] Initializing bluetooth manager: stub
+[2026-05-25 19:12:23] Initialized CSystemPerfController: 0
+[2026-05-25 19:12:23] Initialized CSteamUINetworkController: 1
+[2026-05-25 19:12:23] Initialized CSystemReportController
+[2026-05-25 19:12:23] CGamescopeController: initalized stub implementation
+
+
+[2026-05-25 23:09:33] Client version: 1779479049
+[2026-05-25 23:09:33] Initialized CSystemDockManagerController: 0
+[2026-05-25 23:09:33] Initialized CSystemAudioDeviceController: 0
+[2026-05-25 23:09:33] Initialized CSystemDisplayController: 0
+[2026-05-25 23:09:33] Initializing bluetooth manager: stub
+[2026-05-25 23:09:33] Initialized CSystemPerfController: 0
+[2026-05-25 23:09:33] Initialized CSteamUINetworkController: 1
+[2026-05-25 23:09:33] Initialized CSystemReportController
+[2026-05-25 23:09:33] CGamescopeController: initalized stub implementation
+
+
+[2026-05-25 23:42:15] Client version: 1779479049
+[2026-05-25 23:42:15] Initialized CSystemDockManagerController: 0
+[2026-05-25 23:42:15] Initialized CSystemAudioDeviceController: 0
+[2026-05-25 23:42:15] Initialized CSystemDisplayController: 0
+[2026-05-25 23:42:15] Initializing bluetooth manager: stub
+[2026-05-25 23:42:15] Initialized CSystemPerfController: 0
+[2026-05-25 23:42:15] Initialized CSteamUINetworkController: 1
+[2026-05-25 23:42:15] Initialized CSystemReportController
+[2026-05-25 23:42:15] CGamescopeController: initalized stub implementation
+
+
+[2026-05-25 23:45:44] Client version: 1779479049
+[2026-05-25 23:45:44] Initialized CSystemDockManagerController: 0
+[2026-05-25 23:45:44] Initialized CSystemAudioDeviceController: 0
+[2026-05-25 23:45:44] Initialized CSystemDisplayController: 0
+[2026-05-25 23:45:44] Initializing bluetooth manager: stub
+[2026-05-25 23:45:44] Initialized CSystemPerfController: 0
+[2026-05-25 23:45:44] Initialized CSteamUINetworkController: 1
+[2026-05-25 23:45:44] Initialized CSystemReportController
+[2026-05-25 23:45:44] CGamescopeController: initalized stub implementation
+
+
+[2026-05-25 23:55:47] Client version: 1779479049
+[2026-05-25 23:55:47] Initialized CSystemDockManagerController: 0
+[2026-05-25 23:55:47] Initialized CSystemAudioDeviceController: 0
+[2026-05-25 23:55:47] Initialized CSystemDisplayController: 0
+[2026-05-25 23:55:47] Initializing bluetooth manager: stub
+[2026-05-25 23:55:47] Initialized CSystemPerfController: 0
+[2026-05-25 23:55:47] Initialized CSteamUINetworkController: 1
+[2026-05-25 23:55:47] Initialized CSystemReportController
+[2026-05-25 23:55:47] CGamescopeController: initalized stub implementation
+
+
+[2026-05-25 23:57:28] Client version: 1779479049
+[2026-05-25 23:57:28] Initialized CSystemDockManagerController: 0
+[2026-05-25 23:57:28] Initialized CSystemAudioDeviceController: 0
+[2026-05-25 23:57:28] Initialized CSystemDisplayController: 0
+[2026-05-25 23:57:28] Initializing bluetooth manager: stub
+[2026-05-25 23:57:28] Initialized CSystemPerfController: 0
+[2026-05-25 23:57:28] Initialized CSteamUINetworkController: 1
+[2026-05-25 23:57:28] Initialized CSystemReportController
+[2026-05-25 23:57:28] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:00:09] Client version: 1779479049
+[2026-05-26 00:00:09] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:00:09] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:00:09] Initialized CSystemDisplayController: 0
+[2026-05-26 00:00:09] Initializing bluetooth manager: stub
+[2026-05-26 00:00:09] Initialized CSystemPerfController: 0
+[2026-05-26 00:00:09] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:00:09] Initialized CSystemReportController
+[2026-05-26 00:00:09] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:02:30] Client version: 1779479049
+[2026-05-26 00:02:30] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:02:30] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:02:30] Initialized CSystemDisplayController: 0
+[2026-05-26 00:02:30] Initializing bluetooth manager: stub
+[2026-05-26 00:02:30] Initialized CSystemPerfController: 0
+[2026-05-26 00:02:30] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:02:30] Initialized CSystemReportController
+[2026-05-26 00:02:30] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:02:41] Client version: 1779479049
+[2026-05-26 00:02:41] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:02:41] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:02:41] Initialized CSystemDisplayController: 0
+[2026-05-26 00:02:41] Initializing bluetooth manager: stub
+[2026-05-26 00:02:41] Initialized CSystemPerfController: 0
+[2026-05-26 00:02:41] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:02:41] Initialized CSystemReportController
+[2026-05-26 00:02:41] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:03:07] Client version: 1779479049
+[2026-05-26 00:03:07] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:03:07] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:03:07] Initialized CSystemDisplayController: 0
+[2026-05-26 00:03:07] Initializing bluetooth manager: stub
+[2026-05-26 00:03:07] Initialized CSystemPerfController: 0
+[2026-05-26 00:03:07] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:03:07] Initialized CSystemReportController
+[2026-05-26 00:03:07] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:03:33] Client version: 1779479049
+[2026-05-26 00:03:33] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:03:33] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:03:33] Initialized CSystemDisplayController: 0
+[2026-05-26 00:03:33] Initializing bluetooth manager: stub
+[2026-05-26 00:03:33] Initialized CSystemPerfController: 0
+[2026-05-26 00:03:33] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:03:33] Initialized CSystemReportController
+[2026-05-26 00:03:33] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:03:51] Client version: 1779479049
+[2026-05-26 00:03:51] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:03:51] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:03:51] Initialized CSystemDisplayController: 0
+[2026-05-26 00:03:51] Initializing bluetooth manager: stub
+[2026-05-26 00:03:51] Initialized CSystemPerfController: 0
+[2026-05-26 00:03:51] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:03:51] Initialized CSystemReportController
+[2026-05-26 00:03:51] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:04:05] Client version: 1779479049
+[2026-05-26 00:04:05] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:04:05] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:04:05] Initialized CSystemDisplayController: 0
+[2026-05-26 00:04:05] Initializing bluetooth manager: stub
+[2026-05-26 00:04:05] Initialized CSystemPerfController: 0
+[2026-05-26 00:04:05] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:04:05] Initialized CSystemReportController
+[2026-05-26 00:04:05] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:04:25] Client version: 1779479049
+[2026-05-26 00:04:25] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:04:25] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:04:25] Initialized CSystemDisplayController: 0
+[2026-05-26 00:04:25] Initializing bluetooth manager: stub
+[2026-05-26 00:04:25] Initialized CSystemPerfController: 0
+[2026-05-26 00:04:25] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:04:25] Initialized CSystemReportController
+[2026-05-26 00:04:25] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:05:01] Client version: 1779479049
+[2026-05-26 00:05:01] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:05:01] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:05:01] Initialized CSystemDisplayController: 0
+[2026-05-26 00:05:01] Initializing bluetooth manager: stub
+[2026-05-26 00:05:01] Initialized CSystemPerfController: 0
+[2026-05-26 00:05:01] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:05:01] Initialized CSystemReportController
+[2026-05-26 00:05:01] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:05:37] Client version: 1779479049
+[2026-05-26 00:05:37] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:05:37] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:05:37] Initialized CSystemDisplayController: 0
+[2026-05-26 00:05:37] Initializing bluetooth manager: stub
+[2026-05-26 00:05:37] Initialized CSystemPerfController: 0
+[2026-05-26 00:05:37] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:05:37] Initialized CSystemReportController
+[2026-05-26 00:05:37] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:06:16] Client version: 1779479049
+[2026-05-26 00:06:16] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:06:16] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:06:16] Initialized CSystemDisplayController: 0
+[2026-05-26 00:06:16] Initializing bluetooth manager: stub
+[2026-05-26 00:06:16] Initialized CSystemPerfController: 0
+[2026-05-26 00:06:16] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:06:16] Initialized CSystemReportController
+[2026-05-26 00:06:16] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:07:05] Client version: 1779479049
+[2026-05-26 00:07:05] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:07:05] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:07:05] Initialized CSystemDisplayController: 0
+[2026-05-26 00:07:05] Initializing bluetooth manager: stub
+[2026-05-26 00:07:05] Initialized CSystemPerfController: 0
+[2026-05-26 00:07:05] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:07:05] Initialized CSystemReportController
+[2026-05-26 00:07:05] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:07:59] Client version: 1779479049
+[2026-05-26 00:07:59] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:07:59] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:07:59] Initialized CSystemDisplayController: 0
+[2026-05-26 00:07:59] Initializing bluetooth manager: stub
+[2026-05-26 00:07:59] Initialized CSystemPerfController: 0
+[2026-05-26 00:07:59] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:07:59] Initialized CSystemReportController
+[2026-05-26 00:07:59] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:12:08] Client version: 1779479049
+[2026-05-26 00:12:08] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:12:08] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:12:08] Initialized CSystemDisplayController: 0
+[2026-05-26 00:12:08] Initializing bluetooth manager: stub
+[2026-05-26 00:12:08] Initialized CSystemPerfController: 0
+[2026-05-26 00:12:08] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:12:08] Initialized CSystemReportController
+[2026-05-26 00:12:08] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:12:34] Client version: 1779479049
+[2026-05-26 00:12:34] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:12:34] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:12:34] Initialized CSystemDisplayController: 0
+
+
+[2026-05-26 00:15:27] Client version: 1779479049
+[2026-05-26 00:15:27] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:15:27] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:15:27] Initialized CSystemDisplayController: 0
+[2026-05-26 00:15:27] Initializing bluetooth manager: stub
+[2026-05-26 00:15:27] Initialized CSystemPerfController: 0
+[2026-05-26 00:15:27] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:15:27] Initialized CSystemReportController
+[2026-05-26 00:15:27] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:16:00] Client version: 1779479049
+[2026-05-26 00:16:00] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:16:00] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:16:00] Initialized CSystemDisplayController: 0
+[2026-05-26 00:16:00] Initializing bluetooth manager: stub
+[2026-05-26 00:16:00] Initialized CSystemPerfController: 0
+[2026-05-26 00:16:00] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:16:00] Initialized CSystemReportController
+[2026-05-26 00:16:00] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:21:16] Client version: 1779479049
+[2026-05-26 00:21:16] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:21:16] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:21:16] Initialized CSystemDisplayController: 0
+[2026-05-26 00:21:16] Initializing bluetooth manager: stub
+[2026-05-26 00:21:16] Initialized CSystemPerfController: 0
+[2026-05-26 00:21:16] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:21:16] Initialized CSystemReportController
+[2026-05-26 00:21:16] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:22:16] Client version: 1779479049
+[2026-05-26 00:22:16] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:22:16] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:22:16] Initialized CSystemDisplayController: 0
+[2026-05-26 00:22:16] Initializing bluetooth manager: stub
+[2026-05-26 00:22:16] Initialized CSystemPerfController: 0
+[2026-05-26 00:22:16] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:22:16] Initialized CSystemReportController
+[2026-05-26 00:22:16] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:22:24] Client version: 1779479049
+[2026-05-26 00:22:24] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:22:24] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:22:24] Initialized CSystemDisplayController: 0
+[2026-05-26 00:22:24] Initializing bluetooth manager: stub
+[2026-05-26 00:22:24] Initialized CSystemPerfController: 0
+[2026-05-26 00:22:24] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:22:24] Initialized CSystemReportController
+[2026-05-26 00:22:24] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:22:46] Client version: 1779479049
+[2026-05-26 00:22:46] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:22:46] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:22:46] Initialized CSystemDisplayController: 0
+[2026-05-26 00:22:46] Initializing bluetooth manager: stub
+[2026-05-26 00:22:46] Initialized CSystemPerfController: 0
+[2026-05-26 00:22:46] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:22:46] Initialized CSystemReportController
+[2026-05-26 00:22:46] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:24:17] Client version: 1779479049
+[2026-05-26 00:24:17] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:24:17] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:24:17] Initialized CSystemDisplayController: 0
+[2026-05-26 00:24:17] Initializing bluetooth manager: stub
+[2026-05-26 00:24:17] Initialized CSystemPerfController: 0
+[2026-05-26 00:24:17] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:24:17] Initialized CSystemReportController
+[2026-05-26 00:24:17] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:27:32] Client version: 1779479049
+[2026-05-26 00:27:32] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:27:32] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:27:32] Initialized CSystemDisplayController: 0
+[2026-05-26 00:27:32] Initializing bluetooth manager: stub
+[2026-05-26 00:27:32] Initialized CSystemPerfController: 0
+[2026-05-26 00:27:32] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:27:32] Initialized CSystemReportController
+[2026-05-26 00:27:32] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:31:52] Client version: 1779479049
+[2026-05-26 00:31:52] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:31:52] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:31:52] Initialized CSystemDisplayController: 0
+[2026-05-26 00:31:52] Initializing bluetooth manager: stub
+[2026-05-26 00:31:52] Initialized CSystemPerfController: 0
+[2026-05-26 00:31:52] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:31:52] Initialized CSystemReportController
+[2026-05-26 00:31:52] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:32:07] Client version: 1779479049
+[2026-05-26 00:32:07] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:32:07] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:32:07] Initialized CSystemDisplayController: 0
+[2026-05-26 00:32:07] Initializing bluetooth manager: stub
+[2026-05-26 00:32:07] Initialized CSystemPerfController: 0
+[2026-05-26 00:32:07] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:32:07] Initialized CSystemReportController
+[2026-05-26 00:32:07] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:33:50] Client version: 1779479049
+[2026-05-26 00:33:50] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:33:50] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:33:50] Initialized CSystemDisplayController: 0
+[2026-05-26 00:33:50] Initializing bluetooth manager: stub
+[2026-05-26 00:33:50] Initialized CSystemPerfController: 0
+[2026-05-26 00:33:50] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:33:50] Initialized CSystemReportController
+[2026-05-26 00:33:50] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:35:31] Client version: 1779479049
+[2026-05-26 00:35:31] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:35:31] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:35:31] Initialized CSystemDisplayController: 0
+[2026-05-26 00:35:31] Initializing bluetooth manager: stub
+[2026-05-26 00:35:31] Initialized CSystemPerfController: 0
+[2026-05-26 00:35:31] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:35:31] Initialized CSystemReportController
+[2026-05-26 00:35:31] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:50:34] Client version: 1779479049
+[2026-05-26 00:50:34] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:50:34] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:50:34] Initialized CSystemDisplayController: 0
+[2026-05-26 00:50:34] Initializing bluetooth manager: stub
+[2026-05-26 00:50:34] Initialized CSystemPerfController: 0
+[2026-05-26 00:50:34] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:50:34] Initialized CSystemReportController
+[2026-05-26 00:50:34] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 00:59:55] Client version: 1779479049
+[2026-05-26 00:59:55] Initialized CSystemDockManagerController: 0
+[2026-05-26 00:59:55] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 00:59:55] Initialized CSystemDisplayController: 0
+[2026-05-26 00:59:55] Initializing bluetooth manager: stub
+[2026-05-26 00:59:55] Initialized CSystemPerfController: 0
+[2026-05-26 00:59:55] Initialized CSteamUINetworkController: 1
+[2026-05-26 00:59:55] Initialized CSystemReportController
+[2026-05-26 00:59:55] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 01:00:03] Client version: 1779479049
+[2026-05-26 01:00:03] Initialized CSystemDockManagerController: 0
+[2026-05-26 01:00:03] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 01:00:03] Initialized CSystemDisplayController: 0
+[2026-05-26 01:00:03] Initializing bluetooth manager: stub
+[2026-05-26 01:00:03] Initialized CSystemPerfController: 0
+[2026-05-26 01:00:03] Initialized CSteamUINetworkController: 1
+[2026-05-26 01:00:03] Initialized CSystemReportController
+[2026-05-26 01:00:03] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 01:00:17] Client version: 1779479049
+[2026-05-26 01:00:17] Initialized CSystemDockManagerController: 0
+[2026-05-26 01:00:17] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 01:00:17] Initialized CSystemDisplayController: 0
+[2026-05-26 01:00:17] Initializing bluetooth manager: stub
+[2026-05-26 01:00:17] Initialized CSystemPerfController: 0
+[2026-05-26 01:00:17] Initialized CSteamUINetworkController: 1
+[2026-05-26 01:00:17] Initialized CSystemReportController
+[2026-05-26 01:00:17] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 01:10:37] Client version: 1779479049
+[2026-05-26 01:10:37] Initialized CSystemDockManagerController: 0
+[2026-05-26 01:10:37] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 01:10:37] Initialized CSystemDisplayController: 0
+[2026-05-26 01:10:37] Initializing bluetooth manager: stub
+[2026-05-26 01:10:37] Initialized CSystemPerfController: 0
+[2026-05-26 01:10:37] Initialized CSteamUINetworkController: 1
+[2026-05-26 01:10:37] Initialized CSystemReportController
+[2026-05-26 01:10:37] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 06:41:48] Client version: 1779479049
+[2026-05-26 06:41:48] Initialized CSystemDockManagerController: 0
+[2026-05-26 06:41:48] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 06:41:48] Initialized CSystemDisplayController: 0
+[2026-05-26 06:41:48] Initializing bluetooth manager: stub
+[2026-05-26 06:41:48] Initialized CSystemPerfController: 0
+[2026-05-26 06:41:48] Initialized CSteamUINetworkController: 1
+[2026-05-26 06:41:48] Initialized CSystemReportController
+[2026-05-26 06:41:48] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 06:41:58] Client version: 1779479049
+[2026-05-26 06:41:58] Initialized CSystemDockManagerController: 0
+[2026-05-26 06:41:58] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 06:41:58] Initialized CSystemDisplayController: 0
+[2026-05-26 06:41:58] Initializing bluetooth manager: stub
+[2026-05-26 06:41:58] Initialized CSystemPerfController: 0
+[2026-05-26 06:41:58] Initialized CSteamUINetworkController: 1
+[2026-05-26 06:41:58] Initialized CSystemReportController
+[2026-05-26 06:41:58] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 15:08:06] Client version: 1779479049
+[2026-05-26 15:08:06] Initialized CSystemDockManagerController: 0
+[2026-05-26 15:08:06] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 15:08:06] Initialized CSystemDisplayController: 0
+[2026-05-26 15:08:06] Initializing bluetooth manager: stub
+[2026-05-26 15:08:06] Initialized CSystemPerfController: 0
+[2026-05-26 15:08:06] Initialized CSteamUINetworkController: 1
+[2026-05-26 15:08:06] Initialized CSystemReportController
+[2026-05-26 15:08:06] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 18:50:06] Client version: 1779479049
+[2026-05-26 18:50:06] Initialized CSystemDockManagerController: 0
+[2026-05-26 18:50:06] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 18:50:06] Initialized CSystemDisplayController: 0
+[2026-05-26 18:50:06] Initializing bluetooth manager: stub
+[2026-05-26 18:50:06] Initialized CSystemPerfController: 0
+[2026-05-26 18:50:06] Initialized CSteamUINetworkController: 1
+[2026-05-26 18:50:06] Initialized CSystemReportController
+[2026-05-26 18:50:06] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 18:50:20] Client version: 1779479049
+[2026-05-26 18:50:20] Initialized CSystemDockManagerController: 0
+[2026-05-26 18:50:20] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 18:50:20] Initialized CSystemDisplayController: 0
+[2026-05-26 18:50:20] Initializing bluetooth manager: stub
+[2026-05-26 18:50:20] Initialized CSystemPerfController: 0
+[2026-05-26 18:50:20] Initialized CSteamUINetworkController: 1
+[2026-05-26 18:50:20] Initialized CSystemReportController
+[2026-05-26 18:50:20] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 18:53:31] Client version: 1779479049
+[2026-05-26 18:53:31] Initialized CSystemDockManagerController: 0
+[2026-05-26 18:53:31] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 18:53:31] Initialized CSystemDisplayController: 0
+[2026-05-26 18:53:31] Initializing bluetooth manager: stub
+[2026-05-26 18:53:31] Initialized CSystemPerfController: 0
+[2026-05-26 18:53:31] Initialized CSteamUINetworkController: 1
+[2026-05-26 18:53:31] Initialized CSystemReportController
+[2026-05-26 18:53:31] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 18:53:45] Client version: 1779479049
+[2026-05-26 18:53:45] Initialized CSystemDockManagerController: 0
+[2026-05-26 18:53:45] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 18:53:45] Initialized CSystemDisplayController: 0
+[2026-05-26 18:53:45] Initializing bluetooth manager: stub
+[2026-05-26 18:53:45] Initialized CSystemPerfController: 0
+[2026-05-26 18:53:45] Initialized CSteamUINetworkController: 1
+[2026-05-26 18:53:45] Initialized CSystemReportController
+[2026-05-26 18:53:45] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 19:07:24] Client version: 1779479049
+[2026-05-26 19:07:24] Initialized CSystemDockManagerController: 0
+[2026-05-26 19:07:24] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 19:07:24] Initialized CSystemDisplayController: 0
+[2026-05-26 19:07:24] Initializing bluetooth manager: stub
+[2026-05-26 19:07:24] Initialized CSystemPerfController: 0
+[2026-05-26 19:07:24] Initialized CSteamUINetworkController: 1
+[2026-05-26 19:07:24] Initialized CSystemReportController
+[2026-05-26 19:07:24] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 19:07:39] Client version: 1779479049
+[2026-05-26 19:07:39] Initialized CSystemDockManagerController: 0
+[2026-05-26 19:07:39] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 19:07:39] Initialized CSystemDisplayController: 0
+[2026-05-26 19:07:39] Initializing bluetooth manager: stub
+[2026-05-26 19:07:39] Initialized CSystemPerfController: 0
+[2026-05-26 19:07:39] Initialized CSteamUINetworkController: 1
+[2026-05-26 19:07:39] Initialized CSystemReportController
+[2026-05-26 19:07:39] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 19:07:47] Client version: 1779479049
+[2026-05-26 19:07:47] Initialized CSystemDockManagerController: 0
+[2026-05-26 19:07:47] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 19:07:47] Initialized CSystemDisplayController: 0
+[2026-05-26 19:07:47] Initializing bluetooth manager: stub
+[2026-05-26 19:07:47] Initialized CSystemPerfController: 0
+[2026-05-26 19:07:47] Initialized CSteamUINetworkController: 1
+[2026-05-26 19:07:47] Initialized CSystemReportController
+[2026-05-26 19:07:47] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 19:08:34] Client version: 1779479049
+[2026-05-26 19:08:34] Initialized CSystemDockManagerController: 0
+[2026-05-26 19:08:34] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 19:08:34] Initialized CSystemDisplayController: 0
+[2026-05-26 19:08:34] Initializing bluetooth manager: stub
+[2026-05-26 19:08:34] Initialized CSystemPerfController: 0
+[2026-05-26 19:08:34] Initialized CSteamUINetworkController: 1
+[2026-05-26 19:08:34] Initialized CSystemReportController
+[2026-05-26 19:08:34] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 19:13:57] Client version: 1779479049
+[2026-05-26 19:13:57] Initialized CSystemDockManagerController: 0
+[2026-05-26 19:13:57] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 19:13:57] Initialized CSystemDisplayController: 0
+[2026-05-26 19:13:57] Initializing bluetooth manager: stub
+[2026-05-26 19:13:57] Initialized CSystemPerfController: 0
+[2026-05-26 19:13:57] Initialized CSteamUINetworkController: 1
+[2026-05-26 19:13:57] Initialized CSystemReportController
+[2026-05-26 19:13:57] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 19:14:18] Client version: 1779479049
+[2026-05-26 19:14:18] Initialized CSystemDockManagerController: 0
+[2026-05-26 19:14:18] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 19:14:18] Initialized CSystemDisplayController: 0
+[2026-05-26 19:14:18] Initializing bluetooth manager: stub
+[2026-05-26 19:14:18] Initialized CSystemPerfController: 0
+[2026-05-26 19:14:18] Initialized CSteamUINetworkController: 1
+[2026-05-26 19:14:18] Initialized CSystemReportController
+[2026-05-26 19:14:18] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 19:16:01] Client version: 1779486452
+[2026-05-26 19:16:01] Initialized CSystemDockManagerController: 0
+[2026-05-26 19:16:01] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 19:16:01] Initialized CSystemDisplayController: 0
+[2026-05-26 19:16:01] Initializing bluetooth manager: stub
+[2026-05-26 19:16:01] Initialized CSystemPerfController: 0
+[2026-05-26 19:16:01] Initialized CSteamUINetworkController: 1
+[2026-05-26 19:16:01] Initialized CSystemReportController
+[2026-05-26 19:16:01] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 19:16:13] Client version: 1779486452
+[2026-05-26 19:16:13] Initialized CSystemDockManagerController: 0
+[2026-05-26 19:16:13] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 19:16:13] Initialized CSystemDisplayController: 0
+[2026-05-26 19:16:13] Initializing bluetooth manager: stub
+[2026-05-26 19:16:13] Initialized CSystemPerfController: 0
+[2026-05-26 19:16:13] Initialized CSteamUINetworkController: 1
+[2026-05-26 19:16:13] Initialized CSystemReportController
+[2026-05-26 19:16:13] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 19:16:20] Client version: 1779486452
+[2026-05-26 19:16:20] Initialized CSystemDockManagerController: 0
+[2026-05-26 19:16:20] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 19:16:20] Initialized CSystemDisplayController: 0
+[2026-05-26 19:16:20] Initializing bluetooth manager: stub
+[2026-05-26 19:16:20] Initialized CSystemPerfController: 0
+[2026-05-26 19:16:20] Initialized CSteamUINetworkController: 1
+[2026-05-26 19:16:20] Initialized CSystemReportController
+[2026-05-26 19:16:20] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 19:16:31] Client version: 1779486452
+[2026-05-26 19:16:31] Initialized CSystemDockManagerController: 0
+[2026-05-26 19:16:31] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 19:16:31] Initialized CSystemDisplayController: 0
+[2026-05-26 19:16:31] Initializing bluetooth manager: stub
+[2026-05-26 19:16:31] Initialized CSystemPerfController: 0
+[2026-05-26 19:16:31] Initialized CSteamUINetworkController: 1
+[2026-05-26 19:16:31] Initialized CSystemReportController
+[2026-05-26 19:16:31] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 19:17:18] Client version: 1779479049
+[2026-05-26 19:17:18] Initialized CSystemDockManagerController: 0
+[2026-05-26 19:17:18] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 19:17:18] Initialized CSystemDisplayController: 0
+[2026-05-26 19:17:18] Initializing bluetooth manager: stub
+[2026-05-26 19:17:18] Initialized CSystemPerfController: 0
+[2026-05-26 19:17:18] Initialized CSteamUINetworkController: 1
+[2026-05-26 19:17:18] Initialized CSystemReportController
+[2026-05-26 19:17:18] CGamescopeController: initalized stub implementation
+
+
+[2026-05-26 21:16:37] Client version: 1779479049
+[2026-05-26 21:16:37] Initialized CSystemDockManagerController: 0
+[2026-05-26 21:16:37] Initialized CSystemAudioDeviceController: 0
+[2026-05-26 21:16:37] Initialized CSystemDisplayController: 0
+[2026-05-26 21:16:37] Initializing bluetooth manager: stub
+[2026-05-26 21:16:37] Initialized CSystemPerfController: 0
+[2026-05-26 21:16:37] Initialized CSteamUINetworkController: 1
+[2026-05-26 21:16:37] Initialized CSystemReportController
+[2026-05-26 21:16:37] CGamescopeController: initalized stub implementation
+
+
+[2026-05-27 13:12:58] Client version: 1779479049
+[2026-05-27 13:12:58] Initialized CSystemDockManagerController: 0
+[2026-05-27 13:12:58] Initialized CSystemAudioDeviceController: 0
+[2026-05-27 13:12:58] Initialized CSystemDisplayController: 0
+[2026-05-27 13:12:58] Initializing bluetooth manager: stub
+[2026-05-27 13:12:58] Initialized CSystemPerfController: 0
+[2026-05-27 13:12:58] Initialized CSteamUINetworkController: 1
+[2026-05-27 13:12:58] Initialized CSystemReportController
+[2026-05-27 13:12:58] CGamescopeController: initalized stub implementation
+
+
+[2026-05-27 13:23:57] Client version: 1779840850
+[2026-05-27 13:23:57] Initialized CSystemDockManagerController: 0
+[2026-05-27 13:23:57] Initialized CSystemAudioDeviceController: 0
+[2026-05-27 13:23:57] Initialized CSystemDisplayController: 0
+[2026-05-27 13:23:57] Initializing bluetooth manager: stub
+[2026-05-27 13:23:57] Initialized CSystemPerfController: 0
+[2026-05-27 13:23:57] Initialized CSteamUINetworkController: 1
+[2026-05-27 13:23:57] Initialized CSystemReportController
+[2026-05-27 13:23:57] CGamescopeController: initalized stub implementation
+
+
+[2026-05-27 13:24:54] Client version: 1779840850
+[2026-05-27 13:24:54] Initialized CSystemDockManagerController: 0
+[2026-05-27 13:24:54] Initialized CSystemAudioDeviceController: 0
+[2026-05-27 13:24:54] Initialized CSystemDisplayController: 0
+[2026-05-27 13:24:54] Initializing bluetooth manager: stub
+[2026-05-27 13:24:54] Initialized CSystemPerfController: 0
+[2026-05-27 13:24:54] Initialized CSteamUINetworkController: 1
+[2026-05-27 13:24:54] Initialized CSystemReportController
+[2026-05-27 13:24:54] CGamescopeController: initalized stub implementation
+
+
+[2026-05-27 13:25:03] Client version: 1779840850
+[2026-05-27 13:25:03] Initialized CSystemDockManagerController: 0
+[2026-05-27 13:25:03] Initialized CSystemAudioDeviceController: 0
+[2026-05-27 13:25:03] Initialized CSystemDisplayController: 0
+[2026-05-27 13:25:03] Initializing bluetooth manager: stub
+[2026-05-27 13:25:03] Initialized CSystemPerfController: 0
+[2026-05-27 13:25:03] Initialized CSteamUINetworkController: 1
+[2026-05-27 13:25:03] Initialized CSystemReportController
+[2026-05-27 13:25:03] CGamescopeController: initalized stub implementation
+
+
+[2026-05-27 13:25:10] Client version: 1779840850
+[2026-05-27 13:25:10] Initialized CSystemDockManagerController: 0
+[2026-05-27 13:25:10] Initialized CSystemAudioDeviceController: 0
+[2026-05-27 13:25:10] Initialized CSystemDisplayController: 0
+[2026-05-27 13:25:10] Initializing bluetooth manager: stub
+[2026-05-27 13:25:10] Initialized CSystemPerfController: 0
+[2026-05-27 13:25:10] Initialized CSteamUINetworkController: 1
+[2026-05-27 13:25:10] Initialized CSystemReportController
+[2026-05-27 13:25:10] CGamescopeController: initalized stub implementation
+
+
+[2026-05-27 13:25:17] Client version: 1779840850
+[2026-05-27 13:25:17] Initialized CSystemDockManagerController: 0
+[2026-05-27 13:25:17] Initialized CSystemAudioDeviceController: 0
+[2026-05-27 13:25:17] Initialized CSystemDisplayController: 0
+[2026-05-27 13:25:17] Initializing bluetooth manager: stub
+[2026-05-27 13:25:17] Initialized CSystemPerfController: 0
+[2026-05-27 13:25:17] Initialized CSteamUINetworkController: 1
+[2026-05-27 13:25:17] Initialized CSystemReportController
+[2026-05-27 13:25:17] CGamescopeController: initalized stub implementation
+
+
+[2026-05-27 13:26:16] Client version: 1779840850
+[2026-05-27 13:26:16] Initialized CSystemDockManagerController: 0
+[2026-05-27 13:26:16] Initialized CSystemAudioDeviceController: 0
+[2026-05-27 13:26:16] Initialized CSystemDisplayController: 0
+[2026-05-27 13:26:16] Initializing bluetooth manager: stub
+[2026-05-27 13:26:16] Initialized CSystemPerfController: 0
+[2026-05-27 13:26:16] Initialized CSteamUINetworkController: 1
+[2026-05-27 13:26:16] Initialized CSystemReportController
+[2026-05-27 13:26:16] CGamescopeController: initalized stub implementation
+
+
+[2026-05-27 13:27:17] Client version: 1779840850
+[2026-05-27 13:27:17] Initialized CSystemDockManagerController: 0
+[2026-05-27 13:27:17] Initialized CSystemAudioDeviceController: 0
+[2026-05-27 13:27:17] Initialized CSystemDisplayController: 0
+[2026-05-27 13:27:17] Initializing bluetooth manager: stub
+[2026-05-27 13:27:17] Initialized CSystemPerfController: 0
+[2026-05-27 13:27:17] Initialized CSteamUINetworkController: 1
+[2026-05-27 13:27:17] Initialized CSystemReportController
+[2026-05-27 13:27:17] CGamescopeController: initalized stub implementation
+
+
+[2026-05-27 13:27:45] Client version: 1779840850
+[2026-05-27 13:27:45] Initialized CSystemDockManagerController: 0
+[2026-05-27 13:27:45] Initialized CSystemAudioDeviceController: 0
+[2026-05-27 13:27:45] Initialized CSystemDisplayController: 0
+[2026-05-27 13:27:45] Initializing bluetooth manager: stub
+[2026-05-27 13:27:45] Initialized CSystemPerfController: 0
+[2026-05-27 13:27:45] Initialized CSteamUINetworkController: 1
+[2026-05-27 13:27:45] Initialized CSystemReportController
+[2026-05-27 13:27:45] CGamescopeController: initalized stub implementation

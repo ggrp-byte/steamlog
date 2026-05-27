@@ -1,0 +1,1513 @@
+
+
+[2026-02-26 21:10:51] Client version: 1769025840
+[2026-02-26 21:10:51] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-02-26 23:20:34] Client version: 1769025840
+[2026-02-26 23:20:34] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-02-26 23:32:04] Client version: 1769025840
+[2026-02-26 23:32:04] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-02-27 00:26:31] Client version: 1769025840
+[2026-02-27 00:26:31] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-02-27 00:28:35] Client version: 1771977793
+[2026-02-27 00:28:35] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-27 00:38:59] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-02-27 00:45:12] Client version: 1771977793
+[2026-02-27 00:45:12] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-27 00:48:58] Launching shared app 730 : using preferred owner 1477690047
+[2026-02-27 01:05:34] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-02-27 02:21:55] Client version: 1771977793
+[2026-02-27 02:21:55] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-27 02:22:04] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-02-27 03:14:19] Client version: 1771977793
+[2026-02-27 03:14:19] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-27 03:14:28] Launching shared app 730 : using preferred owner 1477690047
+[2026-02-27 03:25:32] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-02-27 03:32:34] Client version: 1771977793
+[2026-02-27 03:32:34] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-27 03:32:47] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-02-27 11:12:35] Client version: 1772162887
+[2026-02-27 11:12:35] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-02-27 13:58:42] Client version: 1772162887
+[2026-02-27 13:58:42] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-02-27 15:57:56] Client version: 1772162887
+[2026-02-27 15:57:56] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-27 21:55:25] Launching shared app 730 : using preferred owner 1477690047
+[2026-02-27 21:55:30] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-02-27 22:01:30] Client version: 1772162887
+[2026-02-27 22:01:30] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-02-28 10:52:46] Client version: 1772162887
+[2026-02-28 10:52:46] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-02-28 12:04:44] Client version: 1772162887
+[2026-02-28 12:04:44] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-28 12:04:52] Launching shared app 730 : using preferred owner 1477690047
+[2026-02-28 12:11:58] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-02-28 12:20:32] Client version: 1772162887
+[2026-02-28 12:20:32] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-28 12:21:47] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-02-28 12:56:46] Client version: 1772162887
+[2026-02-28 12:56:46] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-28 12:56:55] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-02-28 13:12:02] Client version: 1772162887
+[2026-02-28 13:12:02] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-28 13:12:11] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-02-28 13:20:48] Client version: 1772162887
+[2026-02-28 13:20:48] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-28 13:21:18] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-02-28 13:45:16] Client version: 1772162887
+[2026-02-28 13:45:16] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-28 13:45:55] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-02-28 14:02:49] Client version: 1772162887
+[2026-02-28 14:02:49] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-28 14:03:07] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-02-28 18:11:37] Client version: 1772162887
+[2026-02-28 18:11:37] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-02-28 21:31:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-02-28 21:31:34] Launching shared app 730 : using preferred owner 1477690047
+[2026-02-28 23:29:09] Launching shared app 730 : using preferred owner 1477690047
+[2026-02-28 23:29:13] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-01 00:28:05] Client version: 1772162887
+[2026-03-01 00:28:05] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-01 00:28:49] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-01 00:40:24] Client version: 1772162887
+[2026-03-01 00:40:24] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-01 00:40:41] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-01 02:23:49] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-01 10:24:19] Client version: 1772162887
+[2026-03-01 10:24:19] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-01 12:15:04] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-01 12:18:04] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-01 14:22:09] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-01 19:03:41] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-01 20:19:05] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-01 20:21:30] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-01 20:23:33] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-01 22:21:29] Client version: 1772162887
+[2026-03-01 22:21:29] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-01 22:21:41] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-01 23:07:20] Client version: 1772162887
+[2026-03-01 23:07:20] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-01 23:08:09] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-01 23:29:49] Client version: 1772162887
+[2026-03-01 23:29:49] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-02 15:01:48] Client version: 1772162887
+[2026-03-02 15:01:48] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-02 20:38:54] Client version: 1772162887
+[2026-03-02 20:38:54] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-02 21:10:30] Launching shared app 227300 : using preferred owner 1477690047
+
+
+[2026-03-03 14:35:21] Client version: 1772502488
+[2026-03-03 14:35:21] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-03 22:48:17] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-03 22:48:22] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-04 00:43:58] Client version: 1772502488
+[2026-03-04 00:43:58] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-04 06:37:29] Client version: 1772502488
+[2026-03-04 06:37:29] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-04 14:02:55] Client version: 1772502488
+[2026-03-04 14:02:55] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-04 14:05:15] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-04 14:15:37] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-04 15:20:00] Client version: 1772502488
+[2026-03-04 15:20:00] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-04 15:20:08] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-04 15:20:13] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-04 15:43:06] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-04 15:43:10] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-04 15:44:33] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-04 15:44:37] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-04 16:20:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-04 16:20:33] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-04 19:35:36] Client version: 1772502488
+[2026-03-04 19:35:36] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-04 20:01:01] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-04 20:57:50] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-05 16:09:50] Client version: 1772686978
+[2026-03-05 16:09:50] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-05 17:50:13] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-05 17:50:20] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-05 20:43:37] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-05 20:54:03] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-05 20:56:45] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-05 20:57:41] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-05 23:21:23] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-06 14:33:17] Client version: 1772686978
+[2026-03-06 14:33:17] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-06 21:48:21] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-07 09:18:02] Client version: 1772686978
+[2026-03-07 09:18:02] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-07 18:36:04] Client version: 1772859008
+[2026-03-07 18:36:04] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-07 20:06:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-07 20:12:18] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-07 22:14:08] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-07 22:14:12] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-08 10:37:44] Client version: 1772859008
+[2026-03-08 10:37:44] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-08 10:48:16] Client version: 1772859008
+[2026-03-08 10:48:16] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-08 18:41:43] Client version: 1772859008
+[2026-03-08 18:41:43] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-09 14:54:31] Client version: 1772859008
+[2026-03-09 14:54:31] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-09 14:58:21] Client version: 1772859008
+[2026-03-09 14:58:21] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-09 20:30:25] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-09 20:45:08] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-09 20:50:35] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-09 21:21:42] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-09 21:23:48] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-09 21:29:35] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-10 01:08:08] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-10 01:16:20] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-10 19:04:55] Client version: 1773099986
+[2026-03-10 19:04:55] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-10 20:48:40] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-11 13:26:48] Client version: 1773168360
+[2026-03-11 13:26:48] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-11 13:40:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-11 22:19:41] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-12 00:40:20] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-12 16:23:18] Client version: 1773268655
+[2026-03-12 16:23:18] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-12 18:10:19] Client version: 1773268655
+[2026-03-12 18:10:19] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-12 18:10:28] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-12 18:45:54] Client version: 1773268655
+[2026-03-12 18:45:54] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-12 19:39:49] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-13 16:26:05] Client version: 1773268655
+[2026-03-13 16:26:05] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-13 17:17:30] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-13 20:57:13] Client version: 1773367340
+[2026-03-13 20:57:13] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-13 22:12:55] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-14 09:18:43] Client version: 1773367340
+[2026-03-14 09:18:43] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-14 14:21:42] Client version: 1773367340
+[2026-03-14 14:21:42] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-14 19:36:26] Client version: 1773367340
+[2026-03-14 19:36:26] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-14 19:41:37] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-14 20:05:47] Client version: 1773367340
+[2026-03-14 20:05:47] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-14 20:06:41] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-15 02:08:39] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-15 09:19:09] Client version: 1773367340
+[2026-03-15 09:19:09] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-15 11:35:01] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-15 11:35:06] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-15 13:36:34] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-15 19:50:51] Client version: 1773367340
+[2026-03-15 19:50:51] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-15 21:32:01] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-15 21:32:06] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-15 22:21:44] Launching shared app 227300 : using preferred owner 1477690047
+[2026-03-15 22:22:34] Launching shared app 227300 : using preferred owner 1477690047
+
+
+[2026-03-16 14:36:44] Client version: 1773367340
+[2026-03-16 14:36:44] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-16 16:03:40] Client version: 1773367340
+[2026-03-16 16:03:40] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-16 22:44:47] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-16 22:44:52] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-16 22:47:47] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-16 22:47:52] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-16 23:19:17] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-17 16:11:02] Client version: 1773367340
+[2026-03-17 16:11:02] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-17 21:11:45] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-17 21:14:24] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-17 21:14:28] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-18 13:22:17] Client version: 1773367340
+[2026-03-18 13:22:17] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-18 13:45:24] Client version: 1773367340
+[2026-03-18 13:45:24] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-18 13:47:05] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-18 13:53:47] Client version: 1773367340
+[2026-03-18 13:53:47] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-18 13:54:04] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-18 14:03:38] Client version: 1773367340
+[2026-03-18 14:03:38] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-18 14:03:49] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-18 20:06:10] Client version: 1773367340
+[2026-03-18 20:06:10] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-18 22:26:10] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-18 23:52:19] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-19 16:14:02] Client version: 1773367340
+[2026-03-19 16:14:02] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-19 19:52:40] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-19 19:53:59] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-20 16:01:10] Client version: 1773983034
+[2026-03-20 16:01:10] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-20 22:38:19] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-21 00:22:03] Client version: 1773983034
+[2026-03-21 00:22:03] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-21 09:41:19] Client version: 1773983034
+[2026-03-21 09:41:19] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-21 10:16:15] Client version: 1773983034
+[2026-03-21 10:16:15] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-21 10:49:13] Client version: 1773983034
+[2026-03-21 10:49:13] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-21 15:10:57] Client version: 1773983034
+[2026-03-21 15:10:57] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-21 19:48:22] Client version: 1773983034
+[2026-03-21 19:48:22] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-21 23:29:43] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 00:58:50] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 01:48:36] Launching shared app 227300 : using preferred owner 1477690047
+
+
+[2026-03-22 09:42:19] Client version: 1773983034
+[2026-03-22 09:42:19] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-22 09:57:12] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 09:58:11] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 09:59:08] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-22 10:08:01] Client version: 1773983034
+[2026-03-22 10:08:01] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-22 10:09:01] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 10:14:06] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 10:15:03] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-22 10:56:00] Client version: 1773983034
+[2026-03-22 10:56:00] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-22 11:05:17] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 12:36:42] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-22 12:39:58] Client version: 1773983034
+[2026-03-22 12:39:58] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-22 12:46:11] Client version: 1773983034
+[2026-03-22 12:46:11] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-22 12:46:31] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-22 12:57:16] Client version: 1773983034
+[2026-03-22 12:57:16] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-22 12:57:30] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-22 13:03:27] Client version: 1773983034
+[2026-03-22 13:03:27] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-22 13:03:44] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-22 13:10:41] Client version: 1773983034
+[2026-03-22 13:10:41] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-22 13:10:55] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 13:42:32] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 13:43:43] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-22 18:10:00] Client version: 1773983034
+[2026-03-22 18:10:00] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-22 18:11:19] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 18:14:50] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 18:22:19] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 18:23:59] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-22 18:36:54] Client version: 1773983034
+[2026-03-22 18:36:54] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-22 18:37:47] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 18:50:09] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 18:52:16] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 19:17:31] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-22 19:19:53] Client version: 1773983034
+[2026-03-22 19:19:53] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-22 19:20:10] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 19:38:55] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 19:48:12] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 20:32:43] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 21:02:33] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 21:40:14] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 22:02:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 22:08:50] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 22:10:35] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 22:11:04] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 22:13:33] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 22:13:51] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 22:14:20] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-22 23:06:14] Client version: 1773983034
+[2026-03-22 23:06:14] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-22 23:09:52] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 23:10:49] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 23:12:44] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 23:16:10] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 23:23:18] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 23:24:47] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-22 23:36:11] Client version: 1773983034
+[2026-03-22 23:36:11] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-22 23:37:48] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 23:42:46] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 23:44:07] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-22 23:45:08] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-22 23:55:52] Client version: 1773983034
+[2026-03-22 23:55:52] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-23 00:01:48] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 00:04:09] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-23 00:18:17] Client version: 1773983034
+[2026-03-23 00:18:17] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-23 00:32:53] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 00:34:00] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-23 14:53:25] Client version: 1773983034
+[2026-03-23 14:53:25] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-23 14:53:42] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-23 14:57:13] Client version: 1773983034
+[2026-03-23 14:57:13] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-23 14:57:21] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 14:58:17] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 14:59:27] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 15:00:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 15:00:58] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 15:02:13] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 15:03:05] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 15:03:24] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 15:04:31] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-23 15:06:11] Client version: 1773983034
+[2026-03-23 15:06:11] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-23 15:06:20] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 15:15:15] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 15:16:57] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 15:19:51] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 15:29:27] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 15:31:26] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 15:32:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 15:56:06] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 16:12:33] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-23 16:32:41] Client version: 1773983034
+[2026-03-23 16:32:41] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-23 16:32:50] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-23 16:35:49] Client version: 1773983034
+[2026-03-23 16:35:49] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-23 16:37:13] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-23 16:45:23] Client version: 1773983034
+[2026-03-23 16:45:23] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-23 16:51:41] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 16:53:15] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 16:54:33] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 16:56:52] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-23 17:00:19] Client version: 1773983034
+[2026-03-23 17:00:19] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-23 17:01:35] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 17:07:25] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 18:38:16] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:00:07] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:02:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:07:56] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:09:03] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:28:00] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:31:52] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:32:31] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:32:42] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:36:22] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:38:20] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:39:10] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:47:19] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:48:02] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:50:16] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:50:35] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:53:23] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:56:33] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:58:35] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 19:59:53] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-23 20:26:29] Client version: 1773983034
+[2026-03-23 20:26:29] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-23 20:26:39] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:30:33] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:35:37] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:36:13] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:38:50] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:39:07] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:42:58] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:43:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:43:59] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:44:53] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:45:34] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:46:27] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:46:44] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:47:04] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:47:36] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:48:03] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:48:25] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:48:42] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:49:24] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-23 20:50:34] Client version: 1773983034
+[2026-03-23 20:50:34] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-23 20:50:52] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 20:51:52] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 21:16:33] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 21:20:30] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-23 21:24:56] Client version: 1773983034
+[2026-03-23 21:24:56] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-23 21:25:07] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 21:26:12] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 21:28:18] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 21:28:37] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 21:29:16] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 21:31:41] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 21:31:59] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 21:34:40] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 21:38:45] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 21:41:10] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-23 21:45:42] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-23 22:05:04] Client version: 1773983034
+[2026-03-23 22:05:04] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-23 22:06:34] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-23 22:47:15] Client version: 1773983034
+[2026-03-23 22:47:15] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-24 14:55:24] Client version: 1773983034
+[2026-03-24 14:55:24] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-24 15:25:30] Client version: 1774306123
+[2026-03-24 15:25:30] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-24 15:25:38] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-24 15:52:21] Client version: 1774306123
+[2026-03-24 15:52:21] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-24 15:54:17] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-24 20:11:00] Client version: 1774306123
+[2026-03-24 20:11:00] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-24 21:52:45] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-24 23:04:19] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-25 13:27:22] Client version: 1774306123
+[2026-03-25 13:27:22] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-25 21:08:01] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-26 15:54:35] Client version: 1774488570
+[2026-03-26 15:54:35] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-26 23:58:52] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-27 15:55:14] Client version: 1774488570
+[2026-03-27 15:55:14] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-27 17:01:49] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-27 19:16:45] Client version: 1774577504
+[2026-03-27 19:16:45] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-28 08:15:02] Client version: 1774577504
+[2026-03-28 08:15:02] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-28 08:18:16] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-28 19:10:52] Client version: 1774577504
+[2026-03-28 19:10:52] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-28 21:07:03] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-28 21:52:08] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-28 22:56:05] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-29 00:31:42] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-29 11:44:18] Client version: 1774577504
+[2026-03-29 11:44:18] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-30 01:24:27] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-30 14:39:44] Client version: 1774577504
+[2026-03-30 14:39:44] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-30 14:49:01] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-30 21:38:39] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-30 21:38:44] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-30 22:48:18] Launching shared app 730 : using preferred owner 1477690047
+[2026-03-30 22:48:22] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-31 14:58:38] Client version: 1774577504
+[2026-03-31 14:58:38] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-03-31 16:33:55] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-03-31 20:25:54] Client version: 1774577504
+[2026-03-31 20:25:54] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-03-31 22:43:54] Client version: 1774577504
+[2026-03-31 22:43:54] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-01 00:07:00] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-01 13:09:24] Client version: 1774577504
+[2026-04-01 13:09:24] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-01 14:32:18] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-01 21:15:08] Client version: 1774577504
+[2026-04-01 21:15:08] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-01 22:01:51] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-01 22:01:56] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-02 09:12:11] Client version: 1774577504
+[2026-04-02 09:12:11] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-02 09:14:47] Client version: 1775086565
+[2026-04-02 09:14:47] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-02 09:16:43] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-02 09:20:15] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-02 09:22:34] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-02 19:44:58] Client version: 1775086565
+[2026-04-02 19:44:58] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-02 21:22:56] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-02 21:23:02] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-02 22:51:52] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-02 22:51:56] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-03 09:29:54] Client version: 1775086565
+[2026-04-03 09:29:54] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-03 20:14:21] Client version: 1775175108
+[2026-04-03 20:14:21] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-03 21:24:12] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-03 22:32:02] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-04 01:08:07] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-04 01:26:33] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-04 11:10:33] Client version: 1775175108
+[2026-04-04 11:10:33] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-04 20:20:21] Client version: 1775175108
+[2026-04-04 20:20:21] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-04 23:54:50] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-05 13:26:20] Client version: 1775175108
+[2026-04-05 13:26:20] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-05 18:15:58] Client version: 1775175108
+[2026-04-05 18:15:58] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-05 23:09:54] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-05 23:10:00] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-06 00:20:21] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-06 00:34:53] Launching shared app 227300 : using preferred owner 1477690047
+
+
+[2026-04-06 10:26:02] Client version: 1775175108
+[2026-04-06 10:26:02] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-06 10:39:32] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-06 13:38:27] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-06 14:31:35] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-06 15:37:52] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-06 15:38:03] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-06 21:42:57] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-06 21:47:28] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-06 21:51:55] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-06 21:56:17] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-06 22:02:00] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-06 22:10:08] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-06 22:10:12] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-07 09:32:26] Client version: 1775175108
+[2026-04-07 09:32:26] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-07 12:43:03] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-07 13:20:17] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-07 13:48:26] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-07 14:10:05] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-07 14:16:47] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-07 14:24:30] Launching shared app 227300 : using preferred owner 1477690047
+
+
+[2026-04-07 20:56:19] Client version: 1775525170
+[2026-04-07 20:56:19] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-07 23:47:56] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-07 23:48:02] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-08 00:30:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-08 00:30:33] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-08 14:05:00] Client version: 1775525170
+[2026-04-08 14:05:00] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-08 15:59:32] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-08 15:59:43] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-08 16:33:16] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-08 16:33:20] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-08 22:16:16] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-09 16:36:48] Client version: 1775605734
+[2026-04-09 16:36:48] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-09 19:54:23] Client version: 1775703228
+[2026-04-09 19:54:23] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-09 22:21:17] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-10 13:53:56] Client version: 1775703228
+[2026-04-10 13:53:56] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-10 15:31:12] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-10 17:26:36] Client version: 1775703228
+[2026-04-10 17:26:36] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-10 23:41:02] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-11 09:13:49] Client version: 1775703228
+[2026-04-11 09:13:49] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-11 11:28:49] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-11 11:28:55] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-11 13:35:58] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-11 17:41:40] Client version: 1775858166
+[2026-04-11 17:41:40] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-11 23:18:24] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-11 23:18:35] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-12 00:55:49] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-12 00:55:53] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-12 10:47:56] Client version: 1775858166
+[2026-04-12 10:47:56] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-12 11:48:26] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-13 14:01:52] Client version: 1775946595
+[2026-04-13 14:01:52] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-13 17:51:56] Client version: 1775946595
+[2026-04-13 17:51:56] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-13 20:49:20] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-14 15:35:16] Client version: 1775946595
+[2026-04-14 15:35:16] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-14 17:19:44] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-14 17:19:49] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-14 21:00:18] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-14 21:00:22] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-15 14:04:31] Client version: 1775946595
+[2026-04-15 14:04:31] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-15 19:06:08] Client version: 1775946595
+[2026-04-15 19:06:08] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-15 19:21:21] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-15 21:33:10] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-15 21:33:14] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-16 15:47:00] Client version: 1775946595
+[2026-04-16 15:47:00] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-16 17:29:52] Client version: 1775946595
+[2026-04-16 17:29:52] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-16 17:41:24] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-16 17:41:30] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-16 20:20:20] Client version: 1775946595
+[2026-04-16 20:20:20] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-16 20:29:16] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-16 22:54:47] Client version: 1775946595
+[2026-04-16 22:54:47] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-17 00:27:03] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-17 00:27:52] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-17 01:00:21] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-17 15:43:41] Client version: 1775946595
+[2026-04-17 15:43:41] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-17 16:16:48] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-17 20:01:36] Client version: 1776387948
+[2026-04-17 20:01:36] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-17 20:15:35] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-17 22:29:56] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-17 22:29:59] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-18 10:07:16] Client version: 1776387948
+[2026-04-18 10:07:16] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-18 15:46:19] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-18 16:41:49] Client version: 1776387948
+[2026-04-18 16:41:49] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-18 16:52:43] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-18 17:13:15] Client version: 1776387948
+[2026-04-18 17:13:15] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-18 17:13:38] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-18 18:45:30] Client version: 1776387948
+[2026-04-18 18:45:30] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-18 18:49:19] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-18 18:49:24] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-18 21:48:38] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-18 21:48:41] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-18 22:45:34] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-19 10:24:12] Client version: 1776387948
+[2026-04-19 10:24:12] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-19 11:27:45] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-19 19:06:03] Client version: 1776387948
+[2026-04-19 19:06:03] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-19 23:14:09] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-19 23:14:14] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-20 14:56:31] Client version: 1776387948
+[2026-04-20 14:56:31] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-20 23:17:24] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-21 14:33:02] Client version: 1776387948
+[2026-04-21 14:33:02] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-21 17:30:10] Client version: 1776728408
+[2026-04-21 17:30:10] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-21 17:58:14] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-21 19:04:41] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-21 19:04:45] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-21 20:28:27] Launching shared app 227300 : using preferred owner 1477690047
+[2026-04-21 22:31:15] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-21 22:31:20] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-22 13:59:38] Client version: 1776728408
+[2026-04-22 13:59:38] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-22 14:04:41] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-22 14:04:47] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-22 15:54:35] Client version: 1776812172
+[2026-04-22 15:54:35] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-22 19:15:13] Client version: 1776812172
+[2026-04-22 19:15:13] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-22 23:09:22] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-22 23:09:27] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-23 00:33:02] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-23 00:33:06] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-23 14:09:56] Client version: 1776812172
+[2026-04-23 14:09:56] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-23 14:39:41] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-23 14:39:46] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-23 14:40:44] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-23 14:40:48] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-23 19:50:49] Client version: 1776812172
+[2026-04-23 19:50:49] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-23 21:25:18] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-23 21:25:30] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-23 23:47:56] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-24 12:54:44] Client version: 1776812172
+[2026-04-24 12:54:44] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-24 13:41:46] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-24 13:41:51] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-24 20:41:06] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-24 22:21:44] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-24 22:21:48] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-25 11:08:20] Client version: 1776812172
+[2026-04-25 11:08:20] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-25 19:26:06] Client version: 1777083821
+[2026-04-25 19:26:06] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-25 19:46:16] Client version: 1777083821
+[2026-04-25 19:46:16] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-25 21:11:46] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-25 21:38:42] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-25 21:38:47] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-26 09:46:33] Client version: 1777083821
+[2026-04-26 09:46:33] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-26 12:38:10] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-26 20:07:50] Client version: 1777083821
+[2026-04-26 20:07:50] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-26 22:58:49] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-26 23:12:46] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-26 23:43:20] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-27 14:45:28] Client version: 1777083821
+[2026-04-27 14:45:28] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-27 21:39:25] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-28 15:35:12] Client version: 1777083821
+[2026-04-28 15:35:12] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-28 15:47:03] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-28 19:47:41] Client version: 1777345799
+[2026-04-28 19:47:41] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-28 20:12:10] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-28 22:15:26] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-28 22:37:49] Client version: 1777345799
+[2026-04-28 22:37:49] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-29 00:24:48] Client version: 1777345799
+[2026-04-29 00:24:48] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-29 00:28:31] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-29 12:56:53] Client version: 1777411435
+[2026-04-29 12:56:53] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-29 13:43:15] Launching shared app 730 : using preferred owner 1477690047
+[2026-04-29 15:35:49] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-04-29 20:46:27] Client version: 1777411435
+[2026-04-29 20:46:27] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-04-30 15:41:12] Client version: 1777411435
+[2026-04-30 15:41:12] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-04-30 15:53:50] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-03 20:28:17] Client version: 1777518510
+[2026-05-03 20:28:17] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-03 21:55:42] Client version: 1777686219
+[2026-05-03 21:55:42] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-03 22:12:27] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-03 22:12:33] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-04 00:09:27] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-04 02:58:49] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-04 11:36:31] Client version: 1777686219
+[2026-05-04 11:36:31] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-04 11:48:43] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-04 13:19:32] Client version: 1777686219
+[2026-05-04 13:19:32] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-04 15:28:15] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-04 15:28:20] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-04 21:26:03] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-05 00:09:37] Client version: 1777686219
+[2026-05-05 00:09:37] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-05 00:09:50] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-05 00:18:01] Client version: 1777686219
+[2026-05-05 00:18:01] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-05 00:18:13] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-05 10:37:59] Client version: 1777931468
+[2026-05-05 10:37:59] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-05 11:16:59] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-05 12:38:37] Client version: 1777935142
+[2026-05-05 12:38:37] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-05 13:17:28] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-05 17:15:26] Client version: 1777935142
+[2026-05-05 17:15:26] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-05 17:26:10] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-05 19:57:50] Client version: 1777935142
+[2026-05-05 19:57:50] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-05 22:05:28] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-05 22:05:33] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-06 10:08:14] Client version: 1777935142
+[2026-05-06 10:08:14] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-06 11:15:15] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-06 12:51:06] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-06 12:51:10] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-06 16:20:18] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-06 16:20:22] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-06 19:48:47] Client version: 1778003620
+[2026-05-06 19:48:47] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-06 19:50:35] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-06 19:50:43] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-06 19:50:47] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-06 22:35:49] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-07 13:13:05] Client version: 1778003620
+[2026-05-07 13:13:05] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-07 15:54:39] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-07 15:54:44] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-07 20:52:10] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-07 20:52:15] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-07 23:19:14] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-07 23:19:18] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-08 16:17:00] Client version: 1778123305
+[2026-05-08 16:17:00] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-08 22:18:25] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-08 22:18:31] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-08 22:47:28] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-09 10:11:31] Client version: 1778268346
+[2026-05-09 10:11:31] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-09 14:47:31] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-09 19:43:51] Client version: 1778281814
+[2026-05-09 19:43:51] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-09 22:40:36] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-09 23:51:55] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-10 10:01:14] Client version: 1778281814
+[2026-05-10 10:01:14] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-10 16:41:34] Client version: 1778281814
+[2026-05-10 16:41:34] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-10 19:17:06] Client version: 1778281814
+[2026-05-10 19:17:06] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-10 19:25:52] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-10 21:49:20] Client version: 1778281814
+[2026-05-10 21:49:20] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-10 22:10:55] Client version: 1778281814
+[2026-05-10 22:10:55] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-10 22:11:38] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-10 22:42:22] Client version: 1778281814
+[2026-05-10 22:42:22] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-10 22:56:14] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-10 22:56:19] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-10 23:40:36] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-11 15:35:34] Client version: 1778281814
+[2026-05-11 15:35:34] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-11 18:57:41] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-11 20:06:04] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-11 20:21:10] Client version: 1778281814
+[2026-05-11 20:21:10] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-11 21:18:24] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-11 21:18:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-11 23:52:00] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-12 14:51:46] Client version: 1778281814
+[2026-05-12 14:51:46] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-12 21:44:44] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-13 00:39:03] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-13 13:20:39] Client version: 1778548034
+[2026-05-13 13:20:39] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-13 16:02:45] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-13 17:55:53] Client version: 1778548034
+[2026-05-13 17:55:53] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-13 21:27:47] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-13 21:27:53] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-14 14:56:17] Client version: 1778698013
+[2026-05-14 14:56:17] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-14 19:03:11] Client version: 1778698013
+[2026-05-14 19:03:11] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-14 23:39:23] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-15 13:57:06] Client version: 1778698013
+[2026-05-15 13:57:06] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-15 19:33:58] Client version: 1778803745
+[2026-05-15 19:33:58] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-16 09:21:58] Client version: 1778803745
+[2026-05-16 09:21:58] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-16 10:31:45] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-16 10:31:51] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-16 13:55:07] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-16 20:00:27] Client version: 1778803745
+[2026-05-16 20:00:27] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-16 21:45:01] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-16 23:03:30] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-16 23:03:34] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-17 12:57:09] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-17 13:12:36] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-17 13:49:55] Client version: 1778803745
+[2026-05-17 13:49:55] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-17 15:55:50] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-17 15:58:44] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-17 15:58:49] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-17 19:05:54] Client version: 1778803745
+[2026-05-17 19:05:54] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-17 22:03:49] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-18 00:13:51] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-18 00:39:43] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-18 00:45:06] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-18 15:45:10] Client version: 1778803745
+[2026-05-18 15:45:10] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-18 19:48:51] Client version: 1778803745
+[2026-05-18 19:48:51] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-18 19:56:37] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-18 21:23:32] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-18 21:23:37] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-19 14:50:05] Client version: 1778803745
+[2026-05-19 14:50:05] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-19 19:38:24] Client version: 1779155395
+[2026-05-19 19:38:24] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-19 22:46:30] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-20 13:10:16] Client version: 1779155395
+[2026-05-20 13:10:16] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-20 13:26:06] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-20 18:58:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-20 21:06:46] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-21 16:12:24] Client version: 1779155395
+[2026-05-21 16:12:24] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-21 17:28:04] Client version: 1779155395
+[2026-05-21 17:28:04] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-21 21:04:04] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-21 23:28:57] Client version: 1779378409
+[2026-05-21 23:28:57] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-21 23:31:28] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-21 23:43:01] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-22 15:51:49] Client version: 1779378409
+[2026-05-22 15:51:49] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-22 19:33:38] Client version: 1779378409
+[2026-05-22 19:33:38] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-22 20:08:10] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-22 22:38:27] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-22 22:38:32] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-23 10:20:06] Client version: 1779378409
+[2026-05-23 10:20:06] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-23 17:45:38] Client version: 1779479049
+[2026-05-23 17:45:38] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-23 21:19:46] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-23 23:57:24] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-24 00:09:24] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-24 00:09:28] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-24 09:34:54] Client version: 1779479049
+[2026-05-24 09:34:54] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-24 15:23:05] Client version: 1779479049
+[2026-05-24 15:23:05] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-24 18:13:20] Client version: 1779479049
+[2026-05-24 18:13:20] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-24 18:29:10] Client version: 1779479049
+[2026-05-24 18:29:10] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-24 18:35:29] Client version: 1779479049
+[2026-05-24 18:35:29] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-24 20:39:35] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-25 15:43:57] Client version: 1779479049
+[2026-05-25 15:43:57] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-25 19:04:42] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:04:47] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:06:36] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:06:40] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:10:52] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:10:57] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-25 19:12:28] Client version: 1779479049
+[2026-05-25 19:12:28] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-25 19:13:56] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:14:00] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:14:40] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:14:44] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:26:39] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:26:43] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:34:30] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:34:34] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:41:40] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 19:41:44] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 22:21:56] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 22:22:23] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 22:22:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 22:42:25] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 22:42:47] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 22:44:30] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 22:59:52] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:01:55] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-25 23:09:41] Client version: 1779479049
+[2026-05-25 23:09:41] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-25 23:20:47] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:21:18] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:21:58] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:25:50] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:26:02] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:26:08] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:26:23] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:27:29] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:29:50] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:29:56] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:30:04] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:30:12] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:30:36] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:33:37] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:33:43] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:40:36] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:40:44] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:41:06] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:41:13] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:41:26] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-25 23:42:20] Client version: 1779479049
+[2026-05-25 23:42:20] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-25 23:42:44] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:42:57] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:43:42] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-25 23:45:24] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-25 23:45:48] Client version: 1779479049
+[2026-05-25 23:45:48] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-25 23:55:50] Client version: 1779479049
+[2026-05-25 23:55:50] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-25 23:57:32] Client version: 1779479049
+[2026-05-25 23:57:32] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-26 00:00:13] Client version: 1779479049
+[2026-05-26 00:00:13] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-26 00:04:29] Client version: 1779479049
+[2026-05-26 00:04:29] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-26 00:22:51] Client version: 1779479049
+[2026-05-26 00:22:51] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-26 00:23:28] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-26 18:53:50] Client version: 1779479049
+[2026-05-26 18:53:50] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-26 18:54:13] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-26 19:06:10] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-26 19:06:21] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-26 19:07:11] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-26 19:14:23] Client version: 1779479049
+[2026-05-26 19:14:23] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-26 19:16:35] Client version: 1779486452
+[2026-05-26 19:16:35] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+
+
+[2026-05-26 19:17:23] Client version: 1779479049
+[2026-05-26 19:17:23] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-26 19:17:56] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-26 21:15:01] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-26 21:16:41] Client version: 1779479049
+[2026-05-26 21:16:41] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-26 21:17:15] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-26 21:37:33] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-26 22:16:02] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-26 22:56:24] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-27 13:13:05] Client version: 1779479049
+[2026-05-27 13:13:05] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)
+[2026-05-27 13:13:37] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-27 13:17:09] Launching shared app 730 : using preferred owner 1477690047
+[2026-05-27 13:18:02] Launching shared app 730 : using preferred owner 1477690047
+
+
+[2026-05-27 13:24:02] Client version: 1779840850
+[2026-05-27 13:24:02] Loaded cached family info for account 1477690047 ( groupID=1866827, name="RGX', role=1)

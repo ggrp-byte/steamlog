@@ -1,0 +1,1836 @@
+
+
+[2026-02-26 20:42:28] Client version: 1769025840
+[2026-02-26 20:42:28] Generated client id: 54344964243178876
+[2026-02-26 20:42:28] Listening for IPv4 broadcast on: 27036
+[2026-02-26 20:42:28] Listening for connections on: 0.0.0.0:27036
+[2026-02-26 20:42:28] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-26 21:10:52] Client version: 1769025840
+[2026-02-26 21:10:52] Loaded client id: 54344964243178876
+[2026-02-26 21:10:52] Listening for IPv4 broadcast on: 27036
+[2026-02-26 21:10:52] Listening for connections on: 0.0.0.0:27036
+[2026-02-26 21:10:52] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-26 23:20:35] Client version: 1769025840
+[2026-02-26 23:20:35] Loaded client id: 54344964243178876
+[2026-02-26 23:20:35] Listening for IPv4 broadcast on: 27036
+[2026-02-26 23:20:35] Listening for connections on: 0.0.0.0:27036
+[2026-02-26 23:20:35] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-26 23:32:05] Client version: 1769025840
+[2026-02-26 23:32:05] Loaded client id: 54344964243178876
+[2026-02-26 23:32:05] Listening for IPv4 broadcast on: 27036
+[2026-02-26 23:32:05] Listening for connections on: 0.0.0.0:27036
+[2026-02-26 23:32:05] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-27 00:26:32] Client version: 1769025840
+[2026-02-27 00:26:32] Loaded client id: 54344964243178876
+[2026-02-27 00:26:32] Listening for IPv4 broadcast on: 27036
+[2026-02-27 00:26:32] Listening for connections on: 0.0.0.0:27036
+[2026-02-27 00:26:32] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-27 00:28:37] Client version: 1771977793
+[2026-02-27 00:28:37] Loaded client id: 54344964243178876
+[2026-02-27 00:28:37] Listening for IPv4 broadcast on: 27036
+[2026-02-27 00:28:37] Listening for connections on: 0.0.0.0:27036
+[2026-02-27 00:28:37] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-27 00:45:12] Client version: 1771977793
+[2026-02-27 00:45:12] Loaded client id: 54344964243178876
+[2026-02-27 00:45:12] Listening for IPv4 broadcast on: 27036
+[2026-02-27 00:45:12] Listening for connections on: 0.0.0.0:27036
+[2026-02-27 00:45:12] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-27 02:21:56] Client version: 1771977793
+[2026-02-27 02:21:56] Loaded client id: 54344964243178876
+[2026-02-27 02:21:56] Listening for IPv4 broadcast on: 27036
+[2026-02-27 02:21:56] Listening for connections on: 0.0.0.0:27036
+[2026-02-27 02:21:56] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-27 03:14:20] Client version: 1771977793
+[2026-02-27 03:14:20] Loaded client id: 54344964243178876
+[2026-02-27 03:14:20] Listening for IPv4 broadcast on: 27036
+[2026-02-27 03:14:20] Listening for connections on: 0.0.0.0:27036
+[2026-02-27 03:14:20] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-27 03:32:35] Client version: 1771977793
+[2026-02-27 03:32:35] Loaded client id: 54344964243178876
+[2026-02-27 03:32:35] Listening for IPv4 broadcast on: 27036
+[2026-02-27 03:32:35] Listening for connections on: 0.0.0.0:27036
+[2026-02-27 03:32:35] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-27 11:12:36] Client version: 1772162887
+[2026-02-27 11:12:36] Loaded client id: 54344964243178876
+[2026-02-27 11:12:36] Listening for IPv4 broadcast on: 27036
+[2026-02-27 11:12:36] Listening for connections on: 0.0.0.0:27036
+[2026-02-27 11:12:36] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-27 13:58:43] Client version: 1772162887
+[2026-02-27 13:58:43] Loaded client id: 54344964243178876
+[2026-02-27 13:58:43] Listening for IPv4 broadcast on: 27036
+[2026-02-27 13:58:43] Listening for connections on: 0.0.0.0:27036
+[2026-02-27 13:58:43] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-27 15:57:57] Client version: 1772162887
+[2026-02-27 15:57:57] Loaded client id: 54344964243178876
+[2026-02-27 15:57:57] Listening for IPv4 broadcast on: 27036
+[2026-02-27 15:57:57] Listening for connections on: 0.0.0.0:27036
+[2026-02-27 15:57:57] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-27 22:01:31] Client version: 1772162887
+[2026-02-27 22:01:31] Loaded client id: 54344964243178876
+[2026-02-27 22:01:31] Listening for IPv4 broadcast on: 27036
+[2026-02-27 22:01:31] Listening for connections on: 0.0.0.0:27036
+[2026-02-27 22:01:31] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-28 10:52:47] Client version: 1772162887
+[2026-02-28 10:52:47] Loaded client id: 54344964243178876
+[2026-02-28 10:52:47] Listening for IPv4 broadcast on: 27036
+[2026-02-28 10:52:47] Listening for connections on: 0.0.0.0:27036
+[2026-02-28 10:52:47] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-28 12:04:45] Client version: 1772162887
+[2026-02-28 12:04:45] Loaded client id: 54344964243178876
+[2026-02-28 12:04:45] Listening for IPv4 broadcast on: 27036
+[2026-02-28 12:04:45] Listening for connections on: 0.0.0.0:27036
+[2026-02-28 12:04:45] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-28 12:20:33] Client version: 1772162887
+[2026-02-28 12:20:33] Loaded client id: 54344964243178876
+[2026-02-28 12:20:33] Listening for IPv4 broadcast on: 27036
+[2026-02-28 12:20:33] Listening for connections on: 0.0.0.0:27036
+[2026-02-28 12:20:33] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-28 12:56:47] Client version: 1772162887
+[2026-02-28 12:56:47] Loaded client id: 54344964243178876
+[2026-02-28 12:56:47] Listening for IPv4 broadcast on: 27036
+[2026-02-28 12:56:47] Listening for connections on: 0.0.0.0:27036
+[2026-02-28 12:56:47] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-28 13:12:03] Client version: 1772162887
+[2026-02-28 13:12:03] Loaded client id: 54344964243178876
+[2026-02-28 13:12:03] Listening for IPv4 broadcast on: 27036
+[2026-02-28 13:12:03] Listening for connections on: 0.0.0.0:27036
+[2026-02-28 13:12:03] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-28 13:20:49] Client version: 1772162887
+[2026-02-28 13:20:49] Loaded client id: 54344964243178876
+[2026-02-28 13:20:49] Listening for IPv4 broadcast on: 27036
+[2026-02-28 13:20:49] Listening for connections on: 0.0.0.0:27036
+[2026-02-28 13:20:49] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-28 13:45:17] Client version: 1772162887
+[2026-02-28 13:45:17] Loaded client id: 54344964243178876
+[2026-02-28 13:45:17] Listening for IPv4 broadcast on: 27036
+[2026-02-28 13:45:17] Listening for connections on: 0.0.0.0:27036
+[2026-02-28 13:45:17] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-28 14:02:50] Client version: 1772162887
+[2026-02-28 14:02:50] Loaded client id: 54344964243178876
+[2026-02-28 14:02:50] Listening for IPv4 broadcast on: 27036
+[2026-02-28 14:02:50] Listening for connections on: 0.0.0.0:27036
+[2026-02-28 14:02:50] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-02-28 18:11:38] Client version: 1772162887
+[2026-02-28 18:11:38] Loaded client id: 54344964243178876
+[2026-02-28 18:11:38] Listening for IPv4 broadcast on: 27036
+[2026-02-28 18:11:38] Listening for connections on: 0.0.0.0:27036
+[2026-02-28 18:11:38] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-01 00:28:06] Client version: 1772162887
+[2026-03-01 00:28:06] Loaded client id: 54344964243178876
+[2026-03-01 00:28:06] Listening for IPv4 broadcast on: 27036
+[2026-03-01 00:28:06] Listening for connections on: 0.0.0.0:27036
+[2026-03-01 00:28:06] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-01 00:40:26] Client version: 1772162887
+[2026-03-01 00:40:26] Loaded client id: 54344964243178876
+[2026-03-01 00:40:26] Listening for IPv4 broadcast on: 27036
+[2026-03-01 00:40:26] Listening for connections on: 0.0.0.0:27036
+[2026-03-01 00:40:26] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-01 10:24:20] Client version: 1772162887
+[2026-03-01 10:24:20] Loaded client id: 54344964243178876
+[2026-03-01 10:24:20] Listening for IPv4 broadcast on: 27036
+[2026-03-01 10:24:20] Listening for connections on: 0.0.0.0:27036
+[2026-03-01 10:24:20] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-01 22:21:30] Client version: 1772162887
+[2026-03-01 22:21:30] Loaded client id: 54344964243178876
+[2026-03-01 22:21:30] Listening for IPv4 broadcast on: 27036
+[2026-03-01 22:21:30] Listening for connections on: 0.0.0.0:27036
+[2026-03-01 22:21:30] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-01 23:07:22] Client version: 1772162887
+[2026-03-01 23:07:22] Loaded client id: 54344964243178876
+[2026-03-01 23:07:22] Listening for IPv4 broadcast on: 27036
+[2026-03-01 23:07:22] Listening for connections on: 0.0.0.0:27036
+[2026-03-01 23:07:22] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-01 23:30:05] Client version: 1772162887
+[2026-03-01 23:30:05] Loaded client id: 54344964243178876
+[2026-03-01 23:30:05] Listening for IPv4 broadcast on: 27036
+[2026-03-01 23:30:05] Listening for connections on: 0.0.0.0:27036
+[2026-03-01 23:30:05] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-02 15:01:49] Client version: 1772162887
+[2026-03-02 15:01:49] Loaded client id: 54344964243178876
+[2026-03-02 15:01:49] Listening for IPv4 broadcast on: 27036
+[2026-03-02 15:01:49] Listening for connections on: 0.0.0.0:27036
+[2026-03-02 15:01:49] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-02 20:38:55] Client version: 1772162887
+[2026-03-02 20:38:55] Loaded client id: 54344964243178876
+[2026-03-02 20:38:55] Listening for IPv4 broadcast on: 27036
+[2026-03-02 20:38:55] Listening for connections on: 0.0.0.0:27036
+[2026-03-02 20:38:56] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-03 14:35:22] Client version: 1772502488
+[2026-03-03 14:35:22] Loaded client id: 54344964243178876
+[2026-03-03 14:35:22] Listening for IPv4 broadcast on: 27036
+[2026-03-03 14:35:22] Listening for connections on: 0.0.0.0:27036
+[2026-03-03 14:35:22] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-04 00:43:59] Client version: 1772502488
+[2026-03-04 00:43:59] Loaded client id: 54344964243178876
+[2026-03-04 00:43:59] Listening for IPv4 broadcast on: 27036
+[2026-03-04 00:43:59] Listening for connections on: 0.0.0.0:27036
+[2026-03-04 00:43:59] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-04 06:37:30] Client version: 1772502488
+[2026-03-04 06:37:30] Loaded client id: 54344964243178876
+[2026-03-04 06:37:30] Listening for IPv4 broadcast on: 27036
+[2026-03-04 06:37:30] Listening for connections on: 0.0.0.0:27036
+[2026-03-04 06:37:30] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-04 14:02:56] Client version: 1772502488
+[2026-03-04 14:02:56] Loaded client id: 54344964243178876
+[2026-03-04 14:02:56] Listening for IPv4 broadcast on: 27036
+[2026-03-04 14:02:56] Listening for connections on: 0.0.0.0:27036
+[2026-03-04 14:02:56] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-04 15:20:01] Client version: 1772502488
+[2026-03-04 15:20:01] Loaded client id: 54344964243178876
+[2026-03-04 15:20:01] Listening for IPv4 broadcast on: 27036
+[2026-03-04 15:20:01] Listening for connections on: 0.0.0.0:27036
+[2026-03-04 15:20:01] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-04 19:35:37] Client version: 1772502488
+[2026-03-04 19:35:37] Loaded client id: 54344964243178876
+[2026-03-04 19:35:37] Listening for IPv4 broadcast on: 27036
+[2026-03-04 19:35:37] Listening for connections on: 0.0.0.0:27036
+[2026-03-04 19:35:37] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-05 16:09:52] Client version: 1772686978
+[2026-03-05 16:09:52] Loaded client id: 54344964243178876
+[2026-03-05 16:09:52] Listening for IPv4 broadcast on: 27036
+[2026-03-05 16:09:52] Listening for connections on: 0.0.0.0:27036
+[2026-03-05 16:09:52] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-06 14:33:18] Client version: 1772686978
+[2026-03-06 14:33:18] Loaded client id: 54344964243178876
+[2026-03-06 14:33:18] Listening for IPv4 broadcast on: 27036
+[2026-03-06 14:33:18] Listening for connections on: 0.0.0.0:27036
+[2026-03-06 14:33:18] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-07 09:18:03] Client version: 1772686978
+[2026-03-07 09:18:03] Loaded client id: 54344964243178876
+[2026-03-07 09:18:03] Listening for IPv4 broadcast on: 27036
+[2026-03-07 09:18:03] Listening for connections on: 0.0.0.0:27036
+[2026-03-07 09:18:03] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-07 18:36:05] Client version: 1772859008
+[2026-03-07 18:36:05] Loaded client id: 54344964243178876
+[2026-03-07 18:36:05] Listening for IPv4 broadcast on: 27036
+[2026-03-07 18:36:05] Listening for connections on: 0.0.0.0:27036
+[2026-03-07 18:36:05] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-08 10:37:45] Client version: 1772859008
+[2026-03-08 10:37:45] Loaded client id: 54344964243178876
+[2026-03-08 10:37:45] Listening for IPv4 broadcast on: 27036
+[2026-03-08 10:37:45] Listening for connections on: 0.0.0.0:27036
+[2026-03-08 10:37:45] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-08 10:48:17] Client version: 1772859008
+[2026-03-08 10:48:17] Loaded client id: 54344964243178876
+[2026-03-08 10:48:17] Listening for IPv4 broadcast on: 27036
+[2026-03-08 10:48:17] Listening for connections on: 0.0.0.0:27036
+[2026-03-08 10:48:17] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-08 18:41:44] Client version: 1772859008
+[2026-03-08 18:41:44] Loaded client id: 54344964243178876
+[2026-03-08 18:41:44] Listening for IPv4 broadcast on: 27036
+[2026-03-08 18:41:44] Listening for connections on: 0.0.0.0:27036
+[2026-03-08 18:41:44] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-03-09 01:12:57] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-09 01:12:57] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-09 01:12:57] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-09 01:12:57] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-03-09 14:54:31] Client version: 1772859008
+[2026-03-09 14:54:31] Loaded client id: 54344964243178876
+[2026-03-09 14:54:31] Listening for IPv4 broadcast on: 27036
+[2026-03-09 14:54:31] Listening for connections on: 0.0.0.0:27036
+[2026-03-09 14:54:31] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-09 14:58:22] Client version: 1772859008
+[2026-03-09 14:58:22] Loaded client id: 54344964243178876
+[2026-03-09 14:58:22] Listening for IPv4 broadcast on: 27036
+[2026-03-09 14:58:22] Listening for connections on: 0.0.0.0:27036
+[2026-03-09 14:58:22] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-10 19:04:56] Client version: 1773099986
+[2026-03-10 19:04:56] Loaded client id: 54344964243178876
+[2026-03-10 19:04:56] Listening for IPv4 broadcast on: 27036
+[2026-03-10 19:04:56] Listening for connections on: 0.0.0.0:27036
+[2026-03-10 19:04:56] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-11 13:26:49] Client version: 1773168360
+[2026-03-11 13:26:49] Loaded client id: 54344964243178876
+[2026-03-11 13:26:49] Listening for IPv4 broadcast on: 27036
+[2026-03-11 13:26:49] Listening for connections on: 0.0.0.0:27036
+[2026-03-11 13:26:49] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-03-11 18:16:22] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-11 18:16:22] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-11 18:16:22] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-11 18:16:22] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-03-12 16:23:18] Client version: 1773268655
+[2026-03-12 16:23:18] Loaded client id: 54344964243178876
+[2026-03-12 16:23:18] Listening for IPv4 broadcast on: 27036
+[2026-03-12 16:23:18] Listening for connections on: 0.0.0.0:27036
+[2026-03-12 16:23:19] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-12 18:10:20] Client version: 1773268655
+[2026-03-12 18:10:20] Loaded client id: 54344964243178876
+[2026-03-12 18:10:20] Listening for IPv4 broadcast on: 27036
+[2026-03-12 18:10:20] Listening for connections on: 0.0.0.0:27036
+[2026-03-12 18:10:20] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-12 18:45:55] Client version: 1773268655
+[2026-03-12 18:45:55] Loaded client id: 54344964243178876
+[2026-03-12 18:45:55] Listening for IPv4 broadcast on: 27036
+[2026-03-12 18:45:55] Listening for connections on: 0.0.0.0:27036
+[2026-03-12 18:45:55] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-13 16:26:06] Client version: 1773268655
+[2026-03-13 16:26:06] Loaded client id: 54344964243178876
+[2026-03-13 16:26:06] Listening for IPv4 broadcast on: 27036
+[2026-03-13 16:26:06] Listening for connections on: 0.0.0.0:27036
+[2026-03-13 16:26:06] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-13 20:57:14] Client version: 1773367340
+[2026-03-13 20:57:14] Loaded client id: 54344964243178876
+[2026-03-13 20:57:14] Listening for IPv4 broadcast on: 27036
+[2026-03-13 20:57:14] Listening for connections on: 0.0.0.0:27036
+[2026-03-13 20:57:14] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-14 09:18:44] Client version: 1773367340
+[2026-03-14 09:18:44] Loaded client id: 54344964243178876
+[2026-03-14 09:18:44] Listening for IPv4 broadcast on: 27036
+[2026-03-14 09:18:44] Listening for connections on: 0.0.0.0:27036
+[2026-03-14 09:18:44] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-14 14:21:43] Client version: 1773367340
+[2026-03-14 14:21:43] Loaded client id: 54344964243178876
+[2026-03-14 14:21:43] Listening for IPv4 broadcast on: 27036
+[2026-03-14 14:21:43] Listening for connections on: 0.0.0.0:27036
+[2026-03-14 14:21:43] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-14 19:36:27] Client version: 1773367340
+[2026-03-14 19:36:27] Loaded client id: 54344964243178876
+[2026-03-14 19:36:27] Listening for IPv4 broadcast on: 27036
+[2026-03-14 19:36:27] Listening for connections on: 0.0.0.0:27036
+[2026-03-14 19:36:28] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-14 20:05:48] Client version: 1773367340
+[2026-03-14 20:05:48] Loaded client id: 54344964243178876
+[2026-03-14 20:05:48] Listening for IPv4 broadcast on: 27036
+[2026-03-14 20:05:48] Listening for connections on: 0.0.0.0:27036
+[2026-03-14 20:05:48] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-15 09:19:10] Client version: 1773367340
+[2026-03-15 09:19:10] Loaded client id: 54344964243178876
+[2026-03-15 09:19:10] Listening for IPv4 broadcast on: 27036
+[2026-03-15 09:19:10] Listening for connections on: 0.0.0.0:27036
+[2026-03-15 09:19:10] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-15 19:50:52] Client version: 1773367340
+[2026-03-15 19:50:52] Loaded client id: 54344964243178876
+[2026-03-15 19:50:52] Listening for IPv4 broadcast on: 27036
+[2026-03-15 19:50:52] Listening for connections on: 0.0.0.0:27036
+[2026-03-15 19:50:52] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-16 14:36:45] Client version: 1773367340
+[2026-03-16 14:36:45] Loaded client id: 54344964243178876
+[2026-03-16 14:36:45] Listening for IPv4 broadcast on: 27036
+[2026-03-16 14:36:45] Listening for connections on: 0.0.0.0:27036
+[2026-03-16 14:36:45] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-16 16:03:40] Client version: 1773367340
+[2026-03-16 16:03:40] Loaded client id: 54344964243178876
+[2026-03-16 16:03:40] Listening for IPv4 broadcast on: 27036
+[2026-03-16 16:03:40] Listening for connections on: 0.0.0.0:27036
+[2026-03-16 16:03:40] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-17 16:11:02] Client version: 1773367340
+[2026-03-17 16:11:02] Loaded client id: 54344964243178876
+[2026-03-17 16:11:02] Listening for IPv4 broadcast on: 27036
+[2026-03-17 16:11:02] Listening for connections on: 0.0.0.0:27036
+[2026-03-17 16:11:02] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-18 13:22:18] Client version: 1773367340
+[2026-03-18 13:22:18] Loaded client id: 54344964243178876
+[2026-03-18 13:22:18] Listening for IPv4 broadcast on: 27036
+[2026-03-18 13:22:18] Listening for connections on: 0.0.0.0:27036
+[2026-03-18 13:22:18] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-18 13:45:25] Client version: 1773367340
+[2026-03-18 13:45:25] Loaded client id: 54344964243178876
+[2026-03-18 13:45:25] Listening for IPv4 broadcast on: 27036
+[2026-03-18 13:45:25] Listening for connections on: 0.0.0.0:27036
+[2026-03-18 13:45:25] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-18 13:53:48] Client version: 1773367340
+[2026-03-18 13:53:48] Loaded client id: 54344964243178876
+[2026-03-18 13:53:48] Listening for IPv4 broadcast on: 27036
+[2026-03-18 13:53:48] Listening for connections on: 0.0.0.0:27036
+[2026-03-18 13:53:48] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-18 14:03:39] Client version: 1773367340
+[2026-03-18 14:03:39] Loaded client id: 54344964243178876
+[2026-03-18 14:03:39] Listening for IPv4 broadcast on: 27036
+[2026-03-18 14:03:39] Listening for connections on: 0.0.0.0:27036
+[2026-03-18 14:03:39] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-18 20:06:11] Client version: 1773367340
+[2026-03-18 20:06:11] Loaded client id: 54344964243178876
+[2026-03-18 20:06:11] Listening for IPv4 broadcast on: 27036
+[2026-03-18 20:06:11] Listening for connections on: 0.0.0.0:27036
+[2026-03-18 20:06:11] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-19 16:14:03] Client version: 1773367340
+[2026-03-19 16:14:03] Loaded client id: 54344964243178876
+[2026-03-19 16:14:03] Listening for IPv4 broadcast on: 27036
+[2026-03-19 16:14:03] Listening for connections on: 0.0.0.0:27036
+[2026-03-19 16:14:03] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-20 16:01:11] Client version: 1773983034
+[2026-03-20 16:01:11] Loaded client id: 54344964243178876
+[2026-03-20 16:01:11] Listening for IPv4 broadcast on: 27036
+[2026-03-20 16:01:11] Listening for connections on: 0.0.0.0:27036
+[2026-03-20 16:01:11] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-21 00:22:05] Client version: 1773983034
+[2026-03-21 00:22:05] Loaded client id: 54344964243178876
+[2026-03-21 00:22:05] Listening for IPv4 broadcast on: 27036
+[2026-03-21 00:22:05] Listening for connections on: 0.0.0.0:27036
+[2026-03-21 00:22:05] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-21 09:41:20] Client version: 1773983034
+[2026-03-21 09:41:20] Loaded client id: 54344964243178876
+[2026-03-21 09:41:20] Listening for IPv4 broadcast on: 27036
+[2026-03-21 09:41:20] Listening for connections on: 0.0.0.0:27036
+[2026-03-21 09:41:20] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-21 10:16:16] Client version: 1773983034
+[2026-03-21 10:16:16] Loaded client id: 54344964243178876
+[2026-03-21 10:16:16] Listening for IPv4 broadcast on: 27036
+[2026-03-21 10:16:16] Listening for connections on: 0.0.0.0:27036
+[2026-03-21 10:16:16] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-21 10:49:14] Client version: 1773983034
+[2026-03-21 10:49:14] Loaded client id: 54344964243178876
+[2026-03-21 10:49:14] Listening for IPv4 broadcast on: 27036
+[2026-03-21 10:49:14] Listening for connections on: 0.0.0.0:27036
+[2026-03-21 10:49:14] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-21 15:10:58] Client version: 1773983034
+[2026-03-21 15:10:58] Loaded client id: 54344964243178876
+[2026-03-21 15:10:58] Listening for IPv4 broadcast on: 27036
+[2026-03-21 15:10:58] Listening for connections on: 0.0.0.0:27036
+[2026-03-21 15:10:58] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-21 19:48:24] Client version: 1773983034
+[2026-03-21 19:48:24] Loaded client id: 54344964243178876
+[2026-03-21 19:48:24] Listening for IPv4 broadcast on: 27036
+[2026-03-21 19:48:24] Listening for connections on: 0.0.0.0:27036
+[2026-03-21 19:48:24] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-22 09:42:20] Client version: 1773983034
+[2026-03-22 09:42:20] Loaded client id: 54344964243178876
+[2026-03-22 09:42:20] Listening for IPv4 broadcast on: 27036
+[2026-03-22 09:42:20] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 09:42:20] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-22 10:08:02] Client version: 1773983034
+[2026-03-22 10:08:02] Loaded client id: 54344964243178876
+[2026-03-22 10:08:02] Listening for IPv4 broadcast on: 27036
+[2026-03-22 10:08:02] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 10:08:02] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-22 10:56:01] Client version: 1773983034
+[2026-03-22 10:56:01] Loaded client id: 54344964243178876
+[2026-03-22 10:56:01] Listening for IPv4 broadcast on: 27036
+[2026-03-22 10:56:01] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 10:56:01] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-22 12:39:59] Client version: 1773983034
+[2026-03-22 12:39:59] Loaded client id: 54344964243178876
+[2026-03-22 12:39:59] Listening for IPv4 broadcast on: 27036
+[2026-03-22 12:39:59] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 12:39:59] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-22 12:46:12] Client version: 1773983034
+[2026-03-22 12:46:12] Loaded client id: 54344964243178876
+[2026-03-22 12:46:12] Listening for IPv4 broadcast on: 27036
+[2026-03-22 12:46:12] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 12:46:12] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-22 12:57:17] Client version: 1773983034
+[2026-03-22 12:57:17] Loaded client id: 54344964243178876
+[2026-03-22 12:57:17] Listening for IPv4 broadcast on: 27036
+[2026-03-22 12:57:17] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 12:57:17] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-22 13:03:27] Client version: 1773983034
+[2026-03-22 13:03:27] Loaded client id: 54344964243178876
+[2026-03-22 13:03:27] Listening for IPv4 broadcast on: 27036
+[2026-03-22 13:03:27] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 13:03:27] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-22 13:10:42] Client version: 1773983034
+[2026-03-22 13:10:42] Loaded client id: 54344964243178876
+[2026-03-22 13:10:42] Listening for IPv4 broadcast on: 27036
+[2026-03-22 13:10:42] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 13:10:42] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-22 18:10:01] Client version: 1773983034
+[2026-03-22 18:10:01] Loaded client id: 54344964243178876
+[2026-03-22 18:10:01] Listening for IPv4 broadcast on: 27036
+[2026-03-22 18:10:01] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 18:10:01] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-03-22 18:30:08] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-22 18:30:08] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-22 18:30:08] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-22 18:30:08] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-03-22 18:36:55] Client version: 1773983034
+[2026-03-22 18:36:55] Loaded client id: 54344964243178876
+[2026-03-22 18:36:55] Listening for IPv4 broadcast on: 27036
+[2026-03-22 18:36:55] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 18:36:55] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-22 19:19:54] Client version: 1773983034
+[2026-03-22 19:19:54] Loaded client id: 54344964243178876
+[2026-03-22 19:19:54] Listening for IPv4 broadcast on: 27036
+[2026-03-22 19:19:54] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 19:19:54] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-22 23:06:15] Client version: 1773983034
+[2026-03-22 23:06:15] Loaded client id: 54344964243178876
+[2026-03-22 23:06:15] Listening for IPv4 broadcast on: 27036
+[2026-03-22 23:06:15] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 23:06:15] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-22 23:36:11] Client version: 1773983034
+[2026-03-22 23:36:11] Loaded client id: 54344964243178876
+[2026-03-22 23:36:11] Listening for IPv4 broadcast on: 27036
+[2026-03-22 23:36:11] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 23:36:11] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-22 23:55:52] Client version: 1773983034
+[2026-03-22 23:55:52] Loaded client id: 54344964243178876
+[2026-03-22 23:55:52] Listening for IPv4 broadcast on: 27036
+[2026-03-22 23:55:52] Listening for connections on: 0.0.0.0:27036
+[2026-03-22 23:55:52] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-23 00:18:18] Client version: 1773983034
+[2026-03-23 00:18:18] Loaded client id: 54344964243178876
+[2026-03-23 00:18:18] Listening for IPv4 broadcast on: 27036
+[2026-03-23 00:18:18] Listening for connections on: 0.0.0.0:27036
+[2026-03-23 00:18:18] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-23 14:53:27] Client version: 1773983034
+[2026-03-23 14:53:27] Loaded client id: 54344964243178876
+[2026-03-23 14:53:27] Listening for IPv4 broadcast on: 27036
+[2026-03-23 14:53:27] Listening for connections on: 0.0.0.0:27036
+[2026-03-23 14:53:27] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-23 14:57:13] Client version: 1773983034
+[2026-03-23 14:57:13] Loaded client id: 54344964243178876
+[2026-03-23 14:57:13] Listening for IPv4 broadcast on: 27036
+[2026-03-23 14:57:13] Listening for connections on: 0.0.0.0:27036
+[2026-03-23 14:57:14] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-23 15:06:12] Client version: 1773983034
+[2026-03-23 15:06:12] Loaded client id: 54344964243178876
+[2026-03-23 15:06:12] Listening for IPv4 broadcast on: 27036
+[2026-03-23 15:06:12] Listening for connections on: 0.0.0.0:27036
+[2026-03-23 15:06:12] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-23 16:32:42] Client version: 1773983034
+[2026-03-23 16:32:42] Loaded client id: 54344964243178876
+[2026-03-23 16:32:42] Listening for IPv4 broadcast on: 27036
+[2026-03-23 16:32:42] Listening for connections on: 0.0.0.0:27036
+[2026-03-23 16:32:42] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-23 16:35:51] Client version: 1773983034
+[2026-03-23 16:35:51] Loaded client id: 54344964243178876
+[2026-03-23 16:35:51] Listening for IPv4 broadcast on: 27036
+[2026-03-23 16:35:51] Listening for connections on: 0.0.0.0:27036
+[2026-03-23 16:35:51] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-23 16:45:23] Client version: 1773983034
+[2026-03-23 16:45:23] Loaded client id: 54344964243178876
+[2026-03-23 16:45:23] Listening for IPv4 broadcast on: 27036
+[2026-03-23 16:45:23] Listening for connections on: 0.0.0.0:27036
+[2026-03-23 16:45:24] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-23 17:00:20] Client version: 1773983034
+[2026-03-23 17:00:20] Loaded client id: 54344964243178876
+[2026-03-23 17:00:20] Listening for IPv4 broadcast on: 27036
+[2026-03-23 17:00:20] Listening for connections on: 0.0.0.0:27036
+[2026-03-23 17:00:20] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-23 20:26:30] Client version: 1773983034
+[2026-03-23 20:26:30] Loaded client id: 54344964243178876
+[2026-03-23 20:26:30] Listening for IPv4 broadcast on: 27036
+[2026-03-23 20:26:30] Listening for connections on: 0.0.0.0:27036
+[2026-03-23 20:26:30] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-23 20:50:35] Client version: 1773983034
+[2026-03-23 20:50:35] Loaded client id: 54344964243178876
+[2026-03-23 20:50:35] Listening for IPv4 broadcast on: 27036
+[2026-03-23 20:50:35] Listening for connections on: 0.0.0.0:27036
+[2026-03-23 20:50:35] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-23 21:24:57] Client version: 1773983034
+[2026-03-23 21:24:57] Loaded client id: 54344964243178876
+[2026-03-23 21:24:57] Listening for IPv4 broadcast on: 27036
+[2026-03-23 21:24:57] Listening for connections on: 0.0.0.0:27036
+[2026-03-23 21:24:57] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-23 22:05:06] Client version: 1773983034
+[2026-03-23 22:05:06] Loaded client id: 54344964243178876
+[2026-03-23 22:05:06] Listening for IPv4 broadcast on: 27036
+[2026-03-23 22:05:06] Listening for connections on: 0.0.0.0:27036
+[2026-03-23 22:05:06] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-23 22:47:16] Client version: 1773983034
+[2026-03-23 22:47:16] Loaded client id: 54344964243178876
+[2026-03-23 22:47:16] Listening for IPv4 broadcast on: 27036
+[2026-03-23 22:47:16] Listening for connections on: 0.0.0.0:27036
+[2026-03-23 22:47:16] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-24 14:55:25] Client version: 1773983034
+[2026-03-24 14:55:25] Loaded client id: 54344964243178876
+[2026-03-24 14:55:25] Listening for IPv4 broadcast on: 27036
+[2026-03-24 14:55:25] Listening for connections on: 0.0.0.0:27036
+[2026-03-24 14:55:25] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-24 15:25:31] Client version: 1774306123
+[2026-03-24 15:25:31] Loaded client id: 54344964243178876
+[2026-03-24 15:25:31] Listening for IPv4 broadcast on: 27036
+[2026-03-24 15:25:31] Listening for connections on: 0.0.0.0:27036
+[2026-03-24 15:25:31] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-24 15:52:21] Client version: 1774306123
+[2026-03-24 15:52:21] Loaded client id: 54344964243178876
+[2026-03-24 15:52:21] Listening for IPv4 broadcast on: 27036
+[2026-03-24 15:52:21] Listening for connections on: 0.0.0.0:27036
+[2026-03-24 15:52:22] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-24 20:11:02] Client version: 1774306123
+[2026-03-24 20:11:02] Loaded client id: 54344964243178876
+[2026-03-24 20:11:02] Listening for IPv4 broadcast on: 27036
+[2026-03-24 20:11:02] Listening for connections on: 0.0.0.0:27036
+[2026-03-24 20:11:02] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-25 13:27:23] Client version: 1774306123
+[2026-03-25 13:27:23] Loaded client id: 54344964243178876
+[2026-03-25 13:27:23] Listening for IPv4 broadcast on: 27036
+[2026-03-25 13:27:23] Listening for connections on: 0.0.0.0:27036
+[2026-03-25 13:27:23] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-03-25 14:27:39] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 14:27:39] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 14:27:39] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 14:27:39] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 14:32:51] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 14:32:51] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 14:32:51] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 14:32:51] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 14:39:31] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 14:39:31] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 14:39:31] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 14:39:31] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 17:13:52] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 17:13:52] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 17:13:52] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 17:13:52] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 22:17:21] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 22:17:21] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 22:17:21] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-25 22:17:21] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-03-26 15:54:36] Client version: 1774488570
+[2026-03-26 15:54:36] Loaded client id: 54344964243178876
+[2026-03-26 15:54:36] Listening for IPv4 broadcast on: 27036
+[2026-03-26 15:54:36] Listening for connections on: 0.0.0.0:27036
+[2026-03-26 15:54:36] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-27 15:55:16] Client version: 1774488570
+[2026-03-27 15:55:16] Loaded client id: 54344964243178876
+[2026-03-27 15:55:16] Listening for IPv4 broadcast on: 27036
+[2026-03-27 15:55:16] Listening for connections on: 0.0.0.0:27036
+[2026-03-27 15:55:16] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-27 19:16:45] Client version: 1774577504
+[2026-03-27 19:16:45] Loaded client id: 54344964243178876
+[2026-03-27 19:16:45] Listening for IPv4 broadcast on: 27036
+[2026-03-27 19:16:45] Listening for connections on: 0.0.0.0:27036
+[2026-03-27 19:16:46] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-03-28 00:36:17] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-28 00:36:17] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-28 00:36:17] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-03-28 00:36:17] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-03-28 08:15:04] Client version: 1774577504
+[2026-03-28 08:15:04] Loaded client id: 54344964243178876
+[2026-03-28 08:15:04] Listening for IPv4 broadcast on: 27036
+[2026-03-28 08:15:04] Listening for connections on: 0.0.0.0:27036
+[2026-03-28 08:15:04] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-28 19:10:53] Client version: 1774577504
+[2026-03-28 19:10:53] Loaded client id: 54344964243178876
+[2026-03-28 19:10:53] Listening for IPv4 broadcast on: 27036
+[2026-03-28 19:10:53] Listening for connections on: 0.0.0.0:27036
+[2026-03-28 19:10:53] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-29 11:44:19] Client version: 1774577504
+[2026-03-29 11:44:19] Loaded client id: 54344964243178876
+[2026-03-29 11:44:19] Listening for IPv4 broadcast on: 27036
+[2026-03-29 11:44:19] Listening for connections on: 0.0.0.0:27036
+[2026-03-29 11:44:19] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-30 14:39:45] Client version: 1774577504
+[2026-03-30 14:39:45] Loaded client id: 54344964243178876
+[2026-03-30 14:39:45] Listening for IPv4 broadcast on: 27036
+[2026-03-30 14:39:45] Listening for connections on: 0.0.0.0:27036
+[2026-03-30 14:39:45] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-31 14:58:51] Client version: 1774577504
+[2026-03-31 14:58:51] Loaded client id: 54344964243178876
+[2026-03-31 14:58:51] Listening for IPv4 broadcast on: 27036
+[2026-03-31 14:58:51] Listening for connections on: 0.0.0.0:27036
+[2026-03-31 14:58:51] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-31 20:25:55] Client version: 1774577504
+[2026-03-31 20:25:55] Loaded client id: 54344964243178876
+[2026-03-31 20:25:55] Listening for IPv4 broadcast on: 27036
+[2026-03-31 20:25:55] Listening for connections on: 0.0.0.0:27036
+[2026-03-31 20:25:55] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-03-31 22:43:55] Client version: 1774577504
+[2026-03-31 22:43:55] Loaded client id: 54344964243178876
+[2026-03-31 22:43:55] Listening for IPv4 broadcast on: 27036
+[2026-03-31 22:43:55] Listening for connections on: 0.0.0.0:27036
+[2026-03-31 22:43:55] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-04-01 00:11:08] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-01 00:11:08] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-01 00:11:08] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-01 00:11:08] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-04-01 13:09:25] Client version: 1774577504
+[2026-04-01 13:09:25] Loaded client id: 54344964243178876
+[2026-04-01 13:09:25] Listening for IPv4 broadcast on: 27036
+[2026-04-01 13:09:25] Listening for connections on: 0.0.0.0:27036
+[2026-04-01 13:09:25] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-01 21:15:10] Client version: 1774577504
+[2026-04-01 21:15:10] Loaded client id: 54344964243178876
+[2026-04-01 21:15:10] Listening for IPv4 broadcast on: 27036
+[2026-04-01 21:15:10] Listening for connections on: 0.0.0.0:27036
+[2026-04-01 21:15:10] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-02 09:12:12] Client version: 1774577504
+[2026-04-02 09:12:12] Loaded client id: 54344964243178876
+[2026-04-02 09:12:12] Listening for IPv4 broadcast on: 27036
+[2026-04-02 09:12:12] Listening for connections on: 0.0.0.0:27036
+[2026-04-02 09:12:12] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-02 09:14:48] Client version: 1775086565
+[2026-04-02 09:14:48] Loaded client id: 54344964243178876
+[2026-04-02 09:14:48] Listening for IPv4 broadcast on: 27036
+[2026-04-02 09:14:48] Listening for connections on: 0.0.0.0:27036
+[2026-04-02 09:14:48] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-02 19:44:59] Client version: 1775086565
+[2026-04-02 19:44:59] Loaded client id: 54344964243178876
+[2026-04-02 19:44:59] Listening for IPv4 broadcast on: 27036
+[2026-04-02 19:44:59] Listening for connections on: 0.0.0.0:27036
+[2026-04-02 19:44:59] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-03 09:29:55] Client version: 1775086565
+[2026-04-03 09:29:55] Loaded client id: 54344964243178876
+[2026-04-03 09:29:55] Listening for IPv4 broadcast on: 27036
+[2026-04-03 09:29:55] Listening for connections on: 0.0.0.0:27036
+[2026-04-03 09:29:55] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-03 20:14:22] Client version: 1775175108
+[2026-04-03 20:14:22] Loaded client id: 54344964243178876
+[2026-04-03 20:14:22] Listening for IPv4 broadcast on: 27036
+[2026-04-03 20:14:22] Listening for connections on: 0.0.0.0:27036
+[2026-04-03 20:14:22] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-04 11:10:34] Client version: 1775175108
+[2026-04-04 11:10:34] Loaded client id: 54344964243178876
+[2026-04-04 11:10:34] Listening for IPv4 broadcast on: 27036
+[2026-04-04 11:10:34] Listening for connections on: 0.0.0.0:27036
+[2026-04-04 11:10:34] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-04 20:20:22] Client version: 1775175108
+[2026-04-04 20:20:22] Loaded client id: 54344964243178876
+[2026-04-04 20:20:22] Listening for IPv4 broadcast on: 27036
+[2026-04-04 20:20:22] Listening for connections on: 0.0.0.0:27036
+[2026-04-04 20:20:22] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-04-04 23:36:17] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-04 23:36:17] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-04 23:36:17] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-04 23:36:17] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-04-05 13:26:21] Client version: 1775175108
+[2026-04-05 13:26:21] Loaded client id: 54344964243178876
+[2026-04-05 13:26:21] Listening for IPv4 broadcast on: 27036
+[2026-04-05 13:26:21] Listening for connections on: 0.0.0.0:27036
+[2026-04-05 13:26:21] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-05 18:15:59] Client version: 1775175108
+[2026-04-05 18:15:59] Loaded client id: 54344964243178876
+[2026-04-05 18:15:59] Listening for IPv4 broadcast on: 27036
+[2026-04-05 18:15:59] Listening for connections on: 0.0.0.0:27036
+[2026-04-05 18:15:59] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-06 10:26:03] Client version: 1775175108
+[2026-04-06 10:26:03] Loaded client id: 54344964243178876
+[2026-04-06 10:26:03] Listening for IPv4 broadcast on: 27036
+[2026-04-06 10:26:03] Listening for connections on: 0.0.0.0:27036
+[2026-04-06 10:26:03] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-07 09:32:27] Client version: 1775175108
+[2026-04-07 09:32:27] Loaded client id: 54344964243178876
+[2026-04-07 09:32:27] Listening for IPv4 broadcast on: 27036
+[2026-04-07 09:32:27] Listening for connections on: 0.0.0.0:27036
+[2026-04-07 09:32:27] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-07 20:56:20] Client version: 1775525170
+[2026-04-07 20:56:20] Loaded client id: 54344964243178876
+[2026-04-07 20:56:20] Listening for IPv4 broadcast on: 27036
+[2026-04-07 20:56:20] Listening for connections on: 0.0.0.0:27036
+[2026-04-07 20:56:20] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-04-07 22:15:29] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-07 22:15:29] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-07 22:15:29] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-07 22:15:29] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-04-08 14:05:01] Client version: 1775525170
+[2026-04-08 14:05:01] Loaded client id: 54344964243178876
+[2026-04-08 14:05:01] Listening for IPv4 broadcast on: 27036
+[2026-04-08 14:05:01] Listening for connections on: 0.0.0.0:27036
+[2026-04-08 14:05:01] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-09 16:36:49] Client version: 1775605734
+[2026-04-09 16:36:49] Loaded client id: 54344964243178876
+[2026-04-09 16:36:49] Listening for IPv4 broadcast on: 27036
+[2026-04-09 16:36:49] Listening for connections on: 0.0.0.0:27036
+[2026-04-09 16:36:49] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-09 19:54:24] Client version: 1775703228
+[2026-04-09 19:54:24] Loaded client id: 54344964243178876
+[2026-04-09 19:54:24] Listening for IPv4 broadcast on: 27036
+[2026-04-09 19:54:24] Listening for connections on: 0.0.0.0:27036
+[2026-04-09 19:54:24] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-04-09 21:24:33] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-09 21:24:33] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-09 21:24:33] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-09 21:24:33] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-04-10 13:53:57] Client version: 1775703228
+[2026-04-10 13:53:57] Loaded client id: 54344964243178876
+[2026-04-10 13:53:57] Listening for IPv4 broadcast on: 27036
+[2026-04-10 13:53:57] Listening for connections on: 0.0.0.0:27036
+[2026-04-10 13:53:57] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-10 17:26:37] Client version: 1775703228
+[2026-04-10 17:26:37] Loaded client id: 54344964243178876
+[2026-04-10 17:26:37] Listening for IPv4 broadcast on: 27036
+[2026-04-10 17:26:37] Listening for connections on: 0.0.0.0:27036
+[2026-04-10 17:26:37] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-11 09:13:50] Client version: 1775703228
+[2026-04-11 09:13:50] Loaded client id: 54344964243178876
+[2026-04-11 09:13:50] Listening for IPv4 broadcast on: 27036
+[2026-04-11 09:13:50] Listening for connections on: 0.0.0.0:27036
+[2026-04-11 09:13:50] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-11 17:41:41] Client version: 1775858166
+[2026-04-11 17:41:41] Loaded client id: 54344964243178876
+[2026-04-11 17:41:41] Listening for IPv4 broadcast on: 27036
+[2026-04-11 17:41:41] Listening for connections on: 0.0.0.0:27036
+[2026-04-11 17:41:41] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-12 10:47:57] Client version: 1775858166
+[2026-04-12 10:47:57] Loaded client id: 54344964243178876
+[2026-04-12 10:47:57] Listening for IPv4 broadcast on: 27036
+[2026-04-12 10:47:57] Listening for connections on: 0.0.0.0:27036
+[2026-04-12 10:47:57] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-04-13 00:03:23] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-13 00:03:23] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-13 00:03:23] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-13 00:03:23] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-04-13 14:01:53] Client version: 1775946595
+[2026-04-13 14:01:53] Loaded client id: 54344964243178876
+[2026-04-13 14:01:53] Listening for IPv4 broadcast on: 27036
+[2026-04-13 14:01:53] Listening for connections on: 0.0.0.0:27036
+[2026-04-13 14:01:53] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-13 17:51:58] Client version: 1775946595
+[2026-04-13 17:51:58] Loaded client id: 54344964243178876
+[2026-04-13 17:51:58] Listening for IPv4 broadcast on: 27036
+[2026-04-13 17:51:58] Listening for connections on: 0.0.0.0:27036
+[2026-04-13 17:51:58] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-14 15:35:17] Client version: 1775946595
+[2026-04-14 15:35:17] Loaded client id: 54344964243178876
+[2026-04-14 15:35:17] Listening for IPv4 broadcast on: 27036
+[2026-04-14 15:35:17] Listening for connections on: 0.0.0.0:27036
+[2026-04-14 15:35:17] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-15 14:04:32] Client version: 1775946595
+[2026-04-15 14:04:32] Loaded client id: 54344964243178876
+[2026-04-15 14:04:32] Listening for IPv4 broadcast on: 27036
+[2026-04-15 14:04:32] Listening for connections on: 0.0.0.0:27036
+[2026-04-15 14:04:32] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-15 19:06:09] Client version: 1775946595
+[2026-04-15 19:06:09] Loaded client id: 54344964243178876
+[2026-04-15 19:06:09] Listening for IPv4 broadcast on: 27036
+[2026-04-15 19:06:09] Listening for connections on: 0.0.0.0:27036
+[2026-04-15 19:06:09] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-16 15:47:02] Client version: 1775946595
+[2026-04-16 15:47:02] Loaded client id: 54344964243178876
+[2026-04-16 15:47:02] Listening for IPv4 broadcast on: 27036
+[2026-04-16 15:47:02] Listening for connections on: 0.0.0.0:27036
+[2026-04-16 15:47:02] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-16 17:29:53] Client version: 1775946595
+[2026-04-16 17:29:53] Loaded client id: 54344964243178876
+[2026-04-16 17:29:53] Listening for IPv4 broadcast on: 27036
+[2026-04-16 17:29:53] Listening for connections on: 0.0.0.0:27036
+[2026-04-16 17:29:53] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-16 20:20:21] Client version: 1775946595
+[2026-04-16 20:20:21] Loaded client id: 54344964243178876
+[2026-04-16 20:20:21] Listening for IPv4 broadcast on: 27036
+[2026-04-16 20:20:21] Listening for connections on: 0.0.0.0:27036
+[2026-04-16 20:20:21] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-16 22:54:47] Client version: 1775946595
+[2026-04-16 22:54:47] Loaded client id: 54344964243178876
+[2026-04-16 22:54:47] Listening for IPv4 broadcast on: 27036
+[2026-04-16 22:54:47] Listening for connections on: 0.0.0.0:27036
+[2026-04-16 22:54:47] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-17 15:43:41] Client version: 1775946595
+[2026-04-17 15:43:41] Loaded client id: 54344964243178876
+[2026-04-17 15:43:41] Listening for IPv4 broadcast on: 27036
+[2026-04-17 15:43:41] Listening for connections on: 0.0.0.0:27036
+[2026-04-17 15:43:42] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-17 20:01:37] Client version: 1776387948
+[2026-04-17 20:01:37] Loaded client id: 54344964243178876
+[2026-04-17 20:01:37] Listening for IPv4 broadcast on: 27036
+[2026-04-17 20:01:37] Listening for connections on: 0.0.0.0:27036
+[2026-04-17 20:01:37] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-18 10:07:17] Client version: 1776387948
+[2026-04-18 10:07:17] Loaded client id: 54344964243178876
+[2026-04-18 10:07:17] Listening for IPv4 broadcast on: 27036
+[2026-04-18 10:07:17] Listening for connections on: 0.0.0.0:27036
+[2026-04-18 10:07:17] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-18 16:41:50] Client version: 1776387948
+[2026-04-18 16:41:50] Loaded client id: 54344964243178876
+[2026-04-18 16:41:50] Listening for IPv4 broadcast on: 27036
+[2026-04-18 16:41:50] Listening for connections on: 0.0.0.0:27036
+[2026-04-18 16:41:51] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-18 17:13:16] Client version: 1776387948
+[2026-04-18 17:13:16] Loaded client id: 54344964243178876
+[2026-04-18 17:13:16] Listening for IPv4 broadcast on: 27036
+[2026-04-18 17:13:16] Listening for connections on: 0.0.0.0:27036
+[2026-04-18 17:13:16] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-18 18:45:31] Client version: 1776387948
+[2026-04-18 18:45:31] Loaded client id: 54344964243178876
+[2026-04-18 18:45:31] Listening for IPv4 broadcast on: 27036
+[2026-04-18 18:45:31] Listening for connections on: 0.0.0.0:27036
+[2026-04-18 18:45:31] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-19 10:24:13] Client version: 1776387948
+[2026-04-19 10:24:13] Loaded client id: 54344964243178876
+[2026-04-19 10:24:13] Listening for IPv4 broadcast on: 27036
+[2026-04-19 10:24:13] Listening for connections on: 0.0.0.0:27036
+[2026-04-19 10:24:13] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-19 19:06:05] Client version: 1776387948
+[2026-04-19 19:06:05] Loaded client id: 54344964243178876
+[2026-04-19 19:06:05] Listening for IPv4 broadcast on: 27036
+[2026-04-19 19:06:05] Listening for connections on: 0.0.0.0:27036
+[2026-04-19 19:06:05] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-04-19 22:25:58] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-19 22:25:58] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-19 22:25:58] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-19 22:25:58] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-04-20 14:56:32] Client version: 1776387948
+[2026-04-20 14:56:32] Loaded client id: 54344964243178876
+[2026-04-20 14:56:32] Listening for IPv4 broadcast on: 27036
+[2026-04-20 14:56:32] Listening for connections on: 0.0.0.0:27036
+[2026-04-20 14:56:32] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-04-20 21:37:00] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-20 21:37:00] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-20 21:37:00] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-20 21:37:00] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-04-21 14:33:03] Client version: 1776387948
+[2026-04-21 14:33:03] Loaded client id: 54344964243178876
+[2026-04-21 14:33:03] Listening for IPv4 broadcast on: 27036
+[2026-04-21 14:33:03] Listening for connections on: 0.0.0.0:27036
+[2026-04-21 14:33:03] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-21 17:30:11] Client version: 1776728408
+[2026-04-21 17:30:11] Loaded client id: 54344964243178876
+[2026-04-21 17:30:11] Listening for IPv4 broadcast on: 27036
+[2026-04-21 17:30:11] Listening for connections on: 0.0.0.0:27036
+[2026-04-21 17:30:12] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-22 13:59:39] Client version: 1776728408
+[2026-04-22 13:59:39] Loaded client id: 54344964243178876
+[2026-04-22 13:59:39] Listening for IPv4 broadcast on: 27036
+[2026-04-22 13:59:39] Listening for connections on: 0.0.0.0:27036
+[2026-04-22 13:59:39] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-22 15:54:36] Client version: 1776812172
+[2026-04-22 15:54:36] Loaded client id: 54344964243178876
+[2026-04-22 15:54:36] Listening for IPv4 broadcast on: 27036
+[2026-04-22 15:54:36] Listening for connections on: 0.0.0.0:27036
+[2026-04-22 15:54:36] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-22 19:15:13] Client version: 1776812172
+[2026-04-22 19:15:13] Loaded client id: 54344964243178876
+[2026-04-22 19:15:13] Listening for IPv4 broadcast on: 27036
+[2026-04-22 19:15:13] Listening for connections on: 0.0.0.0:27036
+[2026-04-22 19:15:14] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-04-22 21:55:38] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-22 21:55:38] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-22 21:55:38] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-22 21:55:38] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-04-23 14:09:57] Client version: 1776812172
+[2026-04-23 14:09:57] Loaded client id: 54344964243178876
+[2026-04-23 14:09:57] Listening for IPv4 broadcast on: 27036
+[2026-04-23 14:09:57] Listening for connections on: 0.0.0.0:27036
+[2026-04-23 14:09:57] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-23 19:50:50] Client version: 1776812172
+[2026-04-23 19:50:50] Loaded client id: 54344964243178876
+[2026-04-23 19:50:50] Listening for IPv4 broadcast on: 27036
+[2026-04-23 19:50:50] Listening for connections on: 0.0.0.0:27036
+[2026-04-23 19:50:50] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-24 12:54:45] Client version: 1776812172
+[2026-04-24 12:54:45] Loaded client id: 54344964243178876
+[2026-04-24 12:54:45] Listening for IPv4 broadcast on: 27036
+[2026-04-24 12:54:45] Listening for connections on: 0.0.0.0:27036
+[2026-04-24 12:54:45] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-04-24 14:03:38] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-24 14:03:38] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-24 14:03:38] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-24 14:03:38] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-25 01:42:12] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-25 01:42:12] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-25 01:42:12] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-25 01:42:12] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-04-25 11:08:21] Client version: 1776812172
+[2026-04-25 11:08:21] Loaded client id: 54344964243178876
+[2026-04-25 11:08:21] Listening for IPv4 broadcast on: 27036
+[2026-04-25 11:08:21] Listening for connections on: 0.0.0.0:27036
+[2026-04-25 11:08:21] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-25 19:26:07] Client version: 1777083821
+[2026-04-25 19:26:07] Loaded client id: 54344964243178876
+[2026-04-25 19:26:07] Listening for IPv4 broadcast on: 27036
+[2026-04-25 19:26:07] Listening for connections on: 0.0.0.0:27036
+[2026-04-25 19:26:07] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-25 19:46:17] Client version: 1777083821
+[2026-04-25 19:46:17] Loaded client id: 54344964243178876
+[2026-04-25 19:46:17] Listening for IPv4 broadcast on: 27036
+[2026-04-25 19:46:17] Listening for connections on: 0.0.0.0:27036
+[2026-04-25 19:46:17] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-26 09:46:34] Client version: 1777083821
+[2026-04-26 09:46:34] Loaded client id: 54344964243178876
+[2026-04-26 09:46:34] Listening for IPv4 broadcast on: 27036
+[2026-04-26 09:46:34] Listening for connections on: 0.0.0.0:27036
+[2026-04-26 09:46:34] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-26 20:07:51] Client version: 1777083821
+[2026-04-26 20:07:51] Loaded client id: 54344964243178876
+[2026-04-26 20:07:51] Listening for IPv4 broadcast on: 27036
+[2026-04-26 20:07:51] Listening for connections on: 0.0.0.0:27036
+[2026-04-26 20:07:51] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-27 14:45:29] Client version: 1777083821
+[2026-04-27 14:45:29] Loaded client id: 54344964243178876
+[2026-04-27 14:45:29] Listening for IPv4 broadcast on: 27036
+[2026-04-27 14:45:29] Listening for connections on: 0.0.0.0:27036
+[2026-04-27 14:45:29] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-04-27 17:06:50] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-27 17:06:50] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-27 17:06:50] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-27 17:06:50] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-27 20:00:11] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-27 20:00:11] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-27 20:00:11] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-27 20:00:11] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-04-28 15:35:14] Client version: 1777083821
+[2026-04-28 15:35:14] Loaded client id: 54344964243178876
+[2026-04-28 15:35:14] Listening for IPv4 broadcast on: 27036
+[2026-04-28 15:35:14] Listening for connections on: 0.0.0.0:27036
+[2026-04-28 15:35:14] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-28 19:47:42] Client version: 1777345799
+[2026-04-28 19:47:42] Loaded client id: 54344964243178876
+[2026-04-28 19:47:42] Listening for IPv4 broadcast on: 27036
+[2026-04-28 19:47:42] Listening for connections on: 0.0.0.0:27036
+[2026-04-28 19:47:42] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-28 22:35:09] Client version: 1777345799
+[2026-04-28 22:35:09] Loaded client id: 54344964243178876
+[2026-04-28 22:35:09] Listening for IPv4 broadcast on: 27036
+[2026-04-28 22:35:09] Listening for connections on: 0.0.0.0:27036
+[2026-04-28 22:35:09] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-28 22:37:50] Client version: 1777345799
+[2026-04-28 22:37:50] Loaded client id: 54344964243178876
+[2026-04-28 22:37:50] Listening for IPv4 broadcast on: 27036
+[2026-04-28 22:37:50] Listening for connections on: 0.0.0.0:27036
+[2026-04-28 22:37:50] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-29 00:24:49] Client version: 1777345799
+[2026-04-29 00:24:49] Loaded client id: 54344964243178876
+[2026-04-29 00:24:49] Listening for IPv4 broadcast on: 27036
+[2026-04-29 00:24:49] Listening for connections on: 0.0.0.0:27036
+[2026-04-29 00:24:49] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-29 12:56:55] Client version: 1777411435
+[2026-04-29 12:56:55] Loaded client id: 54344964243178876
+[2026-04-29 12:56:55] Listening for IPv4 broadcast on: 27036
+[2026-04-29 12:56:55] Listening for connections on: 0.0.0.0:27036
+[2026-04-29 12:56:55] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-04-29 20:46:28] Client version: 1777411435
+[2026-04-29 20:46:28] Loaded client id: 54344964243178876
+[2026-04-29 20:46:28] Listening for IPv4 broadcast on: 27036
+[2026-04-29 20:46:28] Listening for connections on: 0.0.0.0:27036
+[2026-04-29 20:46:28] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-04-29 22:13:46] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-29 22:13:46] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-29 22:13:46] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-04-29 22:13:46] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-04-30 15:41:12] Client version: 1777411435
+[2026-04-30 15:41:12] Loaded client id: 54344964243178876
+[2026-04-30 15:41:12] Listening for IPv4 broadcast on: 27036
+[2026-04-30 15:41:12] Listening for connections on: 0.0.0.0:27036
+[2026-04-30 15:41:13] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-03 20:28:19] Client version: 1777518510
+[2026-05-03 20:28:19] Loaded client id: 54344964243178876
+[2026-05-03 20:28:19] Listening for IPv4 broadcast on: 27036
+[2026-05-03 20:28:19] Listening for connections on: 0.0.0.0:27036
+[2026-05-03 20:28:19] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-03 21:55:44] Client version: 1777686219
+[2026-05-03 21:55:44] Loaded client id: 54344964243178876
+[2026-05-03 21:55:44] Listening for IPv4 broadcast on: 27036
+[2026-05-03 21:55:44] Listening for connections on: 0.0.0.0:27036
+[2026-05-03 21:55:44] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-04 11:36:32] Client version: 1777686219
+[2026-05-04 11:36:32] Loaded client id: 54344964243178876
+[2026-05-04 11:36:32] Listening for IPv4 broadcast on: 27036
+[2026-05-04 11:36:32] Listening for connections on: 0.0.0.0:27036
+[2026-05-04 11:36:32] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-04 13:19:34] Client version: 1777686219
+[2026-05-04 13:19:34] Loaded client id: 54344964243178876
+[2026-05-04 13:19:34] Listening for IPv4 broadcast on: 27036
+[2026-05-04 13:19:34] Listening for connections on: 0.0.0.0:27036
+[2026-05-04 13:19:34] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-05 00:09:38] Client version: 1777686219
+[2026-05-05 00:09:38] Loaded client id: 54344964243178876
+[2026-05-05 00:09:38] Listening for IPv4 broadcast on: 27036
+[2026-05-05 00:09:38] Listening for connections on: 0.0.0.0:27036
+[2026-05-05 00:09:38] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-05 00:18:02] Client version: 1777686219
+[2026-05-05 00:18:02] Loaded client id: 54344964243178876
+[2026-05-05 00:18:02] Listening for IPv4 broadcast on: 27036
+[2026-05-05 00:18:02] Listening for connections on: 0.0.0.0:27036
+[2026-05-05 00:18:02] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-05 10:38:00] Client version: 1777931468
+[2026-05-05 10:38:00] Loaded client id: 54344964243178876
+[2026-05-05 10:38:00] Listening for IPv4 broadcast on: 27036
+[2026-05-05 10:38:00] Listening for connections on: 0.0.0.0:27036
+[2026-05-05 10:38:00] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-05 12:38:38] Client version: 1777935142
+[2026-05-05 12:38:38] Loaded client id: 54344964243178876
+[2026-05-05 12:38:38] Listening for IPv4 broadcast on: 27036
+[2026-05-05 12:38:38] Listening for connections on: 0.0.0.0:27036
+[2026-05-05 12:38:38] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-05 17:15:27] Client version: 1777935142
+[2026-05-05 17:15:27] Loaded client id: 54344964243178876
+[2026-05-05 17:15:27] Listening for IPv4 broadcast on: 27036
+[2026-05-05 17:15:27] Listening for connections on: 0.0.0.0:27036
+[2026-05-05 17:15:27] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-05 19:57:51] Client version: 1777935142
+[2026-05-05 19:57:51] Loaded client id: 54344964243178876
+[2026-05-05 19:57:51] Listening for IPv4 broadcast on: 27036
+[2026-05-05 19:57:51] Listening for connections on: 0.0.0.0:27036
+[2026-05-05 19:57:51] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-06 10:08:15] Client version: 1777935142
+[2026-05-06 10:08:15] Loaded client id: 54344964243178876
+[2026-05-06 10:08:15] Listening for IPv4 broadcast on: 27036
+[2026-05-06 10:08:15] Listening for connections on: 0.0.0.0:27036
+[2026-05-06 10:08:16] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-06 19:48:48] Client version: 1778003620
+[2026-05-06 19:48:48] Loaded client id: 54344964243178876
+[2026-05-06 19:48:48] Listening for IPv4 broadcast on: 27036
+[2026-05-06 19:48:48] Listening for connections on: 0.0.0.0:27036
+[2026-05-06 19:48:49] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-07 13:13:06] Client version: 1778003620
+[2026-05-07 13:13:06] Loaded client id: 54344964243178876
+[2026-05-07 13:13:06] Listening for IPv4 broadcast on: 27036
+[2026-05-07 13:13:06] Listening for connections on: 0.0.0.0:27036
+[2026-05-07 13:13:06] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-08 16:17:00] Client version: 1778123305
+[2026-05-08 16:17:00] Loaded client id: 54344964243178876
+[2026-05-08 16:17:00] Listening for IPv4 broadcast on: 27036
+[2026-05-08 16:17:00] Listening for connections on: 0.0.0.0:27036
+[2026-05-08 16:17:01] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-05-08 18:38:57] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-05-08 18:38:57] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-05-08 18:38:57] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-05-08 18:38:57] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-05-09 10:11:32] Client version: 1778268346
+[2026-05-09 10:11:32] Loaded client id: 54344964243178876
+[2026-05-09 10:11:32] Listening for IPv4 broadcast on: 27036
+[2026-05-09 10:11:32] Listening for connections on: 0.0.0.0:27036
+[2026-05-09 10:11:32] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-05-09 13:30:34] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-05-09 13:30:34] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-05-09 13:30:34] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-05-09 13:30:34] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-05-09 19:43:52] Client version: 1778281814
+[2026-05-09 19:43:52] Loaded client id: 54344964243178876
+[2026-05-09 19:43:52] Listening for IPv4 broadcast on: 27036
+[2026-05-09 19:43:52] Listening for connections on: 0.0.0.0:27036
+[2026-05-09 19:43:52] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-10 10:01:14] Client version: 1778281814
+[2026-05-10 10:01:14] Loaded client id: 54344964243178876
+[2026-05-10 10:01:14] Listening for IPv4 broadcast on: 27036
+[2026-05-10 10:01:14] Listening for connections on: 0.0.0.0:27036
+[2026-05-10 10:01:14] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-10 16:41:35] Client version: 1778281814
+[2026-05-10 16:41:35] Loaded client id: 54344964243178876
+[2026-05-10 16:41:35] Listening for IPv4 broadcast on: 27036
+[2026-05-10 16:41:35] Listening for connections on: 0.0.0.0:27036
+[2026-05-10 16:41:35] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-10 19:17:07] Client version: 1778281814
+[2026-05-10 19:17:07] Loaded client id: 54344964243178876
+[2026-05-10 19:17:07] Listening for IPv4 broadcast on: 27036
+[2026-05-10 19:17:07] Listening for connections on: 0.0.0.0:27036
+[2026-05-10 19:17:07] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-10 21:49:21] Client version: 1778281814
+[2026-05-10 21:49:21] Loaded client id: 54344964243178876
+[2026-05-10 21:49:21] Listening for IPv4 broadcast on: 27036
+[2026-05-10 21:49:21] Listening for connections on: 0.0.0.0:27036
+[2026-05-10 21:49:22] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-10 22:10:56] Client version: 1778281814
+[2026-05-10 22:10:56] Loaded client id: 54344964243178876
+[2026-05-10 22:10:56] Listening for IPv4 broadcast on: 27036
+[2026-05-10 22:10:56] Listening for connections on: 0.0.0.0:27036
+[2026-05-10 22:10:57] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-10 22:42:24] Client version: 1778281814
+[2026-05-10 22:42:24] Loaded client id: 54344964243178876
+[2026-05-10 22:42:24] Listening for IPv4 broadcast on: 27036
+[2026-05-10 22:42:24] Listening for connections on: 0.0.0.0:27036
+[2026-05-10 22:42:24] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-11 15:35:35] Client version: 1778281814
+[2026-05-11 15:35:35] Loaded client id: 54344964243178876
+[2026-05-11 15:35:35] Listening for IPv4 broadcast on: 27036
+[2026-05-11 15:35:35] Listening for connections on: 0.0.0.0:27036
+[2026-05-11 15:35:35] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-11 20:21:11] Client version: 1778281814
+[2026-05-11 20:21:11] Loaded client id: 54344964243178876
+[2026-05-11 20:21:11] Listening for IPv4 broadcast on: 27036
+[2026-05-11 20:21:11] Listening for connections on: 0.0.0.0:27036
+[2026-05-11 20:21:11] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-12 14:51:47] Client version: 1778281814
+[2026-05-12 14:51:47] Loaded client id: 54344964243178876
+[2026-05-12 14:51:47] Listening for IPv4 broadcast on: 27036
+[2026-05-12 14:51:47] Listening for connections on: 0.0.0.0:27036
+[2026-05-12 14:51:47] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-13 13:20:41] Client version: 1778548034
+[2026-05-13 13:20:41] Loaded client id: 54344964243178876
+[2026-05-13 13:20:41] Listening for IPv4 broadcast on: 27036
+[2026-05-13 13:20:41] Listening for connections on: 0.0.0.0:27036
+[2026-05-13 13:20:41] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-13 17:55:55] Client version: 1778548034
+[2026-05-13 17:55:55] Loaded client id: 54344964243178876
+[2026-05-13 17:55:55] Listening for IPv4 broadcast on: 27036
+[2026-05-13 17:55:55] Listening for connections on: 0.0.0.0:27036
+[2026-05-13 17:55:55] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-14 14:56:18] Client version: 1778698013
+[2026-05-14 14:56:18] Loaded client id: 54344964243178876
+[2026-05-14 14:56:18] Listening for IPv4 broadcast on: 27036
+[2026-05-14 14:56:18] Listening for connections on: 0.0.0.0:27036
+[2026-05-14 14:56:18] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-14 19:03:12] Client version: 1778698013
+[2026-05-14 19:03:12] Loaded client id: 54344964243178876
+[2026-05-14 19:03:12] Listening for IPv4 broadcast on: 27036
+[2026-05-14 19:03:12] Listening for connections on: 0.0.0.0:27036
+[2026-05-14 19:03:12] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-15 13:57:07] Client version: 1778698013
+[2026-05-15 13:57:07] Loaded client id: 54344964243178876
+[2026-05-15 13:57:07] Listening for IPv4 broadcast on: 27036
+[2026-05-15 13:57:07] Listening for connections on: 0.0.0.0:27036
+[2026-05-15 13:57:07] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-15 19:34:00] Client version: 1778803745
+[2026-05-15 19:34:00] Loaded client id: 54344964243178876
+[2026-05-15 19:34:00] Listening for IPv4 broadcast on: 27036
+[2026-05-15 19:34:00] Listening for connections on: 0.0.0.0:27036
+[2026-05-15 19:34:00] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-16 09:21:59] Client version: 1778803745
+[2026-05-16 09:21:59] Loaded client id: 54344964243178876
+[2026-05-16 09:21:59] Listening for IPv4 broadcast on: 27036
+[2026-05-16 09:21:59] Listening for connections on: 0.0.0.0:27036
+[2026-05-16 09:22:00] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-16 20:00:29] Client version: 1778803745
+[2026-05-16 20:00:29] Loaded client id: 54344964243178876
+[2026-05-16 20:00:29] Listening for IPv4 broadcast on: 27036
+[2026-05-16 20:00:29] Listening for connections on: 0.0.0.0:27036
+[2026-05-16 20:00:29] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-17 13:49:56] Client version: 1778803745
+[2026-05-17 13:49:56] Loaded client id: 54344964243178876
+[2026-05-17 13:49:56] Listening for IPv4 broadcast on: 27036
+[2026-05-17 13:49:56] Listening for connections on: 0.0.0.0:27036
+[2026-05-17 13:49:56] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-17 19:05:55] Client version: 1778803745
+[2026-05-17 19:05:55] Loaded client id: 54344964243178876
+[2026-05-17 19:05:55] Listening for IPv4 broadcast on: 27036
+[2026-05-17 19:05:55] Listening for connections on: 0.0.0.0:27036
+[2026-05-17 19:05:55] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-18 15:45:11] Client version: 1778803745
+[2026-05-18 15:45:11] Loaded client id: 54344964243178876
+[2026-05-18 15:45:11] Listening for IPv4 broadcast on: 27036
+[2026-05-18 15:45:11] Listening for connections on: 0.0.0.0:27036
+[2026-05-18 15:45:11] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-18 19:48:52] Client version: 1778803745
+[2026-05-18 19:48:52] Loaded client id: 54344964243178876
+[2026-05-18 19:48:52] Listening for IPv4 broadcast on: 27036
+[2026-05-18 19:48:52] Listening for connections on: 0.0.0.0:27036
+[2026-05-18 19:48:52] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-19 14:50:06] Client version: 1778803745
+[2026-05-19 14:50:06] Loaded client id: 54344964243178876
+[2026-05-19 14:50:06] Listening for IPv4 broadcast on: 27036
+[2026-05-19 14:50:06] Listening for connections on: 0.0.0.0:27036
+[2026-05-19 14:50:06] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-19 19:38:25] Client version: 1779155395
+[2026-05-19 19:38:25] Loaded client id: 54344964243178876
+[2026-05-19 19:38:25] Listening for IPv4 broadcast on: 27036
+[2026-05-19 19:38:25] Listening for connections on: 0.0.0.0:27036
+[2026-05-19 19:38:25] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-20 13:10:17] Client version: 1779155395
+[2026-05-20 13:10:17] Loaded client id: 54344964243178876
+[2026-05-20 13:10:17] Listening for IPv4 broadcast on: 27036
+[2026-05-20 13:10:17] Listening for connections on: 0.0.0.0:27036
+[2026-05-20 13:10:17] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-21 16:12:26] Client version: 1779155395
+[2026-05-21 16:12:26] Loaded client id: 54344964243178876
+[2026-05-21 16:12:26] Listening for IPv4 broadcast on: 27036
+[2026-05-21 16:12:26] Listening for connections on: 0.0.0.0:27036
+[2026-05-21 16:12:26] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-21 17:28:05] Client version: 1779155395
+[2026-05-21 17:28:05] Loaded client id: 54344964243178876
+[2026-05-21 17:28:05] Listening for IPv4 broadcast on: 27036
+[2026-05-21 17:28:05] Listening for connections on: 0.0.0.0:27036
+[2026-05-21 17:28:05] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-21 23:28:58] Client version: 1779378409
+[2026-05-21 23:28:58] Loaded client id: 54344964243178876
+[2026-05-21 23:28:58] Listening for IPv4 broadcast on: 27036
+[2026-05-21 23:28:58] Listening for connections on: 0.0.0.0:27036
+[2026-05-21 23:28:58] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-22 15:51:50] Client version: 1779378409
+[2026-05-22 15:51:50] Loaded client id: 54344964243178876
+[2026-05-22 15:51:50] Listening for IPv4 broadcast on: 27036
+[2026-05-22 15:51:50] Listening for connections on: 0.0.0.0:27036
+[2026-05-22 15:51:50] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-05-22 16:25:55] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-05-22 16:25:55] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-05-22 16:25:55] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+[2026-05-22 16:25:55] Received offline message from client 2168110350618997421 at 192.168.1.13:27036
+
+
+[2026-05-22 19:33:39] Client version: 1779378409
+[2026-05-22 19:33:39] Loaded client id: 54344964243178876
+[2026-05-22 19:33:39] Listening for IPv4 broadcast on: 27036
+[2026-05-22 19:33:39] Listening for connections on: 0.0.0.0:27036
+[2026-05-22 19:33:39] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-23 10:20:07] Client version: 1779378409
+[2026-05-23 10:20:07] Loaded client id: 54344964243178876
+[2026-05-23 10:20:07] Listening for IPv4 broadcast on: 27036
+[2026-05-23 10:20:07] Listening for connections on: 0.0.0.0:27036
+[2026-05-23 10:20:08] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-23 17:45:39] Client version: 1779479049
+[2026-05-23 17:45:39] Loaded client id: 54344964243178876
+[2026-05-23 17:45:39] Listening for IPv4 broadcast on: 27036
+[2026-05-23 17:45:39] Listening for connections on: 0.0.0.0:27036
+[2026-05-23 17:45:39] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-24 09:34:55] Client version: 1779479049
+[2026-05-24 09:34:55] Loaded client id: 54344964243178876
+[2026-05-24 09:34:55] Listening for IPv4 broadcast on: 27036
+[2026-05-24 09:34:55] Listening for connections on: 0.0.0.0:27036
+[2026-05-24 09:34:55] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-24 15:23:06] Client version: 1779479049
+[2026-05-24 15:23:06] Loaded client id: 54344964243178876
+[2026-05-24 15:23:06] Listening for IPv4 broadcast on: 27036
+[2026-05-24 15:23:06] Listening for connections on: 0.0.0.0:27036
+[2026-05-24 15:23:06] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-24 18:13:23] Client version: 1779479049
+[2026-05-24 18:13:23] Loaded client id: 54344964243178876
+[2026-05-24 18:13:23] Listening for IPv4 broadcast on: 27036
+[2026-05-24 18:13:23] Listening for connections on: 0.0.0.0:27036
+[2026-05-24 18:13:23] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-24 18:29:11] Client version: 1779479049
+[2026-05-24 18:29:11] Loaded client id: 54344964243178876
+[2026-05-24 18:29:11] Listening for IPv4 broadcast on: 27036
+[2026-05-24 18:29:11] Listening for connections on: 0.0.0.0:27036
+[2026-05-24 18:29:11] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-24 18:35:31] Client version: 1779479049
+[2026-05-24 18:35:31] Loaded client id: 54344964243178876
+[2026-05-24 18:35:31] Listening for IPv4 broadcast on: 27036
+[2026-05-24 18:35:31] Listening for connections on: 0.0.0.0:27036
+[2026-05-24 18:35:31] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-25 15:43:59] Client version: 1779479049
+[2026-05-25 15:43:59] Loaded client id: 54344964243178876
+[2026-05-25 15:43:59] Listening for IPv4 broadcast on: 27036
+[2026-05-25 15:43:59] Listening for connections on: 0.0.0.0:27036
+[2026-05-25 15:43:59] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-25 19:12:29] Client version: 1779479049
+[2026-05-25 19:12:29] Loaded client id: 54344964243178876
+[2026-05-25 19:12:29] Listening for IPv4 broadcast on: 27036
+[2026-05-25 19:12:29] Listening for connections on: 0.0.0.0:27036
+[2026-05-25 19:12:29] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-25 23:09:42] Client version: 1779479049
+[2026-05-25 23:09:42] Loaded client id: 54344964243178876
+[2026-05-25 23:09:42] Listening for IPv4 broadcast on: 27036
+[2026-05-25 23:09:42] Listening for connections on: 0.0.0.0:27036
+[2026-05-25 23:09:42] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-25 23:42:21] Client version: 1779479049
+[2026-05-25 23:42:21] Loaded client id: 54344964243178876
+[2026-05-25 23:42:21] Listening for IPv4 broadcast on: 27036
+[2026-05-25 23:42:21] Listening for connections on: 0.0.0.0:27036
+[2026-05-25 23:42:21] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-25 23:45:49] Client version: 1779479049
+[2026-05-25 23:45:49] Loaded client id: 54344964243178876
+[2026-05-25 23:45:49] Listening for IPv4 broadcast on: 27036
+[2026-05-25 23:45:49] Listening for connections on: 0.0.0.0:27036
+[2026-05-25 23:45:49] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-25 23:55:51] Client version: 1779479049
+[2026-05-25 23:55:51] Loaded client id: 54344964243178876
+[2026-05-25 23:55:51] Listening for IPv4 broadcast on: 27036
+[2026-05-25 23:55:51] Listening for connections on: 0.0.0.0:27036
+[2026-05-25 23:55:51] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-25 23:57:33] Client version: 1779479049
+[2026-05-25 23:57:33] Loaded client id: 54344964243178876
+[2026-05-25 23:57:33] Listening for IPv4 broadcast on: 27036
+[2026-05-25 23:57:33] Listening for connections on: 0.0.0.0:27036
+[2026-05-25 23:57:33] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-26 00:00:14] Client version: 1779479049
+[2026-05-26 00:00:14] Loaded client id: 54344964243178876
+[2026-05-26 00:00:14] Listening for IPv4 broadcast on: 27036
+[2026-05-26 00:00:14] Listening for connections on: 0.0.0.0:27036
+[2026-05-26 00:00:15] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-26 00:04:30] Client version: 1779479049
+[2026-05-26 00:04:30] Loaded client id: 54344964243178876
+[2026-05-26 00:04:30] Listening for IPv4 broadcast on: 27036
+[2026-05-26 00:04:30] Listening for connections on: 0.0.0.0:27036
+[2026-05-26 00:04:30] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-26 00:22:52] Client version: 1779479049
+[2026-05-26 00:22:52] Loaded client id: 54344964243178876
+[2026-05-26 00:22:52] Listening for IPv4 broadcast on: 27036
+[2026-05-26 00:22:52] Listening for connections on: 0.0.0.0:27036
+[2026-05-26 00:22:52] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-26 18:53:51] Client version: 1779479049
+[2026-05-26 18:53:51] Loaded client id: 54344964243178876
+[2026-05-26 18:53:51] Listening for IPv4 broadcast on: 27036
+[2026-05-26 18:53:51] Listening for connections on: 0.0.0.0:27036
+[2026-05-26 18:53:51] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-26 19:14:24] Client version: 1779479049
+[2026-05-26 19:14:24] Loaded client id: 54344964243178876
+[2026-05-26 19:14:24] Listening for IPv4 broadcast on: 27036
+[2026-05-26 19:14:24] Listening for connections on: 0.0.0.0:27036
+[2026-05-26 19:14:24] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-26 19:16:37] Client version: 1779486452
+[2026-05-26 19:16:37] Loaded client id: 54344964243178876
+[2026-05-26 19:16:37] Listening for IPv4 broadcast on: 27036
+[2026-05-26 19:16:37] Listening for connections on: 0.0.0.0:27036
+[2026-05-26 19:16:37] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-26 19:17:24] Client version: 1779479049
+[2026-05-26 19:17:24] Loaded client id: 54344964243178876
+[2026-05-26 19:17:24] Listening for IPv4 broadcast on: 27036
+[2026-05-26 19:17:24] Listening for connections on: 0.0.0.0:27036
+[2026-05-26 19:17:24] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-26 21:16:42] Client version: 1779479049
+[2026-05-26 21:16:42] Loaded client id: 54344964243178876
+[2026-05-26 21:16:42] Listening for IPv4 broadcast on: 27036
+[2026-05-26 21:16:42] Listening for connections on: 0.0.0.0:27036
+[2026-05-26 21:16:42] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-27 13:13:07] Client version: 1779479049
+[2026-05-27 13:13:07] Loaded client id: 54344964243178876
+[2026-05-27 13:13:07] Listening for IPv4 broadcast on: 27036
+[2026-05-27 13:13:07] Listening for connections on: 0.0.0.0:27036
+[2026-05-27 13:13:07] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+
+
+[2026-05-27 13:24:04] Client version: 1779840850
+[2026-05-27 13:24:04] Loaded client id: 54344964243178876
+[2026-05-27 13:24:04] Listening for IPv4 broadcast on: 27036
+[2026-05-27 13:24:04] Listening for connections on: 0.0.0.0:27036
+[2026-05-27 13:24:04] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""

@@ -1,0 +1,2476 @@
+
+
+[2026-02-26 20:42:08] Client version: 1769025840
+[2026-02-26 20:42:08] CSystemAudioController skipping on windows
+[2026-02-26 20:42:08] Initialized CSystemAudioController: 0
+[2026-02-26 20:42:08] CSystemAudioController handle volume keys: 0
+[2026-02-26 20:42:08] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-26 21:10:46] Client version: 1769025840
+[2026-02-26 21:10:46] CSystemAudioController skipping on windows
+[2026-02-26 21:10:46] Initialized CSystemAudioController: 0
+[2026-02-26 21:10:46] CSystemAudioController handle volume keys: 0
+[2026-02-26 21:10:46] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-26 23:20:29] Client version: 1769025840
+[2026-02-26 23:20:29] CSystemAudioController skipping on windows
+[2026-02-26 23:20:29] Initialized CSystemAudioController: 0
+[2026-02-26 23:20:29] CSystemAudioController handle volume keys: 0
+[2026-02-26 23:20:29] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-26 23:31:59] Client version: 1769025840
+[2026-02-26 23:31:59] CSystemAudioController skipping on windows
+[2026-02-26 23:31:59] Initialized CSystemAudioController: 0
+[2026-02-26 23:31:59] CSystemAudioController handle volume keys: 0
+[2026-02-26 23:31:59] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-27 00:26:25] Client version: 1769025840
+[2026-02-27 00:26:25] CSystemAudioController skipping on windows
+[2026-02-27 00:26:25] Initialized CSystemAudioController: 0
+[2026-02-27 00:26:25] CSystemAudioController handle volume keys: 0
+[2026-02-27 00:26:25] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-27 00:28:30] Client version: 1771977793
+[2026-02-27 00:28:30] CSystemAudioController skipping on windows
+[2026-02-27 00:28:30] SetMonoDownmixEnabled: 0
+[2026-02-27 00:28:30] Initialized CSystemAudioController: 0
+[2026-02-27 00:28:30] CSystemAudioController handle volume keys: 0
+[2026-02-27 00:28:30] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-27 00:45:01] Client version: 1771977793
+[2026-02-27 00:45:01] CSystemAudioController skipping on windows
+[2026-02-27 00:45:01] SetMonoDownmixEnabled: 0
+[2026-02-27 00:45:01] Initialized CSystemAudioController: 0
+[2026-02-27 00:45:01] CSystemAudioController handle volume keys: 0
+[2026-02-27 00:45:01] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-27 02:21:50] Client version: 1771977793
+[2026-02-27 02:21:50] CSystemAudioController skipping on windows
+[2026-02-27 02:21:50] SetMonoDownmixEnabled: 0
+[2026-02-27 02:21:50] Initialized CSystemAudioController: 0
+[2026-02-27 02:21:50] CSystemAudioController handle volume keys: 0
+[2026-02-27 02:21:50] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-27 03:14:15] Client version: 1771977793
+[2026-02-27 03:14:15] CSystemAudioController skipping on windows
+[2026-02-27 03:14:15] SetMonoDownmixEnabled: 0
+[2026-02-27 03:14:15] Initialized CSystemAudioController: 0
+[2026-02-27 03:14:15] CSystemAudioController handle volume keys: 0
+[2026-02-27 03:14:15] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-27 03:32:30] Client version: 1771977793
+[2026-02-27 03:32:30] CSystemAudioController skipping on windows
+[2026-02-27 03:32:30] SetMonoDownmixEnabled: 0
+[2026-02-27 03:32:30] Initialized CSystemAudioController: 0
+[2026-02-27 03:32:30] CSystemAudioController handle volume keys: 0
+[2026-02-27 03:32:30] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-27 11:12:29] Client version: 1772162887
+[2026-02-27 11:12:29] CSystemAudioController skipping on windows
+[2026-02-27 11:12:29] SetMonoDownmixEnabled: 0
+[2026-02-27 11:12:29] Initialized CSystemAudioController: 0
+[2026-02-27 11:12:29] CSystemAudioController handle volume keys: 0
+[2026-02-27 11:12:29] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-27 13:58:37] Client version: 1772162887
+[2026-02-27 13:58:37] CSystemAudioController skipping on windows
+[2026-02-27 13:58:37] SetMonoDownmixEnabled: 0
+[2026-02-27 13:58:37] Initialized CSystemAudioController: 0
+[2026-02-27 13:58:37] CSystemAudioController handle volume keys: 0
+[2026-02-27 13:58:37] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-27 15:57:51] Client version: 1772162887
+[2026-02-27 15:57:51] CSystemAudioController skipping on windows
+[2026-02-27 15:57:51] SetMonoDownmixEnabled: 0
+[2026-02-27 15:57:51] Initialized CSystemAudioController: 0
+[2026-02-27 15:57:51] CSystemAudioController handle volume keys: 0
+[2026-02-27 15:57:51] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-27 22:01:26] Client version: 1772162887
+[2026-02-27 22:01:26] CSystemAudioController skipping on windows
+[2026-02-27 22:01:26] SetMonoDownmixEnabled: 0
+[2026-02-27 22:01:26] Initialized CSystemAudioController: 0
+[2026-02-27 22:01:26] CSystemAudioController handle volume keys: 0
+[2026-02-27 22:01:26] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-28 10:52:41] Client version: 1772162887
+[2026-02-28 10:52:41] CSystemAudioController skipping on windows
+[2026-02-28 10:52:41] SetMonoDownmixEnabled: 0
+[2026-02-28 10:52:41] Initialized CSystemAudioController: 0
+[2026-02-28 10:52:41] CSystemAudioController handle volume keys: 0
+[2026-02-28 10:52:41] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-28 12:04:40] Client version: 1772162887
+[2026-02-28 12:04:40] CSystemAudioController skipping on windows
+[2026-02-28 12:04:40] SetMonoDownmixEnabled: 0
+[2026-02-28 12:04:40] Initialized CSystemAudioController: 0
+[2026-02-28 12:04:40] CSystemAudioController handle volume keys: 0
+[2026-02-28 12:04:40] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-28 12:20:27] Client version: 1772162887
+[2026-02-28 12:20:27] CSystemAudioController skipping on windows
+[2026-02-28 12:20:27] SetMonoDownmixEnabled: 0
+[2026-02-28 12:20:27] Initialized CSystemAudioController: 0
+[2026-02-28 12:20:27] CSystemAudioController handle volume keys: 0
+[2026-02-28 12:20:27] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-28 12:56:41] Client version: 1772162887
+[2026-02-28 12:56:41] CSystemAudioController skipping on windows
+[2026-02-28 12:56:41] SetMonoDownmixEnabled: 0
+[2026-02-28 12:56:41] Initialized CSystemAudioController: 0
+[2026-02-28 12:56:41] CSystemAudioController handle volume keys: 0
+[2026-02-28 12:56:41] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-28 13:11:57] Client version: 1772162887
+[2026-02-28 13:11:57] CSystemAudioController skipping on windows
+[2026-02-28 13:11:57] SetMonoDownmixEnabled: 0
+[2026-02-28 13:11:57] Initialized CSystemAudioController: 0
+[2026-02-28 13:11:57] CSystemAudioController handle volume keys: 0
+[2026-02-28 13:11:57] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-28 13:20:42] Client version: 1772162887
+[2026-02-28 13:20:42] CSystemAudioController skipping on windows
+[2026-02-28 13:20:42] SetMonoDownmixEnabled: 0
+[2026-02-28 13:20:42] Initialized CSystemAudioController: 0
+[2026-02-28 13:20:42] CSystemAudioController handle volume keys: 0
+[2026-02-28 13:20:42] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-28 13:45:11] Client version: 1772162887
+[2026-02-28 13:45:11] CSystemAudioController skipping on windows
+[2026-02-28 13:45:11] SetMonoDownmixEnabled: 0
+[2026-02-28 13:45:11] Initialized CSystemAudioController: 0
+[2026-02-28 13:45:11] CSystemAudioController handle volume keys: 0
+[2026-02-28 13:45:11] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-28 14:02:44] Client version: 1772162887
+[2026-02-28 14:02:44] CSystemAudioController skipping on windows
+[2026-02-28 14:02:44] SetMonoDownmixEnabled: 0
+[2026-02-28 14:02:44] Initialized CSystemAudioController: 0
+[2026-02-28 14:02:44] CSystemAudioController handle volume keys: 0
+[2026-02-28 14:02:44] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-02-28 18:11:32] Client version: 1772162887
+[2026-02-28 18:11:32] CSystemAudioController skipping on windows
+[2026-02-28 18:11:32] SetMonoDownmixEnabled: 0
+[2026-02-28 18:11:32] Initialized CSystemAudioController: 0
+[2026-02-28 18:11:32] CSystemAudioController handle volume keys: 0
+[2026-02-28 18:11:32] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-01 00:27:59] Client version: 1772162887
+[2026-03-01 00:27:59] CSystemAudioController skipping on windows
+[2026-03-01 00:27:59] SetMonoDownmixEnabled: 0
+[2026-03-01 00:27:59] Initialized CSystemAudioController: 0
+[2026-03-01 00:27:59] CSystemAudioController handle volume keys: 0
+[2026-03-01 00:27:59] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-01 00:40:19] Client version: 1772162887
+[2026-03-01 00:40:19] CSystemAudioController skipping on windows
+[2026-03-01 00:40:19] SetMonoDownmixEnabled: 0
+[2026-03-01 00:40:19] Initialized CSystemAudioController: 0
+[2026-03-01 00:40:19] CSystemAudioController handle volume keys: 0
+[2026-03-01 00:40:19] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-01 10:24:13] Client version: 1772162887
+[2026-03-01 10:24:13] CSystemAudioController skipping on windows
+[2026-03-01 10:24:13] SetMonoDownmixEnabled: 0
+[2026-03-01 10:24:13] Initialized CSystemAudioController: 0
+[2026-03-01 10:24:13] CSystemAudioController handle volume keys: 0
+[2026-03-01 10:24:13] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-01 22:18:56] Client version: 1772162887
+[2026-03-01 22:18:56] CSystemAudioController skipping on windows
+[2026-03-01 22:18:56] SetMonoDownmixEnabled: 0
+[2026-03-01 22:18:56] Initialized CSystemAudioController: 0
+[2026-03-01 22:18:56] CSystemAudioController handle volume keys: 0
+[2026-03-01 22:18:56] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-01 23:07:15] Client version: 1772162887
+[2026-03-01 23:07:15] CSystemAudioController skipping on windows
+[2026-03-01 23:07:15] SetMonoDownmixEnabled: 0
+[2026-03-01 23:07:15] Initialized CSystemAudioController: 0
+[2026-03-01 23:07:15] CSystemAudioController handle volume keys: 0
+[2026-03-01 23:07:15] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-01 23:29:43] Client version: 1772162887
+[2026-03-01 23:29:43] CSystemAudioController skipping on windows
+[2026-03-01 23:29:43] SetMonoDownmixEnabled: 0
+[2026-03-01 23:29:43] Initialized CSystemAudioController: 0
+[2026-03-01 23:29:43] CSystemAudioController handle volume keys: 0
+[2026-03-01 23:29:43] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-02 15:01:42] Client version: 1772162887
+[2026-03-02 15:01:42] CSystemAudioController skipping on windows
+[2026-03-02 15:01:42] SetMonoDownmixEnabled: 0
+[2026-03-02 15:01:42] Initialized CSystemAudioController: 0
+[2026-03-02 15:01:42] CSystemAudioController handle volume keys: 0
+[2026-03-02 15:01:42] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-02 20:38:48] Client version: 1772162887
+[2026-03-02 20:38:48] CSystemAudioController skipping on windows
+[2026-03-02 20:38:48] SetMonoDownmixEnabled: 0
+[2026-03-02 20:38:48] Initialized CSystemAudioController: 0
+[2026-03-02 20:38:48] CSystemAudioController handle volume keys: 0
+[2026-03-02 20:38:48] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-03 14:35:15] Client version: 1772502488
+[2026-03-03 14:35:15] CSystemAudioController skipping on windows
+[2026-03-03 14:35:15] SetMonoDownmixEnabled: 0
+[2026-03-03 14:35:15] Initialized CSystemAudioController: 0
+[2026-03-03 14:35:15] CSystemAudioController handle volume keys: 0
+[2026-03-03 14:35:15] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-04 00:43:52] Client version: 1772502488
+[2026-03-04 00:43:52] CSystemAudioController skipping on windows
+[2026-03-04 00:43:52] SetMonoDownmixEnabled: 0
+[2026-03-04 00:43:52] Initialized CSystemAudioController: 0
+[2026-03-04 00:43:52] CSystemAudioController handle volume keys: 0
+[2026-03-04 00:43:52] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-04 06:37:25] Client version: 1772502488
+[2026-03-04 06:37:25] CSystemAudioController skipping on windows
+[2026-03-04 06:37:25] SetMonoDownmixEnabled: 0
+[2026-03-04 06:37:25] Initialized CSystemAudioController: 0
+[2026-03-04 06:37:25] CSystemAudioController handle volume keys: 0
+[2026-03-04 06:37:25] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-04 14:02:50] Client version: 1772502488
+[2026-03-04 14:02:50] CSystemAudioController skipping on windows
+[2026-03-04 14:02:50] SetMonoDownmixEnabled: 0
+[2026-03-04 14:02:50] Initialized CSystemAudioController: 0
+[2026-03-04 14:02:50] CSystemAudioController handle volume keys: 0
+[2026-03-04 14:02:50] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-04 15:19:55] Client version: 1772502488
+[2026-03-04 15:19:55] CSystemAudioController skipping on windows
+[2026-03-04 15:19:55] SetMonoDownmixEnabled: 0
+[2026-03-04 15:19:55] Initialized CSystemAudioController: 0
+[2026-03-04 15:19:55] CSystemAudioController handle volume keys: 0
+[2026-03-04 15:19:55] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-04 19:35:31] Client version: 1772502488
+[2026-03-04 19:35:31] CSystemAudioController skipping on windows
+[2026-03-04 19:35:31] SetMonoDownmixEnabled: 0
+[2026-03-04 19:35:31] Initialized CSystemAudioController: 0
+[2026-03-04 19:35:31] CSystemAudioController handle volume keys: 0
+[2026-03-04 19:35:31] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-05 16:09:44] Client version: 1772686978
+[2026-03-05 16:09:44] CSystemAudioController skipping on windows
+[2026-03-05 16:09:44] SetMonoDownmixEnabled: 0
+[2026-03-05 16:09:44] Initialized CSystemAudioController: 0
+[2026-03-05 16:09:44] CSystemAudioController handle volume keys: 0
+[2026-03-05 16:09:44] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-06 14:33:11] Client version: 1772686978
+[2026-03-06 14:33:11] CSystemAudioController skipping on windows
+[2026-03-06 14:33:11] SetMonoDownmixEnabled: 0
+[2026-03-06 14:33:11] Initialized CSystemAudioController: 0
+[2026-03-06 14:33:11] CSystemAudioController handle volume keys: 0
+[2026-03-06 14:33:11] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-07 09:17:58] Client version: 1772686978
+[2026-03-07 09:17:58] CSystemAudioController skipping on windows
+[2026-03-07 09:17:58] SetMonoDownmixEnabled: 0
+[2026-03-07 09:17:58] Initialized CSystemAudioController: 0
+[2026-03-07 09:17:58] CSystemAudioController handle volume keys: 0
+[2026-03-07 09:17:58] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-07 18:35:57] Client version: 1772859008
+[2026-03-07 18:35:57] CSystemAudioController skipping on windows
+[2026-03-07 18:35:57] SetMonoDownmixEnabled: 0
+[2026-03-07 18:35:57] Initialized CSystemAudioController: 0
+[2026-03-07 18:35:57] CSystemAudioController handle volume keys: 0
+[2026-03-07 18:35:57] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-08 10:37:38] Client version: 1772859008
+[2026-03-08 10:37:38] CSystemAudioController skipping on windows
+[2026-03-08 10:37:38] SetMonoDownmixEnabled: 0
+[2026-03-08 10:37:38] Initialized CSystemAudioController: 0
+[2026-03-08 10:37:38] CSystemAudioController handle volume keys: 0
+[2026-03-08 10:37:38] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-08 10:48:11] Client version: 1772859008
+[2026-03-08 10:48:11] CSystemAudioController skipping on windows
+[2026-03-08 10:48:11] SetMonoDownmixEnabled: 0
+[2026-03-08 10:48:11] Initialized CSystemAudioController: 0
+[2026-03-08 10:48:11] CSystemAudioController handle volume keys: 0
+[2026-03-08 10:48:11] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-08 18:41:38] Client version: 1772859008
+[2026-03-08 18:41:38] CSystemAudioController skipping on windows
+[2026-03-08 18:41:38] SetMonoDownmixEnabled: 0
+[2026-03-08 18:41:38] Initialized CSystemAudioController: 0
+[2026-03-08 18:41:38] CSystemAudioController handle volume keys: 0
+[2026-03-08 18:41:38] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-09 14:54:25] Client version: 1772859008
+[2026-03-09 14:54:25] CSystemAudioController skipping on windows
+[2026-03-09 14:54:25] SetMonoDownmixEnabled: 0
+[2026-03-09 14:54:25] Initialized CSystemAudioController: 0
+[2026-03-09 14:54:25] CSystemAudioController handle volume keys: 0
+[2026-03-09 14:54:25] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-09 14:58:16] Client version: 1772859008
+[2026-03-09 14:58:16] CSystemAudioController skipping on windows
+[2026-03-09 14:58:16] SetMonoDownmixEnabled: 0
+[2026-03-09 14:58:16] Initialized CSystemAudioController: 0
+[2026-03-09 14:58:16] CSystemAudioController handle volume keys: 0
+[2026-03-09 14:58:16] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-10 19:04:48] Client version: 1773099986
+[2026-03-10 19:04:48] CSystemAudioController skipping on windows
+[2026-03-10 19:04:48] SetMonoDownmixEnabled: 0
+[2026-03-10 19:04:48] Initialized CSystemAudioController: 0
+[2026-03-10 19:04:48] CSystemAudioController handle volume keys: 0
+[2026-03-10 19:04:48] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-11 13:26:42] Client version: 1773168360
+[2026-03-11 13:26:42] CSystemAudioController skipping on windows
+[2026-03-11 13:26:42] SetMonoDownmixEnabled: 0
+[2026-03-11 13:26:42] Initialized CSystemAudioController: 0
+[2026-03-11 13:26:42] CSystemAudioController handle volume keys: 0
+[2026-03-11 13:26:42] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-12 16:23:11] Client version: 1773268655
+[2026-03-12 16:23:11] CSystemAudioController skipping on windows
+[2026-03-12 16:23:11] SetMonoDownmixEnabled: 0
+[2026-03-12 16:23:11] Initialized CSystemAudioController: 0
+[2026-03-12 16:23:11] CSystemAudioController handle volume keys: 0
+[2026-03-12 16:23:11] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-12 18:10:14] Client version: 1773268655
+[2026-03-12 18:10:14] CSystemAudioController skipping on windows
+[2026-03-12 18:10:14] SetMonoDownmixEnabled: 0
+[2026-03-12 18:10:14] Initialized CSystemAudioController: 0
+[2026-03-12 18:10:14] CSystemAudioController handle volume keys: 0
+[2026-03-12 18:10:14] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-12 18:45:49] Client version: 1773268655
+[2026-03-12 18:45:49] CSystemAudioController skipping on windows
+[2026-03-12 18:45:49] SetMonoDownmixEnabled: 0
+[2026-03-12 18:45:49] Initialized CSystemAudioController: 0
+[2026-03-12 18:45:49] CSystemAudioController handle volume keys: 0
+[2026-03-12 18:45:49] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-13 16:25:59] Client version: 1773268655
+[2026-03-13 16:25:59] CSystemAudioController skipping on windows
+[2026-03-13 16:25:59] SetMonoDownmixEnabled: 0
+[2026-03-13 16:25:59] Initialized CSystemAudioController: 0
+[2026-03-13 16:25:59] CSystemAudioController handle volume keys: 0
+[2026-03-13 16:25:59] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-13 20:57:06] Client version: 1773367340
+[2026-03-13 20:57:06] CSystemAudioController skipping on windows
+[2026-03-13 20:57:06] SetMonoDownmixEnabled: 0
+[2026-03-13 20:57:06] Initialized CSystemAudioController: 0
+[2026-03-13 20:57:06] CSystemAudioController handle volume keys: 0
+[2026-03-13 20:57:06] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-14 09:18:35] Client version: 1773367340
+[2026-03-14 09:18:35] CSystemAudioController skipping on windows
+[2026-03-14 09:18:35] SetMonoDownmixEnabled: 0
+[2026-03-14 09:18:35] Initialized CSystemAudioController: 0
+[2026-03-14 09:18:35] CSystemAudioController handle volume keys: 0
+[2026-03-14 09:18:35] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-14 14:21:37] Client version: 1773367340
+[2026-03-14 14:21:37] CSystemAudioController skipping on windows
+[2026-03-14 14:21:37] SetMonoDownmixEnabled: 0
+[2026-03-14 14:21:37] Initialized CSystemAudioController: 0
+[2026-03-14 14:21:37] CSystemAudioController handle volume keys: 0
+[2026-03-14 14:21:37] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-14 19:36:22] Client version: 1773367340
+[2026-03-14 19:36:22] CSystemAudioController skipping on windows
+[2026-03-14 19:36:22] SetMonoDownmixEnabled: 0
+[2026-03-14 19:36:22] Initialized CSystemAudioController: 0
+[2026-03-14 19:36:22] CSystemAudioController handle volume keys: 0
+[2026-03-14 19:36:22] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-14 20:05:41] Client version: 1773367340
+[2026-03-14 20:05:41] CSystemAudioController skipping on windows
+[2026-03-14 20:05:41] SetMonoDownmixEnabled: 0
+[2026-03-14 20:05:41] Initialized CSystemAudioController: 0
+[2026-03-14 20:05:41] CSystemAudioController handle volume keys: 0
+[2026-03-14 20:05:41] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-15 09:19:03] Client version: 1773367340
+[2026-03-15 09:19:03] CSystemAudioController skipping on windows
+[2026-03-15 09:19:03] SetMonoDownmixEnabled: 0
+[2026-03-15 09:19:03] Initialized CSystemAudioController: 0
+[2026-03-15 09:19:03] CSystemAudioController handle volume keys: 0
+[2026-03-15 09:19:03] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-15 19:50:45] Client version: 1773367340
+[2026-03-15 19:50:45] CSystemAudioController skipping on windows
+[2026-03-15 19:50:45] SetMonoDownmixEnabled: 0
+[2026-03-15 19:50:45] Initialized CSystemAudioController: 0
+[2026-03-15 19:50:45] CSystemAudioController handle volume keys: 0
+[2026-03-15 19:50:45] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-16 14:36:37] Client version: 1773367340
+[2026-03-16 14:36:37] CSystemAudioController skipping on windows
+[2026-03-16 14:36:37] SetMonoDownmixEnabled: 0
+[2026-03-16 14:36:37] Initialized CSystemAudioController: 0
+[2026-03-16 14:36:37] CSystemAudioController handle volume keys: 0
+[2026-03-16 14:36:37] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-16 16:03:34] Client version: 1773367340
+[2026-03-16 16:03:34] CSystemAudioController skipping on windows
+[2026-03-16 16:03:34] SetMonoDownmixEnabled: 0
+[2026-03-16 16:03:34] Initialized CSystemAudioController: 0
+[2026-03-16 16:03:34] CSystemAudioController handle volume keys: 0
+[2026-03-16 16:03:34] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-17 16:10:56] Client version: 1773367340
+[2026-03-17 16:10:56] CSystemAudioController skipping on windows
+[2026-03-17 16:10:56] SetMonoDownmixEnabled: 0
+[2026-03-17 16:10:56] Initialized CSystemAudioController: 0
+[2026-03-17 16:10:56] CSystemAudioController handle volume keys: 0
+[2026-03-17 16:10:56] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-18 13:22:12] Client version: 1773367340
+[2026-03-18 13:22:12] CSystemAudioController skipping on windows
+[2026-03-18 13:22:12] SetMonoDownmixEnabled: 0
+[2026-03-18 13:22:12] Initialized CSystemAudioController: 0
+[2026-03-18 13:22:12] CSystemAudioController handle volume keys: 0
+[2026-03-18 13:22:12] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-18 13:45:20] Client version: 1773367340
+[2026-03-18 13:45:20] CSystemAudioController skipping on windows
+[2026-03-18 13:45:20] SetMonoDownmixEnabled: 0
+[2026-03-18 13:45:20] Initialized CSystemAudioController: 0
+[2026-03-18 13:45:20] CSystemAudioController handle volume keys: 0
+[2026-03-18 13:45:20] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-18 13:53:41] Client version: 1773367340
+[2026-03-18 13:53:41] CSystemAudioController skipping on windows
+[2026-03-18 13:53:41] SetMonoDownmixEnabled: 0
+[2026-03-18 13:53:41] Initialized CSystemAudioController: 0
+[2026-03-18 13:53:41] CSystemAudioController handle volume keys: 0
+[2026-03-18 13:53:41] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-18 14:03:33] Client version: 1773367340
+[2026-03-18 14:03:33] CSystemAudioController skipping on windows
+[2026-03-18 14:03:33] SetMonoDownmixEnabled: 0
+[2026-03-18 14:03:33] Initialized CSystemAudioController: 0
+[2026-03-18 14:03:33] CSystemAudioController handle volume keys: 0
+[2026-03-18 14:03:33] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-18 20:06:05] Client version: 1773367340
+[2026-03-18 20:06:05] CSystemAudioController skipping on windows
+[2026-03-18 20:06:05] SetMonoDownmixEnabled: 0
+[2026-03-18 20:06:05] Initialized CSystemAudioController: 0
+[2026-03-18 20:06:05] CSystemAudioController handle volume keys: 0
+[2026-03-18 20:06:05] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-19 16:13:56] Client version: 1773367340
+[2026-03-19 16:13:56] CSystemAudioController skipping on windows
+[2026-03-19 16:13:56] SetMonoDownmixEnabled: 0
+[2026-03-19 16:13:56] Initialized CSystemAudioController: 0
+[2026-03-19 16:13:56] CSystemAudioController handle volume keys: 0
+[2026-03-19 16:13:56] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-20 16:01:03] Client version: 1773983034
+[2026-03-20 16:01:03] CSystemAudioController skipping on windows
+[2026-03-20 16:01:03] SetMonoDownmixEnabled: 0
+[2026-03-20 16:01:03] Initialized CSystemAudioController: 0
+[2026-03-20 16:01:03] CSystemAudioController handle volume keys: 0
+[2026-03-20 16:01:03] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-21 00:21:58] Client version: 1773983034
+[2026-03-21 00:21:58] CSystemAudioController skipping on windows
+[2026-03-21 00:21:58] SetMonoDownmixEnabled: 0
+[2026-03-21 00:21:58] Initialized CSystemAudioController: 0
+[2026-03-21 00:21:58] CSystemAudioController handle volume keys: 0
+[2026-03-21 00:21:58] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-21 09:41:14] Client version: 1773983034
+[2026-03-21 09:41:14] CSystemAudioController skipping on windows
+[2026-03-21 09:41:14] SetMonoDownmixEnabled: 0
+[2026-03-21 09:41:14] Initialized CSystemAudioController: 0
+[2026-03-21 09:41:14] CSystemAudioController handle volume keys: 0
+[2026-03-21 09:41:14] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-21 10:16:09] Client version: 1773983034
+[2026-03-21 10:16:09] CSystemAudioController skipping on windows
+[2026-03-21 10:16:09] SetMonoDownmixEnabled: 0
+[2026-03-21 10:16:09] Initialized CSystemAudioController: 0
+[2026-03-21 10:16:09] CSystemAudioController handle volume keys: 0
+[2026-03-21 10:16:09] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-21 10:49:08] Client version: 1773983034
+[2026-03-21 10:49:08] CSystemAudioController skipping on windows
+[2026-03-21 10:49:08] SetMonoDownmixEnabled: 0
+[2026-03-21 10:49:08] Initialized CSystemAudioController: 0
+[2026-03-21 10:49:08] CSystemAudioController handle volume keys: 0
+[2026-03-21 10:49:08] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-21 15:10:52] Client version: 1773983034
+[2026-03-21 15:10:52] CSystemAudioController skipping on windows
+[2026-03-21 15:10:52] SetMonoDownmixEnabled: 0
+[2026-03-21 15:10:52] Initialized CSystemAudioController: 0
+[2026-03-21 15:10:52] CSystemAudioController handle volume keys: 0
+[2026-03-21 15:10:52] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-21 19:48:18] Client version: 1773983034
+[2026-03-21 19:48:18] CSystemAudioController skipping on windows
+[2026-03-21 19:48:18] SetMonoDownmixEnabled: 0
+[2026-03-21 19:48:18] Initialized CSystemAudioController: 0
+[2026-03-21 19:48:18] CSystemAudioController handle volume keys: 0
+[2026-03-21 19:48:18] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 09:42:13] Client version: 1773983034
+[2026-03-22 09:42:13] CSystemAudioController skipping on windows
+[2026-03-22 09:42:13] SetMonoDownmixEnabled: 0
+[2026-03-22 09:42:13] Initialized CSystemAudioController: 0
+[2026-03-22 09:42:13] CSystemAudioController handle volume keys: 0
+[2026-03-22 09:42:13] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 10:07:55] Client version: 1773983034
+[2026-03-22 10:07:55] CSystemAudioController skipping on windows
+[2026-03-22 10:07:55] SetMonoDownmixEnabled: 0
+[2026-03-22 10:07:55] Initialized CSystemAudioController: 0
+[2026-03-22 10:07:55] CSystemAudioController handle volume keys: 0
+[2026-03-22 10:07:55] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 10:55:55] Client version: 1773983034
+[2026-03-22 10:55:55] CSystemAudioController skipping on windows
+[2026-03-22 10:55:55] SetMonoDownmixEnabled: 0
+[2026-03-22 10:55:55] Initialized CSystemAudioController: 0
+[2026-03-22 10:55:55] CSystemAudioController handle volume keys: 0
+[2026-03-22 10:55:55] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 12:39:54] Client version: 1773983034
+[2026-03-22 12:39:54] CSystemAudioController skipping on windows
+[2026-03-22 12:39:54] SetMonoDownmixEnabled: 0
+[2026-03-22 12:39:54] Initialized CSystemAudioController: 0
+[2026-03-22 12:39:54] CSystemAudioController handle volume keys: 0
+[2026-03-22 12:39:54] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 12:46:06] Client version: 1773983034
+[2026-03-22 12:46:06] CSystemAudioController skipping on windows
+[2026-03-22 12:46:06] SetMonoDownmixEnabled: 0
+[2026-03-22 12:46:06] Initialized CSystemAudioController: 0
+[2026-03-22 12:46:06] CSystemAudioController handle volume keys: 0
+[2026-03-22 12:46:06] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 12:57:11] Client version: 1773983034
+[2026-03-22 12:57:11] CSystemAudioController skipping on windows
+[2026-03-22 12:57:11] SetMonoDownmixEnabled: 0
+[2026-03-22 12:57:11] Initialized CSystemAudioController: 0
+[2026-03-22 12:57:11] CSystemAudioController handle volume keys: 0
+[2026-03-22 12:57:11] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 13:03:22] Client version: 1773983034
+[2026-03-22 13:03:22] CSystemAudioController skipping on windows
+[2026-03-22 13:03:22] SetMonoDownmixEnabled: 0
+[2026-03-22 13:03:22] Initialized CSystemAudioController: 0
+[2026-03-22 13:03:22] CSystemAudioController handle volume keys: 0
+[2026-03-22 13:03:22] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 13:10:33] Client version: 1773983034
+[2026-03-22 13:10:33] CSystemAudioController skipping on windows
+[2026-03-22 13:10:33] SetMonoDownmixEnabled: 0
+[2026-03-22 13:10:33] Initialized CSystemAudioController: 0
+[2026-03-22 13:10:33] CSystemAudioController handle volume keys: 0
+[2026-03-22 13:10:33] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 18:09:55] Client version: 1773983034
+[2026-03-22 18:09:55] CSystemAudioController skipping on windows
+[2026-03-22 18:09:55] SetMonoDownmixEnabled: 0
+[2026-03-22 18:09:55] Initialized CSystemAudioController: 0
+[2026-03-22 18:09:55] CSystemAudioController handle volume keys: 0
+[2026-03-22 18:09:55] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 18:36:48] Client version: 1773983034
+[2026-03-22 18:36:48] CSystemAudioController skipping on windows
+[2026-03-22 18:36:48] SetMonoDownmixEnabled: 0
+[2026-03-22 18:36:48] Initialized CSystemAudioController: 0
+[2026-03-22 18:36:48] CSystemAudioController handle volume keys: 0
+[2026-03-22 18:36:48] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 19:19:47] Client version: 1773983034
+[2026-03-22 19:19:47] CSystemAudioController skipping on windows
+[2026-03-22 19:19:47] SetMonoDownmixEnabled: 0
+[2026-03-22 19:19:47] Initialized CSystemAudioController: 0
+[2026-03-22 19:19:47] CSystemAudioController handle volume keys: 0
+[2026-03-22 19:19:47] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 23:06:08] Client version: 1773983034
+[2026-03-22 23:06:08] CSystemAudioController skipping on windows
+[2026-03-22 23:06:08] SetMonoDownmixEnabled: 0
+[2026-03-22 23:06:08] Initialized CSystemAudioController: 0
+[2026-03-22 23:06:08] CSystemAudioController handle volume keys: 0
+[2026-03-22 23:06:08] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 23:36:05] Client version: 1773983034
+[2026-03-22 23:36:05] CSystemAudioController skipping on windows
+[2026-03-22 23:36:05] SetMonoDownmixEnabled: 0
+[2026-03-22 23:36:05] Initialized CSystemAudioController: 0
+[2026-03-22 23:36:05] CSystemAudioController handle volume keys: 0
+[2026-03-22 23:36:05] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-22 23:55:47] Client version: 1773983034
+[2026-03-22 23:55:47] CSystemAudioController skipping on windows
+[2026-03-22 23:55:47] SetMonoDownmixEnabled: 0
+[2026-03-22 23:55:47] Initialized CSystemAudioController: 0
+[2026-03-22 23:55:47] CSystemAudioController handle volume keys: 0
+[2026-03-22 23:55:47] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-23 00:18:12] Client version: 1773983034
+[2026-03-23 00:18:12] CSystemAudioController skipping on windows
+[2026-03-23 00:18:12] SetMonoDownmixEnabled: 0
+[2026-03-23 00:18:12] Initialized CSystemAudioController: 0
+[2026-03-23 00:18:12] CSystemAudioController handle volume keys: 0
+[2026-03-23 00:18:12] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-23 14:53:20] Client version: 1773983034
+[2026-03-23 14:53:20] CSystemAudioController skipping on windows
+[2026-03-23 14:53:20] SetMonoDownmixEnabled: 0
+[2026-03-23 14:53:20] Initialized CSystemAudioController: 0
+[2026-03-23 14:53:20] CSystemAudioController handle volume keys: 0
+[2026-03-23 14:53:20] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-23 14:57:07] Client version: 1773983034
+[2026-03-23 14:57:07] CSystemAudioController skipping on windows
+[2026-03-23 14:57:07] SetMonoDownmixEnabled: 0
+[2026-03-23 14:57:07] Initialized CSystemAudioController: 0
+[2026-03-23 14:57:07] CSystemAudioController handle volume keys: 0
+[2026-03-23 14:57:07] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-23 15:06:03] Client version: 1773983034
+[2026-03-23 15:06:03] CSystemAudioController skipping on windows
+[2026-03-23 15:06:03] SetMonoDownmixEnabled: 0
+[2026-03-23 15:06:03] Initialized CSystemAudioController: 0
+[2026-03-23 15:06:03] CSystemAudioController handle volume keys: 0
+[2026-03-23 15:06:03] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-23 16:32:35] Client version: 1773983034
+[2026-03-23 16:32:35] CSystemAudioController skipping on windows
+[2026-03-23 16:32:35] SetMonoDownmixEnabled: 0
+[2026-03-23 16:32:35] Initialized CSystemAudioController: 0
+[2026-03-23 16:32:35] CSystemAudioController handle volume keys: 0
+[2026-03-23 16:32:35] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-23 16:35:44] Client version: 1773983034
+[2026-03-23 16:35:44] CSystemAudioController skipping on windows
+[2026-03-23 16:35:44] SetMonoDownmixEnabled: 0
+[2026-03-23 16:35:44] Initialized CSystemAudioController: 0
+[2026-03-23 16:35:44] CSystemAudioController handle volume keys: 0
+[2026-03-23 16:35:44] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-23 16:45:18] Client version: 1773983034
+[2026-03-23 16:45:18] CSystemAudioController skipping on windows
+[2026-03-23 16:45:18] SetMonoDownmixEnabled: 0
+[2026-03-23 16:45:18] Initialized CSystemAudioController: 0
+[2026-03-23 16:45:18] CSystemAudioController handle volume keys: 0
+[2026-03-23 16:45:18] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-23 17:00:14] Client version: 1773983034
+[2026-03-23 17:00:14] CSystemAudioController skipping on windows
+[2026-03-23 17:00:14] SetMonoDownmixEnabled: 0
+[2026-03-23 17:00:14] Initialized CSystemAudioController: 0
+[2026-03-23 17:00:14] CSystemAudioController handle volume keys: 0
+[2026-03-23 17:00:14] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-23 20:26:25] Client version: 1773983034
+[2026-03-23 20:26:25] CSystemAudioController skipping on windows
+[2026-03-23 20:26:25] SetMonoDownmixEnabled: 0
+[2026-03-23 20:26:25] Initialized CSystemAudioController: 0
+[2026-03-23 20:26:25] CSystemAudioController handle volume keys: 0
+[2026-03-23 20:26:25] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-23 20:50:31] Client version: 1773983034
+[2026-03-23 20:50:31] CSystemAudioController skipping on windows
+[2026-03-23 20:50:31] SetMonoDownmixEnabled: 0
+[2026-03-23 20:50:31] Initialized CSystemAudioController: 0
+[2026-03-23 20:50:31] CSystemAudioController handle volume keys: 0
+[2026-03-23 20:50:31] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-23 21:24:49] Client version: 1773983034
+[2026-03-23 21:24:49] CSystemAudioController skipping on windows
+[2026-03-23 21:24:49] SetMonoDownmixEnabled: 0
+[2026-03-23 21:24:49] Initialized CSystemAudioController: 0
+[2026-03-23 21:24:49] CSystemAudioController handle volume keys: 0
+[2026-03-23 21:24:49] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-23 22:04:59] Client version: 1773983034
+[2026-03-23 22:04:59] CSystemAudioController skipping on windows
+[2026-03-23 22:04:59] SetMonoDownmixEnabled: 0
+[2026-03-23 22:04:59] Initialized CSystemAudioController: 0
+[2026-03-23 22:04:59] CSystemAudioController handle volume keys: 0
+[2026-03-23 22:04:59] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-23 22:47:09] Client version: 1773983034
+[2026-03-23 22:47:09] CSystemAudioController skipping on windows
+[2026-03-23 22:47:09] SetMonoDownmixEnabled: 0
+[2026-03-23 22:47:09] Initialized CSystemAudioController: 0
+[2026-03-23 22:47:09] CSystemAudioController handle volume keys: 0
+[2026-03-23 22:47:09] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-24 14:55:18] Client version: 1773983034
+[2026-03-24 14:55:18] CSystemAudioController skipping on windows
+[2026-03-24 14:55:18] SetMonoDownmixEnabled: 0
+[2026-03-24 14:55:18] Initialized CSystemAudioController: 0
+[2026-03-24 14:55:18] CSystemAudioController handle volume keys: 0
+[2026-03-24 14:55:18] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-24 15:25:25] Client version: 1774306123
+[2026-03-24 15:25:25] CSystemAudioController skipping on windows
+[2026-03-24 15:25:25] SetMonoDownmixEnabled: 0
+[2026-03-24 15:25:25] Initialized CSystemAudioController: 0
+[2026-03-24 15:25:25] CSystemAudioController handle volume keys: 0
+[2026-03-24 15:25:25] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-24 15:52:14] Client version: 1774306123
+[2026-03-24 15:52:14] CSystemAudioController skipping on windows
+[2026-03-24 15:52:14] SetMonoDownmixEnabled: 0
+[2026-03-24 15:52:14] Initialized CSystemAudioController: 0
+[2026-03-24 15:52:14] CSystemAudioController handle volume keys: 0
+[2026-03-24 15:52:14] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-24 20:10:50] Client version: 1774306123
+[2026-03-24 20:10:50] CSystemAudioController skipping on windows
+[2026-03-24 20:10:50] SetMonoDownmixEnabled: 0
+[2026-03-24 20:10:50] Initialized CSystemAudioController: 0
+[2026-03-24 20:10:50] CSystemAudioController handle volume keys: 0
+[2026-03-24 20:10:50] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-25 13:27:16] Client version: 1774306123
+[2026-03-25 13:27:16] CSystemAudioController skipping on windows
+[2026-03-25 13:27:16] SetMonoDownmixEnabled: 0
+[2026-03-25 13:27:16] Initialized CSystemAudioController: 0
+[2026-03-25 13:27:16] CSystemAudioController handle volume keys: 0
+[2026-03-25 13:27:16] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-26 15:54:26] Client version: 1774488570
+[2026-03-26 15:54:26] CSystemAudioController skipping on windows
+[2026-03-26 15:54:26] SetMonoDownmixEnabled: 0
+[2026-03-26 15:54:26] Initialized CSystemAudioController: 0
+[2026-03-26 15:54:26] CSystemAudioController handle volume keys: 0
+[2026-03-26 15:54:26] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-27 15:55:06] Client version: 1774488570
+[2026-03-27 15:55:06] CSystemAudioController skipping on windows
+[2026-03-27 15:55:06] SetMonoDownmixEnabled: 0
+[2026-03-27 15:55:06] Initialized CSystemAudioController: 0
+[2026-03-27 15:55:06] CSystemAudioController handle volume keys: 0
+[2026-03-27 15:55:06] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-27 19:16:38] Client version: 1774577504
+[2026-03-27 19:16:38] CSystemAudioController skipping on windows
+[2026-03-27 19:16:38] SetMonoDownmixEnabled: 0
+[2026-03-27 19:16:38] Initialized CSystemAudioController: 0
+[2026-03-27 19:16:38] CSystemAudioController handle volume keys: 0
+[2026-03-27 19:16:38] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-28 08:14:56] Client version: 1774577504
+[2026-03-28 08:14:56] CSystemAudioController skipping on windows
+[2026-03-28 08:14:56] SetMonoDownmixEnabled: 0
+[2026-03-28 08:14:56] Initialized CSystemAudioController: 0
+[2026-03-28 08:14:56] CSystemAudioController handle volume keys: 0
+[2026-03-28 08:14:56] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-28 19:10:46] Client version: 1774577504
+[2026-03-28 19:10:46] CSystemAudioController skipping on windows
+[2026-03-28 19:10:46] SetMonoDownmixEnabled: 0
+[2026-03-28 19:10:46] Initialized CSystemAudioController: 0
+[2026-03-28 19:10:46] CSystemAudioController handle volume keys: 0
+[2026-03-28 19:10:46] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-29 11:44:11] Client version: 1774577504
+[2026-03-29 11:44:11] CSystemAudioController skipping on windows
+[2026-03-29 11:44:11] SetMonoDownmixEnabled: 0
+[2026-03-29 11:44:11] Initialized CSystemAudioController: 0
+[2026-03-29 11:44:11] CSystemAudioController handle volume keys: 0
+[2026-03-29 11:44:11] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-30 14:39:36] Client version: 1774577504
+[2026-03-30 14:39:36] CSystemAudioController skipping on windows
+[2026-03-30 14:39:36] SetMonoDownmixEnabled: 0
+[2026-03-30 14:39:36] Initialized CSystemAudioController: 0
+[2026-03-30 14:39:36] CSystemAudioController handle volume keys: 0
+[2026-03-30 14:39:36] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-31 14:58:28] Client version: 1774577504
+[2026-03-31 14:58:28] CSystemAudioController skipping on windows
+[2026-03-31 14:58:28] SetMonoDownmixEnabled: 0
+[2026-03-31 14:58:28] Initialized CSystemAudioController: 0
+[2026-03-31 14:58:28] CSystemAudioController handle volume keys: 0
+[2026-03-31 14:58:28] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-31 20:25:44] Client version: 1774577504
+[2026-03-31 20:25:44] CSystemAudioController skipping on windows
+[2026-03-31 20:25:44] SetMonoDownmixEnabled: 0
+[2026-03-31 20:25:44] Initialized CSystemAudioController: 0
+[2026-03-31 20:25:44] CSystemAudioController handle volume keys: 0
+[2026-03-31 20:25:44] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-03-31 22:43:50] Client version: 1774577504
+[2026-03-31 22:43:50] CSystemAudioController skipping on windows
+[2026-03-31 22:43:50] SetMonoDownmixEnabled: 0
+[2026-03-31 22:43:50] Initialized CSystemAudioController: 0
+[2026-03-31 22:43:50] CSystemAudioController handle volume keys: 0
+[2026-03-31 22:43:50] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-01 13:09:16] Client version: 1774577504
+[2026-04-01 13:09:16] CSystemAudioController skipping on windows
+[2026-04-01 13:09:16] SetMonoDownmixEnabled: 0
+[2026-04-01 13:09:16] Initialized CSystemAudioController: 0
+[2026-04-01 13:09:16] CSystemAudioController handle volume keys: 0
+[2026-04-01 13:09:16] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-01 21:15:00] Client version: 1774577504
+[2026-04-01 21:15:00] CSystemAudioController skipping on windows
+[2026-04-01 21:15:00] SetMonoDownmixEnabled: 0
+[2026-04-01 21:15:00] Initialized CSystemAudioController: 0
+[2026-04-01 21:15:00] CSystemAudioController handle volume keys: 0
+[2026-04-01 21:15:00] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-02 09:12:05] Client version: 1774577504
+[2026-04-02 09:12:05] CSystemAudioController skipping on windows
+[2026-04-02 09:12:05] SetMonoDownmixEnabled: 0
+[2026-04-02 09:12:05] Initialized CSystemAudioController: 0
+[2026-04-02 09:12:05] CSystemAudioController handle volume keys: 0
+[2026-04-02 09:12:05] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-02 09:14:42] Client version: 1775086565
+[2026-04-02 09:14:42] CSystemAudioController skipping on windows
+[2026-04-02 09:14:42] SetMonoDownmixEnabled: 0
+[2026-04-02 09:14:42] Initialized CSystemAudioController: 0
+[2026-04-02 09:14:42] CSystemAudioController handle volume keys: 0
+[2026-04-02 09:14:42] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-02 19:44:49] Client version: 1775086565
+[2026-04-02 19:44:49] CSystemAudioController skipping on windows
+[2026-04-02 19:44:49] SetMonoDownmixEnabled: 0
+[2026-04-02 19:44:49] Initialized CSystemAudioController: 0
+[2026-04-02 19:44:49] CSystemAudioController handle volume keys: 0
+[2026-04-02 19:44:49] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-03 09:29:48] Client version: 1775086565
+[2026-04-03 09:29:48] CSystemAudioController skipping on windows
+[2026-04-03 09:29:48] SetMonoDownmixEnabled: 0
+[2026-04-03 09:29:48] Initialized CSystemAudioController: 0
+[2026-04-03 09:29:48] CSystemAudioController handle volume keys: 0
+[2026-04-03 09:29:48] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-03 20:14:14] Client version: 1775175108
+[2026-04-03 20:14:14] CSystemAudioController skipping on windows
+[2026-04-03 20:14:14] SetMonoDownmixEnabled: 0
+[2026-04-03 20:14:14] Initialized CSystemAudioController: 0
+[2026-04-03 20:14:14] CSystemAudioController handle volume keys: 0
+[2026-04-03 20:14:14] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-04 11:10:27] Client version: 1775175108
+[2026-04-04 11:10:27] CSystemAudioController skipping on windows
+[2026-04-04 11:10:27] SetMonoDownmixEnabled: 0
+[2026-04-04 11:10:27] Initialized CSystemAudioController: 0
+[2026-04-04 11:10:27] CSystemAudioController handle volume keys: 0
+[2026-04-04 11:10:27] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-04 20:20:15] Client version: 1775175108
+[2026-04-04 20:20:15] CSystemAudioController skipping on windows
+[2026-04-04 20:20:15] SetMonoDownmixEnabled: 0
+[2026-04-04 20:20:15] Initialized CSystemAudioController: 0
+[2026-04-04 20:20:15] CSystemAudioController handle volume keys: 0
+[2026-04-04 20:20:15] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-05 13:26:14] Client version: 1775175108
+[2026-04-05 13:26:14] CSystemAudioController skipping on windows
+[2026-04-05 13:26:14] SetMonoDownmixEnabled: 0
+[2026-04-05 13:26:14] Initialized CSystemAudioController: 0
+[2026-04-05 13:26:14] CSystemAudioController handle volume keys: 0
+[2026-04-05 13:26:14] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-05 18:15:52] Client version: 1775175108
+[2026-04-05 18:15:52] CSystemAudioController skipping on windows
+[2026-04-05 18:15:52] SetMonoDownmixEnabled: 0
+[2026-04-05 18:15:52] Initialized CSystemAudioController: 0
+[2026-04-05 18:15:52] CSystemAudioController handle volume keys: 0
+[2026-04-05 18:15:52] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-06 10:25:57] Client version: 1775175108
+[2026-04-06 10:25:57] CSystemAudioController skipping on windows
+[2026-04-06 10:25:57] SetMonoDownmixEnabled: 0
+[2026-04-06 10:25:57] Initialized CSystemAudioController: 0
+[2026-04-06 10:25:57] CSystemAudioController handle volume keys: 0
+[2026-04-06 10:25:57] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-07 09:32:17] Client version: 1775175108
+[2026-04-07 09:32:17] CSystemAudioController skipping on windows
+[2026-04-07 09:32:17] SetMonoDownmixEnabled: 0
+[2026-04-07 09:32:17] Initialized CSystemAudioController: 0
+[2026-04-07 09:32:17] CSystemAudioController handle volume keys: 0
+[2026-04-07 09:32:17] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-07 20:56:12] Client version: 1775525170
+[2026-04-07 20:56:12] CSystemAudioController skipping on windows
+[2026-04-07 20:56:12] SetMonoDownmixEnabled: 0
+[2026-04-07 20:56:12] Initialized CSystemAudioController: 0
+[2026-04-07 20:56:12] CSystemAudioController handle volume keys: 0
+[2026-04-07 20:56:12] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-08 14:04:54] Client version: 1775525170
+[2026-04-08 14:04:54] CSystemAudioController skipping on windows
+[2026-04-08 14:04:54] SetMonoDownmixEnabled: 0
+[2026-04-08 14:04:54] Initialized CSystemAudioController: 0
+[2026-04-08 14:04:54] CSystemAudioController handle volume keys: 0
+[2026-04-08 14:04:54] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-09 16:36:40] Client version: 1775605734
+[2026-04-09 16:36:40] CSystemAudioController skipping on windows
+[2026-04-09 16:36:40] SetMonoDownmixEnabled: 0
+[2026-04-09 16:36:40] Initialized CSystemAudioController: 0
+[2026-04-09 16:36:40] CSystemAudioController handle volume keys: 0
+[2026-04-09 16:36:40] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-09 19:54:15] Client version: 1775703228
+[2026-04-09 19:54:15] CSystemAudioController skipping on windows
+[2026-04-09 19:54:15] SetMonoDownmixEnabled: 0
+[2026-04-09 19:54:15] Initialized CSystemAudioController: 0
+[2026-04-09 19:54:15] CSystemAudioController handle volume keys: 0
+[2026-04-09 19:54:15] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-10 13:53:45] Client version: 1775703228
+[2026-04-10 13:53:45] CSystemAudioController skipping on windows
+[2026-04-10 13:53:45] SetMonoDownmixEnabled: 0
+[2026-04-10 13:53:45] Initialized CSystemAudioController: 0
+[2026-04-10 13:53:45] CSystemAudioController handle volume keys: 0
+[2026-04-10 13:53:45] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-10 17:26:29] Client version: 1775703228
+[2026-04-10 17:26:29] CSystemAudioController skipping on windows
+[2026-04-10 17:26:29] SetMonoDownmixEnabled: 0
+[2026-04-10 17:26:29] Initialized CSystemAudioController: 0
+[2026-04-10 17:26:29] CSystemAudioController handle volume keys: 0
+[2026-04-10 17:26:29] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-11 09:13:40] Client version: 1775703228
+[2026-04-11 09:13:40] CSystemAudioController skipping on windows
+[2026-04-11 09:13:40] SetMonoDownmixEnabled: 0
+[2026-04-11 09:13:40] Initialized CSystemAudioController: 0
+[2026-04-11 09:13:40] CSystemAudioController handle volume keys: 0
+[2026-04-11 09:13:40] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-11 17:41:30] Client version: 1775858166
+[2026-04-11 17:41:30] CSystemAudioController skipping on windows
+[2026-04-11 17:41:30] SetMonoDownmixEnabled: 0
+[2026-04-11 17:41:30] Initialized CSystemAudioController: 0
+[2026-04-11 17:41:30] CSystemAudioController handle volume keys: 0
+[2026-04-11 17:41:30] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-12 10:47:49] Client version: 1775858166
+[2026-04-12 10:47:49] CSystemAudioController skipping on windows
+[2026-04-12 10:47:49] SetMonoDownmixEnabled: 0
+[2026-04-12 10:47:49] Initialized CSystemAudioController: 0
+[2026-04-12 10:47:49] CSystemAudioController handle volume keys: 0
+[2026-04-12 10:47:49] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-13 14:01:44] Client version: 1775946595
+[2026-04-13 14:01:44] CSystemAudioController skipping on windows
+[2026-04-13 14:01:44] SetMonoDownmixEnabled: 0
+[2026-04-13 14:01:44] Initialized CSystemAudioController: 0
+[2026-04-13 14:01:44] CSystemAudioController handle volume keys: 0
+[2026-04-13 14:01:44] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-13 17:51:46] Client version: 1775946595
+[2026-04-13 17:51:46] CSystemAudioController skipping on windows
+[2026-04-13 17:51:46] SetMonoDownmixEnabled: 0
+[2026-04-13 17:51:46] Initialized CSystemAudioController: 0
+[2026-04-13 17:51:46] CSystemAudioController handle volume keys: 0
+[2026-04-13 17:51:46] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-14 15:35:07] Client version: 1775946595
+[2026-04-14 15:35:07] CSystemAudioController skipping on windows
+[2026-04-14 15:35:07] SetMonoDownmixEnabled: 0
+[2026-04-14 15:35:07] Initialized CSystemAudioController: 0
+[2026-04-14 15:35:07] CSystemAudioController handle volume keys: 0
+[2026-04-14 15:35:07] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-15 14:04:23] Client version: 1775946595
+[2026-04-15 14:04:23] CSystemAudioController skipping on windows
+[2026-04-15 14:04:23] SetMonoDownmixEnabled: 0
+[2026-04-15 14:04:23] Initialized CSystemAudioController: 0
+[2026-04-15 14:04:23] CSystemAudioController handle volume keys: 0
+[2026-04-15 14:04:23] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-15 19:06:01] Client version: 1775946595
+[2026-04-15 19:06:01] CSystemAudioController skipping on windows
+[2026-04-15 19:06:01] SetMonoDownmixEnabled: 0
+[2026-04-15 19:06:01] Initialized CSystemAudioController: 0
+[2026-04-15 19:06:01] CSystemAudioController handle volume keys: 0
+[2026-04-15 19:06:01] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-16 15:46:49] Client version: 1775946595
+[2026-04-16 15:46:49] CSystemAudioController skipping on windows
+[2026-04-16 15:46:49] SetMonoDownmixEnabled: 0
+[2026-04-16 15:46:49] Initialized CSystemAudioController: 0
+[2026-04-16 15:46:49] CSystemAudioController handle volume keys: 0
+[2026-04-16 15:46:49] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-16 17:29:44] Client version: 1775946595
+[2026-04-16 17:29:44] CSystemAudioController skipping on windows
+[2026-04-16 17:29:44] SetMonoDownmixEnabled: 0
+[2026-04-16 17:29:44] Initialized CSystemAudioController: 0
+[2026-04-16 17:29:44] CSystemAudioController handle volume keys: 0
+[2026-04-16 17:29:44] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-16 20:20:12] Client version: 1775946595
+[2026-04-16 20:20:12] CSystemAudioController skipping on windows
+[2026-04-16 20:20:12] SetMonoDownmixEnabled: 0
+[2026-04-16 20:20:12] Initialized CSystemAudioController: 0
+[2026-04-16 20:20:12] CSystemAudioController handle volume keys: 0
+[2026-04-16 20:20:12] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-16 22:54:41] Client version: 1775946595
+[2026-04-16 22:54:41] CSystemAudioController skipping on windows
+[2026-04-16 22:54:41] SetMonoDownmixEnabled: 0
+[2026-04-16 22:54:41] Initialized CSystemAudioController: 0
+[2026-04-16 22:54:41] CSystemAudioController handle volume keys: 0
+[2026-04-16 22:54:41] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-17 15:43:34] Client version: 1775946595
+[2026-04-17 15:43:34] CSystemAudioController skipping on windows
+[2026-04-17 15:43:34] SetMonoDownmixEnabled: 0
+[2026-04-17 15:43:34] Initialized CSystemAudioController: 0
+[2026-04-17 15:43:34] CSystemAudioController handle volume keys: 0
+[2026-04-17 15:43:34] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-17 20:01:27] Client version: 1776387948
+[2026-04-17 20:01:27] CSystemAudioController skipping on windows
+[2026-04-17 20:01:27] SetMonoDownmixEnabled: 0
+[2026-04-17 20:01:27] Initialized CSystemAudioController: 0
+[2026-04-17 20:01:27] CSystemAudioController handle volume keys: 0
+[2026-04-17 20:01:27] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-18 10:07:09] Client version: 1776387948
+[2026-04-18 10:07:09] CSystemAudioController skipping on windows
+[2026-04-18 10:07:09] SetMonoDownmixEnabled: 0
+[2026-04-18 10:07:09] Initialized CSystemAudioController: 0
+[2026-04-18 10:07:09] CSystemAudioController handle volume keys: 0
+[2026-04-18 10:07:09] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-18 16:41:42] Client version: 1776387948
+[2026-04-18 16:41:42] CSystemAudioController skipping on windows
+[2026-04-18 16:41:42] SetMonoDownmixEnabled: 0
+[2026-04-18 16:41:42] Initialized CSystemAudioController: 0
+[2026-04-18 16:41:42] CSystemAudioController handle volume keys: 0
+[2026-04-18 16:41:42] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-18 17:13:08] Client version: 1776387948
+[2026-04-18 17:13:08] CSystemAudioController skipping on windows
+[2026-04-18 17:13:08] SetMonoDownmixEnabled: 0
+[2026-04-18 17:13:08] Initialized CSystemAudioController: 0
+[2026-04-18 17:13:08] CSystemAudioController handle volume keys: 0
+[2026-04-18 17:13:08] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-18 18:45:22] Client version: 1776387948
+[2026-04-18 18:45:22] CSystemAudioController skipping on windows
+[2026-04-18 18:45:22] SetMonoDownmixEnabled: 0
+[2026-04-18 18:45:22] Initialized CSystemAudioController: 0
+[2026-04-18 18:45:22] CSystemAudioController handle volume keys: 0
+[2026-04-18 18:45:22] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-19 10:24:05] Client version: 1776387948
+[2026-04-19 10:24:05] CSystemAudioController skipping on windows
+[2026-04-19 10:24:05] SetMonoDownmixEnabled: 0
+[2026-04-19 10:24:05] Initialized CSystemAudioController: 0
+[2026-04-19 10:24:05] CSystemAudioController handle volume keys: 0
+[2026-04-19 10:24:05] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-19 19:05:55] Client version: 1776387948
+[2026-04-19 19:05:55] CSystemAudioController skipping on windows
+[2026-04-19 19:05:55] SetMonoDownmixEnabled: 0
+[2026-04-19 19:05:55] Initialized CSystemAudioController: 0
+[2026-04-19 19:05:55] CSystemAudioController handle volume keys: 0
+[2026-04-19 19:05:55] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-20 14:56:20] Client version: 1776387948
+[2026-04-20 14:56:20] CSystemAudioController skipping on windows
+[2026-04-20 14:56:20] SetMonoDownmixEnabled: 0
+[2026-04-20 14:56:20] Initialized CSystemAudioController: 0
+[2026-04-20 14:56:20] CSystemAudioController handle volume keys: 0
+[2026-04-20 14:56:20] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-21 14:32:55] Client version: 1776387948
+[2026-04-21 14:32:55] CSystemAudioController skipping on windows
+[2026-04-21 14:32:55] SetMonoDownmixEnabled: 0
+[2026-04-21 14:32:55] Initialized CSystemAudioController: 0
+[2026-04-21 14:32:55] CSystemAudioController handle volume keys: 0
+[2026-04-21 14:32:55] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-21 17:30:00] Client version: 1776728408
+[2026-04-21 17:30:00] CSystemAudioController skipping on windows
+[2026-04-21 17:30:00] SetMonoDownmixEnabled: 0
+[2026-04-21 17:30:00] Initialized CSystemAudioController: 0
+[2026-04-21 17:30:00] CSystemAudioController handle volume keys: 0
+[2026-04-21 17:30:00] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-22 13:59:31] Client version: 1776728408
+[2026-04-22 13:59:31] CSystemAudioController skipping on windows
+[2026-04-22 13:59:31] SetMonoDownmixEnabled: 0
+[2026-04-22 13:59:31] Initialized CSystemAudioController: 0
+[2026-04-22 13:59:31] CSystemAudioController handle volume keys: 0
+[2026-04-22 13:59:31] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-22 15:54:25] Client version: 1776812172
+[2026-04-22 15:54:25] CSystemAudioController skipping on windows
+[2026-04-22 15:54:25] SetMonoDownmixEnabled: 0
+[2026-04-22 15:54:25] Initialized CSystemAudioController: 0
+[2026-04-22 15:54:25] CSystemAudioController handle volume keys: 0
+[2026-04-22 15:54:25] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-22 19:15:05] Client version: 1776812172
+[2026-04-22 19:15:05] CSystemAudioController skipping on windows
+[2026-04-22 19:15:05] SetMonoDownmixEnabled: 0
+[2026-04-22 19:15:05] Initialized CSystemAudioController: 0
+[2026-04-22 19:15:05] CSystemAudioController handle volume keys: 0
+[2026-04-22 19:15:05] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-23 14:09:49] Client version: 1776812172
+[2026-04-23 14:09:49] CSystemAudioController skipping on windows
+[2026-04-23 14:09:49] SetMonoDownmixEnabled: 0
+[2026-04-23 14:09:49] Initialized CSystemAudioController: 0
+[2026-04-23 14:09:49] CSystemAudioController handle volume keys: 0
+[2026-04-23 14:09:49] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-23 19:50:42] Client version: 1776812172
+[2026-04-23 19:50:42] CSystemAudioController skipping on windows
+[2026-04-23 19:50:42] SetMonoDownmixEnabled: 0
+[2026-04-23 19:50:42] Initialized CSystemAudioController: 0
+[2026-04-23 19:50:42] CSystemAudioController handle volume keys: 0
+[2026-04-23 19:50:42] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-24 12:54:36] Client version: 1776812172
+[2026-04-24 12:54:36] CSystemAudioController skipping on windows
+[2026-04-24 12:54:36] SetMonoDownmixEnabled: 0
+[2026-04-24 12:54:36] Initialized CSystemAudioController: 0
+[2026-04-24 12:54:36] CSystemAudioController handle volume keys: 0
+[2026-04-24 12:54:36] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-25 11:08:13] Client version: 1776812172
+[2026-04-25 11:08:13] CSystemAudioController skipping on windows
+[2026-04-25 11:08:13] SetMonoDownmixEnabled: 0
+[2026-04-25 11:08:13] Initialized CSystemAudioController: 0
+[2026-04-25 11:08:13] CSystemAudioController handle volume keys: 0
+[2026-04-25 11:08:13] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-25 19:25:58] Client version: 1777083821
+[2026-04-25 19:25:58] CSystemAudioController skipping on windows
+[2026-04-25 19:25:58] SetMonoDownmixEnabled: 0
+[2026-04-25 19:25:58] Initialized CSystemAudioController: 0
+[2026-04-25 19:25:58] CSystemAudioController handle volume keys: 0
+[2026-04-25 19:25:58] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-25 19:46:09] Client version: 1777083821
+[2026-04-25 19:46:09] CSystemAudioController skipping on windows
+[2026-04-25 19:46:09] SetMonoDownmixEnabled: 0
+[2026-04-25 19:46:09] Initialized CSystemAudioController: 0
+[2026-04-25 19:46:09] CSystemAudioController handle volume keys: 0
+[2026-04-25 19:46:09] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-26 09:46:26] Client version: 1777083821
+[2026-04-26 09:46:26] CSystemAudioController skipping on windows
+[2026-04-26 09:46:26] SetMonoDownmixEnabled: 0
+[2026-04-26 09:46:26] Initialized CSystemAudioController: 0
+[2026-04-26 09:46:26] CSystemAudioController handle volume keys: 0
+[2026-04-26 09:46:26] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-26 20:07:41] Client version: 1777083821
+[2026-04-26 20:07:41] CSystemAudioController skipping on windows
+[2026-04-26 20:07:41] SetMonoDownmixEnabled: 0
+[2026-04-26 20:07:41] Initialized CSystemAudioController: 0
+[2026-04-26 20:07:41] CSystemAudioController handle volume keys: 0
+[2026-04-26 20:07:41] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-27 14:45:20] Client version: 1777083821
+[2026-04-27 14:45:20] CSystemAudioController skipping on windows
+[2026-04-27 14:45:20] SetMonoDownmixEnabled: 0
+[2026-04-27 14:45:20] Initialized CSystemAudioController: 0
+[2026-04-27 14:45:20] CSystemAudioController handle volume keys: 0
+[2026-04-27 14:45:20] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-28 15:35:03] Client version: 1777083821
+[2026-04-28 15:35:03] CSystemAudioController skipping on windows
+[2026-04-28 15:35:03] SetMonoDownmixEnabled: 0
+[2026-04-28 15:35:03] Initialized CSystemAudioController: 0
+[2026-04-28 15:35:03] CSystemAudioController handle volume keys: 0
+[2026-04-28 15:35:03] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-28 19:47:33] Client version: 1777345799
+[2026-04-28 19:47:33] CSystemAudioController skipping on windows
+[2026-04-28 19:47:33] SetMonoDownmixEnabled: 0
+[2026-04-28 19:47:33] Initialized CSystemAudioController: 0
+[2026-04-28 19:47:33] CSystemAudioController handle volume keys: 0
+[2026-04-28 19:47:33] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-28 22:34:38] Client version: 1777345799
+[2026-04-28 22:34:38] CSystemAudioController skipping on windows
+[2026-04-28 22:34:38] SetMonoDownmixEnabled: 0
+[2026-04-28 22:34:38] Initialized CSystemAudioController: 0
+[2026-04-28 22:34:38] CSystemAudioController handle volume keys: 0
+[2026-04-28 22:34:38] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-28 22:37:44] Client version: 1777345799
+[2026-04-28 22:37:44] CSystemAudioController skipping on windows
+[2026-04-28 22:37:44] SetMonoDownmixEnabled: 0
+[2026-04-28 22:37:44] Initialized CSystemAudioController: 0
+[2026-04-28 22:37:44] CSystemAudioController handle volume keys: 0
+[2026-04-28 22:37:44] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-29 00:24:42] Client version: 1777345799
+[2026-04-29 00:24:42] CSystemAudioController skipping on windows
+[2026-04-29 00:24:42] SetMonoDownmixEnabled: 0
+[2026-04-29 00:24:42] Initialized CSystemAudioController: 0
+[2026-04-29 00:24:42] CSystemAudioController handle volume keys: 0
+[2026-04-29 00:24:42] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-29 12:56:45] Client version: 1777411435
+[2026-04-29 12:56:45] CSystemAudioController skipping on windows
+[2026-04-29 12:56:45] SetMonoDownmixEnabled: 0
+[2026-04-29 12:56:45] Initialized CSystemAudioController: 0
+[2026-04-29 12:56:45] CSystemAudioController handle volume keys: 0
+[2026-04-29 12:56:45] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-29 20:46:15] Client version: 1777411435
+[2026-04-29 20:46:15] CSystemAudioController skipping on windows
+[2026-04-29 20:46:15] SetMonoDownmixEnabled: 0
+[2026-04-29 20:46:15] Initialized CSystemAudioController: 0
+[2026-04-29 20:46:15] CSystemAudioController handle volume keys: 0
+[2026-04-29 20:46:15] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-04-30 15:41:04] Client version: 1777411435
+[2026-04-30 15:41:04] CSystemAudioController skipping on windows
+[2026-04-30 15:41:04] SetMonoDownmixEnabled: 0
+[2026-04-30 15:41:04] Initialized CSystemAudioController: 0
+[2026-04-30 15:41:04] CSystemAudioController handle volume keys: 0
+[2026-04-30 15:41:04] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-03 20:28:08] Client version: 1777518510
+[2026-05-03 20:28:08] CSystemAudioController skipping on windows
+[2026-05-03 20:28:08] SetMonoDownmixEnabled: 0
+[2026-05-03 20:28:08] Initialized CSystemAudioController: 0
+[2026-05-03 20:28:08] CSystemAudioController handle volume keys: 0
+[2026-05-03 20:28:08] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-03 21:55:34] Client version: 1777686219
+[2026-05-03 21:55:34] CSystemAudioController skipping on windows
+[2026-05-03 21:55:34] SetMonoDownmixEnabled: 0
+[2026-05-03 21:55:34] Initialized CSystemAudioController: 0
+[2026-05-03 21:55:34] CSystemAudioController handle volume keys: 0
+[2026-05-03 21:55:34] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-04 11:36:23] Client version: 1777686219
+[2026-05-04 11:36:23] CSystemAudioController skipping on windows
+[2026-05-04 11:36:23] SetMonoDownmixEnabled: 0
+[2026-05-04 11:36:23] Initialized CSystemAudioController: 0
+[2026-05-04 11:36:23] CSystemAudioController handle volume keys: 0
+[2026-05-04 11:36:23] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-04 13:19:26] Client version: 1777686219
+[2026-05-04 13:19:26] CSystemAudioController skipping on windows
+[2026-05-04 13:19:26] SetMonoDownmixEnabled: 0
+[2026-05-04 13:19:26] Initialized CSystemAudioController: 0
+[2026-05-04 13:19:26] CSystemAudioController handle volume keys: 0
+[2026-05-04 13:19:26] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-05 00:09:27] Client version: 1777686219
+[2026-05-05 00:09:27] CSystemAudioController skipping on windows
+[2026-05-05 00:09:27] SetMonoDownmixEnabled: 0
+[2026-05-05 00:09:27] Initialized CSystemAudioController: 0
+[2026-05-05 00:09:27] CSystemAudioController handle volume keys: 0
+[2026-05-05 00:09:27] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-05 00:17:54] Client version: 1777686219
+[2026-05-05 00:17:54] CSystemAudioController skipping on windows
+[2026-05-05 00:17:54] SetMonoDownmixEnabled: 0
+[2026-05-05 00:17:54] Initialized CSystemAudioController: 0
+[2026-05-05 00:17:54] CSystemAudioController handle volume keys: 0
+[2026-05-05 00:17:54] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-05 10:37:52] Client version: 1777931468
+[2026-05-05 10:37:52] CSystemAudioController skipping on windows
+[2026-05-05 10:37:52] SetMonoDownmixEnabled: 0
+[2026-05-05 10:37:52] Initialized CSystemAudioController: 0
+[2026-05-05 10:37:52] CSystemAudioController handle volume keys: 0
+[2026-05-05 10:37:52] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-05 12:38:28] Client version: 1777935142
+[2026-05-05 12:38:28] CSystemAudioController skipping on windows
+[2026-05-05 12:38:28] SetMonoDownmixEnabled: 0
+[2026-05-05 12:38:28] Initialized CSystemAudioController: 0
+[2026-05-05 12:38:28] CSystemAudioController handle volume keys: 0
+[2026-05-05 12:38:28] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-05 17:15:19] Client version: 1777935142
+[2026-05-05 17:15:19] CSystemAudioController skipping on windows
+[2026-05-05 17:15:19] SetMonoDownmixEnabled: 0
+[2026-05-05 17:15:19] Initialized CSystemAudioController: 0
+[2026-05-05 17:15:19] CSystemAudioController handle volume keys: 0
+[2026-05-05 17:15:19] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-05 19:57:44] Client version: 1777935142
+[2026-05-05 19:57:44] CSystemAudioController skipping on windows
+[2026-05-05 19:57:44] SetMonoDownmixEnabled: 0
+[2026-05-05 19:57:44] Initialized CSystemAudioController: 0
+[2026-05-05 19:57:44] CSystemAudioController handle volume keys: 0
+[2026-05-05 19:57:44] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-06 10:08:07] Client version: 1777935142
+[2026-05-06 10:08:07] CSystemAudioController skipping on windows
+[2026-05-06 10:08:07] SetMonoDownmixEnabled: 0
+[2026-05-06 10:08:07] Initialized CSystemAudioController: 0
+[2026-05-06 10:08:07] CSystemAudioController handle volume keys: 0
+[2026-05-06 10:08:07] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-06 19:48:39] Client version: 1778003620
+[2026-05-06 19:48:39] CSystemAudioController skipping on windows
+[2026-05-06 19:48:39] SetMonoDownmixEnabled: 0
+[2026-05-06 19:48:39] Initialized CSystemAudioController: 0
+[2026-05-06 19:48:39] CSystemAudioController handle volume keys: 0
+[2026-05-06 19:48:39] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-07 13:12:57] Client version: 1778003620
+[2026-05-07 13:12:57] CSystemAudioController skipping on windows
+[2026-05-07 13:12:57] SetMonoDownmixEnabled: 0
+[2026-05-07 13:12:57] Initialized CSystemAudioController: 0
+[2026-05-07 13:12:57] CSystemAudioController handle volume keys: 0
+[2026-05-07 13:12:57] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-08 16:16:51] Client version: 1778123305
+[2026-05-08 16:16:51] CSystemAudioController skipping on windows
+[2026-05-08 16:16:51] SetMonoDownmixEnabled: 0
+[2026-05-08 16:16:51] Initialized CSystemAudioController: 0
+[2026-05-08 16:16:51] CSystemAudioController handle volume keys: 0
+[2026-05-08 16:16:51] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-09 10:11:23] Client version: 1778268346
+[2026-05-09 10:11:23] CSystemAudioController skipping on windows
+[2026-05-09 10:11:23] SetMonoDownmixEnabled: 0
+[2026-05-09 10:11:23] Initialized CSystemAudioController: 0
+[2026-05-09 10:11:23] CSystemAudioController handle volume keys: 0
+[2026-05-09 10:11:23] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-09 19:43:43] Client version: 1778281814
+[2026-05-09 19:43:43] CSystemAudioController skipping on windows
+[2026-05-09 19:43:43] SetMonoDownmixEnabled: 0
+[2026-05-09 19:43:43] Initialized CSystemAudioController: 0
+[2026-05-09 19:43:43] CSystemAudioController handle volume keys: 0
+[2026-05-09 19:43:43] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-10 10:01:06] Client version: 1778281814
+[2026-05-10 10:01:06] CSystemAudioController skipping on windows
+[2026-05-10 10:01:06] SetMonoDownmixEnabled: 0
+[2026-05-10 10:01:06] Initialized CSystemAudioController: 0
+[2026-05-10 10:01:06] CSystemAudioController handle volume keys: 0
+[2026-05-10 10:01:06] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-10 16:41:23] Client version: 1778281814
+[2026-05-10 16:41:23] CSystemAudioController skipping on windows
+[2026-05-10 16:41:23] SetMonoDownmixEnabled: 0
+[2026-05-10 16:41:23] Initialized CSystemAudioController: 0
+[2026-05-10 16:41:23] CSystemAudioController handle volume keys: 0
+[2026-05-10 16:41:23] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-10 19:16:56] Client version: 1778281814
+[2026-05-10 19:16:56] CSystemAudioController skipping on windows
+[2026-05-10 19:16:56] SetMonoDownmixEnabled: 0
+[2026-05-10 19:16:56] Initialized CSystemAudioController: 0
+[2026-05-10 19:16:56] CSystemAudioController handle volume keys: 0
+[2026-05-10 19:16:56] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-10 21:49:13] Client version: 1778281814
+[2026-05-10 21:49:13] CSystemAudioController skipping on windows
+[2026-05-10 21:49:13] SetMonoDownmixEnabled: 0
+[2026-05-10 21:49:13] Initialized CSystemAudioController: 0
+[2026-05-10 21:49:13] CSystemAudioController handle volume keys: 0
+[2026-05-10 21:49:13] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-10 22:10:43] Client version: 1778281814
+[2026-05-10 22:10:43] CSystemAudioController skipping on windows
+[2026-05-10 22:10:43] SetMonoDownmixEnabled: 0
+[2026-05-10 22:10:43] Initialized CSystemAudioController: 0
+[2026-05-10 22:10:43] CSystemAudioController handle volume keys: 0
+[2026-05-10 22:10:43] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-10 22:42:15] Client version: 1778281814
+[2026-05-10 22:42:15] CSystemAudioController skipping on windows
+[2026-05-10 22:42:15] SetMonoDownmixEnabled: 0
+[2026-05-10 22:42:15] Initialized CSystemAudioController: 0
+[2026-05-10 22:42:15] CSystemAudioController handle volume keys: 0
+[2026-05-10 22:42:15] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-11 15:35:26] Client version: 1778281814
+[2026-05-11 15:35:26] CSystemAudioController skipping on windows
+[2026-05-11 15:35:26] SetMonoDownmixEnabled: 0
+[2026-05-11 15:35:26] Initialized CSystemAudioController: 0
+[2026-05-11 15:35:26] CSystemAudioController handle volume keys: 0
+[2026-05-11 15:35:26] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-11 20:21:06] Client version: 1778281814
+[2026-05-11 20:21:06] CSystemAudioController skipping on windows
+[2026-05-11 20:21:06] SetMonoDownmixEnabled: 0
+[2026-05-11 20:21:06] Initialized CSystemAudioController: 0
+[2026-05-11 20:21:06] CSystemAudioController handle volume keys: 0
+[2026-05-11 20:21:06] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-12 14:51:38] Client version: 1778281814
+[2026-05-12 14:51:38] CSystemAudioController skipping on windows
+[2026-05-12 14:51:38] SetMonoDownmixEnabled: 0
+[2026-05-12 14:51:38] Initialized CSystemAudioController: 0
+[2026-05-12 14:51:38] CSystemAudioController handle volume keys: 0
+[2026-05-12 14:51:38] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-13 13:20:32] Client version: 1778548034
+[2026-05-13 13:20:32] CSystemAudioController skipping on windows
+[2026-05-13 13:20:32] SetMonoDownmixEnabled: 0
+[2026-05-13 13:20:32] Initialized CSystemAudioController: 0
+[2026-05-13 13:20:32] CSystemAudioController handle volume keys: 0
+[2026-05-13 13:20:32] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-13 17:55:45] Client version: 1778548034
+[2026-05-13 17:55:45] CSystemAudioController skipping on windows
+[2026-05-13 17:55:45] SetMonoDownmixEnabled: 0
+[2026-05-13 17:55:45] Initialized CSystemAudioController: 0
+[2026-05-13 17:55:45] CSystemAudioController handle volume keys: 0
+[2026-05-13 17:55:45] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-14 14:56:10] Client version: 1778698013
+[2026-05-14 14:56:10] CSystemAudioController skipping on windows
+[2026-05-14 14:56:10] Initialized CSystemAudioController: 0
+[2026-05-14 14:56:10] CSystemAudioController handle volume keys: 0
+[2026-05-14 14:56:10] CSystemAudioController handle echo cancel load: 0
+[2026-05-14 14:56:20] SupportsMonoDownmix: 0
+[2026-05-14 14:56:20] GetMonoDownmix: 0
+[2026-05-14 14:56:20] SupportsUseBluetoothForMic: 0
+[2026-05-14 14:56:20] GetUseBluetoothForMic: 0
+
+
+[2026-05-14 19:03:03] Client version: 1778698013
+[2026-05-14 19:03:03] CSystemAudioController skipping on windows
+[2026-05-14 19:03:03] Initialized CSystemAudioController: 0
+[2026-05-14 19:03:03] CSystemAudioController handle volume keys: 0
+[2026-05-14 19:03:03] CSystemAudioController handle echo cancel load: 0
+[2026-05-14 19:03:14] SupportsMonoDownmix: 0
+[2026-05-14 19:03:14] GetMonoDownmix: 0
+[2026-05-14 19:03:14] SupportsUseBluetoothForMic: 0
+[2026-05-14 19:03:14] GetUseBluetoothForMic: 0
+
+
+[2026-05-15 13:56:58] Client version: 1778698013
+[2026-05-15 13:56:58] CSystemAudioController skipping on windows
+[2026-05-15 13:56:58] Initialized CSystemAudioController: 0
+[2026-05-15 13:56:58] CSystemAudioController handle volume keys: 0
+[2026-05-15 13:56:58] CSystemAudioController handle echo cancel load: 0
+[2026-05-15 13:57:09] SupportsMonoDownmix: 0
+[2026-05-15 13:57:09] GetMonoDownmix: 0
+[2026-05-15 13:57:09] SupportsUseBluetoothForMic: 0
+[2026-05-15 13:57:09] GetUseBluetoothForMic: 0
+
+
+[2026-05-15 19:33:50] Client version: 1778803745
+[2026-05-15 19:33:50] CSystemAudioController skipping on windows
+[2026-05-15 19:33:50] Initialized CSystemAudioController: 0
+[2026-05-15 19:33:50] CSystemAudioController handle volume keys: 0
+[2026-05-15 19:33:50] CSystemAudioController handle echo cancel load: 0
+[2026-05-15 19:34:01] SupportsMonoDownmix: 0
+[2026-05-15 19:34:01] GetMonoDownmix: 0
+[2026-05-15 19:34:01] SupportsUseBluetoothForMic: 0
+[2026-05-15 19:34:01] GetUseBluetoothForMic: 0
+
+
+[2026-05-16 09:21:50] Client version: 1778803745
+[2026-05-16 09:21:50] CSystemAudioController skipping on windows
+[2026-05-16 09:21:50] Initialized CSystemAudioController: 0
+[2026-05-16 09:21:50] CSystemAudioController handle volume keys: 0
+[2026-05-16 09:21:50] CSystemAudioController handle echo cancel load: 0
+[2026-05-16 09:22:01] SupportsMonoDownmix: 0
+[2026-05-16 09:22:01] GetMonoDownmix: 0
+[2026-05-16 09:22:01] SupportsUseBluetoothForMic: 0
+[2026-05-16 09:22:01] GetUseBluetoothForMic: 0
+[2026-05-16 14:11:04] SupportsMonoDownmix: 0
+[2026-05-16 14:11:04] GetMonoDownmix: 0
+[2026-05-16 14:11:04] SupportsUseBluetoothForMic: 0
+[2026-05-16 14:11:04] GetUseBluetoothForMic: 0
+[2026-05-16 14:11:09] SupportsMonoDownmix: 0
+[2026-05-16 14:11:09] GetMonoDownmix: 0
+[2026-05-16 14:11:09] SupportsUseBluetoothForMic: 0
+[2026-05-16 14:11:09] GetUseBluetoothForMic: 0
+
+
+[2026-05-16 20:00:19] Client version: 1778803745
+[2026-05-16 20:00:19] CSystemAudioController skipping on windows
+[2026-05-16 20:00:19] Initialized CSystemAudioController: 0
+[2026-05-16 20:00:19] CSystemAudioController handle volume keys: 0
+[2026-05-16 20:00:19] CSystemAudioController handle echo cancel load: 0
+[2026-05-16 20:00:31] SupportsMonoDownmix: 0
+[2026-05-16 20:00:31] GetMonoDownmix: 0
+[2026-05-16 20:00:31] SupportsUseBluetoothForMic: 0
+[2026-05-16 20:00:31] GetUseBluetoothForMic: 0
+
+
+[2026-05-17 13:49:49] Client version: 1778803745
+[2026-05-17 13:49:49] CSystemAudioController skipping on windows
+[2026-05-17 13:49:49] Initialized CSystemAudioController: 0
+[2026-05-17 13:49:49] CSystemAudioController handle volume keys: 0
+[2026-05-17 13:49:49] CSystemAudioController handle echo cancel load: 0
+[2026-05-17 13:49:58] SupportsMonoDownmix: 0
+[2026-05-17 13:49:58] GetMonoDownmix: 0
+[2026-05-17 13:49:59] SupportsUseBluetoothForMic: 0
+[2026-05-17 13:49:59] GetUseBluetoothForMic: 0
+
+
+[2026-05-17 19:05:46] Client version: 1778803745
+[2026-05-17 19:05:46] CSystemAudioController skipping on windows
+[2026-05-17 19:05:46] Initialized CSystemAudioController: 0
+[2026-05-17 19:05:46] CSystemAudioController handle volume keys: 0
+[2026-05-17 19:05:46] CSystemAudioController handle echo cancel load: 0
+[2026-05-17 19:05:57] SupportsMonoDownmix: 0
+[2026-05-17 19:05:57] GetMonoDownmix: 0
+[2026-05-17 19:05:57] SupportsUseBluetoothForMic: 0
+[2026-05-17 19:05:57] GetUseBluetoothForMic: 0
+
+
+[2026-05-18 15:44:54] Client version: 1778803745
+[2026-05-18 15:44:54] CSystemAudioController skipping on windows
+[2026-05-18 15:44:54] Initialized CSystemAudioController: 0
+[2026-05-18 15:44:54] CSystemAudioController handle volume keys: 0
+[2026-05-18 15:44:54] CSystemAudioController handle echo cancel load: 0
+[2026-05-18 15:45:13] SupportsMonoDownmix: 0
+[2026-05-18 15:45:13] GetMonoDownmix: 0
+[2026-05-18 15:45:13] SupportsUseBluetoothForMic: 0
+[2026-05-18 15:45:13] GetUseBluetoothForMic: 0
+
+
+[2026-05-18 19:48:43] Client version: 1778803745
+[2026-05-18 19:48:43] CSystemAudioController skipping on windows
+[2026-05-18 19:48:43] Initialized CSystemAudioController: 0
+[2026-05-18 19:48:43] CSystemAudioController handle volume keys: 0
+[2026-05-18 19:48:43] CSystemAudioController handle echo cancel load: 0
+[2026-05-18 19:48:55] SupportsMonoDownmix: 0
+[2026-05-18 19:48:55] GetMonoDownmix: 0
+[2026-05-18 19:48:55] SupportsUseBluetoothForMic: 0
+[2026-05-18 19:48:55] GetUseBluetoothForMic: 0
+
+
+[2026-05-19 14:49:57] Client version: 1778803745
+[2026-05-19 14:49:57] CSystemAudioController skipping on windows
+[2026-05-19 14:49:57] Initialized CSystemAudioController: 0
+[2026-05-19 14:49:57] CSystemAudioController handle volume keys: 0
+[2026-05-19 14:49:57] CSystemAudioController handle echo cancel load: 0
+[2026-05-19 14:50:08] SupportsMonoDownmix: 0
+[2026-05-19 14:50:08] GetMonoDownmix: 0
+[2026-05-19 14:50:08] SupportsUseBluetoothForMic: 0
+[2026-05-19 14:50:08] GetUseBluetoothForMic: 0
+
+
+[2026-05-19 19:38:15] Client version: 1779155395
+[2026-05-19 19:38:15] CSystemAudioController skipping on windows
+[2026-05-19 19:38:15] Initialized CSystemAudioController: 0
+[2026-05-19 19:38:15] CSystemAudioController handle volume keys: 0
+[2026-05-19 19:38:15] CSystemAudioController handle echo cancel load: 0
+[2026-05-19 19:38:27] SupportsMonoDownmix: 0
+[2026-05-19 19:38:27] GetMonoDownmix: 0
+[2026-05-19 19:38:27] SupportsUseBluetoothForMic: 0
+[2026-05-19 19:38:27] GetUseBluetoothForMic: 0
+
+
+[2026-05-20 13:10:07] Client version: 1779155395
+[2026-05-20 13:10:07] CSystemAudioController skipping on windows
+[2026-05-20 13:10:07] Initialized CSystemAudioController: 0
+[2026-05-20 13:10:07] CSystemAudioController handle volume keys: 0
+[2026-05-20 13:10:07] CSystemAudioController handle echo cancel load: 0
+[2026-05-20 13:10:19] SupportsMonoDownmix: 0
+[2026-05-20 13:10:19] GetMonoDownmix: 0
+[2026-05-20 13:10:19] SupportsUseBluetoothForMic: 0
+[2026-05-20 13:10:19] GetUseBluetoothForMic: 0
+
+
+[2026-05-21 16:12:18] Client version: 1779155395
+[2026-05-21 16:12:18] CSystemAudioController skipping on windows
+[2026-05-21 16:12:18] Initialized CSystemAudioController: 0
+[2026-05-21 16:12:18] CSystemAudioController handle volume keys: 0
+[2026-05-21 16:12:18] CSystemAudioController handle echo cancel load: 0
+[2026-05-21 16:12:28] SupportsMonoDownmix: 0
+[2026-05-21 16:12:28] GetMonoDownmix: 0
+[2026-05-21 16:12:28] SupportsUseBluetoothForMic: 0
+[2026-05-21 16:12:28] GetUseBluetoothForMic: 0
+
+
+[2026-05-21 17:27:57] Client version: 1779155395
+[2026-05-21 17:27:57] CSystemAudioController skipping on windows
+[2026-05-21 17:27:57] Initialized CSystemAudioController: 0
+[2026-05-21 17:27:57] CSystemAudioController handle volume keys: 0
+[2026-05-21 17:27:57] CSystemAudioController handle echo cancel load: 0
+[2026-05-21 17:28:07] SupportsMonoDownmix: 0
+[2026-05-21 17:28:07] GetMonoDownmix: 0
+[2026-05-21 17:28:07] SupportsUseBluetoothForMic: 0
+[2026-05-21 17:28:07] GetUseBluetoothForMic: 0
+
+
+[2026-05-21 23:28:45] Client version: 1779378409
+[2026-05-21 23:28:45] CSystemAudioController skipping on windows
+[2026-05-21 23:28:45] Initialized CSystemAudioController: 0
+[2026-05-21 23:28:45] CSystemAudioController handle volume keys: 0
+[2026-05-21 23:28:45] CSystemAudioController handle echo cancel load: 0
+[2026-05-21 23:29:00] SupportsMonoDownmix: 0
+[2026-05-21 23:29:00] GetMonoDownmix: 0
+[2026-05-21 23:29:00] SupportsUseBluetoothForMic: 0
+[2026-05-21 23:29:00] GetUseBluetoothForMic: 0
+
+
+[2026-05-22 15:51:40] Client version: 1779378409
+[2026-05-22 15:51:40] CSystemAudioController skipping on windows
+[2026-05-22 15:51:40] Initialized CSystemAudioController: 0
+[2026-05-22 15:51:40] CSystemAudioController handle volume keys: 0
+[2026-05-22 15:51:40] CSystemAudioController handle echo cancel load: 0
+[2026-05-22 15:51:53] SupportsMonoDownmix: 0
+[2026-05-22 15:51:53] GetMonoDownmix: 0
+[2026-05-22 15:51:53] SupportsUseBluetoothForMic: 0
+[2026-05-22 15:51:53] GetUseBluetoothForMic: 0
+
+
+[2026-05-22 19:33:30] Client version: 1779378409
+[2026-05-22 19:33:30] CSystemAudioController skipping on windows
+[2026-05-22 19:33:30] Initialized CSystemAudioController: 0
+[2026-05-22 19:33:30] CSystemAudioController handle volume keys: 0
+[2026-05-22 19:33:30] CSystemAudioController handle echo cancel load: 0
+[2026-05-22 19:33:41] SupportsMonoDownmix: 0
+[2026-05-22 19:33:41] GetMonoDownmix: 0
+[2026-05-22 19:33:41] SupportsUseBluetoothForMic: 0
+[2026-05-22 19:33:41] GetUseBluetoothForMic: 0
+
+
+[2026-05-23 10:19:58] Client version: 1779378409
+[2026-05-23 10:19:58] CSystemAudioController skipping on windows
+[2026-05-23 10:19:58] Initialized CSystemAudioController: 0
+[2026-05-23 10:19:58] CSystemAudioController handle volume keys: 0
+[2026-05-23 10:19:58] CSystemAudioController handle echo cancel load: 0
+[2026-05-23 10:20:10] SupportsMonoDownmix: 0
+[2026-05-23 10:20:10] GetMonoDownmix: 0
+[2026-05-23 10:20:10] SupportsUseBluetoothForMic: 0
+[2026-05-23 10:20:10] GetUseBluetoothForMic: 0
+
+
+[2026-05-23 17:45:30] Client version: 1779479049
+[2026-05-23 17:45:30] CSystemAudioController skipping on windows
+[2026-05-23 17:45:30] Initialized CSystemAudioController: 0
+[2026-05-23 17:45:30] CSystemAudioController handle volume keys: 0
+[2026-05-23 17:45:30] CSystemAudioController handle echo cancel load: 0
+[2026-05-23 17:45:42] SupportsMonoDownmix: 0
+[2026-05-23 17:45:42] GetMonoDownmix: 0
+[2026-05-23 17:45:42] SupportsUseBluetoothForMic: 0
+[2026-05-23 17:45:42] GetUseBluetoothForMic: 0
+
+
+[2026-05-24 09:34:48] Client version: 1779479049
+[2026-05-24 09:34:48] CSystemAudioController skipping on windows
+[2026-05-24 09:34:48] Initialized CSystemAudioController: 0
+[2026-05-24 09:34:48] CSystemAudioController handle volume keys: 0
+[2026-05-24 09:34:48] CSystemAudioController handle echo cancel load: 0
+[2026-05-24 09:34:59] SupportsMonoDownmix: 0
+[2026-05-24 09:34:59] GetMonoDownmix: 0
+[2026-05-24 09:34:59] SupportsUseBluetoothForMic: 0
+[2026-05-24 09:34:59] GetUseBluetoothForMic: 0
+[2026-05-24 09:35:16] SupportsMonoDownmix: 0
+[2026-05-24 09:35:16] GetMonoDownmix: 0
+[2026-05-24 09:35:16] SupportsUseBluetoothForMic: 0
+[2026-05-24 09:35:16] GetUseBluetoothForMic: 0
+
+
+[2026-05-24 15:22:58] Client version: 1779479049
+[2026-05-24 15:22:58] CSystemAudioController skipping on windows
+[2026-05-24 15:22:58] Initialized CSystemAudioController: 0
+[2026-05-24 15:22:58] CSystemAudioController handle volume keys: 0
+[2026-05-24 15:22:58] CSystemAudioController handle echo cancel load: 0
+[2026-05-24 15:23:09] SupportsMonoDownmix: 0
+[2026-05-24 15:23:09] GetMonoDownmix: 0
+[2026-05-24 15:23:09] SupportsUseBluetoothForMic: 0
+[2026-05-24 15:23:09] GetUseBluetoothForMic: 0
+
+
+[2026-05-24 18:13:15] Client version: 1779479049
+[2026-05-24 18:13:15] CSystemAudioController skipping on windows
+[2026-05-24 18:13:15] Initialized CSystemAudioController: 0
+[2026-05-24 18:13:15] CSystemAudioController handle volume keys: 0
+[2026-05-24 18:13:15] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-24 18:29:00] Client version: 1779479049
+[2026-05-24 18:29:00] CSystemAudioController skipping on windows
+[2026-05-24 18:29:00] Initialized CSystemAudioController: 0
+[2026-05-24 18:29:00] CSystemAudioController handle volume keys: 0
+[2026-05-24 18:29:00] CSystemAudioController handle echo cancel load: 0
+[2026-05-24 18:29:14] SupportsMonoDownmix: 0
+[2026-05-24 18:29:14] GetMonoDownmix: 0
+[2026-05-24 18:29:14] SupportsUseBluetoothForMic: 0
+[2026-05-24 18:29:14] GetUseBluetoothForMic: 0
+[2026-05-24 18:29:37] SupportsMonoDownmix: 0
+[2026-05-24 18:29:37] GetMonoDownmix: 0
+[2026-05-24 18:29:37] SupportsUseBluetoothForMic: 0
+[2026-05-24 18:29:37] GetUseBluetoothForMic: 0
+
+
+[2026-05-24 18:35:21] Client version: 1779479049
+[2026-05-24 18:35:21] CSystemAudioController skipping on windows
+[2026-05-24 18:35:21] Initialized CSystemAudioController: 0
+[2026-05-24 18:35:21] CSystemAudioController handle volume keys: 0
+[2026-05-24 18:35:21] CSystemAudioController handle echo cancel load: 0
+[2026-05-24 18:35:33] SupportsMonoDownmix: 0
+[2026-05-24 18:35:33] GetMonoDownmix: 0
+[2026-05-24 18:35:33] SupportsUseBluetoothForMic: 0
+[2026-05-24 18:35:33] GetUseBluetoothForMic: 0
+
+
+[2026-05-25 15:43:52] Client version: 1779479049
+[2026-05-25 15:43:52] CSystemAudioController skipping on windows
+[2026-05-25 15:43:52] Initialized CSystemAudioController: 0
+[2026-05-25 15:43:52] CSystemAudioController handle volume keys: 0
+[2026-05-25 15:43:52] CSystemAudioController handle echo cancel load: 0
+[2026-05-25 15:44:00] SupportsMonoDownmix: 0
+[2026-05-25 15:44:00] GetMonoDownmix: 0
+[2026-05-25 15:44:00] SupportsUseBluetoothForMic: 0
+[2026-05-25 15:44:00] GetUseBluetoothForMic: 0
+
+
+[2026-05-25 19:12:23] Client version: 1779479049
+[2026-05-25 19:12:23] CSystemAudioController skipping on windows
+[2026-05-25 19:12:23] Initialized CSystemAudioController: 0
+[2026-05-25 19:12:23] CSystemAudioController handle volume keys: 0
+[2026-05-25 19:12:23] CSystemAudioController handle echo cancel load: 0
+[2026-05-25 19:12:31] SupportsMonoDownmix: 0
+[2026-05-25 19:12:31] GetMonoDownmix: 0
+[2026-05-25 19:12:31] SupportsUseBluetoothForMic: 0
+[2026-05-25 19:12:31] GetUseBluetoothForMic: 0
+[2026-05-25 19:26:31] SupportsMonoDownmix: 0
+[2026-05-25 19:26:31] GetMonoDownmix: 0
+[2026-05-25 19:26:31] SupportsUseBluetoothForMic: 0
+[2026-05-25 19:26:31] GetUseBluetoothForMic: 0
+
+
+[2026-05-25 23:09:33] Client version: 1779479049
+[2026-05-25 23:09:33] CSystemAudioController skipping on windows
+[2026-05-25 23:09:33] Initialized CSystemAudioController: 0
+[2026-05-25 23:09:33] CSystemAudioController handle volume keys: 0
+[2026-05-25 23:09:33] CSystemAudioController handle echo cancel load: 0
+[2026-05-25 23:09:45] SupportsMonoDownmix: 0
+[2026-05-25 23:09:45] GetMonoDownmix: 0
+[2026-05-25 23:09:45] SupportsUseBluetoothForMic: 0
+[2026-05-25 23:09:45] GetUseBluetoothForMic: 0
+
+
+[2026-05-25 23:42:15] Client version: 1779479049
+[2026-05-25 23:42:15] CSystemAudioController skipping on windows
+[2026-05-25 23:42:15] Initialized CSystemAudioController: 0
+[2026-05-25 23:42:15] CSystemAudioController handle volume keys: 0
+[2026-05-25 23:42:15] CSystemAudioController handle echo cancel load: 0
+[2026-05-25 23:42:23] SupportsMonoDownmix: 0
+[2026-05-25 23:42:23] GetMonoDownmix: 0
+[2026-05-25 23:42:23] SupportsUseBluetoothForMic: 0
+[2026-05-25 23:42:23] GetUseBluetoothForMic: 0
+[2026-05-25 23:43:19] SupportsMonoDownmix: 0
+[2026-05-25 23:43:19] GetMonoDownmix: 0
+[2026-05-25 23:43:19] SupportsUseBluetoothForMic: 0
+[2026-05-25 23:43:19] GetUseBluetoothForMic: 0
+[2026-05-25 23:43:28] SupportsMonoDownmix: 0
+[2026-05-25 23:43:28] GetMonoDownmix: 0
+[2026-05-25 23:43:28] SupportsUseBluetoothForMic: 0
+[2026-05-25 23:43:28] GetUseBluetoothForMic: 0
+
+
+[2026-05-25 23:45:44] Client version: 1779479049
+[2026-05-25 23:45:44] CSystemAudioController skipping on windows
+[2026-05-25 23:45:44] Initialized CSystemAudioController: 0
+[2026-05-25 23:45:44] CSystemAudioController handle volume keys: 0
+[2026-05-25 23:45:44] CSystemAudioController handle echo cancel load: 0
+[2026-05-25 23:45:50] SupportsMonoDownmix: 0
+[2026-05-25 23:45:50] GetMonoDownmix: 0
+[2026-05-25 23:45:50] SupportsUseBluetoothForMic: 0
+[2026-05-25 23:45:50] GetUseBluetoothForMic: 0
+
+
+[2026-05-25 23:55:47] Client version: 1779479049
+[2026-05-25 23:55:47] CSystemAudioController skipping on windows
+[2026-05-25 23:55:47] Initialized CSystemAudioController: 0
+[2026-05-25 23:55:47] CSystemAudioController handle volume keys: 0
+[2026-05-25 23:55:47] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-25 23:57:28] Client version: 1779479049
+[2026-05-25 23:57:28] CSystemAudioController skipping on windows
+[2026-05-25 23:57:28] Initialized CSystemAudioController: 0
+[2026-05-25 23:57:28] CSystemAudioController handle volume keys: 0
+[2026-05-25 23:57:28] CSystemAudioController handle echo cancel load: 0
+[2026-05-25 23:57:35] SupportsMonoDownmix: 0
+[2026-05-25 23:57:35] GetMonoDownmix: 0
+[2026-05-25 23:57:35] SupportsUseBluetoothForMic: 0
+[2026-05-25 23:57:35] GetUseBluetoothForMic: 0
+
+
+[2026-05-26 00:00:09] Client version: 1779479049
+[2026-05-26 00:00:09] CSystemAudioController skipping on windows
+[2026-05-26 00:00:09] Initialized CSystemAudioController: 0
+[2026-05-26 00:00:09] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:00:09] CSystemAudioController handle echo cancel load: 0
+[2026-05-26 00:00:16] SupportsMonoDownmix: 0
+[2026-05-26 00:00:16] GetMonoDownmix: 0
+[2026-05-26 00:00:16] SupportsUseBluetoothForMic: 0
+[2026-05-26 00:00:16] GetUseBluetoothForMic: 0
+
+
+[2026-05-26 00:02:30] Client version: 1779479049
+[2026-05-26 00:02:30] CSystemAudioController skipping on windows
+[2026-05-26 00:02:30] Initialized CSystemAudioController: 0
+[2026-05-26 00:02:30] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:02:30] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:02:41] Client version: 1779479049
+[2026-05-26 00:02:41] CSystemAudioController skipping on windows
+[2026-05-26 00:02:41] Initialized CSystemAudioController: 0
+[2026-05-26 00:02:41] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:02:41] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:03:07] Client version: 1779479049
+[2026-05-26 00:03:07] CSystemAudioController skipping on windows
+[2026-05-26 00:03:07] Initialized CSystemAudioController: 0
+[2026-05-26 00:03:07] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:03:07] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:03:33] Client version: 1779479049
+[2026-05-26 00:03:33] CSystemAudioController skipping on windows
+[2026-05-26 00:03:33] Initialized CSystemAudioController: 0
+[2026-05-26 00:03:33] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:03:33] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:03:51] Client version: 1779479049
+[2026-05-26 00:03:51] CSystemAudioController skipping on windows
+[2026-05-26 00:03:51] Initialized CSystemAudioController: 0
+[2026-05-26 00:03:51] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:03:51] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:04:05] Client version: 1779479049
+[2026-05-26 00:04:05] CSystemAudioController skipping on windows
+[2026-05-26 00:04:05] Initialized CSystemAudioController: 0
+[2026-05-26 00:04:05] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:04:05] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:04:25] Client version: 1779479049
+[2026-05-26 00:04:25] CSystemAudioController skipping on windows
+[2026-05-26 00:04:25] Initialized CSystemAudioController: 0
+[2026-05-26 00:04:25] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:04:25] CSystemAudioController handle echo cancel load: 0
+[2026-05-26 00:04:31] SupportsMonoDownmix: 0
+[2026-05-26 00:04:31] GetMonoDownmix: 0
+[2026-05-26 00:04:31] SupportsUseBluetoothForMic: 0
+[2026-05-26 00:04:31] GetUseBluetoothForMic: 0
+
+
+[2026-05-26 00:05:01] Client version: 1779479049
+[2026-05-26 00:05:01] CSystemAudioController skipping on windows
+[2026-05-26 00:05:01] Initialized CSystemAudioController: 0
+[2026-05-26 00:05:01] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:05:01] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:05:37] Client version: 1779479049
+[2026-05-26 00:05:37] CSystemAudioController skipping on windows
+[2026-05-26 00:05:37] Initialized CSystemAudioController: 0
+[2026-05-26 00:05:37] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:05:37] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:06:16] Client version: 1779479049
+[2026-05-26 00:06:16] CSystemAudioController skipping on windows
+[2026-05-26 00:06:16] Initialized CSystemAudioController: 0
+[2026-05-26 00:06:16] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:06:16] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:07:05] Client version: 1779479049
+[2026-05-26 00:07:05] CSystemAudioController skipping on windows
+[2026-05-26 00:07:05] Initialized CSystemAudioController: 0
+[2026-05-26 00:07:05] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:07:05] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:07:59] Client version: 1779479049
+[2026-05-26 00:07:59] CSystemAudioController skipping on windows
+[2026-05-26 00:07:59] Initialized CSystemAudioController: 0
+[2026-05-26 00:07:59] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:07:59] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:12:08] Client version: 1779479049
+[2026-05-26 00:12:08] CSystemAudioController skipping on windows
+[2026-05-26 00:12:08] Initialized CSystemAudioController: 0
+[2026-05-26 00:12:08] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:12:08] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:12:34] Client version: 1779479049
+[2026-05-26 00:12:34] CSystemAudioController skipping on windows
+
+
+[2026-05-26 00:15:27] Client version: 1779479049
+[2026-05-26 00:15:27] CSystemAudioController skipping on windows
+[2026-05-26 00:15:27] Initialized CSystemAudioController: 0
+[2026-05-26 00:15:27] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:15:27] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:16:00] Client version: 1779479049
+[2026-05-26 00:16:00] CSystemAudioController skipping on windows
+[2026-05-26 00:16:00] Initialized CSystemAudioController: 0
+[2026-05-26 00:16:00] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:16:00] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:21:16] Client version: 1779479049
+[2026-05-26 00:21:16] CSystemAudioController skipping on windows
+[2026-05-26 00:21:16] Initialized CSystemAudioController: 0
+[2026-05-26 00:21:16] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:21:16] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:22:16] Client version: 1779479049
+[2026-05-26 00:22:16] CSystemAudioController skipping on windows
+[2026-05-26 00:22:16] Initialized CSystemAudioController: 0
+[2026-05-26 00:22:16] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:22:16] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:22:24] Client version: 1779479049
+[2026-05-26 00:22:24] CSystemAudioController skipping on windows
+[2026-05-26 00:22:24] Initialized CSystemAudioController: 0
+[2026-05-26 00:22:24] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:22:24] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:22:46] Client version: 1779479049
+[2026-05-26 00:22:46] CSystemAudioController skipping on windows
+[2026-05-26 00:22:46] Initialized CSystemAudioController: 0
+[2026-05-26 00:22:46] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:22:46] CSystemAudioController handle echo cancel load: 0
+[2026-05-26 00:22:54] SupportsMonoDownmix: 0
+[2026-05-26 00:22:54] GetMonoDownmix: 0
+[2026-05-26 00:22:54] SupportsUseBluetoothForMic: 0
+[2026-05-26 00:22:54] GetUseBluetoothForMic: 0
+
+
+[2026-05-26 00:24:17] Client version: 1779479049
+[2026-05-26 00:24:17] CSystemAudioController skipping on windows
+[2026-05-26 00:24:17] Initialized CSystemAudioController: 0
+[2026-05-26 00:24:17] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:24:17] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:27:32] Client version: 1779479049
+[2026-05-26 00:27:32] CSystemAudioController skipping on windows
+[2026-05-26 00:27:32] Initialized CSystemAudioController: 0
+[2026-05-26 00:27:32] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:27:32] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:31:52] Client version: 1779479049
+[2026-05-26 00:31:52] CSystemAudioController skipping on windows
+[2026-05-26 00:31:52] Initialized CSystemAudioController: 0
+[2026-05-26 00:31:52] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:31:52] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:32:07] Client version: 1779479049
+[2026-05-26 00:32:07] CSystemAudioController skipping on windows
+[2026-05-26 00:32:07] Initialized CSystemAudioController: 0
+[2026-05-26 00:32:07] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:32:07] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:33:50] Client version: 1779479049
+[2026-05-26 00:33:50] CSystemAudioController skipping on windows
+[2026-05-26 00:33:50] Initialized CSystemAudioController: 0
+[2026-05-26 00:33:50] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:33:50] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:35:31] Client version: 1779479049
+[2026-05-26 00:35:31] CSystemAudioController skipping on windows
+[2026-05-26 00:35:31] Initialized CSystemAudioController: 0
+[2026-05-26 00:35:31] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:35:31] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:50:34] Client version: 1779479049
+[2026-05-26 00:50:34] CSystemAudioController skipping on windows
+[2026-05-26 00:50:34] Initialized CSystemAudioController: 0
+[2026-05-26 00:50:34] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:50:34] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 00:59:55] Client version: 1779479049
+[2026-05-26 00:59:55] CSystemAudioController skipping on windows
+[2026-05-26 00:59:55] Initialized CSystemAudioController: 0
+[2026-05-26 00:59:55] CSystemAudioController handle volume keys: 0
+[2026-05-26 00:59:55] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 01:00:03] Client version: 1779479049
+[2026-05-26 01:00:03] CSystemAudioController skipping on windows
+[2026-05-26 01:00:03] Initialized CSystemAudioController: 0
+[2026-05-26 01:00:03] CSystemAudioController handle volume keys: 0
+[2026-05-26 01:00:03] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 01:00:17] Client version: 1779479049
+[2026-05-26 01:00:17] CSystemAudioController skipping on windows
+[2026-05-26 01:00:17] Initialized CSystemAudioController: 0
+[2026-05-26 01:00:17] CSystemAudioController handle volume keys: 0
+[2026-05-26 01:00:17] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 01:10:37] Client version: 1779479049
+[2026-05-26 01:10:37] CSystemAudioController skipping on windows
+[2026-05-26 01:10:37] Initialized CSystemAudioController: 0
+[2026-05-26 01:10:37] CSystemAudioController handle volume keys: 0
+[2026-05-26 01:10:37] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 06:41:48] Client version: 1779479049
+[2026-05-26 06:41:48] CSystemAudioController skipping on windows
+[2026-05-26 06:41:48] Initialized CSystemAudioController: 0
+[2026-05-26 06:41:48] CSystemAudioController handle volume keys: 0
+[2026-05-26 06:41:48] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 06:41:58] Client version: 1779479049
+[2026-05-26 06:41:58] CSystemAudioController skipping on windows
+[2026-05-26 06:41:58] Initialized CSystemAudioController: 0
+[2026-05-26 06:41:58] CSystemAudioController handle volume keys: 0
+[2026-05-26 06:41:58] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 15:08:06] Client version: 1779479049
+[2026-05-26 15:08:06] CSystemAudioController skipping on windows
+[2026-05-26 15:08:06] Initialized CSystemAudioController: 0
+[2026-05-26 15:08:06] CSystemAudioController handle volume keys: 0
+[2026-05-26 15:08:06] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 18:50:06] Client version: 1779479049
+[2026-05-26 18:50:06] CSystemAudioController skipping on windows
+[2026-05-26 18:50:06] Initialized CSystemAudioController: 0
+[2026-05-26 18:50:06] CSystemAudioController handle volume keys: 0
+[2026-05-26 18:50:06] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 18:50:20] Client version: 1779479049
+[2026-05-26 18:50:20] CSystemAudioController skipping on windows
+[2026-05-26 18:50:20] Initialized CSystemAudioController: 0
+[2026-05-26 18:50:20] CSystemAudioController handle volume keys: 0
+[2026-05-26 18:50:20] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 18:53:31] Client version: 1779479049
+[2026-05-26 18:53:31] CSystemAudioController skipping on windows
+[2026-05-26 18:53:31] Initialized CSystemAudioController: 0
+[2026-05-26 18:53:31] CSystemAudioController handle volume keys: 0
+[2026-05-26 18:53:31] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 18:53:45] Client version: 1779479049
+[2026-05-26 18:53:45] CSystemAudioController skipping on windows
+[2026-05-26 18:53:45] Initialized CSystemAudioController: 0
+[2026-05-26 18:53:45] CSystemAudioController handle volume keys: 0
+[2026-05-26 18:53:45] CSystemAudioController handle echo cancel load: 0
+[2026-05-26 18:53:52] SupportsMonoDownmix: 0
+[2026-05-26 18:53:52] GetMonoDownmix: 0
+[2026-05-26 18:53:52] SupportsUseBluetoothForMic: 0
+[2026-05-26 18:53:52] GetUseBluetoothForMic: 0
+
+
+[2026-05-26 19:07:24] Client version: 1779479049
+[2026-05-26 19:07:24] CSystemAudioController skipping on windows
+[2026-05-26 19:07:24] Initialized CSystemAudioController: 0
+[2026-05-26 19:07:24] CSystemAudioController handle volume keys: 0
+[2026-05-26 19:07:24] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 19:07:39] Client version: 1779479049
+[2026-05-26 19:07:39] CSystemAudioController skipping on windows
+[2026-05-26 19:07:39] Initialized CSystemAudioController: 0
+[2026-05-26 19:07:39] CSystemAudioController handle volume keys: 0
+[2026-05-26 19:07:39] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 19:07:47] Client version: 1779479049
+[2026-05-26 19:07:47] CSystemAudioController skipping on windows
+[2026-05-26 19:07:47] Initialized CSystemAudioController: 0
+[2026-05-26 19:07:47] CSystemAudioController handle volume keys: 0
+[2026-05-26 19:07:47] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 19:08:34] Client version: 1779479049
+[2026-05-26 19:08:34] CSystemAudioController skipping on windows
+[2026-05-26 19:08:34] Initialized CSystemAudioController: 0
+[2026-05-26 19:08:34] CSystemAudioController handle volume keys: 0
+[2026-05-26 19:08:34] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 19:13:57] Client version: 1779479049
+[2026-05-26 19:13:57] CSystemAudioController skipping on windows
+[2026-05-26 19:13:57] Initialized CSystemAudioController: 0
+[2026-05-26 19:13:57] CSystemAudioController handle volume keys: 0
+[2026-05-26 19:13:57] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 19:14:18] Client version: 1779479049
+[2026-05-26 19:14:18] CSystemAudioController skipping on windows
+[2026-05-26 19:14:18] Initialized CSystemAudioController: 0
+[2026-05-26 19:14:18] CSystemAudioController handle volume keys: 0
+[2026-05-26 19:14:18] CSystemAudioController handle echo cancel load: 0
+[2026-05-26 19:14:26] SupportsMonoDownmix: 0
+[2026-05-26 19:14:26] GetMonoDownmix: 0
+[2026-05-26 19:14:26] SupportsUseBluetoothForMic: 0
+[2026-05-26 19:14:26] GetUseBluetoothForMic: 0
+
+
+[2026-05-26 19:16:01] Client version: 1779486452
+[2026-05-26 19:16:01] CSystemAudioController skipping on windows
+[2026-05-26 19:16:01] SetMonoDownmixEnabled: 0
+[2026-05-26 19:16:01] Initialized CSystemAudioController: 0
+[2026-05-26 19:16:01] CSystemAudioController handle volume keys: 0
+[2026-05-26 19:16:01] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 19:16:13] Client version: 1779486452
+[2026-05-26 19:16:13] CSystemAudioController skipping on windows
+[2026-05-26 19:16:13] SetMonoDownmixEnabled: 0
+[2026-05-26 19:16:13] Initialized CSystemAudioController: 0
+[2026-05-26 19:16:13] CSystemAudioController handle volume keys: 0
+[2026-05-26 19:16:13] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 19:16:20] Client version: 1779486452
+[2026-05-26 19:16:20] CSystemAudioController skipping on windows
+[2026-05-26 19:16:20] SetMonoDownmixEnabled: 0
+[2026-05-26 19:16:20] Initialized CSystemAudioController: 0
+[2026-05-26 19:16:20] CSystemAudioController handle volume keys: 0
+[2026-05-26 19:16:20] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 19:16:31] Client version: 1779486452
+[2026-05-26 19:16:31] CSystemAudioController skipping on windows
+[2026-05-26 19:16:31] SetMonoDownmixEnabled: 0
+[2026-05-26 19:16:31] Initialized CSystemAudioController: 0
+[2026-05-26 19:16:31] CSystemAudioController handle volume keys: 0
+[2026-05-26 19:16:31] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-26 19:17:18] Client version: 1779479049
+[2026-05-26 19:17:18] CSystemAudioController skipping on windows
+[2026-05-26 19:17:18] Initialized CSystemAudioController: 0
+[2026-05-26 19:17:18] CSystemAudioController handle volume keys: 0
+[2026-05-26 19:17:18] CSystemAudioController handle echo cancel load: 0
+[2026-05-26 19:17:26] SupportsMonoDownmix: 0
+[2026-05-26 19:17:26] GetMonoDownmix: 0
+[2026-05-26 19:17:26] SupportsUseBluetoothForMic: 0
+[2026-05-26 19:17:26] GetUseBluetoothForMic: 0
+
+
+[2026-05-26 21:16:37] Client version: 1779479049
+[2026-05-26 21:16:37] CSystemAudioController skipping on windows
+[2026-05-26 21:16:37] Initialized CSystemAudioController: 0
+[2026-05-26 21:16:37] CSystemAudioController handle volume keys: 0
+[2026-05-26 21:16:37] CSystemAudioController handle echo cancel load: 0
+[2026-05-26 21:16:43] SupportsMonoDownmix: 0
+[2026-05-26 21:16:43] GetMonoDownmix: 0
+[2026-05-26 21:16:43] SupportsUseBluetoothForMic: 0
+[2026-05-26 21:16:43] GetUseBluetoothForMic: 0
+[2026-05-26 22:56:04] SupportsMonoDownmix: 0
+[2026-05-26 22:56:04] GetMonoDownmix: 0
+[2026-05-26 22:56:04] SupportsUseBluetoothForMic: 0
+[2026-05-26 22:56:04] GetUseBluetoothForMic: 0
+
+
+[2026-05-27 13:12:58] Client version: 1779479049
+[2026-05-27 13:12:58] CSystemAudioController skipping on windows
+[2026-05-27 13:12:58] Initialized CSystemAudioController: 0
+[2026-05-27 13:12:58] CSystemAudioController handle volume keys: 0
+[2026-05-27 13:12:58] CSystemAudioController handle echo cancel load: 0
+[2026-05-27 13:13:09] SupportsMonoDownmix: 0
+[2026-05-27 13:13:09] GetMonoDownmix: 0
+[2026-05-27 13:13:09] SupportsUseBluetoothForMic: 0
+[2026-05-27 13:13:09] GetUseBluetoothForMic: 0
+
+
+[2026-05-27 13:23:57] Client version: 1779840850
+[2026-05-27 13:23:57] CSystemAudioController skipping on windows
+[2026-05-27 13:23:57] Initialized CSystemAudioController: 0
+[2026-05-27 13:23:57] CSystemAudioController handle volume keys: 0
+[2026-05-27 13:23:57] CSystemAudioController handle echo cancel load: 0
+[2026-05-27 13:24:05] SupportsMonoDownmix: 0
+[2026-05-27 13:24:05] GetMonoDownmix: 0
+[2026-05-27 13:24:05] SupportsUseBluetoothForMic: 0
+[2026-05-27 13:24:05] GetUseBluetoothForMic: 0
+
+
+[2026-05-27 13:24:54] Client version: 1779840850
+[2026-05-27 13:24:54] CSystemAudioController skipping on windows
+[2026-05-27 13:24:54] Initialized CSystemAudioController: 0
+[2026-05-27 13:24:54] CSystemAudioController handle volume keys: 0
+[2026-05-27 13:24:54] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-27 13:25:03] Client version: 1779840850
+[2026-05-27 13:25:03] CSystemAudioController skipping on windows
+[2026-05-27 13:25:03] Initialized CSystemAudioController: 0
+[2026-05-27 13:25:03] CSystemAudioController handle volume keys: 0
+[2026-05-27 13:25:03] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-27 13:25:10] Client version: 1779840850
+[2026-05-27 13:25:10] CSystemAudioController skipping on windows
+[2026-05-27 13:25:10] Initialized CSystemAudioController: 0
+[2026-05-27 13:25:10] CSystemAudioController handle volume keys: 0
+[2026-05-27 13:25:10] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-27 13:25:17] Client version: 1779840850
+[2026-05-27 13:25:17] CSystemAudioController skipping on windows
+[2026-05-27 13:25:17] Initialized CSystemAudioController: 0
+[2026-05-27 13:25:17] CSystemAudioController handle volume keys: 0
+[2026-05-27 13:25:17] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-27 13:26:16] Client version: 1779840850
+[2026-05-27 13:26:16] CSystemAudioController skipping on windows
+[2026-05-27 13:26:16] Initialized CSystemAudioController: 0
+[2026-05-27 13:26:16] CSystemAudioController handle volume keys: 0
+[2026-05-27 13:26:16] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-27 13:27:17] Client version: 1779840850
+[2026-05-27 13:27:17] CSystemAudioController skipping on windows
+[2026-05-27 13:27:17] Initialized CSystemAudioController: 0
+[2026-05-27 13:27:17] CSystemAudioController handle volume keys: 0
+[2026-05-27 13:27:17] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-05-27 13:27:45] Client version: 1779840850
+[2026-05-27 13:27:45] CSystemAudioController skipping on windows
+[2026-05-27 13:27:45] Initialized CSystemAudioController: 0
+[2026-05-27 13:27:45] CSystemAudioController handle volume keys: 0
+[2026-05-27 13:27:45] CSystemAudioController handle echo cancel load: 0

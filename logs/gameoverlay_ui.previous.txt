@@ -1,0 +1,15 @@
+Tue May 26 17:01:37 2026 UTC - GameOverlay process started: pid: 6900
+Tue May 26 17:01:37 2026 UTC - GameOverlay process connecting to: pid: 5288
+Tue May 26 17:01:37 2026 UTC - BuildID: 1779479049
+Tue May 26 17:01:37 2026 UTC - Steam Path: C:\Program Files (x86)\Steam
+wt. maj 26 17:01:37 2026 UTC - Got gameid on commandline: 3071240
+wt. maj 26 17:01:37 2026 UTC - SetScreenSize from (1920, 1080) to ( 1920, 1080 ) with DPI scale factor 1.00
+wt. maj 26 17:01:37 2026 UTC - Changing resolution from (1920, 1080) to (1920, 1080)
+wt. maj 26 17:01:55 2026 UTC - Warning: The game hasn't rendered a frame from us in over 10 seconds.
+wt. maj 26 17:02:05 2026 UTC - Warning: The game hasn't rendered a frame from us in over 10 seconds.
+wt. maj 26 17:02:15 2026 UTC - Warning: The game hasn't rendered a frame from us in over 10 seconds.
+wt. maj 26 17:02:25 2026 UTC - Warning: The game hasn't rendered a frame from us in over 10 seconds.
+wt. maj 26 17:02:35 2026 UTC - Warning: The game hasn't rendered a frame from us in over 10 seconds.
+wt. maj 26 17:02:45 2026 UTC - Warning: The game hasn't rendered a frame from us in over 10 seconds.
+wt. maj 26 17:05:42 2026 UTC - Detected possibly crashed/killed game, exiting
+wt. maj 26 17:05:42 2026 UTC - Shutting down overlay

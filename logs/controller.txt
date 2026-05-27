@@ -1,0 +1,2096 @@
+
+
+[2026-02-26 20:42:27] Client version: 1769025840
+[2026-02-26 20:42:27] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-26 20:42:39] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-02-26 21:10:51] Client version: 1769025840
+[2026-02-26 21:10:51] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-26 21:10:53] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-02-26 23:20:34] Client version: 1769025840
+[2026-02-26 23:20:34] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-26 23:20:36] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-02-26 23:32:04] Client version: 1769025840
+[2026-02-26 23:32:04] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-26 23:32:06] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-02-27 00:26:31] Client version: 1769025840
+[2026-02-27 00:26:31] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 00:26:32] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 00:28:01] Exiting workitem thread
+
+
+[2026-02-27 00:28:35] Client version: 1771977793
+[2026-02-27 00:28:35] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 00:28:38] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 00:39:00] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-27 00:39:09] No cached sticky mapping in ActivateActionSet.
+[2026-02-27 00:45:00] Exiting workitem thread
+
+
+[2026-02-27 00:45:12] Client version: 1771977793
+[2026-02-27 00:45:12] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 00:45:13] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 00:48:58] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-27 00:54:00] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-02-27 01:03:04] No cached sticky mapping in ActivateActionSet.
+[2026-02-27 01:10:36] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-02-27 02:11:44] Exiting workitem thread
+
+
+[2026-02-27 02:21:55] Client version: 1771977793
+[2026-02-27 02:21:55] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 02:21:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 02:22:04] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-27 02:27:06] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-02-27 02:33:12] No cached sticky mapping in ActivateActionSet.
+[2026-02-27 02:41:41] Exiting workitem thread
+
+
+[2026-02-27 03:14:19] Client version: 1771977793
+[2026-02-27 03:14:19] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 03:14:21] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 03:14:28] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-27 03:19:34] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-02-27 03:23:32] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-02-27 03:32:34] Client version: 1771977793
+[2026-02-27 03:32:34] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 03:32:36] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 03:32:47] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-27 03:35:51] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-02-27 11:12:35] Client version: 1772162887
+[2026-02-27 11:12:35] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 11:12:37] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-02-27 13:58:42] Client version: 1772162887
+[2026-02-27 13:58:42] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 13:58:44] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-02-27 15:57:56] Client version: 1772162887
+[2026-02-27 15:57:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 15:57:58] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 21:55:25] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-27 21:55:27] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-02-27 22:01:30] Client version: 1772162887
+[2026-02-27 22:01:30] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-27 22:01:32] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-02-28 10:52:46] Client version: 1772162887
+[2026-02-28 10:52:46] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 10:52:48] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-02-28 12:04:44] Client version: 1772162887
+[2026-02-28 12:04:44] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 12:04:46] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 12:04:52] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-28 12:09:58] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-02-28 12:10:18] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-02-28 12:20:32] Client version: 1772162887
+[2026-02-28 12:20:32] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 12:20:34] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 12:21:47] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-28 12:26:53] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-02-28 12:51:30] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-02-28 12:56:46] Client version: 1772162887
+[2026-02-28 12:56:46] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 12:56:47] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 12:56:55] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-28 13:02:01] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-02-28 13:06:06] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-02-28 13:12:02] Client version: 1772162887
+[2026-02-28 13:12:02] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 13:12:04] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 13:12:11] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-28 13:15:38] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-02-28 13:20:48] Client version: 1772162887
+[2026-02-28 13:20:48] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 13:20:50] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 13:21:18] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-28 13:24:40] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-02-28 13:45:16] Client version: 1772162887
+[2026-02-28 13:45:16] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 13:45:18] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 13:45:55] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-28 13:51:00] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-02-28 13:52:13] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-02-28 14:02:49] Client version: 1772162887
+[2026-02-28 14:02:49] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 14:02:51] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 14:03:07] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-28 14:07:35] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-02-28 18:11:37] Client version: 1772162887
+[2026-02-28 18:11:37] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 18:11:39] Opted-in Controller Mask for AppId 0: 1000
+[2026-02-28 20:20:47] Opted-in Controller Mask for AppId 2843439202: 1000
+[2026-02-28 20:30:35] No cached sticky mapping in ActivateActionSet.
+[2026-02-28 20:40:41] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-02-28 20:40:46] CUser::UpdateHmdState: timed out waiting for detected headset, app 0
+[2026-02-28 21:31:29] Opted-in Controller Mask for AppId 730: ffff
+[2026-02-28 21:36:35] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-02-28 23:34:14] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-03-01 00:28:05] Client version: 1772162887
+[2026-03-01 00:28:05] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-01 00:28:07] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-01 00:28:49] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-01 00:33:50] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-01 00:37:42] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-01 00:40:25] Client version: 1772162887
+[2026-03-01 00:40:25] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-01 00:40:27] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-01 00:40:41] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-01 00:45:42] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-01 00:50:08] No cached sticky mapping in ActivateActionSet.
+[2026-03-01 02:23:49] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-01 02:28:55] Exiting workitem thread
+
+
+[2026-03-01 10:24:19] Client version: 1772162887
+[2026-03-01 10:24:19] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-01 10:24:20] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-01 12:15:04] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-01 12:17:41] No cached sticky mapping in ActivateActionSet.
+[2026-03-01 12:23:09] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-01 12:28:27] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-01 12:33:53] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-01 12:33:58] CUser::UpdateHmdState: timed out waiting for detected headset, app 0
+[2026-03-01 14:27:10] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-01 20:28:35] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-01 22:10:24] Exiting workitem thread
+
+
+[2026-03-01 22:21:29] Client version: 1772162887
+[2026-03-01 22:21:29] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-01 22:21:30] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-01 22:21:41] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-01 22:26:47] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-01 22:26:51] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-01 23:07:20] Client version: 1772162887
+[2026-03-01 23:07:20] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-01 23:07:23] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-01 23:08:09] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-01 23:11:30] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-01 23:29:49] Client version: 1772162887
+[2026-03-01 23:29:49] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-01 23:30:06] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-02 15:01:48] Client version: 1772162887
+[2026-03-02 15:01:48] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-02 15:01:50] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-02 17:17:53] Exiting workitem thread
+
+
+[2026-03-02 20:38:54] Client version: 1772162887
+[2026-03-02 20:38:54] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-02 20:38:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-02 21:10:30] Opted-in Controller Mask for AppId 227300: 1000
+[2026-03-02 21:15:36] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+[2026-03-02 21:32:33] No cached sticky mapping in ActivateActionSet.
+[2026-03-03 00:40:14] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-03 00:45:45] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-03 00:45:50] CUser::UpdateHmdState: timed out waiting for detected headset, app 0
+
+
+[2026-03-03 14:35:21] Client version: 1772502488
+[2026-03-03 14:35:21] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-03 14:35:23] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-03 22:48:17] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-03 22:48:19] No cached sticky mapping in ActivateActionSet.
+[2026-03-03 22:53:23] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-03-04 00:43:58] Client version: 1772502488
+[2026-03-04 00:43:58] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-04 00:44:01] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-04 00:47:43] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-04 00:48:06] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-04 06:37:29] Client version: 1772502488
+[2026-03-04 06:37:29] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-04 06:37:31] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-04 06:38:01] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-04 06:38:53] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-04 14:02:55] Client version: 1772502488
+[2026-03-04 14:02:55] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-04 14:02:57] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-04 14:05:15] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-04 14:10:21] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-04 14:11:36] No cached sticky mapping in ActivateActionSet.
+[2026-03-04 14:20:38] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-03-04 15:20:00] Client version: 1772502488
+[2026-03-04 15:20:00] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-04 15:20:02] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-04 15:20:08] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-04 15:20:10] No cached sticky mapping in ActivateActionSet.
+[2026-03-04 15:25:18] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-04 16:25:34] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-03-04 19:35:36] Client version: 1772502488
+[2026-03-04 19:35:36] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-04 19:35:38] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-04 19:42:14] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-04 19:44:49] No cached sticky mapping in ActivateActionSet.
+[2026-03-04 19:50:17] CUser::UpdateHmdState: timed out waiting for detected headset, app 4465480
+[2026-03-04 20:01:01] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-04 20:04:38] CUser::UpdateHmdState: timed out waiting for detected headset, app 4465480
+[2026-03-04 21:02:52] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-03-05 16:09:50] Client version: 1772686978
+[2026-03-05 16:09:50] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-05 16:09:55] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-05 17:48:39] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-05 17:50:11] No cached sticky mapping in ActivateActionSet.
+[2026-03-05 17:50:13] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-05 17:55:21] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-05 20:41:33] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-05 20:43:37] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-05 20:46:39] CUser::UpdateHmdState: timed out waiting for detected headset, app 4465480
+[2026-03-05 21:02:42] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-05 23:21:23] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-05 23:26:29] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-03-06 14:33:17] Client version: 1772686978
+[2026-03-06 14:33:17] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-06 14:33:19] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-06 14:41:48] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-06 14:46:54] CUser::UpdateHmdState: timed out waiting for detected headset, app 4465480
+[2026-03-06 15:13:01] No cached sticky mapping in ActivateActionSet.
+[2026-03-06 21:48:21] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-06 21:53:22] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-07 01:35:48] Exiting workitem thread
+
+
+[2026-03-07 09:18:02] Client version: 1772686978
+[2026-03-07 09:18:02] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-07 09:18:04] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-07 17:03:20] Exiting workitem thread
+
+
+[2026-03-07 18:36:04] Client version: 1772859008
+[2026-03-07 18:36:04] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-07 18:36:06] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-07 20:06:29] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-07 20:10:39] No cached sticky mapping in ActivateActionSet.
+[2026-03-07 22:19:13] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-03-08 10:37:44] Client version: 1772859008
+[2026-03-08 10:37:44] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-08 10:37:46] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-08 10:48:16] Client version: 1772859008
+[2026-03-08 10:48:16] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-08 10:48:17] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-08 18:41:43] Client version: 1772859008
+[2026-03-08 18:41:43] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-08 18:41:45] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-09 14:54:31] Client version: 1772859008
+[2026-03-09 14:54:31] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-09 14:54:32] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-09 14:58:21] Client version: 1772859008
+[2026-03-09 14:58:21] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-09 14:58:23] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-09 20:30:25] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-09 20:35:27] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-09 20:45:05] No cached sticky mapping in ActivateActionSet.
+[2026-03-09 20:55:41] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-09 21:21:42] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-09 21:28:54] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-09 21:34:41] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-09 22:23:48] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-10 01:13:09] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-03-10 19:04:55] Client version: 1773099986
+[2026-03-10 19:04:55] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-10 19:04:59] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-10 20:48:40] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-10 20:53:41] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-10 20:55:40] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-11 13:26:48] Client version: 1773168360
+[2026-03-11 13:26:48] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-11 13:26:50] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-11 13:40:29] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-11 13:45:30] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-11 21:32:45] No cached sticky mapping in ActivateActionSet.
+[2026-03-11 22:24:42] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-12 00:40:20] Opted-in Controller Mask for AppId 730: ffff
+
+
+[2026-03-12 16:23:17] Client version: 1773268655
+[2026-03-12 16:23:17] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-12 16:23:19] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-12 18:10:19] Client version: 1773268655
+[2026-03-12 18:10:19] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-12 18:10:21] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-12 18:10:28] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-12 18:13:34] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-12 18:45:54] Client version: 1773268655
+[2026-03-12 18:45:54] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-12 18:45:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-12 19:39:49] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-12 19:44:50] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-12 19:54:44] No cached sticky mapping in ActivateActionSet.
+[2026-03-12 19:59:59] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-12 20:05:35] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-12 20:05:40] CUser::UpdateHmdState: timed out waiting for detected headset, app 0
+[2026-03-12 20:12:13] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-12 20:12:18] CUser::UpdateHmdState: timed out waiting for detected headset, app 0
+[2026-03-12 21:22:13] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-12 21:22:18] CUser::UpdateHmdState: timed out waiting for detected headset, app 0
+[2026-03-13 03:00:27] Exiting workitem thread
+
+
+[2026-03-13 16:26:05] Client version: 1773268655
+[2026-03-13 16:26:05] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-13 16:26:07] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-13 17:17:30] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-13 17:22:31] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-13 18:05:44] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-13 20:57:13] Client version: 1773367340
+[2026-03-13 20:57:13] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-13 20:57:14] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-13 22:12:55] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-13 22:17:56] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-13 22:41:30] No cached sticky mapping in ActivateActionSet.
+[2026-03-14 01:05:52] Exiting workitem thread
+
+
+[2026-03-14 09:18:43] Client version: 1773367340
+[2026-03-14 09:18:43] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-14 09:18:45] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-14 09:18:48] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-14 09:20:05] No cached sticky mapping in ActivateActionSet.
+[2026-03-14 12:12:44] Exiting workitem thread
+
+
+[2026-03-14 14:21:42] Client version: 1773367340
+[2026-03-14 14:21:42] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-14 14:21:44] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-14 19:36:26] Client version: 1773367340
+[2026-03-14 19:36:26] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-14 19:36:28] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-14 19:41:37] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-14 19:46:43] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-14 19:53:21] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-14 20:05:47] Client version: 1773367340
+[2026-03-14 20:05:47] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-14 20:05:49] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-14 20:06:41] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-14 20:11:47] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-14 20:50:44] No cached sticky mapping in ActivateActionSet.
+[2026-03-15 02:13:40] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-15 02:24:05] Opted-in Controller Mask for AppId 365670: 1000
+[2026-03-15 02:29:06] CUser::UpdateHmdState: timed out waiting for detected headset, app 365670
+[2026-03-15 09:17:46] Exiting workitem thread
+
+
+[2026-03-15 09:19:09] Client version: 1773367340
+[2026-03-15 09:19:09] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-15 09:19:11] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-15 11:35:00] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-15 11:35:03] No cached sticky mapping in ActivateActionSet.
+[2026-03-15 11:40:07] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-15 17:40:21] Exiting workitem thread
+
+
+[2026-03-15 19:50:51] Client version: 1773367340
+[2026-03-15 19:50:51] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-15 19:50:53] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-15 21:32:01] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-15 21:32:03] No cached sticky mapping in ActivateActionSet.
+[2026-03-15 21:37:07] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-15 22:21:44] Opted-in Controller Mask for AppId 227300: 1000
+[2026-03-15 22:27:40] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+[2026-03-16 01:37:47] Exiting workitem thread
+
+
+[2026-03-16 14:36:44] Client version: 1773367340
+[2026-03-16 14:36:44] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-16 14:36:46] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-16 14:53:57] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-16 14:58:48] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-16 16:03:40] Client version: 1773367340
+[2026-03-16 16:03:40] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-16 16:03:42] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-16 22:44:47] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-16 22:44:49] No cached sticky mapping in ActivateActionSet.
+[2026-03-16 22:52:53] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-16 23:19:17] Opted-in Controller Mask for AppId 730: ffff
+
+
+[2026-03-17 16:11:01] Client version: 1773367340
+[2026-03-17 16:11:01] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-17 16:11:04] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-17 21:11:45] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-17 21:12:41] No cached sticky mapping in ActivateActionSet.
+[2026-03-17 21:19:29] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-17 23:29:29] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-17 23:35:00] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-17 23:35:05] CUser::UpdateHmdState: timed out waiting for detected headset, app 0
+[2026-03-17 23:47:50] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-17 23:47:55] CUser::UpdateHmdState: timed out waiting for detected headset, app 0
+[2026-03-17 23:59:19] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+
+
+[2026-03-18 13:22:17] Client version: 1773367340
+[2026-03-18 13:22:17] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-18 13:22:19] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-18 13:45:24] Client version: 1773367340
+[2026-03-18 13:45:24] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-18 13:45:26] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-18 13:47:05] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-18 13:50:11] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-18 13:53:47] Client version: 1773367340
+[2026-03-18 13:53:47] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-18 13:53:49] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-18 13:54:04] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-18 13:59:10] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-18 13:59:17] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-18 14:03:38] Client version: 1773367340
+[2026-03-18 14:03:38] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-18 14:03:40] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-18 14:03:49] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-18 14:08:55] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-18 14:10:19] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-18 20:06:10] Client version: 1773367340
+[2026-03-18 20:06:10] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-18 20:06:12] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-18 20:09:52] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-18 20:15:23] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-18 20:15:28] CUser::UpdateHmdState: timed out waiting for detected headset, app 0
+[2026-03-18 20:33:36] No cached sticky mapping in ActivateActionSet.
+[2026-03-18 20:46:56] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-18 20:47:01] CUser::UpdateHmdState: timed out waiting for detected headset, app 0
+[2026-03-18 21:55:28] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-18 21:55:33] CUser::UpdateHmdState: timed out waiting for detected headset, app 0
+[2026-03-18 22:26:10] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-18 22:31:12] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-18 23:52:19] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-18 23:57:20] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-03-19 16:14:02] Client version: 1773367340
+[2026-03-19 16:14:02] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-19 16:14:04] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-19 18:22:44] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-19 18:28:16] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-19 18:28:21] CUser::UpdateHmdState: timed out waiting for detected headset, app 0
+[2026-03-19 18:44:33] No cached sticky mapping in ActivateActionSet.
+[2026-03-19 19:52:40] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-19 21:22:38] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-19 21:27:39] CUser::UpdateHmdState: timed out waiting for detected headset, app 4465480
+[2026-03-19 22:12:53] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-19 22:12:58] CUser::UpdateHmdState: timed out waiting for detected headset, app 0
+[2026-03-19 22:19:28] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+
+
+[2026-03-20 16:01:10] Client version: 1773983034
+[2026-03-20 16:01:10] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-20 16:01:11] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-20 21:12:47] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-20 21:16:29] No cached sticky mapping in ActivateActionSet.
+[2026-03-20 21:21:37] CUser::UpdateHmdState: timed out waiting for detected headset, app 4465480
+[2026-03-20 21:35:12] CUser::UpdateHmdState: timed out waiting for detected headset, app 4465480
+[2026-03-20 22:38:19] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-20 22:43:21] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-03-21 00:22:03] Client version: 1773983034
+[2026-03-21 00:22:03] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-21 00:22:06] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-21 00:22:38] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-21 00:27:39] CUser::UpdateHmdState: timed out waiting for detected headset, app 4465480
+[2026-03-21 00:32:19] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-21 09:41:19] Client version: 1773983034
+[2026-03-21 09:41:19] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-21 09:41:21] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-21 10:16:15] Client version: 1773983034
+[2026-03-21 10:16:15] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-21 10:16:17] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-21 10:17:03] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-21 10:22:04] CUser::UpdateHmdState: timed out waiting for detected headset, app 4465480
+[2026-03-21 10:36:00] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-21 10:49:13] Client version: 1773983034
+[2026-03-21 10:49:13] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-21 10:49:15] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-21 15:10:57] Client version: 1773983034
+[2026-03-21 15:10:57] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-21 15:10:59] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-21 16:16:22] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-21 16:21:50] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-21 16:21:55] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-03-21 16:38:33] No cached sticky mapping in ActivateActionSet.
+[2026-03-21 16:45:41] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-21 16:45:46] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+
+
+[2026-03-21 19:48:22] Client version: 1773983034
+[2026-03-21 19:48:22] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-21 19:48:24] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-21 19:55:37] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-21 20:01:04] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-21 20:01:09] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-03-21 20:03:21] No cached sticky mapping in ActivateActionSet.
+[2026-03-21 20:08:58] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-21 22:07:41] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-21 22:07:46] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-03-21 23:29:43] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-21 23:34:45] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-22 00:29:22] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-22 00:29:27] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-03-22 01:03:52] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-22 01:48:35] Opted-in Controller Mask for AppId 227300: 1000
+[2026-03-22 01:53:38] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+[2026-03-22 02:55:55] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-22 02:56:00] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+
+
+[2026-03-22 09:42:19] Client version: 1773983034
+[2026-03-22 09:42:19] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 09:42:21] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 09:42:27] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-22 09:42:48] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-22 09:42:51] No cached sticky mapping in ActivateActionSet.
+[2026-03-22 09:47:50] CUser::UpdateHmdState: timed out waiting for detected headset, app 4465480
+[2026-03-22 09:57:12] Opted-in Controller Mask for AppId 730: ffff
+
+
+[2026-03-22 10:08:01] Client version: 1773983034
+[2026-03-22 10:08:01] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 10:08:03] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 10:09:01] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-22 10:11:52] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-22 10:56:00] Client version: 1773983034
+[2026-03-22 10:56:00] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 10:56:12] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 11:05:17] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-22 11:06:27] No cached sticky mapping in ActivateActionSet.
+[2026-03-22 12:36:26] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-22 12:39:54] Exiting workitem thread
+
+
+[2026-03-22 12:39:58] Client version: 1773983034
+[2026-03-22 12:39:58] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 12:40:00] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-22 12:46:11] Client version: 1773983034
+[2026-03-22 12:46:11] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 12:46:13] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 12:46:31] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-22 12:47:24] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-22 12:57:16] Client version: 1773983034
+[2026-03-22 12:57:16] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 12:57:17] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 12:57:30] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-22 12:58:16] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-22 13:03:27] Client version: 1773983034
+[2026-03-22 13:03:27] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 13:03:28] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 13:03:44] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-22 13:06:51] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-22 13:10:41] Client version: 1773983034
+[2026-03-22 13:10:41] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 13:10:43] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 13:10:54] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-22 13:11:52] No cached sticky mapping in ActivateActionSet.
+[2026-03-22 13:59:37] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-22 14:05:04] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-22 14:05:09] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+
+
+[2026-03-22 18:10:00] Client version: 1773983034
+[2026-03-22 18:10:00] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 18:10:02] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 18:11:19] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-22 18:14:48] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-22 18:36:54] Client version: 1773983034
+[2026-03-22 18:36:54] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 18:36:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 18:37:47] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-22 18:38:46] No cached sticky mapping in ActivateActionSet.
+[2026-03-22 19:02:35] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-03-22 19:12:45] CUser::UpdateHmdState: timed out waiting for detected headset, app 4465480
+
+
+[2026-03-22 19:19:53] Client version: 1773983034
+[2026-03-22 19:19:53] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 19:19:55] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 19:20:10] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-22 19:21:27] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-22 23:06:14] Client version: 1773983034
+[2026-03-22 23:06:14] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 23:06:16] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 23:09:52] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-22 23:10:06] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-22 23:36:11] Client version: 1773983034
+[2026-03-22 23:36:11] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 23:36:12] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 23:37:48] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-22 23:38:39] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-22 23:55:51] Client version: 1773983034
+[2026-03-22 23:55:51] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-22 23:55:53] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 00:01:48] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-23 00:02:44] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-23 00:18:17] Client version: 1773983034
+[2026-03-23 00:18:17] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 00:18:19] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 00:32:53] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-23 00:33:57] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-23 14:53:25] Client version: 1773983034
+[2026-03-23 14:53:25] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 14:53:27] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 14:53:42] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-23 14:54:40] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-23 14:57:13] Client version: 1773983034
+[2026-03-23 14:57:13] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 14:57:14] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 14:57:21] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-23 14:58:13] No cached sticky mapping in ActivateActionSet.
+[2026-03-23 15:06:02] Exiting workitem thread
+
+
+[2026-03-23 15:06:11] Client version: 1773983034
+[2026-03-23 15:06:11] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 15:06:13] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 15:06:20] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-23 15:07:44] No cached sticky mapping in ActivateActionSet.
+[2026-03-23 16:16:20] Exiting workitem thread
+
+
+[2026-03-23 16:32:41] Client version: 1773983034
+[2026-03-23 16:32:41] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 16:32:43] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 16:32:50] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-23 16:33:52] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-23 16:35:49] Client version: 1773983034
+[2026-03-23 16:35:49] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 16:35:52] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 16:37:13] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-23 16:38:23] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-23 16:45:23] Client version: 1773983034
+[2026-03-23 16:45:23] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 16:45:24] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 16:51:41] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-23 16:53:12] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-23 17:00:19] Client version: 1773983034
+[2026-03-23 17:00:19] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 17:00:21] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 17:01:35] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-23 17:02:54] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-23 20:26:29] Client version: 1773983034
+[2026-03-23 20:26:29] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 20:26:31] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 20:26:39] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-23 20:27:34] No cached sticky mapping in ActivateActionSet.
+[2026-03-23 20:50:30] Exiting workitem thread
+
+
+[2026-03-23 20:50:34] Client version: 1773983034
+[2026-03-23 20:50:34] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 20:50:36] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 20:50:52] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-23 20:51:49] No cached sticky mapping in ActivateActionSet.
+[2026-03-23 21:23:40] Exiting workitem thread
+
+
+[2026-03-23 21:24:56] Client version: 1773983034
+[2026-03-23 21:24:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 21:24:58] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 21:25:07] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-23 21:26:08] No cached sticky mapping in ActivateActionSet.
+[2026-03-23 21:50:43] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-23 22:01:30] Exiting workitem thread
+
+
+[2026-03-23 22:05:05] Client version: 1773983034
+[2026-03-23 22:05:05] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 22:05:07] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 22:06:34] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-23 22:11:36] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-23 22:42:34] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-23 22:47:15] Client version: 1773983034
+[2026-03-23 22:47:15] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 22:47:17] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-23 23:19:07] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-23 23:24:44] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-23 23:24:49] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-03-23 23:29:08] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-24 14:55:24] Client version: 1773983034
+[2026-03-24 14:55:24] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-24 14:55:26] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-24 15:25:30] Client version: 1774306123
+[2026-03-24 15:25:30] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-24 15:25:32] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-24 15:25:38] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-24 15:30:44] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-03-24 15:52:21] Client version: 1774306123
+[2026-03-24 15:52:21] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-24 15:52:22] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-24 15:54:17] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-24 15:59:23] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-24 17:02:18] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-24 20:11:00] Client version: 1774306123
+[2026-03-24 20:11:00] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-24 20:11:03] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-24 21:52:45] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-24 21:57:47] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-24 22:24:32] No cached sticky mapping in ActivateActionSet.
+[2026-03-24 23:09:21] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-25 01:00:46] Opted-in Controller Mask for AppId 3823845003: 1000
+
+
+[2026-03-25 13:27:22] Client version: 1774306123
+[2026-03-25 13:27:22] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-25 13:27:24] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-25 21:08:01] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-25 21:13:02] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-25 22:40:34] No cached sticky mapping in ActivateActionSet.
+[2026-03-26 01:04:54] Exiting workitem thread
+
+
+[2026-03-26 15:54:35] Client version: 1774488570
+[2026-03-26 15:54:35] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-26 15:54:37] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-26 23:58:52] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-27 00:03:53] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-27 00:33:10] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-27 15:55:14] Client version: 1774488570
+[2026-03-27 15:55:14] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-27 15:55:17] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-27 17:01:49] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-27 17:06:50] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-27 17:36:00] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-27 19:16:45] Client version: 1774577504
+[2026-03-27 19:16:45] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-27 19:16:46] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-28 08:15:02] Client version: 1774577504
+[2026-03-28 08:15:02] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-28 08:15:05] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-28 08:18:16] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-28 08:23:18] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-28 08:46:51] No cached sticky mapping in ActivateActionSet.
+[2026-03-28 13:06:53] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-28 13:11:55] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-03-28 13:22:31] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-28 13:22:36] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-03-28 13:38:10] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-28 13:38:15] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+
+
+[2026-03-28 19:10:52] Client version: 1774577504
+[2026-03-28 19:10:52] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-28 19:10:54] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-28 19:30:00] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-28 19:31:28] No cached sticky mapping in ActivateActionSet.
+[2026-03-28 21:07:03] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-28 21:12:05] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-28 21:57:10] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-28 23:01:07] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-28 23:49:29] Opted-in Controller Mask for AppId 397900: 1000
+[2026-03-28 23:54:37] CUser::UpdateHmdState: timed out waiting for detected headset, app 397900
+[2026-03-29 00:18:32] CUser::UpdateHmdState: timed out waiting for detected headset, app 397900
+[2026-03-29 00:36:44] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-29 00:47:52] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-29 00:47:57] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+
+
+[2026-03-29 11:44:18] Client version: 1774577504
+[2026-03-29 11:44:18] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-29 11:44:20] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-29 13:41:54] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-29 13:45:28] No cached sticky mapping in ActivateActionSet.
+[2026-03-29 13:55:23] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-29 13:55:28] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-03-29 15:59:21] Opted-in Controller Mask for AppId 2676230: fffb
+[2026-03-29 16:46:40] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-29 16:46:45] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-03-29 17:04:26] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-29 18:29:11] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-29 18:29:16] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-03-29 18:41:22] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-29 18:41:27] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-03-29 19:16:31] Opted-in Controller Mask for AppId 2498780: 1000
+[2026-03-29 19:21:41] CUser::UpdateHmdState: timed out waiting for detected headset, app 2498780
+[2026-03-30 01:24:27] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-30 01:29:29] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-03-30 14:39:44] Client version: 1774577504
+[2026-03-30 14:39:44] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-30 14:39:46] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-30 14:49:01] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-30 14:54:03] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-30 14:59:46] No cached sticky mapping in ActivateActionSet.
+[2026-03-30 16:29:20] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-03-30 16:39:53] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-30 16:39:58] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-03-30 20:19:08] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-30 20:19:13] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-03-30 21:43:46] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-30 22:53:24] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-30 23:56:16] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-03-30 23:56:21] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+
+
+[2026-03-31 14:58:38] Client version: 1774577504
+[2026-03-31 14:58:38] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-31 14:58:52] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-31 16:33:55] Opted-in Controller Mask for AppId 730: ffff
+[2026-03-31 16:39:01] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-03-31 16:50:39] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-03-31 20:25:54] Client version: 1774577504
+[2026-03-31 20:25:54] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-31 20:25:56] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-03-31 22:43:54] Client version: 1774577504
+[2026-03-31 22:43:54] Opted-in Controller Mask for AppId 0: 1000
+[2026-03-31 22:43:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-01 00:07:00] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-01 00:11:42] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-01 13:09:24] Client version: 1774577504
+[2026-04-01 13:09:24] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-01 13:09:27] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-01 14:32:18] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-01 14:37:19] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-01 15:40:06] No cached sticky mapping in ActivateActionSet.
+[2026-04-01 16:29:52] Exiting workitem thread
+
+
+[2026-04-01 21:15:08] Client version: 1774577504
+[2026-04-01 21:15:08] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-01 21:15:11] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-01 22:01:51] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-01 22:01:53] No cached sticky mapping in ActivateActionSet.
+[2026-04-01 22:06:58] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-02 09:12:11] Client version: 1774577504
+[2026-04-02 09:12:11] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-02 09:12:13] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-02 09:14:37] Exiting workitem thread
+
+
+[2026-04-02 09:14:47] Client version: 1775086565
+[2026-04-02 09:14:47] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-02 09:14:49] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-02 09:16:43] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-02 09:18:11] No cached sticky mapping in ActivateActionSet.
+[2026-04-02 09:27:36] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-02 11:19:23] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-04-02 11:25:11] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-04-02 11:25:16] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-04-02 12:45:26] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-04-02 12:45:31] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+
+
+[2026-04-02 19:44:58] Client version: 1775086565
+[2026-04-02 19:44:58] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-02 19:45:00] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-02 21:22:56] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-02 21:22:59] No cached sticky mapping in ActivateActionSet.
+[2026-04-02 21:28:03] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-02 22:33:36] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-04-02 22:39:08] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-04-02 22:39:13] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-04-02 22:51:52] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-02 22:56:58] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-03 09:29:55] Client version: 1775086565
+[2026-04-03 09:29:55] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-03 09:29:59] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-04-03 20:14:21] Client version: 1775175108
+[2026-04-03 20:14:21] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-03 20:14:23] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-03 21:24:12] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-03 21:29:13] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-03 22:31:56] No cached sticky mapping in ActivateActionSet.
+[2026-04-03 22:32:02] Opted-in Controller Mask for AppId 227300: 1000
+[2026-04-03 22:37:04] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+[2026-04-04 01:13:08] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-04 01:31:34] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-04 11:10:33] Client version: 1775175108
+[2026-04-04 11:10:33] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-04 11:10:35] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-04-04 20:20:21] Client version: 1775175108
+[2026-04-04 20:20:21] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-04 20:20:24] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-04 23:54:50] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-04 23:59:51] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-05 00:52:30] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-05 13:26:20] Client version: 1775175108
+[2026-04-05 13:26:20] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-05 13:26:22] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-04-05 18:15:58] Client version: 1775175108
+[2026-04-05 18:15:58] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-05 18:16:00] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-05 23:09:54] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-05 23:09:57] No cached sticky mapping in ActivateActionSet.
+[2026-04-05 23:15:01] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-06 00:20:20] Opted-in Controller Mask for AppId 227300: 1000
+[2026-04-06 00:25:22] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+[2026-04-06 00:39:55] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+
+
+[2026-04-06 10:26:02] Client version: 1775175108
+[2026-04-06 10:26:02] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-06 10:26:04] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-06 10:39:31] Opted-in Controller Mask for AppId 227300: 1000
+[2026-04-06 10:44:33] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+[2026-04-06 12:34:52] No cached sticky mapping in ActivateActionSet.
+[2026-04-06 13:43:32] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+[2026-04-06 14:36:36] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+[2026-04-06 15:37:52] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-06 15:43:04] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-06 22:15:14] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-07 01:12:08] Exiting workitem thread
+
+
+[2026-04-07 09:32:26] Client version: 1775175108
+[2026-04-07 09:32:26] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-07 09:32:28] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-07 12:43:02] Opted-in Controller Mask for AppId 227300: 1000
+[2026-04-07 12:48:04] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+[2026-04-07 13:19:48] No cached sticky mapping in ActivateActionSet.
+[2026-04-07 13:25:19] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+[2026-04-07 13:53:28] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+[2026-04-07 14:15:07] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+
+
+[2026-04-07 20:56:19] Client version: 1775525170
+[2026-04-07 20:56:19] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-07 20:56:21] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-07 23:47:56] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-07 23:47:58] No cached sticky mapping in ActivateActionSet.
+[2026-04-07 23:53:03] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-08 00:35:35] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-08 14:05:00] Client version: 1775525170
+[2026-04-08 14:05:00] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-08 14:05:12] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-08 15:59:32] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-08 15:59:34] No cached sticky mapping in ActivateActionSet.
+[2026-04-08 16:04:45] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-08 16:38:21] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-08 22:21:17] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-09 01:03:19] Exiting workitem thread
+
+
+[2026-04-09 16:36:48] Client version: 1775605734
+[2026-04-09 16:36:48] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-09 16:36:51] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-04-09 19:54:23] Client version: 1775703228
+[2026-04-09 19:54:23] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-09 19:54:25] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-09 22:21:17] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-09 22:26:18] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-09 23:04:45] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-10 13:53:56] Client version: 1775703228
+[2026-04-10 13:53:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-10 13:53:58] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-10 15:31:12] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-10 15:36:14] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-10 16:06:52] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-10 17:26:36] Client version: 1775703228
+[2026-04-10 17:26:36] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-10 17:26:38] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-10 23:41:02] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-10 23:46:03] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-10 23:58:40] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-11 09:13:49] Client version: 1775703228
+[2026-04-11 09:13:49] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-11 09:13:51] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-11 11:28:49] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-11 11:28:52] No cached sticky mapping in ActivateActionSet.
+[2026-04-11 11:33:56] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-11 13:41:00] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-11 17:41:40] Client version: 1775858166
+[2026-04-11 17:41:40] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-11 17:41:42] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-11 18:38:06] Opted-in Controller Mask for AppId 397900: 1000
+[2026-04-11 18:38:40] No cached sticky mapping in ActivateActionSet.
+[2026-04-11 23:18:24] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-11 23:23:37] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-12 01:00:55] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-12 02:08:23] Exiting workitem thread
+
+
+[2026-04-12 10:47:56] Client version: 1775858166
+[2026-04-12 10:47:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-12 10:47:58] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-12 11:48:26] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-12 11:53:27] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-12 12:05:59] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-13 14:01:52] Client version: 1775946595
+[2026-04-13 14:01:52] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-13 14:01:54] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-04-13 17:51:56] Client version: 1775946595
+[2026-04-13 17:51:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-13 17:51:59] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-13 20:49:20] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-13 20:54:21] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-13 21:22:52] No cached sticky mapping in ActivateActionSet.
+[2026-04-14 00:26:09] Exiting workitem thread
+
+
+[2026-04-14 15:35:16] Client version: 1775946595
+[2026-04-14 15:35:16] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-14 15:35:18] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-14 17:19:44] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-14 17:19:47] No cached sticky mapping in ActivateActionSet.
+[2026-04-14 17:24:51] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-14 21:05:23] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-15 00:41:06] Exiting workitem thread
+
+
+[2026-04-15 14:04:31] Client version: 1775946595
+[2026-04-15 14:04:31] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-15 14:04:33] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-04-15 19:06:08] Client version: 1775946595
+[2026-04-15 19:06:08] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-15 19:06:10] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-15 19:21:21] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-15 19:26:22] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-15 20:06:47] No cached sticky mapping in ActivateActionSet.
+[2026-04-15 21:38:16] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-16 15:47:00] Client version: 1775946595
+[2026-04-16 15:47:00] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-16 15:47:03] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-04-16 17:29:52] Client version: 1775946595
+[2026-04-16 17:29:52] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-16 17:29:54] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-16 17:41:24] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-16 17:41:27] No cached sticky mapping in ActivateActionSet.
+[2026-04-16 17:46:31] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-16 20:20:19] Client version: 1775946595
+[2026-04-16 20:20:19] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-16 20:20:22] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-16 20:29:16] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-16 20:31:17] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-16 22:54:46] Client version: 1775946595
+[2026-04-16 22:54:46] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-16 22:54:48] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-17 00:27:52] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-17 00:32:54] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-17 00:40:37] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-17 15:43:41] Client version: 1775946595
+[2026-04-17 15:43:41] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-17 15:43:42] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-17 16:16:48] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-17 16:21:49] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-17 16:34:43] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-17 20:01:36] Client version: 1776387948
+[2026-04-17 20:01:36] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-17 20:01:38] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-17 20:15:35] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-17 20:20:37] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-17 20:25:27] No cached sticky mapping in ActivateActionSet.
+[2026-04-17 22:35:01] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-18 10:07:16] Client version: 1776387948
+[2026-04-18 10:07:16] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-18 10:07:18] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-18 15:46:19] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-18 15:51:20] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-18 16:16:22] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-18 16:41:49] Client version: 1776387948
+[2026-04-18 16:41:49] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-18 16:41:51] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-18 16:52:43] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-18 16:54:16] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-18 17:13:15] Client version: 1776387948
+[2026-04-18 17:13:15] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-18 17:13:17] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-18 17:13:38] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-18 17:18:40] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-18 18:29:36] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-18 18:45:30] Client version: 1776387948
+[2026-04-18 18:45:30] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-18 18:45:32] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-18 18:49:19] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-18 18:49:21] No cached sticky mapping in ActivateActionSet.
+[2026-04-18 18:54:25] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-18 21:53:43] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-18 22:50:36] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-19 00:21:22] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-04-19 00:29:10] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-04-19 00:29:15] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-04-19 01:09:11] Opted-in Controller Mask for AppId 4465480: ffff
+
+
+[2026-04-19 10:24:12] Client version: 1776387948
+[2026-04-19 10:24:12] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-19 10:24:14] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-19 11:27:45] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-19 11:32:47] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-19 12:21:16] No cached sticky mapping in ActivateActionSet.
+[2026-04-19 16:13:01] Exiting workitem thread
+
+
+[2026-04-19 19:06:03] Client version: 1776387948
+[2026-04-19 19:06:03] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-19 19:06:06] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-19 23:14:09] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-19 23:14:11] No cached sticky mapping in ActivateActionSet.
+[2026-04-19 23:19:16] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-20 14:56:31] Client version: 1776387948
+[2026-04-20 14:56:31] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-20 14:56:33] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-20 23:17:24] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-20 23:22:26] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-21 00:39:41] No cached sticky mapping in ActivateActionSet.
+[2026-04-21 00:46:30] Opted-in Controller Mask for AppId 3949040: 1002
+[2026-04-21 00:51:32] Opted-in Controller Mask for AppId 2507950: fffc
+[2026-04-21 00:56:38] CUser::UpdateHmdState: timed out waiting for detected headset, app 2507950
+[2026-04-21 01:33:51] CUser::UpdateHmdState: timed out waiting for detected headset, app 2507950
+[2026-04-21 02:08:00] Exiting workitem thread
+
+
+[2026-04-21 14:33:02] Client version: 1776387948
+[2026-04-21 14:33:02] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-21 14:33:04] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-04-21 17:30:10] Client version: 1776728408
+[2026-04-21 17:30:10] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-21 17:30:13] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-21 17:58:14] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-21 18:03:15] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-21 18:23:57] No cached sticky mapping in ActivateActionSet.
+[2026-04-21 19:09:46] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-21 20:28:26] Opted-in Controller Mask for AppId 227300: 1000
+[2026-04-21 20:33:28] CUser::UpdateHmdState: timed out waiting for detected headset, app 227300
+[2026-04-21 21:45:19] Opted-in Controller Mask for AppId 1033030: 1000
+[2026-04-21 21:50:24] CUser::UpdateHmdState: timed out waiting for detected headset, app 1033030
+[2026-04-21 22:36:21] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-22 13:59:38] Client version: 1776728408
+[2026-04-22 13:59:38] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-22 13:59:50] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-22 14:04:41] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-22 14:04:44] No cached sticky mapping in ActivateActionSet.
+[2026-04-22 14:09:48] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-22 15:54:35] Client version: 1776812172
+[2026-04-22 15:54:35] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-22 15:54:37] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-22 16:52:14] Exiting workitem thread
+
+
+[2026-04-22 19:15:13] Client version: 1776812172
+[2026-04-22 19:15:13] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-22 19:15:14] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-22 23:09:22] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-22 23:09:24] No cached sticky mapping in ActivateActionSet.
+[2026-04-22 23:14:29] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-23 00:38:08] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-23 14:09:56] Client version: 1776812172
+[2026-04-23 14:09:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-23 14:09:58] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-23 14:39:41] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-23 14:39:44] No cached sticky mapping in ActivateActionSet.
+[2026-04-23 14:45:50] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-23 19:50:49] Client version: 1776812172
+[2026-04-23 19:50:49] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-23 19:50:51] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-23 21:25:18] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-23 21:25:21] No cached sticky mapping in ActivateActionSet.
+[2026-04-23 21:30:31] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-23 23:52:58] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-24 12:54:44] Client version: 1776812172
+[2026-04-24 12:54:44] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-24 12:54:46] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-24 13:41:46] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-24 13:41:49] No cached sticky mapping in ActivateActionSet.
+[2026-04-24 13:46:53] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-24 20:46:12] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-24 22:26:50] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-25 11:08:20] Client version: 1776812172
+[2026-04-25 11:08:20] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-25 11:08:22] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-04-25 19:26:06] Client version: 1777083821
+[2026-04-25 19:26:06] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-25 19:26:08] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-04-25 19:46:16] Client version: 1777083821
+[2026-04-25 19:46:16] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-25 19:46:18] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-25 21:11:46] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-25 21:15:58] No cached sticky mapping in ActivateActionSet.
+[2026-04-25 21:43:48] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-25 21:45:51] Opted-in Controller Mask for AppId 3764200: ffff
+[2026-04-25 21:50:53] CUser::UpdateHmdState: timed out waiting for detected headset, app 3764200
+
+
+[2026-04-26 09:46:33] Client version: 1777083821
+[2026-04-26 09:46:33] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-26 09:46:35] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-26 12:38:10] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-26 12:43:11] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-26 12:55:37] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-26 20:07:50] Client version: 1777083821
+[2026-04-26 20:07:50] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-26 20:07:52] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-26 22:58:49] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-26 23:03:51] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-26 23:12:42] No cached sticky mapping in ActivateActionSet.
+[2026-04-26 23:17:47] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-04-27 14:45:28] Client version: 1777083821
+[2026-04-27 14:45:28] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-27 14:45:30] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-27 21:39:25] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-27 21:44:27] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-27 22:30:17] No cached sticky mapping in ActivateActionSet.
+[2026-04-28 01:10:41] Exiting workitem thread
+
+
+[2026-04-28 15:35:12] Client version: 1777083821
+[2026-04-28 15:35:12] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-28 15:35:15] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-28 15:47:03] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-28 15:52:05] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-28 16:12:26] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-28 19:47:41] Client version: 1777345799
+[2026-04-28 19:47:41] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-28 19:47:43] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-28 20:12:10] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-28 20:17:16] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-28 20:26:40] No cached sticky mapping in ActivateActionSet.
+[2026-04-28 22:20:28] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-28 22:34:37] Exiting workitem thread
+
+
+[2026-04-28 22:35:08] Client version: 1777345799
+[2026-04-28 22:35:08] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-28 22:35:12] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-28 22:37:44] Exiting workitem thread
+
+
+[2026-04-28 22:37:49] Client version: 1777345799
+[2026-04-28 22:37:49] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-28 22:37:51] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-04-29 00:24:48] Client version: 1777345799
+[2026-04-29 00:24:48] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-29 00:24:50] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-29 00:28:31] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-29 00:33:37] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-29 00:33:41] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-29 12:56:53] Client version: 1777411435
+[2026-04-29 12:56:53] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-29 12:56:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-29 13:43:15] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-29 13:48:16] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-29 14:20:49] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-29 20:46:27] Client version: 1777411435
+[2026-04-29 20:46:27] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-29 20:46:30] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-29 22:41:00] Opted-in Controller Mask for AppId 3820780: 1000
+[2026-04-29 22:46:01] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-04-29 23:54:12] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-04-30 15:41:11] Client version: 1777411435
+[2026-04-30 15:41:11] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-30 15:41:13] Opted-in Controller Mask for AppId 0: 1000
+[2026-04-30 15:53:50] Opted-in Controller Mask for AppId 730: ffff
+[2026-04-30 15:58:51] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-04-30 16:41:52] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-05-03 20:28:18] Client version: 1777518510
+[2026-05-03 20:28:18] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-03 20:28:20] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-05-03 21:55:42] Client version: 1777686219
+[2026-05-03 21:55:42] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-03 21:55:45] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-03 22:12:27] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-03 22:12:30] No cached sticky mapping in ActivateActionSet.
+[2026-05-03 22:17:34] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-04 03:03:50] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-04 11:36:31] Client version: 1777686219
+[2026-05-04 11:36:31] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-04 11:36:33] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-04 11:48:42] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-04 11:53:47] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-04 12:16:32] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-05-04 13:19:32] Client version: 1777686219
+[2026-05-04 13:19:32] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-04 13:19:35] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-04 14:42:39] Opted-in Controller Mask for AppId 3820780: 1000
+[2026-05-04 14:47:42] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-05-04 15:27:22] No cached sticky mapping in ActivateActionSet.
+[2026-05-04 15:28:15] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-04 15:33:21] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-04 18:08:36] Opted-in Controller Mask for AppId 397900: 1000
+[2026-05-04 18:13:38] CUser::UpdateHmdState: timed out waiting for detected headset, app 397900
+[2026-05-04 18:13:43] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-05-04 19:19:37] CUser::UpdateHmdState: timed out waiting for detected headset, app 397900
+[2026-05-04 21:31:04] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-04 22:53:31] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+
+
+[2026-05-05 00:09:37] Client version: 1777686219
+[2026-05-05 00:09:37] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-05 00:09:40] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-05 00:09:50] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-05 00:10:47] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-05-05 00:18:01] Client version: 1777686219
+[2026-05-05 00:18:01] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-05 00:18:03] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-05 00:18:13] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-05 00:20:01] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-05-05 10:37:59] Client version: 1777931468
+[2026-05-05 10:37:59] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-05 10:38:01] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-05 11:16:59] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-05 11:22:00] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-05 12:04:37] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-05-05 12:38:36] Client version: 1777935142
+[2026-05-05 12:38:36] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-05 12:38:39] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-05 13:08:09] Opted-in Controller Mask for AppId 397900: 1000
+[2026-05-05 13:12:43] No cached sticky mapping in ActivateActionSet.
+[2026-05-05 13:17:28] Opted-in Controller Mask for AppId 730: ffff
+
+
+[2026-05-05 17:15:26] Client version: 1777935142
+[2026-05-05 17:15:26] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-05 17:15:28] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-05 17:26:10] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-05 17:29:59] No cached sticky mapping in ActivateActionSet.
+[2026-05-05 18:22:54] Exiting workitem thread
+
+
+[2026-05-05 19:57:50] Client version: 1777935142
+[2026-05-05 19:57:50] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-05 19:57:52] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-05 22:05:28] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-05 22:05:30] No cached sticky mapping in ActivateActionSet.
+[2026-05-05 22:10:35] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-06 00:23:32] Opted-in Controller Mask for AppId 3820780: 1000
+[2026-05-06 00:28:34] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-05-06 00:40:28] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+
+
+[2026-05-06 10:08:14] Client version: 1777935142
+[2026-05-06 10:08:14] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-06 10:08:16] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-06 11:15:15] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-06 11:20:16] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-06 11:34:18] No cached sticky mapping in ActivateActionSet.
+[2026-05-06 11:35:17] Opted-in Controller Mask for AppId 3820780: 1000
+[2026-05-06 11:40:19] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-05-06 12:56:11] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-06 15:04:56] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-05-06 16:25:23] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-06 19:48:47] Client version: 1778003620
+[2026-05-06 19:48:47] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-06 19:48:50] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-06 19:50:35] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-06 19:50:43] No cached sticky mapping in ActivateActionSet.
+[2026-05-06 19:55:49] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-06 22:14:43] Opted-in Controller Mask for AppId 3820780: 1000
+[2026-05-06 22:19:45] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-05-06 22:40:51] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-07 13:13:05] Client version: 1778003620
+[2026-05-07 13:13:05] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-07 13:13:07] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-07 15:54:39] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-07 15:54:41] No cached sticky mapping in ActivateActionSet.
+[2026-05-07 15:59:46] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-07 20:57:16] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-07 23:24:20] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-08 16:17:00] Client version: 1778123305
+[2026-05-08 16:17:00] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-08 16:17:01] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-08 22:18:25] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-08 22:18:27] No cached sticky mapping in ActivateActionSet.
+[2026-05-08 22:23:33] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-08 22:52:29] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-08 23:35:56] Opted-in Controller Mask for AppId 3820780: 1000
+[2026-05-08 23:40:58] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-05-09 01:17:18] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+
+
+[2026-05-09 10:11:31] Client version: 1778268346
+[2026-05-09 10:11:31] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-09 10:11:33] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-09 10:37:02] Opted-in Controller Mask for AppId 3820780: 1000
+[2026-05-09 10:42:04] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-05-09 10:50:30] No cached sticky mapping in ActivateActionSet.
+[2026-05-09 11:02:26] Opted-in Controller Mask for AppId 3823845003: 1000
+[2026-05-09 11:08:24] CUser::UpdateHmdState: timed out waiting for detected headset, app 2676230
+[2026-05-09 11:08:29] CUser::UpdateHmdState: timed out waiting for detected headset, app 3823845003
+[2026-05-09 14:47:31] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-09 14:52:33] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-09 16:50:40] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+
+
+[2026-05-09 19:43:51] Client version: 1778281814
+[2026-05-09 19:43:51] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-09 19:43:53] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-09 20:09:33] Opted-in Controller Mask for AppId 3820780: 1000
+[2026-05-09 20:14:35] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-05-09 20:43:27] No cached sticky mapping in ActivateActionSet.
+[2026-05-09 22:40:36] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-09 22:45:37] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-09 23:49:29] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-05-09 23:52:08] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-05-09 23:57:14] CUser::UpdateHmdState: timed out waiting for detected headset, app 4465480
+[2026-05-10 00:05:32] Opted-in Controller Mask for AppId 4361770: 1000
+[2026-05-10 00:10:37] CUser::UpdateHmdState: timed out waiting for detected headset, app 4361770
+[2026-05-10 00:20:40] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-05-10 00:54:23] Opted-in Controller Mask for AppId 431240: fffc
+[2026-05-10 00:59:25] CUser::UpdateHmdState: timed out waiting for detected headset, app 431240
+
+
+[2026-05-10 10:01:14] Client version: 1778281814
+[2026-05-10 10:01:14] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-10 10:01:16] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-10 10:08:34] Opted-in Controller Mask for AppId 3820780: 1000
+[2026-05-10 10:13:36] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-05-10 10:38:47] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-05-10 16:41:34] Client version: 1778281814
+[2026-05-10 16:41:34] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-10 16:41:36] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-10 16:49:35] Opted-in Controller Mask for AppId 4465480: ffff
+[2026-05-10 16:54:41] CUser::UpdateHmdState: timed out waiting for detected headset, app 4465480
+[2026-05-10 17:05:24] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-05-10 19:17:06] Client version: 1778281814
+[2026-05-10 19:17:06] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-10 19:17:08] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-10 19:25:52] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-10 19:30:53] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-10 21:29:38] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-05-10 21:49:20] Client version: 1778281814
+[2026-05-10 21:49:20] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-10 21:49:23] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-05-10 22:10:55] Client version: 1778281814
+[2026-05-10 22:10:55] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-10 22:10:58] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-10 22:11:38] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-10 22:16:40] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-10 22:40:46] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-05-10 22:42:22] Client version: 1778281814
+[2026-05-10 22:42:22] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-10 22:42:25] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-10 22:56:14] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-10 22:56:16] No cached sticky mapping in ActivateActionSet.
+[2026-05-10 23:01:21] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-11 15:35:33] Client version: 1778281814
+[2026-05-11 15:35:33] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-11 15:35:36] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-11 16:28:55] Opted-in Controller Mask for AppId 4584240: 1000
+[2026-05-11 16:33:56] CUser::UpdateHmdState: timed out waiting for detected headset, app 4584240
+[2026-05-11 17:10:53] No cached sticky mapping in ActivateActionSet.
+[2026-05-11 18:57:41] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-11 19:02:42] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-11 20:11:10] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-11 20:21:10] Client version: 1778281814
+[2026-05-11 20:21:10] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-11 20:21:12] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-11 21:18:24] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-11 21:18:26] No cached sticky mapping in ActivateActionSet.
+[2026-05-11 21:23:30] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-11 22:13:01] Opted-in Controller Mask for AppId 3820780: 1000
+[2026-05-11 22:18:03] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+
+
+[2026-05-12 14:51:46] Client version: 1778281814
+[2026-05-12 14:51:46] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-12 14:51:48] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-12 21:44:43] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-12 21:49:45] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-12 21:56:43] No cached sticky mapping in ActivateActionSet.
+[2026-05-12 23:24:17] Opted-in Controller Mask for AppId 4010800: 1000
+[2026-05-12 23:29:23] CUser::UpdateHmdState: timed out waiting for detected headset, app 4010800
+[2026-05-13 00:44:04] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-13 01:53:57] Exiting workitem thread
+
+
+[2026-05-13 13:20:39] Client version: 1778548034
+[2026-05-13 13:20:39] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-13 13:20:42] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-13 16:02:45] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-13 16:07:46] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-13 16:27:06] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-05-13 17:55:53] Client version: 1778548034
+[2026-05-13 17:55:53] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-13 17:55:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-13 21:27:47] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-13 21:27:50] No cached sticky mapping in ActivateActionSet.
+[2026-05-13 21:32:54] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-14 14:56:17] Client version: 1778698013
+[2026-05-14 14:56:17] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-14 14:56:19] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-05-14 19:03:11] Client version: 1778698013
+[2026-05-14 19:03:11] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-14 19:03:13] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-14 22:05:39] Opted-in Controller Mask for AppId 2475460: ffff
+[2026-05-14 22:10:41] CUser::UpdateHmdState: timed out waiting for detected headset, app 2475460
+[2026-05-14 23:39:14] No cached sticky mapping in ActivateActionSet.
+[2026-05-14 23:39:23] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-14 23:44:24] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-15 13:57:06] Client version: 1778698013
+[2026-05-15 13:57:06] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-15 13:57:08] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-05-15 19:33:58] Client version: 1778803745
+[2026-05-15 19:33:58] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-15 19:34:01] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-15 19:55:10] Opted-in Controller Mask for AppId 4010800: 1000
+[2026-05-15 20:00:16] CUser::UpdateHmdState: timed out waiting for detected headset, app 4010800
+[2026-05-15 20:36:20] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-05-16 09:21:58] Client version: 1778803745
+[2026-05-16 09:21:58] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-16 09:22:00] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-16 10:31:45] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-16 10:31:47] No cached sticky mapping in ActivateActionSet.
+[2026-05-16 10:36:52] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-16 14:00:08] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-16 20:00:27] Client version: 1778803745
+[2026-05-16 20:00:27] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-16 20:00:30] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-16 21:45:01] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-16 21:50:06] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-16 21:53:32] No cached sticky mapping in ActivateActionSet.
+[2026-05-16 23:08:35] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-17 12:47:07] Opted-in Controller Mask for AppId 365670: 1000
+[2026-05-17 12:52:13] CUser::UpdateHmdState: timed out waiting for detected headset, app 365670
+[2026-05-17 13:02:11] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-17 13:15:52] Exiting workitem thread
+
+
+[2026-05-17 13:49:55] Client version: 1778803745
+[2026-05-17 13:49:55] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-17 13:49:57] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-17 15:55:50] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-17 15:56:03] No cached sticky mapping in ActivateActionSet.
+[2026-05-17 16:03:50] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-17 19:05:54] Client version: 1778803745
+[2026-05-17 19:05:54] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-17 19:05:56] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-17 21:56:55] Opted-in Controller Mask for AppId 3820780: 1000
+[2026-05-17 22:01:57] CUser::UpdateHmdState: timed out waiting for detected headset, app 3820780
+[2026-05-17 22:02:07] No cached sticky mapping in ActivateActionSet.
+[2026-05-17 22:03:49] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-17 22:08:51] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-18 00:50:07] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-18 15:45:10] Client version: 1778803745
+[2026-05-18 15:45:10] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-18 15:45:12] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-05-18 19:48:51] Client version: 1778803745
+[2026-05-18 19:48:51] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-18 19:48:53] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-18 19:56:37] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-18 20:01:38] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-18 20:07:41] No cached sticky mapping in ActivateActionSet.
+[2026-05-18 21:23:32] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-18 21:28:38] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-18 23:25:28] Opted-in Controller Mask for AppId 3820780: 1000
+[2026-05-19 00:23:05] Opted-in Controller Mask for AppId 3071240: 1000
+[2026-05-19 00:28:08] CUser::UpdateHmdState: timed out waiting for detected headset, app 3071240
+
+
+[2026-05-19 14:50:05] Client version: 1778803745
+[2026-05-19 14:50:05] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-19 14:50:07] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-19 15:38:52] Opted-in Controller Mask for AppId 3071240: 1000
+[2026-05-19 15:43:57] CUser::UpdateHmdState: timed out waiting for detected headset, app 3071240
+[2026-05-19 16:36:16] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-05-19 19:38:24] Client version: 1779155395
+[2026-05-19 19:38:24] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-19 19:38:26] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-19 20:02:50] Opted-in Controller Mask for AppId 3071240: 1000
+[2026-05-19 20:07:56] CUser::UpdateHmdState: timed out waiting for detected headset, app 3071240
+[2026-05-19 21:46:52] No cached sticky mapping in ActivateActionSet.
+[2026-05-19 22:13:33] Opted-in Controller Mask for AppId 404790: 1000
+[2026-05-19 22:18:39] CUser::UpdateHmdState: timed out waiting for detected headset, app 404790
+[2026-05-19 22:46:30] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-19 22:51:36] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-20 00:19:29] CUser::UpdateHmdState: timed out waiting for detected headset, app 3071240
+[2026-05-20 00:37:20] CUser::UpdateHmdState: timed out waiting for detected headset, app 404790
+
+
+[2026-05-20 13:10:16] Client version: 1779155395
+[2026-05-20 13:10:16] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-20 13:10:18] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-20 13:26:06] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-20 13:27:39] Opted-in Controller Mask for AppId 404790: 1000
+[2026-05-20 13:32:42] CUser::UpdateHmdState: timed out waiting for detected headset, app 404790
+[2026-05-20 13:32:47] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-20 13:38:42] No cached sticky mapping in ActivateActionSet.
+[2026-05-20 13:48:42] CUser::UpdateHmdState: timed out waiting for detected headset, app 404790
+[2026-05-20 13:56:29] CUser::UpdateHmdState: timed out waiting for detected headset, app 404790
+[2026-05-20 19:03:30] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-20 21:06:46] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-20 21:11:47] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-20 22:13:13] Opted-in Controller Mask for AppId 3071240: 1000
+[2026-05-20 22:18:15] CUser::UpdateHmdState: timed out waiting for detected headset, app 3071240
+
+
+[2026-05-21 16:12:24] Client version: 1779155395
+[2026-05-21 16:12:24] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-21 16:12:27] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-05-21 17:28:04] Client version: 1779155395
+[2026-05-21 17:28:04] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-21 17:28:06] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-05-21 23:28:57] Client version: 1779378409
+[2026-05-21 23:28:57] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-21 23:28:59] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-21 23:31:28] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-21 23:36:29] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-21 23:40:04] No cached sticky mapping in ActivateActionSet.
+[2026-05-21 23:48:02] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-22 15:51:49] Client version: 1779378409
+[2026-05-22 15:51:49] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-22 15:51:52] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-05-22 19:33:38] Client version: 1779378409
+[2026-05-22 19:33:38] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-22 19:33:40] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-22 20:08:10] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-22 20:13:11] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-22 20:21:13] No cached sticky mapping in ActivateActionSet.
+[2026-05-22 22:43:33] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-23 00:51:02] Opted-in Controller Mask for AppId 3071240: 1000
+
+
+[2026-05-23 10:20:06] Client version: 1779378409
+[2026-05-23 10:20:06] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-23 10:20:09] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-05-23 17:45:38] Client version: 1779479049
+[2026-05-23 17:45:38] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-23 17:45:40] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-23 17:53:33] Opted-in Controller Mask for AppId 645630: 1000
+[2026-05-23 17:58:39] CUser::UpdateHmdState: timed out waiting for detected headset, app 645630
+[2026-05-23 18:18:32] No cached sticky mapping in ActivateActionSet.
+[2026-05-23 21:19:46] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-23 21:24:52] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-24 00:14:31] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-24 09:34:54] Client version: 1779479049
+[2026-05-24 09:34:54] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-24 09:34:58] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-24 13:23:43] Exiting workitem thread
+
+
+[2026-05-24 15:23:05] Client version: 1779479049
+[2026-05-24 15:23:05] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-24 15:23:08] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-05-24 18:13:20] Client version: 1779479049
+[2026-05-24 18:13:20] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-24 18:13:26] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-05-24 18:29:10] Client version: 1779479049
+[2026-05-24 18:29:10] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-24 18:29:12] Opted-in Controller Mask for AppId 0: 1000
+
+
+[2026-05-24 18:35:29] Client version: 1779479049
+[2026-05-24 18:35:29] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-24 18:35:32] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-24 19:00:37] Opted-in Controller Mask for AppId 404790: 1000
+[2026-05-24 19:02:13] No cached sticky mapping in ActivateActionSet.
+[2026-05-24 19:18:58] CUser::UpdateHmdState: timed out waiting for detected headset, app 404790
+[2026-05-24 20:39:35] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-24 20:44:36] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-25 15:43:57] Client version: 1779479049
+[2026-05-25 15:43:57] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-25 15:44:00] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-25 19:04:42] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-25 19:04:44] No cached sticky mapping in ActivateActionSet.
+[2026-05-25 19:12:19] Exiting workitem thread
+
+
+[2026-05-25 19:12:28] Client version: 1779479049
+[2026-05-25 19:12:28] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-25 19:12:30] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-25 19:13:56] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-25 19:13:58] No cached sticky mapping in ActivateActionSet.
+[2026-05-25 19:31:45] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-25 19:39:36] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+[2026-05-25 19:46:45] CUser::UpdateHmdState: timed out waiting for detected headset, app 730
+
+
+[2026-05-25 23:09:41] Client version: 1779479049
+[2026-05-25 23:09:41] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-25 23:09:44] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-25 23:10:43] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-25 23:20:51] No cached sticky mapping in ActivateActionSet.
+[2026-05-25 23:42:13] Exiting workitem thread
+
+
+[2026-05-25 23:42:20] Client version: 1779479049
+[2026-05-25 23:42:20] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-25 23:42:22] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-25 23:42:44] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-25 23:42:47] No cached sticky mapping in ActivateActionSet.
+[2026-05-25 23:45:43] Exiting workitem thread
+
+
+[2026-05-25 23:45:48] Client version: 1779479049
+[2026-05-25 23:45:48] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-25 23:45:50] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-25 23:55:43] Exiting workitem thread
+
+
+[2026-05-25 23:55:50] Client version: 1779479049
+[2026-05-25 23:55:50] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-25 23:55:53] Exiting workitem thread
+
+
+[2026-05-25 23:57:32] Client version: 1779479049
+[2026-05-25 23:57:32] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-25 23:57:34] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-25 23:57:42] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-25 23:57:58] Exiting workitem thread
+
+
+[2026-05-26 00:00:13] Client version: 1779479049
+[2026-05-26 00:00:13] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 00:00:15] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 00:00:36] Exiting workitem thread
+
+
+[2026-05-26 00:04:29] Client version: 1779479049
+[2026-05-26 00:04:29] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 00:04:31] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 00:04:47] Exiting workitem thread
+
+
+[2026-05-26 00:22:51] Client version: 1779479049
+[2026-05-26 00:22:51] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 00:22:53] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 00:23:28] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-26 00:23:31] No cached sticky mapping in ActivateActionSet.
+[2026-05-26 00:23:53] Exiting workitem thread
+
+
+[2026-05-26 18:53:50] Client version: 1779479049
+[2026-05-26 18:53:50] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 18:53:52] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 18:54:01] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-26 18:54:16] No cached sticky mapping in ActivateActionSet.
+[2026-05-26 19:01:35] Opted-in Controller Mask for AppId 3071240: 1000
+[2026-05-26 19:07:22] Exiting workitem thread
+
+
+[2026-05-26 19:14:23] Client version: 1779479049
+[2026-05-26 19:14:23] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 19:14:25] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 19:15:32] Exiting workitem thread
+
+
+[2026-05-26 19:16:35] Client version: 1779486452
+[2026-05-26 19:16:35] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 19:16:37] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 19:16:50] Exiting workitem thread
+
+
+[2026-05-26 19:17:23] Client version: 1779479049
+[2026-05-26 19:17:23] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 19:17:25] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 19:17:56] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-26 19:17:59] No cached sticky mapping in ActivateActionSet.
+[2026-05-26 21:16:35] Exiting workitem thread
+
+
+[2026-05-26 21:16:41] Client version: 1779479049
+[2026-05-26 21:16:41] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 21:16:43] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-26 21:17:15] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-26 21:17:19] No cached sticky mapping in ActivateActionSet.
+
+
+[2026-05-27 13:13:05] Client version: 1779479049
+[2026-05-27 13:13:05] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-27 13:13:08] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-27 13:13:37] Opted-in Controller Mask for AppId 730: ffff
+[2026-05-27 13:13:41] No cached sticky mapping in ActivateActionSet.
+[2026-05-27 13:13:49] Opted-in Controller Mask for AppId 3071240: 1000
+[2026-05-27 13:23:51] Exiting workitem thread
+
+
+[2026-05-27 13:24:02] Client version: 1779840850
+[2026-05-27 13:24:02] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-27 13:24:04] Opted-in Controller Mask for AppId 0: 1000
+[2026-05-27 13:24:46] Exiting workitem thread
